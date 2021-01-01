@@ -1,0 +1,3 @@
+Some of the code based on Allen Denver's article "Using the Performance Data Helper Library" Free usage granted in all applications including commercial.
+Do NOT distribute without permission from me.
+I can be reached at mike@codexia.com, http://www.codexia.com Please feel free to email me about this class.

@@ -1,0 +1,7 @@
+This code grew slowly over time without much design or planning, and with extra features being tacked on as required. It's not representative of my normal coding style.
+
+This version of dumpasn1 requires a config file dumpasn1.cfg to be present in the same location as the program itself or in a standard directory where binaries live (it will run without it but will display a warning message, you can configure the path either by hardcoding it in or using an environment variable as explained further down). The config file is available from http://www.cs.auckland.ac.nz/~pgut001/dumpasn1.cfg
+
+This code assumes that the input data is binary, having come from a MIME-aware mailer or been piped through a decoding utility if the original format used base64 encoding. If you need to decode it, it's recommended that you use a utility like uudeview, which will strip virtually any kind of encoding (MIME, PEM, PGP, whatever) to recover the binary original.
+
+You can use this code in whatever way you want, as long as you don't try to claim you wrote it.

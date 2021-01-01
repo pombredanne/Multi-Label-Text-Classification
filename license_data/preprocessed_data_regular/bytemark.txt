@@ -1,0 +1,4 @@
+DISCLAIMER The source, executable, and documentation files that comprise the BYTEmark benchmarks are made available on an "as is" basis.
+This means that we at BYTE Magazine have made every reasonable effort to verify that the there are no errors in the source and executable code.
+We cannot, however, guarantee that the programs are error-free.
+Consequently, McGraw-HIll and BYTE Magazine make no claims in regard to the fitness of the source code, executable code, and documentation of the BYTEmark.

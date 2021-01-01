@@ -1,0 +1,13 @@
+3.
+PERMISSION & CONDITIONS Permission is hereby granted, free of charge, to any person obtaining a copy of the Work, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Work, subject to the following conditions: a) Neither the Work nor any of its individual components, in Original or Modified Versions, may be (i) sold by itself; (ii) used for website or app generators; (iii) used to create templates, themes, and plugins for sale.
+b) Original or Modified Versions of the Work may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license.
+These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata field within text or binary files as long as those files can be easily viewed by the user.
+c) No Modified Version of the Work may use the Reserved Name(s) unless explicit written permission is granted by the corresponding Copyright Holder.
+This restriction only applies to the primary product name as presented to the users.
+d) The name(s) of the Copyright holder(s) or the Author(s) of the Work shall not be used to promote, endorse or advertise any Modified Version.
+e) The Work, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license.
+Conditions can be changed only with explicit written permission of the Copyright Holder(s).
+4.
+TERMINATION This license becomes null and void if any of the above conditions are not met.
+5.
+DISCLAIMER THE WORK IS PROVIDED ''AS IS'', AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.

@@ -1,0 +1,1 @@
+This file and the accompanying getopt.c implementation file are hereby placed in the public domain without restrictions.

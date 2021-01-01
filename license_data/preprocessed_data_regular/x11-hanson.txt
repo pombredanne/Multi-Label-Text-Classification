@@ -1,0 +1,2 @@
+Permission to use, copy, modify, and distribute this software for any purpose, subject to the provisions described below, without fee is hereby granted, provided that this entire notice is included in all copies of any software that is or includes a copy or modification of this software and in all copies of the supporting documentation for such software.
+THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY.

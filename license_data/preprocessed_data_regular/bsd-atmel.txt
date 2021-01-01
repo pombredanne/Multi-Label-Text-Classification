@@ -1,0 +1,4 @@
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+- Redistributions of source code must retain the above copyright notice, this list of conditions and the disclaimer below.
+- Author's name may not be used to endorse or promote products derived from this software without specific prior written permission.
+DISCLAIMER: THIS SOFTWARE IS PROVIDED BY AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE DISCLAIMED.

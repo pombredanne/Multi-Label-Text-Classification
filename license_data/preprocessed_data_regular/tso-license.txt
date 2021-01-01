@@ -1,0 +1,2 @@
+Permission to use this file is granted for any purposes, as long as this copyright statement is kept intact and the author is not held liable for any damages resulting from the use of this program.
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH ARE HEREBY DISCLAIMED.

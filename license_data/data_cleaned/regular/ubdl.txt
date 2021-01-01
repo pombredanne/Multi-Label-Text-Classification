@@ -1,0 +1,31 @@
+
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+This Licence applies to any Program or other work which contains a
+notice placed by the copyright holder saying it may be distributed
+under the terms of this Unmodified Binary Distribution Licence.  All
+terms used in the text of this Licence are to be interpreted as they
+are used in version 2 of the GNU General Public License as published
+by the Free Software Foundation.
+
+If you have made this Program available to the public in both source
+code and executable form in accordance with the terms of the GNU
+General Public License as published by the Free Software Foundation;
+either version 2 of the License, or (at your option) any later
+version, then you are hereby granted an additional permission to use,
+copy, and distribute the unmodified executable form of this Program
+(the "Unmodified Binary") without restriction, including the right to
+permit persons to whom the Unmodified Binary is furnished to do
+likewise, subject to the following conditions:
+
+- when started running, the Program must display an announcement which
+  includes the details of your existing publication of the Program
+  made in accordance with the terms of the GNU General Public License.
+  For example, the Program could display the URL of the publicly
+  available source code from which the Unmodified Binary was built.
+
+- when exercising your right to grant permissions under this Licence,
+  you do not need to refer directly to the text of this Licence, but
+  you may not grant permissions beyond those granted to you by this
+  Licence.
