@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,you are free to use this program and or to redistribute this program,0,1,1,0,0,0,0,0,0,0,0,0
+2,you are free to modify this program for your own use including commercial use subject to the publication restrictions in item 3,1,1,1,1,0,0,0,0,0,0,0,0
+3,you are free to publish results obtained from running this program or from works that you derive from this program with the following limitations 3a,0,1,0,0,0,0,0,0,0,0,0,0
+4,in order to be referred to as stream benchmark results published results must be in conformance to the stream run rules briefly reviewed below published at http  wwwcsvirginiaedu stream refhtml and incorporated herein by reference,0,1,0,0,0,0,0,0,0,0,0,0
+5,as the copyright holder john mccalpin retains the right to determine conformity with the run rules,0,0,0,0,0,0,0,0,0,0,0,0
+6,results based on modified source code or on runs not in accordance with the stream run rules must be clearly labelled whenever they are published,0,0,0,0,0,0,0,0,0,0,0,0
+7,examples of proper labelling include tuned stream benchmark results based on a variant of the stream benchmark code other comparable clear and reasonable labelling is acceptable,0,0,0,0,0,0,0,0,0,0,0,0
+8,submission of results to the stream benchmark web site is encouraged but not required,0,0,0,0,0,0,0,0,0,0,0,0
+9,use of this program or creation of derived works based on this program constitutes acceptance of these licensing restrictions,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,terms of agreement by using this code you agree to the following terms you may use this code in your own programs and may compile it into a program and distribute it in compiled format for languages that allow it freely and with no charge,0,1,0,1,0,0,0,0,0,0,0,0,1
+2,you may not redistribute this code for example to a web site without written permission from the original author,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,failure to do so is a violation of copyright laws,0,0,0,0,0,0,0,1,0,0,0,0,0
+4,you may link to this code from another website but only if it is not wrapped in a frame,0,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,18 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,grant of license this eula grants you the following rights installation and use,0,0,0,1,0,0,0,0,0,0,0,0
+2,you may install and use an unlimited number of copies of the software product,0,0,0,0,0,0,0,0,0,0,0,0
+3,you may reproduce and distribute an unlimited number of copies of the software product either in whole or in part each copy should include all copyright and trademark notices and shall be accompanied by a copy of this eula,0,1,0,0,0,0,0,1,0,0,0,0
+4,copies of the software product may be distributed as a standalone product or included with your own product,0,0,0,0,0,0,0,0,0,0,0,0
+5,you may use the software product for commercial purposes,1,0,0,1,0,0,0,0,0,0,0,0
+6,you may sell for profit and freely distribute scripts and or compiled scripts that were created with the software product,1,1,0,0,0,0,0,0,0,0,0,0
+7,you may not reverse engineer or disassemble the software product,0,0,0,0,0,0,0,0,0,0,0,0
+8,copyright all title and copyrights in and to the software product including but not limited to any images photographs animations video audio music text and applets incorporated into the software product the accompanying printed materials and any copies of the software product are owned by the author of this software,0,1,0,0,0,0,0,0,0,0,0,0
+9,the software product is protected by copyright laws and international treaty provisions,0,0,0,0,0,0,0,0,0,0,0,0
+10,therefore you must treat the software product like any other copyrighted material,0,0,0,0,0,0,0,0,0,0,0,0
+11,miscellaneous if you acquired this product in the united kingdom this eula is governed by the laws of the united kingdom,0,0,0,0,0,0,0,0,0,0,0,0
+12,if this product was acquired outside the united kingdom then local law may apply,0,0,0,0,0,0,0,0,0,0,0,0
+13,should you have any questions concerning this eula or if you desire to contact the author of this software for any reason please contact him her at the email address mentioned at the top of this eula,0,0,0,0,0,0,0,0,0,0,0,0
+14,no warranties the author of this software expressly disclaims any warranty for the software product,0,0,0,0,0,0,0,0,0,0,0,1
+15,the software product and any related documentation is provided as is without warranty of any kind either express or implied including without limitation the implied warranties or merchantability fitness for a particular purpose or non infringement,0,0,0,0,0,0,0,0,0,0,0,1
+16,the entire risk arising out of use or performance of the software product remains with you,0,0,0,0,0,0,0,0,0,0,0,0
+17,no liability for damages in no event shall the author of this software be liable for any damages whatsoever including without limitation damages for loss of business profits business interruption loss of business information or any other pecuniary loss arising out of the use of or inability to use this product even if the author of this software has been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0

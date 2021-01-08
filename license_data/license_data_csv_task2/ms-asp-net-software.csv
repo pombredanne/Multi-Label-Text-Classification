@@ -1,0 +1,99 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,microsoft software license terms microsoft aspnet model view controller web api and web pages microsoft aspnet web developer tools microsoft aspnet signalr microsoft aspnet friendly urls microsoft aspnet web optimization framework microsoft aspnet universal providers these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,1,1,0,0,0,0,0,0,0,0,0
+2,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,the terms also apply to any microsoft ÃÂ¢ÃÂ· updates ÃÂ¢ÃÂ· supplements ÃÂ¢ÃÂ· internet based services and ÃÂ¢ÃÂ· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,as described below using some features also operates as your consent to the transmission of certain standard computer information for internet based services,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,if you comply with these license terms you have the perpetual rights below,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,you may install and use any number of copies of the software on your devices for use with your aspnet programs,1,0,0,0,0,0,0,0,0,0,0,0,1
+8,you may modify copy distribute or deploy any js files contained in the software as part of your aspnet programs,0,1,1,0,0,0,0,0,0,0,0,0,1
+9,in addition to the js files described above the software contains code that you are permitted to distribute in aspnet programs you develop if you comply with the terms below,0,1,0,0,0,0,0,0,0,0,0,0,1
+10,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0,1
+11,you may copy and distribute the object code form of code and files listed below,0,1,0,0,0,0,0,0,0,0,0,0,1
+12,microsoft aspnet model view controller mvc ÃÂ¢ÃÂ§ systemnethttpdll ÃÂ¢ÃÂ§ systemnethttpformattingdll ÃÂ¢ÃÂ§ systemwebhttpselfhostdll ÃÂ¢ÃÂ§ systemwebhttpwebhostdll ÃÂ¢ÃÂ§ systemwebhttpdll ÃÂ¢ÃÂ§ systemnethttpwebrequestdll ÃÂ¢ÃÂ§ systemwebmvcdll ÃÂ¢ÃÂ§ systemwebhttpodatadll ÃÂ¢ÃÂ§ systemwebhttptracingdll ÃÂ¢ÃÂ§ microsoftaspnetmvcfacebook ÃÂ¢ÃÂ§ microsoftowinhostsystemweb microsoft aspnet web pages ÃÂ¢ÃÂ§ nugetcoredll ÃÂ¢ÃÂ§ microsoftwebinfrastructuredll ÃÂ¢ÃÂ§ microsoftwebwebpagesoauthdll ÃÂ¢ÃÂ§ microsoftwebhelpersdll ÃÂ¢ÃÂ§ systemwebhelpersdll ÃÂ¢ÃÂ§ systemwebrazordll ÃÂ¢ÃÂ§ systemwebwebpagesdll ÃÂ¢ÃÂ§ systemwebwebpagesadministrationdll ÃÂ¢ÃÂ§ systemwebwebpagesdeploymentdll ÃÂ¢ÃÂ§ systemwebwebpagesrazordll ÃÂ¢ÃÂ§ webmatrixdatadll ÃÂ¢ÃÂ§ webmatrixwebdatadll microsoft aspnet web developer tools ÃÂ¢ÃÂ§ microsoftaspnetmembershipopenauthdll ÃÂ¢ÃÂ§ microsoftscriptmanagerwebformsdll ÃÂ¢ÃÂ§ microsoftscriptmanagermsajaxdll microsoft aspnet signalr ÃÂ¢ÃÂ§ microsoftaspnetsignalrcoredll ÃÂ¢ÃÂ§ microsoftaspnetsignalrsystemwebdll ÃÂ¢ÃÂ§ microsoftaspnetsignalrowindll ÃÂ¢ÃÂ§ microsoftaspnetsignalrservicebusdll ÃÂ¢ÃÂ§ microsoftaspnetsingnalrredisdll ÃÂ¢ÃÂ§ microsoftaspnetsignalrclientdll ÃÂ¢ÃÂ§ microsoftaspnetsignalrutilsexe microsoft aspnet friendly urls ÃÂ¢ÃÂ§ microsoftaspnetfriendlyurls microsoft aspnet web optimization framework ÃÂ¢ÃÂ§ systemweboptimizationdll ÃÂ¢ÃÂ· third party distribution,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0,1
+14,for any distributable code you distribute you must ÃÂ¢ÃÂ· add significant primary functionality to it in your programs ÃÂ¢ÃÂ· require distributors and external end users to agree to terms that protect it at least as much as this agreement ÃÂ¢ÃÂ· display your valid copyright notice on your programs and ÃÂ¢ÃÂ· indemnify defend and hold harmless microsoft from any claims including attorneysÃÂ¢ÃÂÃÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0,1
+15,you may not ÃÂ¢ÃÂ· alter any copyright trademark or patent notice in the distributable code ÃÂ¢ÃÂ· use microsoftÃÂ¢ÃÂÃÂs trademarks in your programsÃÂ¢ÃÂÃÂ names or in a way that suggests your programs come from or are endorsed by microsoft ÃÂ¢ÃÂ· distribute distributable code to run on a platform other than the windows platform ÃÂ¢ÃÂ· include distributable code in malicious deceptive or unlawful programs or ÃÂ¢ÃÂ· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0,1
+16,an excluded license is one that requires as a condition of use modification or distribution that ÃÂ¢ÃÂ· the code be disclosed or distributed in source code form or ÃÂ¢ÃÂ· others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0,1
+17,it may change or cancel them at any time,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,the software features described below connect to microsoft or service provider computer systems over the internet,0,0,0,0,0,0,0,0,0,0,0,1,1
+19,in some cases you will not receive a separate notice when they connect,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,in some cases you may switch off these features or not use them,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,for more information about these features see software documentation and the privacy statement at gomicrosoftcom fwlink ?linkid205205,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,by using these features you consent to the transmission of this information,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,microsoft does not use the information to identify or contact you,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,the following features use internet protocols which send to the appropriate systems computer information such as your internet protocol address the type of operating system browser and name and version of the software you are using and the language code of the device where you installed the software,0,0,0,0,0,0,1,0,0,0,0,0,1
+25,microsoft or a third party service provider uses this information to make the internet based services available to you,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,ceip automatically sends microsoft information about your hardware and how you use this software,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,we do not use this information to identify or contact you,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,to learn more about ceip see http  wwwmicrosoftcom products ceip en us privacypolicymspx,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,these reports include information about problems that occur in the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,sometimes reports contain information about other programs that interact with the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,for example a report that contains a snapshot of computer memory might include your name,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,part of a document you were working on could be included as well,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,microsoft does not use this information to identify or contact you,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,to learn more about error reports see ocamicrosoftcom en dcp20asp,0,0,0,0,0,0,0,0,0,0,1,0,1
+35,this software will access a list of packages that is supplied by means of an odata service online from microsoft or a third party service provider,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,please refer to the third party package manager section below for a description of this feature,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,we or the third party service provider may use the computer information error reports and ceip information to improve our or their software and services,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,we or they may also share it with others such as hardware and software vendors,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,they may use the information to improve how their products run with microsoft software,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,you may not use this service in any way that could harm it or impair anyone elseÃÂ¢ÃÂÃÂs use of it,0,0,0,0,0,0,0,0,0,0,1,0,0
+41,you may not use the service to try to gain unauthorized access to any service data account or network by any means,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,this software includes a package manager feature which enables you to obtain other software packages from other sources,0,0,0,0,0,0,0,0,0,0,0,0,1
+43,those packages are offered and distributed in some cases by third parties or in some cases by microsoft but each such package is under its own license terms,0,1,0,0,0,0,0,0,1,0,0,0,1
+44,microsoft is not developing distributing or licensing any of the third party packages to you but instead as a convenience is providing you with this package manager feature in order to access any packages for your own use,0,0,0,0,0,0,0,0,0,0,0,0,1
+45,by using this package manager feature you acknowledge and agree that you may be accessing and using the third party packages as distributed by such third parties and under the separate license terms applicable to each package including any terms applicable to software dependencies that may be included in the package,0,0,0,1,0,0,0,0,1,0,0,0,1
+46,you acknowledge and agree that it is your responsibility to locate understand and comply with all applicable license terms for each package and its dependencies for example by following the package source feed url or by reviewing the packages for embedded notices or license terms,0,0,0,0,0,0,0,0,1,0,0,0,1
+47,the package manager feature may have been pre set to a feed that is hosted by a third party service provider located at gomicrosoftcom fwlink ?linkid206669,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,the packages listed on this feed may include packages submitted by third parties,0,0,0,0,0,0,0,0,0,0,0,0,1
+49,microsoft makes no representations warranties or guarantees as to the feed url any feeds from such url the information contained therein or any packages referenced in or accessed by you through such feeds,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,microsoft grants you no license rights rights for third party software that is obtained using this feature or from the feed,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,you may change the feed url that the package manager feature initially points to at any time at your discretion,0,0,0,0,0,0,0,0,0,0,0,0,1
+52,the software including the package manager feature of the software may include third party code that microsoft not the third party licenses to you under this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,notices if any for the third party code are included for your information only,0,0,0,0,0,0,0,0,0,0,0,0,1
+54,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+55,microsoft grants you no license rights for third party software that is obtained using this software,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0,0
+57,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0,1
+58,you may not ÃÂ¢ÃÂ· disclose the results of any benchmark tests of the software to any third party without microsoftÃÂ¢ÃÂÃÂs prior written approval ÃÂ¢ÃÂ· work around any technical limitations in the software ÃÂ¢ÃÂ· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation ÃÂ¢ÃÂ· publish the software for others to copy ÃÂ¢ÃÂ· rent lease or lend the software or ÃÂ¢ÃÂ· transfer the software or this agreement to any third party,0,1,1,0,0,0,0,0,0,0,0,0,1
+59,the license terms for windows apply to your use of the net framework software,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,the software includes one or more components of the net framework net components,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,you may conduct internal benchmark testing of those components,0,0,0,0,0,0,0,0,0,0,1,0,0
+62,you may disclose the results of any benchmark test of those components provided that you comply with the conditions set forth at gomicrosoftcom fwlink ?linkid66406,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,notwithstanding any other agreement you may have with microsoft if you disclose such benchmark test results microsoft shall have the right to disclose the results of benchmark tests it conducts of your products that compete with the applicable net component provided it complies with the same conditions set forth at gomicrosoftcom fwlink ?linkid66406,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+65,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+66,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0,1
+67,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0,1
+70,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0,1
+72,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0,0
+74,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,1,0,0
+78,you may have additional consumer rights or statutory guarantees under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,1,0,0,0,0
+79,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,for australia ÃÂ¢ÃÂÃÂ you have statutory guarantees under the australian consumer law and nothing in these terms is intended to affect those rights,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0,0
+82,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+83,this limitation applies to ÃÂ¢ÃÂ· anything related to the software services content including code on third party internet sites or third party programs and ÃÂ¢ÃÂ· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1,0
+84,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+85,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+86,please note as this software is distributed in quebec canada some of the clauses in this agreement are provided below in french,0,1,0,0,0,0,0,0,0,0,0,0,1
+87,remarque  ce logiciel ÃÂ£ÃÂ©tant distribuÃÂ£ÃÂ© au quÃÂ£ÃÂ©bec canada certaines des clauses dans ce contrat sont fournies ci dessous en franÃÂ£ÃÂ§ais,0,0,0,0,0,0,0,0,0,0,0,0,1
+88,le logiciel visÃÂ£ÃÂ© par une licence est offert ÃÂ¢ÃÂ« tel quel ÃÂ¢ÃÂ»,0,0,0,0,0,0,0,0,0,0,0,0,1
+89,toute utilisation de ce logiciel est ÃÂ£ÃÂ  votre seule risque et pÃÂ£ÃÂ©ril,0,0,0,0,0,0,0,0,0,0,0,0,1
+90,vous pouvez bÃÂ£ÃÂ©nÃÂ£ÃÂ©ficier de droits additionnels en vertu du droit local sur la protection des consommateurs que ce contrat ne peut modifier,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,la ou elles sont permises par le droit locale les garanties implicites de qualitÃÂ£ÃÂ© marchande dÃÂ¢ÃÂÃÂadÃÂ£ÃÂ©quation ÃÂ£ÃÂ  un usage particulier et dÃÂ¢ÃÂÃÂabsence de contrefaÃÂ£ÃÂ§on sont exclues,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,limitation des dommages intÃÂ£ÃÂrÃÂ£ÃÂts et exclusion de responsabilitÃÂ£ÃÂ pour les dommages,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,vous pouvez obtenir de microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement ÃÂ£ÃÂ  hauteur de 500 $ us,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,vous ne pouvez prÃÂ£ÃÂ©tendre ÃÂ£ÃÂ  aucune indemnisation pour les autres dommages y compris les dommages spÃÂ£ÃÂ©ciaux indirects ou accessoires et pertes de bÃÂ£ÃÂ©nÃÂ£ÃÂ©fices,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,cette limitation concerne  ÃÂ¢ÃÂ· tout ce qui est reliÃÂ£ÃÂ© au logiciel aux services ou au contenu y compris le code figurant sur des sites internet tiers ou dans des programmes tiers  et ÃÂ¢ÃÂ· les rÃÂ£ÃÂ©clamations au titre de violation de contrat ou de garantie ou au titre de responsabilitÃÂ£ÃÂ© stricte de nÃÂ£ÃÂ©gligence ou dÃÂ¢ÃÂÃÂune autre faute dans la limite autorisÃÂ£ÃÂ©e par la loi en vigueur,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,elle sÃÂ¢ÃÂÃÂapplique ÃÂ£ÃÂ©galement mÃÂ£ÃÂªme si microsoft connaissait ou devrait connaÃÂ£ÃÂ®tre lÃÂ¢ÃÂÃÂÃÂ£ÃÂ©ventualitÃÂ£ÃÂ© dÃÂ¢ÃÂÃÂun tel dommage,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,si votre pays nÃÂ¢ÃÂÃÂautorise pas lÃÂ¢ÃÂÃÂexclusion ou la limitation de responsabilitÃÂ£ÃÂ© pour les dommages indirects accessoires ou de quelque nature que ce soit il se peut que la limitation ou lÃÂ¢ÃÂÃÂexclusion ci dessus ne sÃÂ¢ÃÂÃÂappliquera pas ÃÂ£ÃÂ  votre ÃÂ£ÃÂ©gard,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,vous pourriez avoir dÃÂ¢ÃÂÃÂautres droits prÃÂ£ÃÂ©vus par les lois de votre pays,0,0,0,0,0,0,0,0,0,0,0,0,0

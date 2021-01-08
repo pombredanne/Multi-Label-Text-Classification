@@ -1,0 +1,21 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,amendments the netscape public license version 11 npl consists of the mozilla public license version 11 with the following amendments including exhibit a netscape public license,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,files identified with exhibit a netscape public license are governed by the netscape public license version 11,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,these additional terms described in this netscape public license    amendments shall apply to the mozilla communicator client code and to all covered code under this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,netscapes branded code means covered code that netscape distributes and or permits others to distribute under one or more trademarks which are controlled by netscape but which are not licensed for use under this license,0,1,0,0,0,0,0,0,1,0,0,0,0
+5,this license does not grant any rights to use the trademarks netscape the netscape n and horizon logo or the netscape lighthouse logo netcenter gecko java or javascript smart browsing even if such marks are included in the original code or modifications,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,prior to licensing the original code under this license netscape has licensed third party code for use in netscapes branded code,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,to the extent that netscape is limited contractually from making such third party code available under this license netscape may choose to reintegrate such code into covered code without being required to distribute such code in source code form even if such code would otherwise be considered modifications under this license,0,1,1,1,0,0,0,0,1,0,0,0,1
+8,v use of modifications and covered code by initial developer,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,the obligations of section 3 apply to netscape except to the extent specified in this amendment section v2 and v3,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,netscape may include covered code in products other than the netscapes branded code which are released by netscape during the two 2 years following the release date of the original code without such additional products becoming subject to the terms of this license and may license such additional products on different terms from those contained in this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,netscape may license the source code of netscapes branded code including modifications incorporated therein without such netscape branded code becoming subject to the terms of this license and may license such netscape branded code on different terms from those contained in this license,0,0,0,0,0,0,0,0,1,0,0,0,1
+12,notwithstanding the limitations of section 11 above the provisions regarding litigation in section 11a b and c of the license shall apply to all disputes relating to this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,the contents of this file are subject to the netscape public license version 11 the license you may not use this file except in compliance with the license,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,you may obtain a copy of the license at http  wwwmozillaorg npl  software distributed under the license is distributed on an as is basis without warranty of any kind either express or implied,0,0,0,0,0,0,0,0,0,0,0,1,1
+15,see the license for the specific language governing rights and limitations under the license,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,the original code is mozilla communicator client code released march 31 1998,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,the initial developer of the original code is netscape communications corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,portions created by netscape are copyright c 1998 1999 netscape communications corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,alternatively the contents of this file may be used under the terms of the license the [ ] license in which case the provisions of [ ] license are applicable instead of those above,0,0,0,1,0,0,0,0,0,0,0,0,1
+20,if you wish to allow use of your version of this file only under the terms of the [ ] license and not to allow others to use your version of this file under the npl indicate your decision by deleting the provisions above and replace them with the notice and other provisions required by the [ ] license,0,1,0,0,0,0,0,0,0,0,0,0,1

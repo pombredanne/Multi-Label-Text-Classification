@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,permission is granted to anyone to use this software for any purpose on any computer system and to redistribute it freely subject to the following restrictions 1,1,1,0,1,0,0,0,0,0,0,0,0
+2,the author is not responsible for the consequences of use of this software no matter how awful even if they arise from defects in it,0,0,0,0,0,0,0,0,0,0,1,0
+3,the origin of this software must not be misrepresented either by explicit claim or by omission,0,0,0,0,0,0,0,0,0,0,0,0
+4,altered versions must be plainly marked as such and must not be misrepresented as being the original software,0,0,0,0,0,0,0,0,0,1,0,0
+5,beware that some of this code is subtly aware of the way operator precedence is structured in regular expressions,0,0,0,0,0,0,0,0,0,0,0,0

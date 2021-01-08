@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,you may make and give away verbatim copies of the standard version of this library without restriction provided that you duplicate all of the original copyright notices this license and associated disclaimers,0,0,0,1,0,0,0,1,0,0,0,0,1
+2,the standard version of the library may be distributed as part of a collection of software provided no more than a reasonable copying fee is charged for the software collection,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,you may apply bug fixes portability fixes and other modifications derived from the public domain or from the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,a library modified in such a way shall still be considered the standard version,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,you may otherwise modify your copy of this library in any way provided that you insert a prominent notice in each changed file stating how and when you changed that file and provided that you do at least one of the following,0,1,1,1,0,0,0,1,0,1,0,0,1
+6,a place your modifications in the public domain or otherwise make them freely available such as by posting said modifications to the blitz++ development list and allowing the copyright holder to include your modifications in the standard version of the library,0,0,1,0,0,0,0,1,0,0,0,0,1
+7,b use the modified library only within your corporation or organization,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,c make other distribution arrangements with the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,you may distribute programs which use this library in object code or executable form without restriction,0,1,0,1,0,0,0,0,0,0,0,0,1
+10,any object code generated as a result of using this library does not fall under the copyright of this library but belongs to whomever generated it and may be sold commercially,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,the name of the copyright holder or the library may not be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0,0

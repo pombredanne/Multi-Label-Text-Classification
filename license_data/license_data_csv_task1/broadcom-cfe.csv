@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this software is furnished under license and may be used and copied only in accordance with the following terms and conditions,0,1,0,1,0,0,0,0,0,0,0,0
+2,subject to these conditions you may download copy install use modify and distribute modified or unmodified copies of this software in source and or binary form,0,1,1,1,0,0,0,0,0,0,0,0
+3,1 any source code used modified or distributed must reproduce and retain this copyright notice and list of conditions as they appear in the source file,0,1,1,0,0,0,0,1,0,0,0,0
+4,2 no right is granted to use any trade name trademark or logo of broadcom corporation,0,0,0,0,0,1,0,0,0,0,0,0
+5,neither the broadcom corporation name nor any trademark or logo of broadcom corporation may be used to endorse or promote products derived from this software without the prior written permission of broadcom corporation,0,0,0,0,0,1,0,0,0,0,0,0
+6,3 this software is provided as is and any express or implied warranties including but not limited to any implied warranties of merchantability fitness for a particular purpose or non infringement are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

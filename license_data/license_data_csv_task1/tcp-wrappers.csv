@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,     begin pgp signed message      as of june 1 2001 the text below constitutes the tcp wrappers license,0,0,0,0,0,0,0,0,0,0,0,0
+2,some individual files may be covered by other copyrights,0,0,0,0,0,0,0,0,0,0,0,0
+3,this material was originally written and compiled by wietse venema at eindhoven university of technology the netherlands in 1990 1991 1992 1993 1994 and 1995,0,0,0,0,0,0,0,0,0,0,0,0
+4,redistribution and use in source and binary forms with or without modification are permitted provided that this entire copyright notice is duplicated in all such copies,0,1,1,1,0,0,0,1,0,0,0,0
+5,this software is provided as is and without any expressed or implied warranties including without limitation the implied warranties of merchantibility and fitness for any particular purpose,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this copyright does not cover user programs that use kernel services by normal system calls   this is merely considered normal use of the kernel and does not fall under the heading of derived work,0,0,0,0,0,0,0,0,0,0,0,0
+2,also note that the gpl below is copyrighted by the free software foundation but the instance of code that it refers to the linux kernel is copyrighted by me and others who actually wrote it,0,0,1,1,0,0,0,0,0,0,0,0
+3,also note that the only valid version of the gpl as far as the kernel is concerned is _this_ particular version of the license ie v2 not v22 or v3x or whatever unless explicitly otherwise stated,0,0,0,0,0,0,0,0,0,0,0,0
+4,linus torvalds this library is free software you can redistribute it and or modify it under the terms of the gnu general public license version 2 as published by the free software foundation,0,1,1,0,0,0,0,0,0,0,0,0
+5,this library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+6,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0
+7,you should have received a copy of the gnu general public license along with this library see the file copying,0,0,0,0,0,0,0,0,0,0,0,0

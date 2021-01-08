@@ -1,0 +1,55 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,everyone is permitted to copy and distribute verbatim copies of this license document,0,1,0,1,0,0,0,1,0,0,0,0,1
+2,this license applies to any software containing a notice by the copyright holder saying that it may be used under the terms of the convertible free software license,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,if a specific version number is mentioned then usage rights include this version as well as any newer version which will always be similar in spirit to this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,the term convertible free software license may be abbreviated as c fsl,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,any work under this license comes completely without any warranty or any kind of liability such as lost revenues profits harm or damage of any kind even if the authors should have been advised of the possibility of such harm or damage,0,0,0,0,0,0,0,0,0,0,1,0,0
+6,it may be seen as research work and does not claim for fitness to any particular usage purpose,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,the term source code applies to the preferred form that is used to develop or apply changes to a work under this license referred to herein as the work,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,you are allowed to modify or change the source code if you accept that the resulting changed work will become subject to this license,0,0,1,0,0,0,0,0,0,0,0,0,1
+9,as soon as you apply any change this is an implicit consent to fully comply with this license and a consent that the work may be used under this license,0,0,0,1,0,0,0,0,1,0,0,0,1
+10,it is your obligation that the changed version of your sources will be available to the public for free within the time frame of a month at least if there is no undue hindrance by the authors to make it available,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,modifications which result in a broken or unusable program which the authors do not plan to continue their work on are considered dead end and do not need to be published,0,1,1,0,0,0,0,0,0,0,0,0,1
+12,available for free means that there will be no undue hindrance in obtaining the given item like a registration of the person who wants to download or obtain the given item,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,available for free also means that you must not charge for the given item itself apart from the possibility to require a reasonable charge for the physical reproduction of the data,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,you are allowed to issue an automatic derivation process on the source code which will result in so called object code,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,you are obligated to provide sufficient data tools and utilities so that a functionally equivalent object code can be compiled merely from programs and work licensed either under any open source license approved by opensourceorg or under c fsl,0,1,0,0,0,0,0,0,0,0,0,0,1
+16,the given data and utilities for obtaining functionally equivalent results need to be available to the public for free,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,when applying changes to the source code you need to leave your name your email address and the date of your modifications so that other people may contact you,0,0,0,0,0,0,0,0,0,1,0,0,1
+18,if a contributor should not have a steady access to the internet or a satisfying access to an emailing service he may leave another way by which he can be contacted,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,we suggest to list all changes by contributors either in a separate changelog file or in the header of the changed file,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,furthermore you need to give your changed version a marker which may be used to distinguish it from the upstream version when being distributed to other people,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,the distributed product needs to be of the form upstream name   dash upstream version   dash your marker optionally followed by a version number under your control,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,if there should be a chain of upstream contributors there only needs to be one marker by the party which is at the end of the chain as long as that chain remains to be documented in some place where it is shipped with your software,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,the marker needs to be unique at least two letters in size,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,we suggest it to reflect the name of your company or distribution,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,you may always distribute an upstream version in unchanged form either with your own marker or without,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,you may choose to create a fork of a work under c fsl by giving it a completely different name,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,however you need to assert that people will know that your fork is based on the original work,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,if your program has a graphical user interface the whole c fsl license must be referenced via the gui,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,otherwise a plain text copy of this license needs to be given and packed alongside the distributed product,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,a complete reference to the base product including email address and web presence must be referenced via the gui for any gui program that is a fork of another c fsl program,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,if your program has a comprehensive help manual or info page and is a fork a similar reference to the base product must be given there,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,it does not apply to quick or short command line help output as long as a more comprehensive help page is also available,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,any program under c fsl which is a fork of another c fsl program must ship with a reference to the base product,0,0,0,0,0,0,0,0,0,0,0,0,1
+34,contributing to a work under c fsl means that you will give a group called the original authors a consensus based right to re license your derived work so that it will be available under both licenses the c fsl and the newly applied license,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,in order to re license consensus is only required between these original authors,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,the original authors are the group of people who have initially started to create a work,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,they shall be mentioned at the beginning of the changelog or the file header of changes,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,as soon as there is a consensus to do so by all original authors the work may either be re licensed published as upstream version without a marker or new people may be accepted and mentioned as original authors,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,no work under c fsl shall be deemed part of an effective measure under anti circumvention laws like under article 11 of the wipo copyright treaty adopted on 1996 12 20 or any similar law,0,0,0,0,0,0,0,0,0,0,1,0,0
+40,by your consent to work under this license you waive any legal power to forbid such circumventions regarding the work under c fsl or any work combined with it,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,you must assert that the right to use modify generate object code and distribute any software under c fsl will not be infringed by patent claims or similar law,0,1,1,0,1,0,0,0,0,0,0,0,1
+42,if you modify a work under c fsl so that it will knowingly rely on a patent license then it means that you will thereby grant to extend the patent license to any recipient of the work,0,0,0,0,1,0,0,0,0,0,0,0,1
+43,every contributor grants by the act of contributing to a work under c fsl a non exclusive worldwide and royalty free patent license to any prospective contributor or user of the given work applicable to all his essential patent claims,0,0,0,0,1,0,0,0,0,0,0,0,1
+44,the essential patent claims comprise all claims owned or controlled by the contributor,0,0,0,0,1,0,0,0,0,0,0,0,0
+45,a work under c fsl which has another component or plug in as well as a work under c fsl which is used itself as a component plug in add on of another product any product under c fsl which is combined or which links against another work requires that the other work will either be put under an open source license as approved by opensourceorg or it needs to be put under c fsl as well,0,0,0,0,0,0,0,0,1,0,0,0,1
+46,usage of proprietary libraries and kernel modules pose an exception to this rule,0,0,0,0,0,0,0,0,0,0,0,0,1
+47,there must be a functionally equivalent open source library for any proprietary library so that a work under c fsl can run and execute even without any proprietary library,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,the term kernel refers to the core of an operating system,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,libraries are separate components which link against the given work or other components,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,the term linking refers to the relocation of references or addresses when the library is combined with another component in order to make the combined aggregate executable or runnable,0,0,0,0,0,0,0,0,0,0,0,0,1
+51,such references are bound to symbols which are part of the common interface between the library and the component which the library is combined with at runtime,0,0,0,0,0,0,0,0,0,0,0,0,1
+52,libraries which provide operating system services use a well defined binary interface but do not link against the kernel,0,0,0,0,0,0,0,0,0,0,0,0,1
+53,this license is either governed by the laws of austria or by the laws of the country where the first mentioned original author lives or is a resident,0,0,0,0,0,0,0,0,0,0,0,1,0
+54,disputes shall be settled by the nearest proper court given the home town or location of the first original author unless there is a common consensus for another place of court by all original authors,0,0,0,0,0,0,0,0,0,0,0,0,0

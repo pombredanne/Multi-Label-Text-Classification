@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this source code has been made available to you by ibm on an as is basis,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,anyone receiving this source is licensed under ibm copyrights to use it in any way he or she deems fit including copying it modifying it compiling it and redistributing it either with or without modifications,0,1,1,0,0,0,0,1,0,0,0,0,1
+3,no license under ibm patents or patent applications is to be implied by the copyright license,0,0,0,0,1,0,0,0,0,0,0,0,0
+4,any user of this software should understand that ibm cannot provide technical support for this software and will not be responsible for any consequences resulting from the use of this software,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,any person who transfers this source code or any derivative work must include the ibm copyright notice this paragraph and the preceding two paragraphs in the transferred software,0,0,0,0,0,0,0,1,0,0,0,0,1

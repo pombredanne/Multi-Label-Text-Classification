@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,tiger cryptography this code comes from the reference implementation of the tiger cryptographic hash function,0,0,0,0,0,0,0,0,0,0,0,0
+2,the only modification made is to pull out the data types and the api into a header file this file tigerh,0,0,0,0,0,0,0,0,0,0,0,0
+3,the reference implementation is available at http  wwwcstechnionacil ~biham reports tiger  from that page tiger has no usage restrictions nor patents,0,0,0,0,0,0,0,0,0,0,0,0
+4,it can be used freely with the reference implementation with other implementations or with a modification to the reference implementation as long as it still implements tiger,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,license grants you may copy and distribute the work together with a product if all persons that have developed any part of the product that uses functionality of the work directly or indirectly ie,0,0,0,0,0,0,0,0,0,0,0,0
+2,uses software that directly or indirectly uses functionality of the work have purchased a developer license for the work,0,0,0,0,0,0,0,0,0,0,0,0
+3,for example if developer a has developed software that uses the work and developer b has developed a product part that uses as software both a and b need to have purchased a developer license for the work,0,0,0,0,0,0,0,0,0,0,0,0
+4,you are allowed to use an obfuscator like proguard http  proguardsourceforgenet to obfuscate the work together with a product that uses the work,0,0,0,0,0,0,0,0,0,0,0,0
+5,no support is provided by nnl for the obfuscated result,0,0,0,0,0,0,0,0,0,0,0,0
+6,license restrictions a product that uses the work may not directly or indirectly expose any functionality of the work to other components that are not a part of the product including but not limited to other programs libraries and plug ins,0,0,0,0,0,0,0,0,0,0,0,0
+7,you may not transfer the grants of this license to anyone,0,0,0,0,0,0,0,0,0,0,0,0
+8,you may not grant any rights including distribution rights for the work or any part of the work to anyone,0,0,0,0,0,0,0,0,0,0,1,0
+9,you may not alter split merge modify adapt decompile reverse engineer disassemble or translate the work or any part of the work,0,1,1,0,0,0,0,0,0,0,0,0
+10,the only exception is obfuscation as described in section 22,0,0,0,0,0,0,0,0,0,0,0,0
+11,you may not sell rent or lease the work or any part of the work,1,0,0,0,0,0,0,0,0,0,0,0
+12,in the event that you fail to comply with this license nnl may terminate the license and you must destroy all copies of the work,0,0,0,0,0,0,0,0,1,0,0,0
+13,the work is protected by copyright laws and international copyright treaties as well as other intellectual property laws and treaties,0,0,0,0,0,0,0,1,0,0,0,0
+14,this license grants you limited use of the work,0,0,0,0,0,0,0,0,0,0,0,0
+15,nnl retain all right title and interest including all copyright and intellectual property rights in and to the work and all copies thereof,0,1,0,0,0,0,0,1,0,0,0,0
+16,all rights not specifically granted in this license including federal and international copyrights are reserved by nnl,0,0,0,0,1,0,0,0,0,0,1,0
+17,warranty disclaimer the work is provided to you as is,0,0,0,0,0,0,0,0,0,0,0,1
+18,nnl is not under any circumstances liable for any damage or any other events arising directly or indirectly out of the use of the work or any software using the work,0,0,0,0,0,0,0,0,0,0,1,0

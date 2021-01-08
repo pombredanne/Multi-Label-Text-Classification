@@ -1,0 +1,61 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,microsoft exchange server 2010 sp2 web services software development kit these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,the terms also apply to any microsoft updates supplements internet based services and support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,by installing accessing or otherwise using the software you accept the terms of this license agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,if you do not agree to the terms of this license agreement do not install access or use the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,you may use the software solely in programs developed by you that interoperate with microsoft exchange server referred to as authorized programs,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,you may install and use any number of copies of the software on your devices solely to design develop and test authorized programs,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,the software contains code that you are permitted to include in authorized programs if you comply with the terms below,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0,1
+11,you may modify copy and distribute the source code form of code marked as sample in the software,0,1,0,1,0,0,1,0,0,0,0,0,1
+12,you may permit the distributors of authorized programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0,1
+13,for any distributable code you distribute you must add significant primary functionality to it in authorized programs require distributors and external end users to agree to terms that protect it at least as much as this agreement display your valid copyright notice on authorized programs and indemnify defend and hold harmless microsoft from any claims including attorneysÃÂ¢ÃÂÃÂ fees related to the distribution or use of authorized programs,0,1,0,0,0,0,0,0,0,0,0,0,1
+14,you may not alter any copyright trademark or patent notice in the distributable code use microsoftÃÂ¢ÃÂÃÂs trademarks in your programsÃÂ¢ÃÂÃÂ names or in a way that suggests your programs come from or are endorsed by microsoft include distributable code in malicious deceptive or unlawful programs or modify distribute or convey any distributable code so that the distributable code or any application to which it links or of which it is a part becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0,0
+15,an excluded license is any other license that requires as a condition of use modification distribution or conveyance that the code be disclosed or distributed in source code form or others have the right to modify or create derivative works of it,0,1,1,0,0,0,0,0,0,0,0,0,1
+16,microsoft may provide internet based services with the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,it may change or cancel them at any time,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,you may only use the software in authorized programs,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,you may not work around any explicit instructions in the software that limit or restrict their use reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation use the software in any way that intentionally harms services provided by microsoft or impairs anyone elses use of such services use the software to try to gain unauthorized access to any service data account or network by any means make more copies of the software than reasonably necessary for you to exercise your rights under this agreement publish the software for others to copy rent lease or lend the software or publish the software as a hosted service without adding significant primary functionality to them in authorized programs,1,1,1,1,0,0,0,0,0,0,0,0,1
+22,the first user of the software may transfer them and this agreement directly to a third party,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,before the transfer that party must agree that this agreement applies to the transfer and use of the software,0,0,0,1,0,0,0,0,0,0,0,0,1
+24,the first user must uninstall the software before transferring them separately from the device,0,0,0,0,0,0,1,0,0,0,0,0,1
+25,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,1,0,0
+26,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,these laws include restrictions on destinations end users and end use,0,1,0,0,0,0,0,0,0,0,0,0,1
+28,microsoft is not obligated to provide any technical or other support under this agreement support services for the software to you,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,however if microsoft chooses to provide any support services to you your use of such support services will be governed by then current microsoft policies ie,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,with respect to any technical or other information you provide to microsoft in connection with the support services you agree that microsoft has an unrestricted right to use such information for its business purposes including for product support and development,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,microsoft will not use such information in a form that personally identifies you,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,except for the licenses expressly granted under this license microsoft and its suppliers retain all right title and interest in and to the software and all intellectual property rights therein,1,1,1,0,0,0,0,0,0,0,0,0,0
+33,you are not authorized to alter modify copy edit format create derivative works of or otherwise use any materials content or technology provided under this license except as explicitly provided in this license or approved in advance in writing by microsoft,0,1,1,1,0,0,0,1,1,0,0,0,1
+34,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement with respect to the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+45,this limitation applies to anything related to the software content including code on third party internet sites or third party programs and claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1,0
+46,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+48,please note as this software is distributed in quebec canada some of the clauses in this agreement are provided below in french,0,1,0,0,0,0,0,0,0,0,0,0,1
+49,remarque  ce logiciel ÃÂ£ÃÂ©tant distribuÃÂ£ÃÂ© au quÃÂ£ÃÂ©bec canada certaines des clauses dans ce contrat sont fournies ci dessous en franÃÂ£ÃÂ§ais,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,le logiciel visÃÂ£ÃÂ© par une licence est offert ÃÂ¢ÃÂ« tel quel ÃÂ¢ÃÂ»,0,0,0,0,0,0,0,0,0,0,0,0,1
+51,toute utilisation de ce logiciel est ÃÂ£ÃÂ  votre seule risque et pÃÂ£ÃÂ©ril,0,0,0,0,0,0,0,0,0,0,0,0,1
+52,vous pouvez bÃÂ£ÃÂ©nÃÂ£ÃÂ©ficier de droits additionnels en vertu du droit local sur la protection des consommateurs que ce contrat ne peut modifier,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,la ou elles sont permises par le droit locale les garanties implicites de qualitÃÂ£ÃÂ© marchande dÃÂ¢ÃÂÃÂadÃÂ£ÃÂ©quation ÃÂ£ÃÂ  un usage particulier et dÃÂ¢ÃÂÃÂabsence de contrefaÃÂ£ÃÂ§on sont exclues,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,limitation des dommages intÃÂ£ÃÂrÃÂ£ÃÂts et exclusion de responsabilitÃÂ£ÃÂ pour les dommages,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,vous pouvez obtenir de microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement ÃÂ£ÃÂ  hauteur de 500 $ us,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,vous ne pouvez prÃÂ£ÃÂ©tendre ÃÂ£ÃÂ  aucune indemnisation pour les autres dommages y compris les dommages spÃÂ£ÃÂ©ciaux indirects ou accessoires et pertes de bÃÂ£ÃÂ©nÃÂ£ÃÂ©fices,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,cette limitation concerne  tout ce qui est reliÃÂ£ÃÂ© au logiciel aux services ou au contenu y compris le code figurant sur des sites internet tiers ou dans des programmes tiers et les rÃÂ£ÃÂ©clamations au titre de violation de contrat ou de garantie ou au titre de responsabilitÃÂ£ÃÂ© stricte de nÃÂ£ÃÂ©gligence ou dÃÂ¢ÃÂÃÂune autre faute dans la limite autorisÃÂ£ÃÂ©e par la loi en vigueur,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,elle sÃÂ¢ÃÂÃÂapplique ÃÂ£ÃÂ©galement mÃÂ£ÃÂªme si microsoft connaissait ou devrait connaÃÂ£ÃÂ®tre lÃÂ¢ÃÂÃÂÃÂ£ÃÂ©ventualitÃÂ£ÃÂ© dÃÂ¢ÃÂÃÂun tel dommage,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,si votre pays nÃÂ¢ÃÂÃÂautorise pas lÃÂ¢ÃÂÃÂexclusion ou la limitation de responsabilitÃÂ£ÃÂ© pour les dommages indirects accessoires ou de quelque nature que ce soit il se peut que la limitation ou lÃÂ¢ÃÂÃÂexclusion ci dessus ne sÃÂ¢ÃÂÃÂappliquera pas ÃÂ£ÃÂ  votre ÃÂ£ÃÂ©gard,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,vous pourriez avoir dÃÂ¢ÃÂÃÂautres droits prÃÂ£ÃÂ©vus par les lois de votre pays,0,0,0,0,0,0,0,0,0,0,0,0,0

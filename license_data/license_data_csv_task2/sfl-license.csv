@@ -1,0 +1,28 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,the sfl license agreement this license agreement covers your use of the imatix standard function library sfl its source code documentation and executable files hereinafter referred to as the product,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,the product is copyright ÃÂ¢ÃÂ© 1991 2000 imatix corporation,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,you may use it and distribute it according to this following license agreement,0,0,0,0,0,0,0,0,1,0,0,0,1
+4,if you do not agree with these terms please remove the product from your system,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,by incorporating the product in your work or distributing the product to others you implicitly agree to these license terms,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,statement of copyright the product is and remains copyright ÃÂ¢ÃÂ© 1991 2000 imatix corporation with exception of specific copyrights as noted in the individual source files,0,0,0,0,0,0,0,1,0,0,0,0,1
+7,conditions of use you do not need to provide the source code for the product as part of your product,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,however you must do one of these things to comply with the product license agreement 1,0,0,0,0,0,0,0,0,1,0,0,0,1
+9,provide the source code for product modules that you use or 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,make your product freely available according to a license similar to the gnu general public license or the perl artistic license or 3,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,add this phrase to the documentation for your product this product uses parts of the imatix sfl copyright ÃÂ¢ÃÂ© 1991 2000 imatix corporation <http  wwwimatixcom>,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,rights of usage you may freely and at no cost use the product in any project commercial academic military or private so long as you respect the license agreement,1,0,0,1,0,0,0,0,0,0,0,0,1
+13,the license agreement does not affect any software except the product,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,in particular any application that uses the product does not itself fall under the license agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,you may modify any part of the product including sources and documentation except this license agreement which you may not modify,0,0,1,0,0,0,0,0,1,0,0,0,1
+16,you must clearly indicate any modifications at the start of each source file,0,0,0,0,0,0,0,0,0,1,0,0,1
+17,the user of any modified product code must know that the source file is not original,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,at your discretion you may rewrite or reuse any part of the product so that your derived code is not obviously part of the product,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,this derived code does not fall under the product license agreement directly but you must include a credit at the start of each source file indicating the original authorship and source of the code and a statement of copyright as follows parts copyright c 1991 2000 imatix corporation,0,0,0,0,0,0,0,1,0,0,0,0,1
+20,rights of distribution you may freely distribute the product or any subset of the product by any means,0,1,0,0,0,0,0,0,0,0,0,0,1
+21,the license in the form of the file called licensetxt must accompany any such distribution,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,you may charge a fee for distributing the product for providing a warranty on the product for making modifications to the product or for any other service provided in relation to the product,1,0,0,0,0,0,0,0,0,0,0,0,1
+23,you are not required to ask our permission for any of these activities,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,at no time will imatix associate itself with any distribution of the product except that supplied from the internet site http  wwwimatixcom,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,disclaimer of warranty the product is provided as free software in the hope that it will be useful,0,0,0,0,0,0,0,0,0,0,0,1,0
+26,it is provided as is without warranty of any kind either expressed or implied including but not limited to the implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+27,the entire risk as to the quality and performance of the product is with you,0,0,0,0,0,0,0,0,0,0,1,0,0

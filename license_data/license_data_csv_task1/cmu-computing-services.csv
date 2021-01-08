@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+2,redistributions of source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0
+3,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0
+4,the name carnegie mellon university must not be used to endorse or promote products derived from this software without prior written permission,0,0,0,0,0,1,0,0,0,0,0,0
+5,for permission or any legal details please contact office of technology transfer carnegie mellon university 5000 forbes avenue pittsburgh pa 15213 3890 412 268 4387 fax 412 268 7395 tech transfer@andrewcmuedu 4,0,0,0,0,0,0,0,0,0,0,0,0
+6,redistributions of any form whatsoever must retain the following acknowledgment this product includes software developed by computing services at carnegie mellon university http  wwwcmuedu computing ,0,0,0,0,0,0,0,0,0,0,0,0

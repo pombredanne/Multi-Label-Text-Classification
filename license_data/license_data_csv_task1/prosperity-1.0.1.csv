@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this license lets you use and share this software for free with a trial length time limit on commercial use,1,1,0,1,0,0,0,0,0,0,0,0
+2,specifically if you follow the rules below you may do everything with this software that would otherwise infringe my copyright in it or any patent claim i can license that covers this software as of my latest contribution,0,0,0,0,0,0,0,1,0,0,0,0
+3,you must limit use of this software in any manner primarily intended for or directed toward commercial advantage or private monetary compensation to a trial period of 32 consecutive calendar days,1,0,0,1,0,0,0,0,0,0,0,0
+4,this limit does not apply to use in developing feedback modifications or extensions that you contribute back to those giving this license,0,0,0,0,0,0,0,0,0,0,0,0
+5,ensure everyone who gets a copy of this software from you in source code or any other form gets the text of this license and the copyright and source notices above,0,0,0,0,0,0,0,1,0,0,0,0
+6,do not make any legal claim against anyone for infringing any patent claim they would infringe by using this software alone accusing this software with or without changes alone or as part of a larger program,0,0,0,0,0,0,0,0,0,0,0,0
+7,you are excused for unknowingly breaking rule 1 if you stop doing anything requiring this license within 30 days of learning you broke the rule,0,0,0,0,0,0,0,0,0,0,0,0
+8,this software comes as is without any warranty at all,0,0,0,0,0,0,0,0,0,0,0,1

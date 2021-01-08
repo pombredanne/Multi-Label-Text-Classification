@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the portions of the attached software contribution is developed by nokia corporation and is licensed pursuant to the openssl open source license,0,0,0,0,0,0,0,0,0,0,0,0
+2,the contribution originally written by mika kousa and pasi eronen of nokia corporation consists of the psk pre shared key ciphersuites support see rfc 4279 to openssl,0,0,0,0,0,0,0,0,0,0,0,0
+3,no patent licenses or other rights except those expressly stated in the openssl open source license shall be deemed granted or received expressly by implication estoppel or otherwise,0,0,0,0,0,1,0,0,0,0,0,0
+4,no assurances are provided by nokia that the contribution does not infringe the patent or other intellectual property rights of any third party or that the license provides you with all the necessary rights to make use of the contribution,0,0,0,0,0,0,0,0,0,0,0,0
+5,the software is provided as is without warranty of any kind,0,0,0,0,0,0,0,0,0,0,0,1

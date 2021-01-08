@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,intel confidential the source code contained or described herein and all documents related to the source code material are owned by intel corporation or its suppliers or licensors,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,title to the material remains with intel corporation or its suppliers and licensors,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,the material contains trade secrets and proprietary and confidential information of intel or its suppliers and licensors,0,1,0,0,0,0,0,0,0,0,0,0,0
+4,the material is protected by worldwide copyright and trade secret laws and treaty provisions,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,no part of the material may be used copied reproduced modified published uploaded posted transmitted distributed or disclosed in any way without intels prior express written permission,0,1,0,0,0,0,0,1,0,0,0,0,1
+6,no license under any patent copyright trade secret or other intellectual property right is granted to or conferred upon you by disclosure or delivery of the materials either expressly by implication inducement estoppel or otherwise,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,any license under such intellectual property rights must be express and approved by intel in writing,0,0,0,0,0,0,0,0,0,0,0,0,0

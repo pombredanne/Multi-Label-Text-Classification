@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,copyright notice copyright 1999 calvin tai all rights reserved,0,0,0,0,0,0,0,1,0,0,0,0,1
+2,ftpbean may be modified and used in any application free of charge by anyone so long as this copyright notice and the comments above remain intact,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,by using this code you agree to indemnify calvin tai from any liability that might arise from its use,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,selling the code for this java bean alone is expressly forbidden,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,in other words please ask first before you try and make money off of this java bean as a standalone application,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,obtain permission before redistributing this software over the internet or in any other medium,1,0,0,0,0,0,0,0,0,0,0,0,1

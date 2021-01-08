@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use in binary form without modification are permitted provided that the following conditions are met redistributions must reproduce the above copyright notice and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,1,0,0,0,1,0,0,0,0
+2,neither the name of intel corporation nor the names of its suppliers may be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0
+3,no reverse engineering decompilation or disassembly of this software is permitted,0,0,0,0,0,0,0,0,0,0,0,0
+4,binary form includes any format commonly used for electronic conveyance which is a reversible bit exact translation of binary representation to ascii or iso text for example uuencode,0,0,0,1,0,0,0,0,0,0,0,0
+5,this software is provided by the copyright holders and contributors as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

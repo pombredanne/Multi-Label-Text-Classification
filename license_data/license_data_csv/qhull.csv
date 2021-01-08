@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,qhull is free software and may be obtained via http from wwwqhullorg,,,,,,,,,,,,
+2,it may be freely copied modified and redistributed under the following conditions 1,,,,,,,,,,,,
+3,all copyright notices must remain intact in all files,,,,,,,,,,,,
+4,a copy of this text file must be distributed along with any copies of qhull that you redistribute this includes copies that you have modified or copies of programs or other software products that include qhull,,,,,,,,,,,,
+5,if you modify qhull you must include a notice giving the name of the person performing the modification the date of modification and the reason for such modification,,,,,,,,,,,,
+6,when distributing modified versions of qhull or other software products that include qhull you must provide notice that the original source code may be obtained as noted above,,,,,,,,,,,,
+7,there is no warranty or other guarantee of fitness for qhull it is provided solely as is,,,,,,,,,,,,

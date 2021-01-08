@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,software copyright licensing disclaimer this software module was originally developed by contributors to the course of the development of iso iec 14496 10 for reference purposes and its performance may not have been optimized,0,0,0,0,0,0,0,0,0,0,0,0
+2,this software module is an implementation of one or more tools as specified by iso iec 14496 10,0,0,0,0,0,0,0,0,0,0,0,0
+3,iso iec gives users free license to this software module or modifications thereof,0,0,0,0,0,0,0,0,0,0,0,0
+4,those intending to use this software module in products are advised that its use may infringe existing patents,0,0,0,0,1,0,0,0,0,0,0,0
+5,iso iec have no liability for use of this software module or modifications thereof,0,0,0,0,0,0,0,0,0,0,0,0
+6,the original contributors retain full rights to modify and use the code for their own purposes and to assign or donate the code to third parties,0,1,1,1,0,0,0,0,0,0,0,0

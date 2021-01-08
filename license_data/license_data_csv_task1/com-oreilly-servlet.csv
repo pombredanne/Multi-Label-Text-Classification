@@ -1,0 +1,22 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the source code object code and documentation in the comoreillyservlet package is copyright and owned by jason hunter,0,0,0,0,0,0,0,1,0,0,0,0
+2,on site use rights permission is granted to use the comoreillyservlet,0,0,0,0,0,0,0,0,0,0,0,0
+3,packages in the development of any non commercial project,1,0,0,0,0,0,0,0,0,0,0,0
+4,for this use you are granted a non  exclusive non transferable limited license at no cost,0,0,0,0,0,0,0,0,0,0,0,0
+5,for a commercial project permission is granted to use the comoreillyservlet,1,0,0,1,0,0,0,0,0,0,0,0
+6,packages provided that every person on the development team for that project owns a copy of the book java servlet programming oreilly in its most recent edition,0,0,0,0,0,0,0,0,0,0,0,0
+7,the most recent edition is currently the 2nd edition available in association with amazoncom at http  wwwamazoncom exec obidos asin 0596000405 jasonhunter,0,0,0,0,0,0,0,0,0,0,0,0
+8,other sometimes cheaper license terms are available upon request please write to jhunter_at_servletscom for more information,0,0,0,0,0,0,0,0,0,0,0,0
+9,you redistribute the package in object code form only as java class files or a jar file containing the class files and only as part of a product that uses the classes as part of its primary functionality,0,0,0,0,0,0,0,0,0,0,0,0
+10,the product containing the package is non commercial in nature,0,0,0,0,0,0,0,0,0,0,0,0
+11,the public interface to the classes in the package and the public interface to any classes with similar functionality is hidden from end users when engaged in normal use of the product,0,0,0,1,0,0,0,0,0,0,0,0
+12,the distribution is not part of a software development kit operating system other library or a development tool without written permission from the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0
+13,the distribution includes copyright notice as follows the source code object code and documentation in the comoreillyservlet package is copyright and owned by jason hunter,0,0,0,0,0,0,0,1,0,0,0,0
+14,in the documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,0,0,0,0,0
+15,you reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,1,0,0,0,0
+16,licensor retains title to and ownership of the software and all enhancements modifications and updates to the software,0,0,0,0,0,0,0,0,0,0,0,0
+17,note that the comoreillyservlet package is provided as is and the author will not be liable for any damages suffered as a result of your use,0,0,0,0,0,0,0,0,0,0,1,0
+18,furthermore you understand the package comes without any technical support,0,0,0,0,0,0,0,0,0,0,0,0
+19,you can always find the latest version of the comoreillyservlet package at http  wwwservletscom,0,0,0,0,0,0,0,0,0,0,0,0
+20,this software is provided by the author ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1
+21,in no event shall the author or contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0

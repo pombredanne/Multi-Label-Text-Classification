@@ -1,0 +1,18 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,notice this license governs use of the accompanying software software and your use of the software constitutes acceptance of this license,1,0,0,1,0,0,0,0,0,0,0,0,1
+2,subject to the restrictions below you may use the software for any commercial or noncommercial purpose including distributing derivative works,1,0,0,1,0,0,0,0,0,0,0,0,1
+3,you are not allowed to combine or distribute the software with other software that is licensed under terms that seek to require that the software or any intellectual property in it be provided in source code form licensed to others to allow the creation or distribution of derivative works or distributed without charge,0,1,0,0,0,0,0,0,0,0,0,0,1
+4,you may not distribute the software in source code form to any other person company government group or entity,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,c you may not decompile disassemble reverse engineer or otherwise attempt to extract generate or retrieve source code from any compiled binary provided in the software,0,1,0,0,0,0,0,0,0,0,0,0,1
+6,d you will a not use opennetcfs name logo or trademarks in association with distribution of the software or derivative works unless otherwise permitted in writing and b you will indemnify hold harmless and defend opennetcf from and against any claims or lawsuits including attorneys fees that arise or result from the use or distribution of your modifications to the software and any additional software you distribute along with the software,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,e the software comes as is with no warranties,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,this means no express implied or statutory warranty including without limitation warranties of merchantability or fitness for a particular purpose or any warranty of title or non infringement,0,0,0,0,0,0,0,0,0,0,0,1,0
+9,f neither opennetcf nor its suppliers will be liable for any of those types of damages known as indirect special consequential or incidental related to the software or this license to the maximum extent the law permits no matter what legal theory its based on,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,also you must pass this limitation of liability on whenever you distribute the software or derivative works,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,g if you sue anyone over patents that you think may apply to the software for a persons use of the software your license to the software ends automatically,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,h the patent rights if any granted in this license only apply to the software not to any derivative works you make,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,the software is subject to us export jurisdiction at the time it is licensed to you and it may be subject to additional export or import laws in other places,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,you agree to comply with all such laws and regulations that may apply to the software after delivery of the software to you,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,if you are an agency of the us government i the software is provided pursuant to a solicitation issued on or after december 1 1995 is provided with the commercial license rights set forth in this license and ii the software is provided pursuant to a solicitation issued prior to december 1 1995 is provided with restricted rights as set forth in far 48 cfr,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,k your rights under this license end automatically if you breach it in any way,0,0,0,0,0,0,0,0,0,0,0,1,0
+17,l this license contains the only rights associated with the software and opennetcf reserves all rights not expressly granted to you in this license,0,0,0,0,0,0,0,0,0,0,0,0,0

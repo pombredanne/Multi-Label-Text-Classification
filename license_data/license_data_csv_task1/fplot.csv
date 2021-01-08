@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,permission to use copy and distribute this software and its documentation for any purpose with or without fee is hereby granted provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation,1,1,1,1,0,0,0,1,0,0,0,0
+2,permission to modify the software is granted but not the right to distribute the modified code,0,1,1,1,0,0,0,0,0,0,0,0
+3,modifications are to be distributed as patches to released version,0,0,0,0,0,0,0,0,0,0,0,0

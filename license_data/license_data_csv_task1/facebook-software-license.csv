@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,you are hereby granted a non exclusive worldwide royalty free license to use copy modify and distribute this software in source code or binary form for use in connection with the web services and apis provided by facebook,1,1,1,1,0,0,0,0,0,0,0,0
+2,as with any software that integrates with the facebook platform your use of this software is subject to the facebook developer principles and policies [http  developersfacebookcom policy ],0,0,0,1,0,0,0,0,0,0,0,0
+3,this copyright notice shall be included in all copies or substantial portions of the software,0,0,0,0,0,0,0,1,0,0,0,0
+4,the software is provided as is without warranty of any kind express or implied including but not limited to the warranties of merchantability fitness for a particular purpose and noninfringement,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,90 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,software license agreement for jide software incs products important   read carefully this jide software inc jide software license agreement sla is a legal agreement between you an individual developer or a company of software applications and jide for the jide software product accompanying this sla which includes computer software and may include associated source code media printed materials and on line or electronic documentation software product,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,by installing copying or otherwise using the software product you agree to be bound by the terms of this sla,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,if you do not agree to the terms of this sla do not install use distribute in any manner or replicate in any manner any part file or portion of the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,the software product is protected by copyright laws and international copyright treaties as well as other intellectual property laws and treaties,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,if the licensed right of use for this software product is purchased by you with any intent to reverse engineer decompile create derivative works and the exploitation or unauthorized transfer of any jide intellectual property and trade secrets to include any exposed methods or source code where provided no licensed right of use shall exist and any products created as a result shall be judged illegal by definition of all applicable law,1,0,0,0,0,0,0,0,0,0,0,0,1
+6,any sale or resale of intellectual property or created derivatives so obtained will be prosecuted to the fullest extent of all local federal and international law,0,0,0,0,0,0,0,0,0,0,1,0,0
+7,this sla if legally executed as defined herein licenses and so grants you the following rights a,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,single developer license allows an individual developer to use apis application programming interface provided by software product in any number of projects that he or she is working on,1,0,0,0,0,0,0,0,0,0,0,0,1
+9,a single developer license for the software product may not be shared or used by more than one individual developer,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,in a project that uses the software product each individual developer on the project requires a separate single developer license as long as they need to write code using jide api,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,in addition to the license and rights granted above jide grants you the right to use and modify the jide source provided you licensed source code,0,1,0,1,0,0,0,0,0,0,0,0,1
+12,different from developer license source code license is licensed to a team,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,each team only needs to purchase one copy of source code license and share it among those developers who have their own single developer license,1,0,0,0,0,0,0,0,0,0,0,0,1
+14,i	jide shall retain all right title and interest in and to all updates modifications enhancements and derivative works in whole or in part of the jide source code created by you including all copyrights subsisting therein to the extent such modifications enhancements or derivative works contain copyrightable code or expression derived from the jide source code provided however that jide grants to you a fully paid royalty free license to use copy and modify such updates modifications enhancements and derivative works or copies thereof for use as authorized in this license,0,1,1,1,0,0,0,1,0,1,0,0,1
+15,you may not distribute the jide source code or any modified version or derivative work of the jide source code in source code form,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,jide require all developers in your project who plan to access jide source code signing on the source code license,0,0,0,0,0,0,1,0,0,0,0,0,1
+17,as long as they signed they become registered developers,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,an alternative to this is to let a delegate signs source code license as an organization,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,the delegate will be responsible for letting other developers who plan to access the source code reviewing this license agreement first before releasing them the access,0,0,0,0,0,0,1,0,0,0,0,0,1
+20,the source code contained herein and in related files is provided to the registered developer for the purposes of education and troubleshooting,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,under no circumstances may any portion of the source code be distributed disclosed or otherwise made available to any third party without the express written consent of jide,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,v	under no circumstances may the source code be used in whole or in part as the basis for creating a product that provides the same or substantially the same functionality as any jide products,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,the registered developer acknowledges that this source code contains valuable and proprietary trade secrets of jide,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,the registered developer agrees to expend every effort to insure its confidentiality,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,for example under no circumstances may the registered developer allow to put the source code on an internal network where he or she has no control,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,due to the insecurity of java byte code if you plan to use classes that built from the source code directly you must agree to obfuscate the classes before distributing it to your customers,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,jide does not provide any technical support for source code,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,the initial purchase of single developer license includes three month maintenance for free,1,0,0,0,0,0,0,0,0,0,0,0,1
+29,after that period you need to purchase annual maintenance renewal in order to continue receiving technical support product updates,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,there is no deployment license fee unless the number of your application deployments is larger than 1000 times of the number of developer licenses you purchased and you are unwilling to acknowledge using jide,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,you can acknowledge using jide by showing jide name and or logo in about dialog or splash screen or including this sla in a license folder of your product release where has the licenses for all 3rd party libraries you are using or any other places where users can easily notice,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,if you are unwilling to acknowledge using jide a one time perpetual deployment license fee will be applicable,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,the software product is labeled and provided as not for resale or nfr then notwithstanding other sections of this sla you may not resell distribute or otherwise transfer for value or benefit in any manner the software product or any derivative work using the software product,1,0,0,0,0,0,0,0,0,0,0,0,1
+34,you may not transfer rent lease lend copy modify translate sublicense time share or electronically transmit the software product media or documentation,0,1,1,0,0,0,0,0,0,0,0,0,1
+35,this also applies to any and all intermediate files source code and compiled executables,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,the exposed apis is intended to be used by the licensed developers only,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,if such an exposing of apis is unavoidable in your application or intended due to the nature of your application please contact jide for a special agreement and is subject to extra charge to get such permission,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,exposing the apis to non licensed developers without jide permission is strictly prohibited,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,you may not reverse engineer decompile create derivative works modify translate or disassemble the software product and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation,0,1,1,1,0,0,0,0,0,0,0,0,1
+40,you agree to take all reasonable legal and appropriate measures to prohibit the illegal dissemination of the software product or any of its constituent parts and redistributables to the fullest extent of all applicable local us codes and international laws and treaties regarding anti circumvention including but not limited to the geneva and berne world intellectual property organization wipo diplomatic conferences,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may not rent lease or lend the software product,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,d	separation of components their constituent parts and redistributables,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,the software product is licensed as a single product,0,0,0,0,0,0,0,0,0,0,0,0,1
+44,the software product and its constituent parts and any provided redistributables may not be reverse engineered decompiled disassembled nor placed for distribution sale or resale as individual creations by you or any individual not expressly given such permission by jide,1,0,0,0,0,0,0,0,0,0,0,0,1
+45,the provision of source code if included with the software product does not constitute transfer of any legal rights to such code and resale or distribution of all or any portion of all source code and intellectual property will be prosecuted to the fullest extent of all applicable local federal and international laws,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,all jide libraries source code redistributables and other files remain jides exclusive property,0,0,0,0,0,0,0,0,0,0,0,0,1
+47,you may not distribute any files except those that jide has expressly designated as redistributable,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,the software product may include certain files redistributables intended for distribution by you to the users of programs you create,0,0,0,0,0,0,0,0,0,0,0,0,1
+49,redistributables include jar file or class files if you intend to package all jide classes into your own jar,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,developer guide of software product if any or any other documents such as javadoc which are intended to teach you how to use the software product and sample code are not considered as redistributables,0,0,0,0,0,0,0,0,0,0,0,0,1
+51,subject to all of the terms and conditions in this sla you may reproduce and distribute exact copies of the redistributables provided that such copies are made from the original copy of the software product or the copy transferred to a hard disk,0,1,0,0,0,0,0,0,0,0,0,0,1
+52,copies of redistributables may only be distributed with and for the sole purpose of executing application programs permitted under this sla that you have created using the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+53,you may reformat or recombine the original distribution format of redistributables provided by jide,0,0,0,0,0,0,0,0,0,0,0,0,1
+54,however jide will not support or have any liability for such use,0,0,0,0,0,0,0,0,0,0,1,0,0
+55,the license granted in this sla for you to create your own compiled programs and distribute your programs and the redistributables if any is subject to all of the following conditions i,0,0,0,0,0,0,0,0,0,0,0,0,1
+56,all copies of the programs you create must bear a valid copyright notice either your own or the jide copyright notice that appears on the software product,0,0,0,0,0,0,0,1,0,0,0,0,1
+57,you may not remove or alter any jide copyright trademark or other proprietary rights notice contained in any portion of jide libraries source code redistributables or other files that bear such a notice,0,0,0,0,0,0,0,1,0,0,0,0,1
+58,jide provides no warranty at all to any person and you will remain solely responsible to anyone receiving your programs for support service upgrades or technical or other assistance and such recipients will have no right to contact jide for such services or assistance,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,your programs containing the software product must be written using a licensed registered copy of the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+60,v	your programs must add primary and substantial functionality and may not be merely a set or subset of any of the libraries code redistributables or other files of the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+61,jide may provide you with support services related to the software product support services,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,use of support services is governed by jide policies and programs described in the user manual in on line documentation and or other jide provided materials,0,0,0,0,0,0,0,0,0,0,0,0,1
+63,any supplemental software code provided to you as part of the support services shall be considered part of the software product and subject to the terms and conditions of this sla,0,0,0,0,0,0,0,0,0,0,0,0,1
+64,with respect to technical information you provide to jide as part of the support services jide may use such information for its business purposes including for product support and development,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,you may not permanently or temporarily transfer any of your rights under this sla to any individual or entity,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,regardless of any modifications which you make and regardless of how you might compile link and or package your programs under no circumstances may the libraries redistributables and or other files of the software product including any portions thereof be used for developing programs by anyone other than you,0,0,0,0,0,0,0,0,0,0,0,0,1
+67,only you as the licensed end user have the right to use the libraries redistributables or other files of the software product or any portions thereof for developing programs created with the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+68,in particular you may not share copies of the redistributables with other co developers,0,0,0,0,0,0,0,0,0,0,0,0,1
+69,if you leave the company or go to another group where jide is no longer used you may transfer the license to another developer within the team,0,0,0,0,0,0,0,0,0,0,0,0,1
+70,after the transfer you are no longer allowed to use software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+71,without prejudice to any other rights or remedies jide will terminate this sla upon your failure to comply with all the terms and conditions of this sla,0,0,0,0,0,0,0,0,0,0,1,0,0
+72,in such event you must destroy all copies of the software product and all of its component parts including any related documentation and must remove any and all use of such technology with the next generally available release from any applications using technology contained in the software product developed by you whether in native altered or compiled state,0,0,0,0,0,0,0,0,0,0,0,0,1
+73,d	time limitation there is no time limitation on using the software product as long as you dont violate this license agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,if the software product is labeled as an upgrade you must be properly licensed to use the software product identified by jide as being eligible for the upgrade in order to use the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+75,a software product labeled as an upgrade replaces and or supplements the software product that formed the basis for your eligibility for the upgrade and together constitute a single software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+76,you may use the resulting upgraded software product only in accordance with all the terms of this sla,0,0,0,0,0,0,0,0,1,0,0,0,1
+77,all title and copyrights in and to the software product including but not limited to any images demos source code intermediate files packages photographs animations video audio music text and applets incorporated into the software product the accompanying printed materials and any copies of the software product are owned by jide or its subsidiaries,0,1,0,0,0,0,0,0,0,0,0,0,1
+78,the software product is protected by copyright laws and international treaty provisions,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,therefore you must treat the software product like any other copyrighted material except that you may install the software product for use by you a single developer,0,0,0,0,0,0,0,0,0,0,0,0,1
+80,you may not copy any printed materials accompanying the software product,0,0,0,0,0,0,0,0,0,0,0,0,1
+81,this sla may only be modified in writing signed by you and an authorized officer of jide,0,0,0,0,0,0,0,0,0,0,0,0,1
+82,if any provision of this sla is found void or unenforceable the remainder will remain valid and enforceable according to its terms,0,0,0,0,0,0,0,0,0,0,0,0,1
+83,if you acquired this product in the united states this sla is governed by the laws of the state of ca,0,0,0,0,0,0,0,0,0,0,1,0,0
+84,if this software product was acquired outside the united states then you agree and ascend to the adherence to all applicable international treaties regarding copyright and intellectual property rights which shall also apply,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,in addition you agree that any local laws to the benefit and protection of jide ownership of and interest in its intellectual property and right of recovery for damages thereto will also apply,0,0,0,0,0,0,0,0,0,0,1,0,0
+86,should you have any questions concerning this sla or if you desire to contact jide for any reason please contact us via our support web pages at http  wwwjidesoftcom ,0,0,0,0,0,0,0,0,0,0,0,0,1
+87,jide expressly disclaims any warranty for the software product,0,0,0,0,0,0,0,0,0,0,0,1,0
+88,the product and any related documentation is provided as is without warranty of any kind either express or implied including without limitation the implied warranties of merchantability fitness for a particular purpose or noninfringement,0,0,0,0,0,0,0,0,0,0,0,1,0
+89,the entire risk arising out of use or performance of the product remains with you,0,0,0,0,0,0,0,0,0,0,0,0,0

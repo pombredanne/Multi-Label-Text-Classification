@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this software module was originally developed by contributing organizations names in the course of development of the mpeg 7 experimentation model,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,this software module is an implementation of a part of one or more mpeg 7 experimentation model tools as specified by the mpeg 7 requirements,0,0,0,0,0,0,0,0,0,0,0,1,1
+3,iso iec gives users of mpeg 7 free license to this software module or modifications thereof for use in hardware or software products claiming conformance to mpeg 7,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,those intending to use this software module in hardware or software products are advised that its use may infringe existing patents,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,the original developer of this software module and his her company the subsequent editors and their companies and iso iec have no liability for use of this software module or modifications thereof in an implementation,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,copyright is not released for non mpeg 7 conforming products,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,the organizations named above retain full right to use the code for their own purpose assign or donate the code to a third party and inhibit third parties from using the code for non mpeg 7 conforming products,0,1,0,0,0,0,0,0,0,0,0,0,1

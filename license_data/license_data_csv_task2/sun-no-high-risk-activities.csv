@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,permission to use copy modify and distribute this software and its documentation for non commercial or commercial purposes and without fee is hereby granted,1,1,1,1,0,0,0,0,0,0,0,0,1
+2,all express warranties including any implied warranty of merchantability satisfactory quality fitness for a particular purpose or non infringement are disclaimed except to the extent that such disclaimers are held to be legally invalid,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,you acknowledge that software is not designed licensed or intended for use in the design construction operation or maintenance of any nuclear facility high risk activities,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,sun disclaims any express or implied warranty of fitness for such uses,0,0,0,0,0,0,0,0,0,0,0,1,0

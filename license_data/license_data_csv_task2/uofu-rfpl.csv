@@ -1,0 +1,47 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,21 the initial developer grant the university hereby grants user a world wide royalty free non exclusive license subject to third party intellectual property claims a to use reproduce modify display and perform the covered code or portions thereof with or without modifications or as part of a larger work,0,1,1,1,0,0,0,0,0,0,0,0,1
+2, and b under patents now or hereafter owned or controlled by university to make have made and use utilize the covered codeor portions thereof but solely to the extent that any such patent is reasonably necessary to enable user to utilize the covered code or portions thereof and not to any greater extent that may be necessary to utilize further modifications or combinations,0,0,0,0,1,0,0,0,0,0,0,0,0
+3,c the licenses granted in this section 21a and b are effective on the date the user first receives covered code,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,d no license is granted by university for the commercial use of covered code under this license,1,0,0,1,0,0,0,0,0,0,0,0,0
+5,e no license is granted by university for the distribution of covered code under this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,each contributor hereby grants university a world wide royalty free non exclusive license subject to third party intellectual property claims a to use reproduce modify display perform sublicense and distribute the modifications created by such contributor or portions thereof either on an unmodified basis with other modifications as covered code or as part of a larger work and b under patents now or hereafter owned or controlled by contributor to utilize the covered code or portions thereof but solely to the extent that any such patent is reasonably necessary to enable user to utilize the contributor version or portions thereof and not to any greater extent that may be necessary to utilize further modifications or combinations,0,1,1,1,1,0,0,0,0,0,0,0,1
+7,c the licenses granted in this section 22a and b are effective on the date the university first receives the covered code 3,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,if user has knowledge that a party claims an intellectual property right in particular functionality or code or its utilization under this license user must include a text file with the source code provided to university titled legal which describes the claim and the party making the claim in sufficient detail that university will know whom to contact,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,if user obtains such knowledge after user makes the modification available to university user shall promptly modify the legal file in all copies user makes available thereafter and shall notify university that new knowledge has been obtained,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,if your modification is an application programming interface and user owns or controls patents which are reasonably necessary to implement that api you must also include this information in the legal file,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,user must duplicate the notice in exhibit a in each file of the source code and this license in any documentation for the source code where user describes recipients rights relating to covered code,0,0,0,0,0,0,1,1,0,0,0,0,1
+12,if user created one or more modifications user may add name as a contributor to the notice described in exhibit a,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,if it is not possible to put such notice in a particular source code file due to its structure then user must include such notice in a location such as a relevant directory file where a user would be likely to look for such a notice,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,  this license does not allow distribution of the covered code by user or contributor,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,user may create a larger work by combining covered code with other code not governed by the terms of this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,in such a case user must make sure the requirements of this license are fulfilled for the covered code including 21d and 21e,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,if it is impossible for user to comply with any of the terms of this license with respect to some or all of the covered code due to statute or regulation then user must a comply with the terms of this license to the maximum extent possible and b describe the limitations and the code they affect,0,0,0,0,0,0,0,0,1,0,0,0,1
+18,such description must be included in the legal file described in section 31 and must be included with all distributions of the source code,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,except to the extent prohibited by statute or regulation such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,this license applies to covered code attached to the notice in exhibit a,0,0,0,0,0,0,0,1,0,0,0,0,1
+21,covered code is provided under this license on an as is basis without warranty of any kind either expressed or implied including without limitation warranties that the covered code is free of defects merchantable fit for a particular purpose or non infringing,0,0,0,0,0,0,0,0,0,0,0,1,0
+22,the entire risk as to the quality and performance of the covered code is with user,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,should any covered code prove defective in any respect you not the university or any other contributor assume the cost of any necessary servicing repair or correction,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,this disclaimer of warranty constitutes an essential part of this license,0,0,0,0,0,0,0,0,0,0,0,1,0
+25,no use of any covered code is authorized hereunder except under this disclaimer,0,0,0,0,0,0,0,1,0,0,0,0,0
+26,this license and the rights granted hereunder will terminate automatically if user fails to comply with terms herein,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,all sublicenses to the covered code which are properly granted shall survive any termination of this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,provisions which by their nature must remain in effect beyond the termination of this license shall survive,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,under no circumstances and under no legal theory whether tort including negligence contract or otherwise shall the university any other contributor or any distributor of covered code or any supplier of any of such parties be liable to user or any other person for any indirect special incidental or consequential damages of any character including without limitation damages for loss of goodwill work stoppage computer failure or malfunction or any and all other commercial damages or losses even if such party shall have been informed of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+30,this limitation of liability shall not apply to liability for death or personal injury resulting from such partys negligence to the extent applicable law prohibits such limitation,0,0,0,0,0,0,0,0,0,0,1,0,0
+31,some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages so that exclusion and limitation may not apply to user,0,0,0,0,0,0,0,0,0,0,1,0,0
+32,us government end users the covered code is a commercial item as that term is defined in 48 cfr,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,consisting of commercial computer software and commercial computer software documentation as such terms are used in 48 cfr,1,0,0,1,0,0,0,0,0,0,0,0,1
+34,2277202 1 through 2277202 4 june 1995 all us government end users acquire covered code with only those rights set forth herein,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,this license represents the complete agreement concerning subject matter hereof,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,nothing in this agreement shall be construed as conferring by implication estoppel or otherwise any license or rights other than those granted in this license,0,0,0,0,0,1,0,0,0,0,0,0,0
+37,if any provision of this license is held to be unenforceable such provision shall be reformed only to the extent necessary to make it enforceable,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,this license shall be governed by utah law provisions except to the extent applicable law if any provides otherwise,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,the application of the united nations convention on contracts for the international sale of goods is expressly excluded,0,0,0,0,0,0,0,0,0,0,1,0,0
+40,any law or regulation which provides that the language of a contract shall be construed against the drafter shall not apply to this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,the contents of this file are subject to the university of utah public license the license you may not use this file except in compliance with the license,0,0,0,1,0,0,0,1,0,0,0,0,1
+42,software distributed under the license is distributed on an as is basis without warranty of any kind either express or implied,0,0,0,0,0,0,0,0,0,0,0,1,0
+43,see the license for the specific language governing rights and limitations under the license,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,the original source code is teem released march 23 2001,0,0,0,0,0,0,0,0,0,0,0,0,1
+45,the original source code was developed by the university of utah,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,portions created by university are copyright c 2001 1998 university of utah,0,0,0,0,0,0,0,0,0,0,0,0,1

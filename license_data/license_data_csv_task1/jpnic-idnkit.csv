@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,by using this file you agree to the terms and conditions set forth bellow,0,0,0,1,0,0,0,0,0,0,0,0
+2,license terms and conditions the following license terms and conditions apply unless a different license is obtained from japan network information center jpnic a japanese association kokusai kougyou kanda bldg 6f 2 3 4 uchi kanda chiyoda ku tokyo 101 0047 japan,0,0,0,0,0,0,0,0,0,0,0,0
+3,use modification and redistribution including distribution of any modified or derived work in source and or binary forms is permitted under this license terms and conditions,0,1,1,1,0,0,0,0,1,0,0,0
+4,redistribution of source code must retain the copyright notices as they appear in each source code file this license terms and conditions,0,1,0,0,0,0,0,1,0,0,0,0
+5,redistribution in binary form must reproduce the copyright notice this license terms and conditions in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0
+6,for the purposes of binary distribution the copyright notice refers to the following language copyright c 2000 2002 japan network information center,0,0,0,0,0,0,0,1,0,0,0,0
+7,the name of jpnic may not be used to endorse or promote products derived from this software without specific prior written approval of jpnic,0,0,0,0,0,1,0,0,0,0,0,0
+8,disclaimer limitation of liability this software is provided by jpnic as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

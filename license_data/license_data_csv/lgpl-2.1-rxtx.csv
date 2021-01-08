@@ -1,0 +1,13 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,rxtx is a native interface to serial ports in java,,,,,,,,,,,,
+2,copyright 1997 2007 by trent jarvi tjarvi@qbangorg and others who actually wrote it,,,,,,,,,,,,
+3,this library is free software you can redistribute it and or modify it under the terms of the gnu lesser general public license as published by the free software foundation either version 21 of the license or at your option any later version,,,,,,,,,,,,
+4,this library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,,,,,,,,,,,,
+5,see the gnu lesser general public license for more details,,,,,,,,,,,,
+6,an executable that contains no derivative of any portion of rxtx but is designed to work with rxtx by being dynamically linked with it is considered a work that uses the library subject to the terms and conditions of the gnu lesser general public license,,,,,,,,,,,,
+7,the following has been added to the rxtx license to remove any confusion about linking to rxtx,,,,,,,,,,,,
+8,we want to allow in part what section 5 paragraph 2 of the lgpl does not permit in the special case of linking over a controlled interface,,,,,,,,,,,,
+9,the intent is to add a java specification request or standards body defined interface in the future as another exception but one is not currently available,,,,,,,,,,,,
+10,http  wwwfsforg licenses gpl faqhtml#linkingovercontrolledinterface as a special exception the copyright holders of rxtx give you permission to link rxtx with independent modules that communicate with rxtx solely through the sun microsytems commapi interface version 2 regardless of the license terms of these independent modules and to copy and distribute the resulting combined work under terms of your choice provided that every copy of the combined work is accompanied by a complete copy of the source code of rxtx the version of rxtx used to produce the combined work being distributed under the terms of the gnu lesser general public license plus this exception,,,,,,,,,,,,
+11,an independent module is a module which is not derived from or based on rxtx,,,,,,,,,,,,
+12,note that people who make modified versions of rxtx are not obligated to grant this special exception for their modified versions it is their choice whether to do so,,,,,,,,,,,,

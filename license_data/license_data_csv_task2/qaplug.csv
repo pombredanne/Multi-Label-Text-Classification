@@ -1,0 +1,22 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,end user license agreement soldevelo licensor will license the software application software to the user licensee upon the condition that licensee accept all of the terms and conditions of this end user license agreement agreement,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,please read the terms and conditions of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,licensee may use the software solely in accordance with the documentation or any other use restrictions contained herein,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,licensee may install the software on any number of machines that are under licenseeÃÂ¢ÃÂÃÂs personal control,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,licensee agrees not to modify change disassemble decompile or otherwise reverse engineer the software,0,1,1,0,0,0,0,0,0,0,0,0,1
+6,licensee shall have access to any bug fixes for the software that licensor makes available to its general customer base,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,the software is protected by copyright and other laws,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,soldevelo reserves the right to any and all protected components of its software ÃÂ¢ÃÂÃÂ including but not content with the name of software design artwork individual features,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,you cannot copy modify adapt distribute reverse engineer and decompile any part of the software which is in the possession of soldevelo or persons who created them,0,1,1,0,0,0,0,0,0,0,0,0,1
+10,the software is provided without warranty in its current as is condition,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,licensor makes no warranty of any kind whatsoever whether expressed or implied including the implied warranties of merchantability fitness for a particular purpose and noninfringement,0,0,0,0,0,0,0,0,0,0,0,1,0
+12,in no event shall licensor be liable under any theory of liability whether in an equitable legal or common law action arising hereunder for contract strict liability indemnity tort including negligence or otherwise for any damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,in no event shall licensor be liable for any special incidental indirect exemplary punitive or consequential damages of any kind and however caused including but not limited to business interruption or loss of profits business opportunities or good will even if notified of the possibility of such damage and notwithstanding the failure of essential purpose of any remedy,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,licensee agrees to keep confidential all technical product business and other information regarding the software the confidential information including but not limited to programming techniques and methods research and development computer programs documentation marketing plans and business methods,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,licensee shall at all times protect and safeguard the confidential information and agrees not to disclose give transmit or otherwise convey any confidential information in whole or in part to any other party,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,licensee further agrees not to attempt to ascertain the source code of any computer program by unauthorized access or review reverse engineering decompilation disassembly or any other technique or method,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,licensee agrees that it will not use any confidential information for its own purpose or for the benefit of any third party and shall honor the copyrights of and will not copy duplicate or in any manner reproduce any such copyrighted materials,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,the provisions of this section shall survive termination or expiration of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,this agreement constitutes the entire agreement and understanding between the parties relating to the subject matter hereof,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,this agreement may not be amended except by a written document signed by both parties,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,each provision of this agreement is a separately enforceable provision,0,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the cygwin api library found in the winsup subdirectory of the source code is covered by the gnu lesser general public license lgpl version 3 or later,0,0,0,0,0,0,0,0,1,0,0,0
+2,for details of the requirements of lgplv3 please read the gnu lesser general public license lgpl,0,0,0,0,0,0,0,0,0,0,0,0
+3,cygwinÃ¢ÂÂ¢ linking exception as a special exception the copyright holders of the cygwin library grant you additional permission to link libcygwina crt0o and gcrt0o with independent modules to produce an executable and to convey the resulting executable under terms of your choice without any need to comply with the conditions of lgplv3 section 4,0,0,0,0,0,0,0,0,0,0,0,0

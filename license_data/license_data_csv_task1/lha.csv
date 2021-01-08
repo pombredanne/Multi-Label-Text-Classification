@@ -1,0 +1,21 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,lha license permission is given for redistribution copy and modification provided following conditions are met,0,1,0,1,0,0,0,0,0,0,0,0
+2,the content of redistribution ie source code documentation and reference guide for programmers shall include original contents,0,0,0,0,0,0,1,0,0,0,0,0
+3,if contents are modified the document clearly indicating the fact of modification must be included,0,0,0,0,0,0,0,0,0,1,0,0
+4,if lha is redistributed with added values you must put your best effort to include them translator comment if read literally original japanese was unclear what them means here,0,0,0,0,0,0,0,0,0,0,0,0
+5,but undoubtedly this them means source code for the added value portion and this is a typical japanese sloppy writing style to abbreviate as such also the document clearly indicating that added value was added must be included,0,0,0,0,0,0,0,0,0,1,0,0
+6,c binary only distribution is not allowed including added value ones,0,0,0,0,0,0,0,0,0,0,0,0
+7,you need to put effort to distribute the latest version this is not your duty,0,0,0,0,0,0,0,0,0,0,0,0
+8,please notify me by e mail or other means prior to the distribution if distribution is done through non internet media magazine cdrom etc,0,0,0,0,0,0,0,0,0,0,0,0
+9,any damage caused by the existence and use of this program will not be compensated,0,0,0,0,0,0,0,0,0,0,1,0
+10,author will not be responsible to correct errors even if program is defective,0,0,0,0,0,0,0,0,0,0,0,0
+11,this program either as a part of this or as a whole of this may be included into other programs,0,0,0,0,0,0,0,0,0,0,0,0
+12,in this case that program is not lha and can not call itself lha,0,0,0,0,0,0,0,0,0,0,0,0
+13,for commercial use in addition to above conditions following condition needs to be met,0,0,0,1,0,0,0,0,0,0,0,0
+14,the program whose content is mainly this program can not be used commercially,0,0,0,0,0,0,0,0,0,0,0,0
+15,if the recipient of commercial use deems inappropriate as a program user you must not distribute,0,0,0,0,0,0,0,0,0,0,0,0
+16,c if used as a method for the installation you must not force others to use this program,0,0,0,0,0,0,0,0,0,0,0,0
+17,in this case commercial user will perform its work while taking full responsibility of its outcome,0,0,0,0,0,0,0,0,0,0,1,0
+18,d if added value is done under the commercial use by using this program commercial user shall provide its support,1,0,0,1,0,0,0,0,0,0,0,0
+19,osamu aoki also comments here commercial may be interpreted as for fee,1,0,0,0,0,0,0,0,0,0,0,0
+20,translated license statement by tsugio okamoto translated by goto masanori <gotom@debianorg> its free to distribute on the network but if you distribute for the people who cannot access the network by magazine or cd rom please send e mail inter net address to the author before the distribution,0,0,0,0,0,0,0,0,0,0,0,0

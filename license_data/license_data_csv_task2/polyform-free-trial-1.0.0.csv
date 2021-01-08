@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,## acceptance in order to get any license under these terms you must agree to them as both strict obligations and conditions to all your licenses,0,1,0,0,0,0,0,0,1,0,0,0,0
+2,## copyright license the licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensors copyright in it for any permitted purpose,0,0,0,0,0,0,0,1,0,0,0,0,0
+3,however you may only make changes or new works based on the software according to [changes and new works license]#changes and new works license and you may not distribute copies of the software,0,0,1,0,0,0,0,0,0,0,0,0,1
+4,## changes and new works license the licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,## patent license the licensor grants you a patent license for the software that covers patent claims the licensor can license or becomes able to license that you would infringe by using the software,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,## fair use you may have fair use rights for the software under the law,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,## free trial use to evaluate whether the software suits a particular application for less than 32 consecutive calendar days on behalf of you or your company is use for a permitted purpose,1,0,0,0,0,0,0,0,0,0,0,0,1
+8,## no other rights these terms do not allow you to sublicense or transfer any of your licenses to anyone else or prevent the licensor from granting licenses to anyone else,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,## patent defense if you make any written claim that the software infringes or contributes to infringement of any patent your patent license for the software granted under these terms ends immediately,0,0,0,0,1,0,0,0,0,0,0,0,0
+10,if your company makes such a claim your patent license ends immediately for work on behalf of your company,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,## violations if you violate any of these terms or do anything with the software not covered by your licenses all your licenses end immediately,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,all copyrights to rar and the utility unrar are exclusively owned by the author   alexander roshal,,,,,,,,,,,,
+2,unrar source code may be used in any software to handle rar archives without limitations free of charge but cannot be used to develop rar winrar compatible archiver and to re create rar compression algorithm which is proprietary,,,,,,,,,,,,
+3,distribution of modified unrar source code in separate form or as a part of other software is permitted provided that full text of this paragraph starting from unrar source code words is included in license or in documentation if license is not available and in source code comments of resulting package,,,,,,,,,,,,
+4,it is allowed to distribute unrar inside of other software packages,,,,,,,,,,,,
+5,the rar archiver and the unrar utility are distributed as is,,,,,,,,,,,,
+6,no warranty of any kind is expressed or implied,,,,,,,,,,,,
+7,the author will not be liable for data loss damages loss of profits or any other kind of loss while using or misusing this software,,,,,,,,,,,,
+8,installing and using the unrar utility signifies acceptance of these terms and conditions of the license,,,,,,,,,,,,
+9,if you dont agree with terms of the license you must remove unrar files from your storage devices and cease to use the utility,,,,,,,,,,,,
+10,thank you for your interest in rar and unrar,,,,,,,,,,,,

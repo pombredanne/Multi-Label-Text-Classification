@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the gnu c library is free software you can redistribute it and or modify it under the terms of the gnu lesser general public license as published by the free software foundation either version 21 of the license or at your option any later version,,,,,,,,,,,,
+2,in addition to the permissions in the gnu lesser general public license the free software foundation gives you unlimited permission to link the compiled version of this file with other programs and to distribute those programs without any restriction coming from the use of this file,,,,,,,,,,,,
+3,the gnu lesser general public license restrictions do apply in other respects for example they cover modification of the file and distribution when not linked into another program,,,,,,,,,,,,
+4,note that people who make modified versions of this file are not obligated to grant this special exception for their modified versions it is their choice whether to do so,,,,,,,,,,,,
+5,the gnu lesser general public license gives permission to release a modified version without this exception this exception also makes it possible to release a modified version which carries forward this exception,,,,,,,,,,,,
+6,the gnu c library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,,,,,,,,,,,,
+7,see the gnu lesser general public license for more details,,,,,,,,,,,,

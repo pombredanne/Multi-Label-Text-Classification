@@ -1,0 +1,15 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,please read the license carefully   it is somewhat like the gnu general public license but there are several conditions in it that differ from what you may be used to,0,1,0,1,0,0,0,0,0,0,0,0
+2,if you have any questions please email the ldp coordinator guylhem aznar,0,0,0,0,0,0,0,0,0,0,0,0
+3,note all linux documentation project manuals are copyrighted by their respective authors,0,0,0,0,0,0,0,0,0,0,0,0
+4,the linux documentation project manuals guides may be reproduced and distributed in whole or in part subject to the following conditions the copyright notice above and this permission notice must be preserved complete on all complete or partial copies,0,1,0,0,0,0,0,1,0,0,0,0
+5,any translation or derivative work of linux installation and getting started must be approved by the author in writing before distribution,0,0,0,0,0,0,0,0,0,0,0,0
+6,if you distribute linux installation and getting started in part instructions for obtaining the complete version of this manual must be included and a means for obtaining a complete version provided,0,0,0,0,0,0,1,0,0,0,0,0
+7,small portions may be reproduced as illustrations for reviews or quotes in other works without this permission notice if proper citation is given,0,0,0,0,0,0,0,1,0,0,0,0
+8,the gnu general public license referenced below may be reproduced under the conditions given within it,0,0,0,0,0,0,0,0,0,0,0,0
+9,exceptions to these rules may be granted for academic purposes write to the author and ask,0,0,0,0,0,0,0,0,0,0,0,0
+10,these restrictions are here to protect us as authors not to restrict you as educators and learners,0,0,0,0,0,0,0,0,0,0,0,0
+11,all source code in linux installation and getting started is placed under the gnu general public license available via anonymous ftp from the gnu archive site,0,1,1,0,0,0,1,0,0,0,0,0
+12,if you are authoring a work the manifesto provides a sample copyright derived from the previous area to utilize if you so desire,0,0,0,0,0,0,0,0,0,0,0,0
+13,there is also a section devoted to publishing ldp manuals,0,0,0,0,0,0,0,0,0,0,0,0
+14,if youre a publishing company interested in distributing any of the ldp manuals please read that particular section,0,0,0,0,0,0,1,0,0,0,0,0

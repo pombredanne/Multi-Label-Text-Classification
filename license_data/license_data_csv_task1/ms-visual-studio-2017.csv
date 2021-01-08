@@ -1,0 +1,157 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,microsoft software license terms microsoft visual studio enterprise 2017 visual studio professional 2017 visual studio test professional 2017 and trial edition these license terms are an agreement between you and microsoft corporation or based on where you live one of its affiliates,0,0,0,0,0,0,0,0,0,0,0,0
+2,the terms also apply to any microsoft services and updates for the software except to the extent those have different terms,0,0,0,0,0,0,0,0,0,0,0,0
+3,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+4,instead return it to the retailer for a refund or credit,0,0,0,0,0,0,0,0,0,0,0,0
+5,if you cannot obtain a refund there contact microsoft about microsoftÃ¢ÂÂs refund policies,0,0,0,0,0,0,0,0,0,0,0,0
+6,in the united states and canada call 800 microsoft or see wwwmicrosoftcom info nareturnshtm,0,0,0,0,0,0,0,0,0,0,0,0
+7,if the software is a trial edition this section applies to your use of the trial edition,0,0,0,0,0,0,0,0,0,0,0,0
+8,you may use any number of copies of the trial edition on your devices,0,0,0,0,0,0,0,0,0,0,0,0
+9,you may only use the trial edition for internal evaluation purposes and only during the trial period,0,0,0,1,0,0,0,0,0,0,0,0
+10,you may not distribute or deploy any applications you make with the trial edition to a production environment,0,0,0,0,0,0,0,0,0,0,0,0
+11,you may run load tests of up to 250 virtual users during the trial period,0,0,0,0,0,0,0,0,0,0,0,0
+12,the trial period lasts for 30 days after you install the trial edition plus any permitted extension period,0,0,0,0,0,0,0,0,0,0,0,0
+13,after the expiration of the trial period the trial edition will stop running,0,0,0,0,0,0,0,0,0,0,0,1
+14,you may extend the trial period an additional 90 days if you sign in to the software,0,0,0,0,0,0,0,0,0,0,0,1
+15,you may not be able to access data used with the trial edition when it stops running,0,0,0,0,0,0,0,0,0,0,0,0
+16,you may convert your trial rights at any time to the full use rights described below by acquiring a valid full use license,0,0,0,0,0,0,0,0,0,0,0,0
+17,the trial edition is licensed Ã¢ÂÂas isÃ¢ÂÂ you bear the risk of using it,0,0,0,0,0,0,0,0,0,0,0,0
+18,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+19,for australia Ã¢ÂÂ you have statutory guarantees under the australian consumer law and nothing in these terms is intended to affect those rights,0,0,0,0,0,0,0,0,0,0,0,0
+20,because the trial edition is Ã¢ÂÂas isÃ¢ÂÂ we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+21,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+22,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+23,this limitation applies to a anything related to the trial version services content including code on third party internet sites or third party programs and b claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,1,1
+24,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,1
+25,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,0,0
+26,full use license terms for the software when you acquire a valid license and either enter a product key or sign in to the software the terms below apply,0,0,0,0,0,0,0,0,0,0,0,0
+27,you may not share your product key or access credentials,0,0,0,0,0,0,0,0,0,0,0,0
+28,the software is licensed on a per user basis,0,0,0,0,0,0,0,0,0,0,0,0
+29,one user may use copies of the software on your devices to develop and test applications,0,0,0,0,0,0,0,0,0,0,0,0
+30,this includes using copies of the software on your own internal servers that remain fully dedicated to your own use,0,0,0,0,0,0,0,0,0,0,0,0
+31,you may not however separate the components of the software and run those in a production environment or on third party devices except as otherwise stated in this agreement or for any purpose other than developing and testing your applications,0,0,0,0,0,0,0,0,0,0,0,0
+32,running the software on microsoft azure requires a separate license,0,0,0,0,0,0,0,0,0,0,0,0
+33,these license terms apply to your use of the workloads made available to you within the software except to the extent a workload or a workload component comes with different terms,0,0,0,0,0,0,0,0,0,0,0,0
+34,the use permitted above includes use of the software in demonstrating your applications,0,0,0,0,0,0,0,0,0,0,0,0
+35,you may make one backup copy of the software for reinstalling the software,0,0,0,0,0,0,0,0,0,0,0,0
+36,the software contains items on the utilities list at https  gomicrosoftcom fwlink ?linkid823097,0,0,0,0,0,0,0,0,0,0,0,0
+37,you may copy and install those items if included with the software onto your devices to debug and deploy your applications and databases you developed with the software,0,0,0,0,0,0,0,0,0,0,0,0
+38,please note that utilities are designed for temporary use that microsoft may not be able to patch or update utilities separately from the rest of the software and that some utilities by their nature may make it possible for others to access the devices on which they are installed,0,1,1,0,0,0,0,0,0,0,0,0
+39,as a result you should delete all utilities you have installed after you finish debugging or deploying your applications and databases,0,0,1,0,0,0,0,0,0,0,0,0
+40,microsoft is not responsible for any third party use or access of utilities you install on any device,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may copy and install files from the software onto your build devices including physical devices and virtual machines or containers on those machines whether on premises or remote machines that are owned by you hosted on azure for you or dedicated solely to your use collectively Ã¢ÂÂbuild devicesÃ¢ÂÂ,1,1,0,0,0,0,0,0,0,0,0,0
+42,you and others in your organization may use these files on your build devices solely to compile build and verify applications or run quality or performance tests of those applications as part of the build process,0,0,0,0,0,0,0,0,0,0,0,0
+43,for clarity Ã¢ÂÂapplicationsÃ¢ÂÂ means applications developed by you and others in your organization who are each licensed to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+44,while the software is running you may use its fonts to display and print content,0,0,0,0,0,0,0,0,0,0,0,0
+45,you may only i embed fonts in content as permitted by the embedding restrictions in the fonts and ii temporarily download them to a printer or other output device to help print content,0,1,0,0,0,0,0,0,0,0,0,0
+46,the software may include components from microsoft windows microsoft windows server microsoft sql server microsoft exchange microsoft office and microsoft sharepoint,0,1,1,0,0,0,0,0,0,0,0,0
+47,these components are governed by separate agreements and their own product support policies as described in the microsoft Ã¢ÂÂlicensesÃ¢ÂÂ folder accompanying the software except that if separate license terms for those components are included in the associated installation directly those license terms control,0,1,0,0,0,0,0,0,1,0,0,0
+48,the software includes compilers languages runtimes environments and other resources,0,0,0,0,0,0,0,0,0,0,0,0
+49,these components may be governed by separate agreements and have their own product support policies,0,0,0,0,0,0,0,0,0,0,0,0
+50,a list of these other components is located at https  supportmicrosoftcom,0,0,0,0,0,0,0,0,0,0,0,0
+51,the software may include third party components with separate legal notices or governed by other agreements as may be described in the thirdpartynotices files accompanying the software,0,0,0,0,0,0,0,0,0,0,0,0
+52,the software includes package managers like nuget that give you the option to download other microsoft and third party software packages to use with your application,0,0,0,0,0,0,0,0,0,0,0,0
+53,those packages are under their own licenses and not this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+54,microsoft does not distribute license or provide any warranties for any of the third party packages,0,0,0,0,0,0,0,0,0,0,0,0
+55,the software contains code that you are permitted to distribute in applications you develop as described in this section,0,1,0,0,0,0,0,0,0,0,0,0
+56,for this section the term Ã¢ÂÂdistributionÃ¢ÂÂ also means deployment of your applications for third parties to access over the internet,0,0,0,0,0,0,0,0,0,0,0,0
+57,the code and text files listed below are Ã¢ÂÂdistributable codeÃ¢ÂÂ redisttxt files,0,0,0,0,0,0,0,0,0,0,0,0
+58,you may copy and distribute the object code form of code listed on the redist list located at https  gomicrosoftcom fwlink ?linkid823097,0,1,0,0,0,0,0,1,0,0,0,0
+59,you may copy modify and distribute the source and object code form of code marked as Ã¢ÂÂsampleÃ¢ÂÂ Ã¢ÂÂtemplateÃ¢ÂÂ Ã¢ÂÂsimple stylesÃ¢ÂÂ and Ã¢ÂÂsketch stylesÃ¢ÂÂ,0,1,1,1,0,0,0,0,0,0,0,0
+60,you may copy and distribute images graphics and animations in the image library as described in the software documentation,0,1,0,0,0,0,0,0,0,0,0,0
+61,you may permit distributors of your applications to copy and distribute the distributable code as part of those applications,0,1,0,0,0,0,0,0,0,0,0,0
+62,for any distributable code you distribute you must add significant primary functionality to it in your applications require distributors and external end users to agree to terms that protect the distributable code at least as much as this agreement and indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your applications except to the extent that any claim is based solely on the distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+63,you may not use microsoftÃ¢ÂÂs trademarks in your applicationsÃ¢ÂÂ names or in a way that suggests your applications come from or are endorsed by microsoft or modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+64,an excluded license is one that requires as a condition of use modification or distribution of code that i it be disclosed or distributed in source code form or ii others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0
+65,the software may collect information about you and your use of the software and send that to microsoft,0,0,0,0,0,0,0,0,0,0,0,0
+66,microsoft may use this information to provide services and improve our products and services,0,0,0,0,1,0,0,0,0,0,0,0
+67,you may opt out of many of these scenarios but not all as described in the product documentation,0,0,0,0,0,0,0,0,0,0,0,0
+68,there are also some features in the software that may enable you and microsoft to collect data from users of your applications,0,0,0,0,0,0,0,0,0,0,0,0
+69,if you use these features you must comply with applicable law including providing appropriate notices to users of your applications together with microsoftÃ¢ÂÂs privacy statement,0,0,0,0,0,0,0,0,0,0,0,0
+70,our privacy statement is located at https  gomicrosoftcom fwlink ?linkid824704,0,0,0,0,0,0,0,0,0,0,0,0
+71,you can learn more about data collection and use in the help documentation and our privacy statement,0,0,0,0,0,0,0,0,0,0,0,0
+72,your use of the software operates as your consent to these practices,0,0,0,0,0,0,0,0,0,0,0,0
+73,to the extent microsoft is a processor or subprocessor of personal data in connection with the software microsoft makes the commitments in the european union general data protection regulation terms of the online services terms to all customers effective may 25 2018 at http  gomicrosoftcom ?linkid9840733,0,0,0,0,0,0,0,0,0,0,0,0
+74,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+75,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+76,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+77,you may not work around any technical limitations in the software reverse engineer decompile or disassemble the software or otherwise attempt to derive the source code for the software except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software remove minimize block or modify any notices of microsoft or its suppliers in the software use the software in any way that is against the law share publish rent or lease the software or provide the software as a stand alone offering for others to use,0,1,1,0,0,0,0,0,0,0,0,0
+78,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0
+79,you may not sell software marked as Ã¢ÂÂnfrÃ¢ÂÂ or Ã¢ÂÂnot for resaleÃ¢ÂÂ 9,0,0,0,0,0,0,0,0,0,0,0,0
+80,you may use the software and any prior version on any device,0,0,0,0,0,0,0,0,0,0,0,0
+81,you may create store install run or access in place of the version licensed a copy or instance of a prior version different permitted language version or lower edition,0,0,0,0,0,0,0,0,0,0,0,0
+82,if you acquired the software on a disc or other media your proof of license is the microsoft certificate of authenticity label the accompanying product key and your receipt,0,0,0,0,0,0,0,0,0,0,0,0
+83,if you purchased an online copy of the software your proof of license is the microsoft product key you received with your purchase and your receipt and or being able to access the software service through your microsoft account,0,0,0,0,0,0,0,0,0,0,0,0
+84,if you are a valid licensee of the software you may transfer it and this agreement directly to another party,0,0,0,0,0,0,0,0,0,0,0,0
+85,before the transfer that party must agree that this agreement applies to the transfer and use of the software,0,0,0,0,0,0,0,0,0,0,0,0
+86,the transfer must include the software genuine microsoft product key and if applicable the proof of license label,0,0,0,0,0,0,0,0,0,0,0,0
+87,the transferor must uninstall all copies of the software after transferring it from the device,0,0,0,0,0,0,0,0,0,0,0,0
+88,the transferor may not retain any copies of the genuine microsoft product key to be transferred and may only retain copies of the software if otherwise licensed to do so,0,0,0,0,0,0,0,0,0,0,0,0
+89,if you have acquired a non perpetual license to use the software or if the software is marked not for resale you may not transfer the software or the software license agreement to another party,1,0,0,0,0,0,0,0,0,0,0,0
+90,you must comply with all domestic and international export laws and regulations that apply to the software which include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+91,for further information on export restrictions visit wwwmicrosoftcom exporting,0,0,0,0,0,0,0,0,0,0,0,0
+92,microsoft provides support for the software as described at https  supportmicrosoftcom,0,0,0,0,0,0,0,0,0,0,0,1
+93,this agreement including the warranty below and the terms for supplements updates internet based services and support services are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+94,if you acquired the software in the united states washington state law applies to interpretation of and claims for breach of this agreement and the laws of the state where you live apply to all other claims,0,0,0,0,0,0,0,0,0,0,0,0
+95,if you acquire the software in any other country its laws apply,0,0,0,0,0,0,0,0,0,0,0,0
+96,you may have other rights including consumer rights under the laws of your state or country,0,0,0,0,0,0,0,0,0,0,0,0
+97,separate and apart from your relationship with microsoft you may also have rights with respect to the party from which you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+98,this agreement does not change those other rights if the laws of your state or country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0
+99,for example if you acquired the software in one of the below regions or if mandatory country law applies then the following provisions apply to you a australia,0,0,0,0,0,0,0,0,0,0,0,0
+100,references to Ã¢ÂÂlimited warrantyÃ¢ÂÂ mean the express warranty provided by microsoft or the manufacturer or installer,0,0,0,0,0,0,0,0,0,0,0,1
+101,this warranty is in addition to other rights and remedies you may have under law including your rights and remedies under the statutory guarantees in the australian consumer law,0,0,0,0,0,0,0,0,0,0,0,1
+102,in this section Ã¢ÂÂgoodsÃ¢ÂÂ refers to the software for which microsoft or the manufacturer or installer provides the express warranty,0,0,0,0,0,0,0,0,0,0,0,1
+103,our goods come with guarantees that cannot be excluded under the australian consumer law,0,0,0,0,0,0,0,0,0,0,0,0
+104,you are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage,0,0,0,0,0,0,0,0,0,0,1,0
+105,you are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure,0,0,0,0,0,0,0,0,0,0,1,0
+106,if you acquired this software in canada you may stop receiving updates by turning off the automatic update feature disconnecting your device from the internet if and when you re connect to the internet however the software will resume checking for and installing updates or uninstalling the software,0,0,0,0,0,0,0,0,0,0,0,0
+107,the product documentation if any may also specify how to turn off updates for your specific device or software,0,0,0,0,0,0,0,0,0,0,0,0
+108,the properly licensed software will perform substantially as described in any microsoft materials that accompany it,0,0,0,0,0,0,0,0,0,0,0,0
+109,however microsoft gives no contractual guarantee in relation to the software,0,0,0,0,0,0,0,0,0,0,0,0
+110,in case of intentional conduct gross negligence claims based on the product liability act and death or personal or physical injury microsoft is liable according to the statutory law,0,0,0,0,0,0,0,0,0,0,1,1
+111,subject to the foregoing clause ii microsoft will only be liable for slight negligence if microsoft is in breach of such material contractual obligations the fulfillment of which facilitate the due performance of this agreement the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in so called cardinal obligations,0,0,0,0,0,0,0,0,0,0,1,0
+112,in other cases of slight negligence microsoft will not be liable for slight negligence,0,0,0,0,0,0,0,0,0,0,1,0
+113,you can recover from microsoft and its suppliers only direct damages up to the amount you paid for the software,0,1,0,0,0,0,0,0,0,0,0,0
+114,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+115,this limitation applies to a anything related to the software services content including code on third party internet sites or third party applications and b claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+116,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,0,1
+117,the above limitation or exclusion may not apply to you because your state or country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+118,if you follow the instructions the software will perform substantially as described in the microsoft materials that you receive in or with the software,0,0,0,0,0,0,0,0,0,0,0,0
+119,references to Ã¢ÂÂlimited warrantyÃ¢ÂÂ are references to the express warranty provided by microsoft,0,0,0,0,0,0,0,0,0,0,0,1
+120,this warranty is given in addition to other rights and remedies you may have under law including your rights and remedies in accordance with the statutory guarantees under local consumer law,0,0,0,0,0,0,0,0,0,0,0,0
+121,term of warranty warranty recipient length of any implied warranties,0,0,0,0,0,0,0,0,0,0,0,1
+122,the limited warranty covers the software for one year after acquired by the first user,0,0,0,0,0,0,0,0,0,0,0,1
+123,if you receive supplements updates or replacement software during that year they will be covered for the remainder of the warranty or 30 days whichever is longer,0,0,0,0,0,0,0,0,0,0,0,1
+124,if the first user transfers the software the remainder of the warranty will apply to the recipient,0,0,0,0,0,0,0,0,0,0,0,1
+125,to the extent permitted by law any implied warranties guarantees or conditions last only during the term of the limited warranty,0,0,0,0,0,0,0,0,0,0,0,1
+126,some states do not allow limitations on how long an implied warranty lasts so these limitations may not apply to you,0,0,0,0,0,0,0,0,0,0,0,1
+127,they also might not apply to you because some countries may not allow limitations on how long an implied warranty guarantee or condition lasts,0,0,0,0,0,0,0,0,0,0,0,1
+128,this warranty does not cover problems caused by your acts or failures to act the acts of others or events beyond microsoftÃ¢ÂÂs reasonable control,0,0,0,0,0,0,0,0,0,0,1,1
+129,microsoft will repair or replace the software at no charge,0,0,0,0,0,0,0,0,0,0,0,1
+130,if microsoft cannot repair or replace it microsoft will refund the amount shown on your receipt for the software,0,0,0,0,0,0,0,0,0,0,0,0
+131,it will also repair or replace supplements updates and replacement software at no charge,0,0,0,0,0,0,0,0,0,0,0,0
+132,if microsoft cannot repair or replace them it will refund the amount you paid for them if any,0,0,0,0,0,0,0,0,0,0,0,0
+133,you must uninstall the software and return any media and other associated materials to microsoft with proof of purchase to obtain a refund,0,1,0,0,0,0,0,0,0,0,0,0
+134,these are your only remedies for breach of the limited warranty,0,0,0,0,0,0,0,0,0,0,0,0
+135,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+136,for warranty service or information about how to obtain a refund for software acquired in the united states and canada contact microsoft at 800 microsoft microsoft customer service and support one microsoft way redmond wa 98052 6399 or visit akams nareturns,0,0,0,0,0,0,0,0,0,0,0,1
+137,if you acquired the software in europe the middle east or africa microsoft ireland operations limited makes this limited warranty,0,0,0,0,0,0,0,0,0,0,0,1
+138,to make a claim under this warranty you should contact either microsoft ireland operations limited customer care centre atrium building block b carmanhall road sandyford industrial estate dublin 18 ireland or the microsoft affiliate serving your country see akams msoffices,0,0,0,0,0,0,0,0,0,0,0,1
+139,for warranty services and to claim expenses in relation to the warranty if applicable for software acquired in australia contact microsoft at 13 20 58 or microsoft pty ltd 1 epping road north ryde nsw 2113 australia,0,0,0,0,0,0,0,0,0,0,0,1
+140,outside the united states canada europe middle east africa and australia,0,0,0,0,0,0,0,0,0,0,0,0
+141,if you acquired the software outside the united states canada europe the middle east africa and australia contact the microsoft affiliate serving your country see akams msoffices,0,0,0,0,0,0,0,0,0,0,0,0
+142,the limited warranty is the only direct warranty from microsoft,0,0,0,0,0,0,0,0,0,0,0,1
+143,microsoft gives no other express warranties guarantees or conditions,0,0,0,0,0,0,0,0,0,0,0,1
+144,where allowed by your local laws microsoft excludes implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+145,if your local laws give you any implied warranties guarantees or conditions despite this exclusion your remedies are described in the remedy for breach of warranty clause above to the extent permitted by your local laws,0,0,0,0,0,0,0,0,0,0,0,1
+146,references to Ã¢ÂÂlimited warrantyÃ¢ÂÂ are references to the warranty provided by microsoft,0,0,0,0,0,0,0,0,0,0,0,1
+147,this warranty is given in addition to other rights and remedies you may have under law including your rights and remedies in accordance with the statutory guarantees under the australian consumer law,0,0,0,0,0,0,0,0,0,0,0,0
+148,our goods come with guarantees that cannot be excluded under the australian consumer law,0,0,0,0,0,0,0,0,0,0,0,0
+149,you are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage,0,0,0,0,0,0,0,0,0,0,1,0
+150,you are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure,0,0,0,0,0,0,0,0,0,0,1,0
+151,goods presented for repair may be replaced by refurbished goods of the same type rather than being replaced,0,0,0,0,0,0,0,0,0,0,0,0
+152,refurbished parts may be used to repair the goods,0,0,0,0,0,0,0,0,0,0,0,0
+153,h limitation on and exclusion of damages for breach of warranty,0,0,0,0,0,0,0,0,0,0,1,1
+154,the limitation on and exclusion of damages clause above applies to breaches of this limited warranty,0,0,0,0,0,0,0,0,0,0,1,1
+155,this warranty gives you specific legal rights and you may also have other rights which vary from state to state,0,0,0,0,0,0,0,0,0,0,0,0
+156,you may also have other rights which vary from country to country,0,0,0,0,0,0,0,0,0,0,0,0

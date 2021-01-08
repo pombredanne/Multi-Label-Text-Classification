@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use of this effect in source form with or without modification are permitted provided that the following conditions are met use of source on commercial for profit website requires one time license fee per domain,1,1,1,1,0,0,0,0,0,0,0,0
+2,non commercial personal website use is permitted without license payment!,0,0,0,1,0,0,0,0,0,0,0,0
+3,redistribution of source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0
+4,redistribution of source code and derived works cannot be sold without specific written prior permission,0,0,0,0,0,1,0,0,0,0,0,0
+5,this software is provided by the copyright holders and contributors as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

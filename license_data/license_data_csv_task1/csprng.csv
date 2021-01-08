@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution of the csprng modules and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+2,redistributions of source code must retain the above copyright notice and this permission notice in its entirety,0,0,0,0,0,0,0,1,0,0,0,0
+3,redistributions in binary form must reproduce the copyright notice in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0

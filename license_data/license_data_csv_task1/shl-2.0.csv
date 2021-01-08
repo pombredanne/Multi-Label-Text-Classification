@@ -1,0 +1,13 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this licence the Ã¢ÂÂlicenceÃ¢ÂÂ operates as a wraparound licence to the apache license version 20 the Ã¢ÂÂapache licenseÃ¢ÂÂ and grants to you the rights and imposes the obligations set out in the apache license which can be found here http  apacheorg licenses license 20 with the following extensions,0,0,0,0,0,0,0,0,0,0,0,0
+2,it must be read in conjunction with the apache license,0,0,0,0,0,0,0,0,0,0,0,0
+3,section 1 below modifies definitions in the apache license and section 2 below replaces sections 2 of the apache license,0,0,0,0,0,0,0,0,0,0,0,0
+4,you may at your option choose to treat any work released under this license as released under the apache license thus ignoring all sections written below entirely,0,0,0,0,0,0,0,0,0,0,0,0
+5,words in italics indicate changes rom the apache license but are indicative and not to be taken into account in interpretation,0,0,0,0,0,0,0,0,0,0,0,0
+6,the definitions set out in the apache license are modified as follows copyright any reference to Ã¢ÂÂcopyrightÃ¢ÂÂ whether capitalised or not includes Ã¢ÂÂrightsÃ¢ÂÂ as defined below,0,0,0,0,0,0,0,0,0,0,0,0
+7,contribution also includes any design as well as any work of authorship,0,0,0,0,0,0,0,0,0,0,0,0
+8,derivative works shall not include works that remain reversibly separable from or merely link or bind by name or physically connect to or interoperate with the interfaces of the work and derivative works thereof,0,0,0,0,0,0,0,0,0,0,0,0
+9,object form shall mean any form resulting from mechanical transformation or translation of a source form or the application of a source form to physical material including but not limited to compiled object code generated documentation the instantiation of a hardware design or physical object and conversions to other media types including intermediate forms such as bytecodes fpga bitstreams moulds artwork and semiconductor topographies mask works,0,0,0,0,0,0,0,0,0,0,0,0
+10,rights means copyright and any similar right including design right whether registered or unregistered semiconductor topography mask rights and database rights but excluding patents and trademarks,0,0,0,0,1,0,0,0,0,0,0,0
+11,source form shall mean the preferred form for making modifications including but not limited to source code net lists board layouts cad files documentation source and configuration files,0,0,0,0,0,0,1,0,0,0,0,0
+12,work also includes a design or work of authorship whether in source form or other object form,0,0,0,0,0,0,0,0,0,0,0,0

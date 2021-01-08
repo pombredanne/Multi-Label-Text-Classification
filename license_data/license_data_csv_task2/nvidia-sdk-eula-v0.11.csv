@@ -1,0 +1,85 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,license grant subject to the terms of this agreement nvidia hereby grants you a non exclusive nontransferable license without the right to sublicense except as expressly provided in this agreement to 1,0,0,0,1,0,0,0,0,0,0,0,0,1
+2,modify and create derivative works of sample source code delivered in the sdk and 3,0,0,0,0,0,0,1,1,0,0,0,0,1
+3,distribute those portions of the sdk that are identified in this agreement as distributable as incorporated in object code format into a software application that meets the distribution requirements indicated in this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,distribution requirements these are the distribution requirements for you to exercise the distribution grant 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,your application must have material additional functionality beyond the included portions of the sdk,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,the distributable portions of the sdk shall only be accessed by your application,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,the following notice shall be included in modifications and derivative works of sample source code distributed ÃÂ¢ÃÂÃÂthis software contains source code provided by nvidia corporationÃÂ¢ÃÂÃÂ 4,0,0,0,0,0,0,0,1,0,0,0,0,1
+8,unless a developer tool is identified in this agreement as distributable it is delivered for your internal use only,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,the terms under which you distribute your application must be consistent with the terms of this agreement including without limitation terms relating to the license grant and license restrictions and protection of nvidiaÃÂ¢ÃÂÃÂs intellectual property rights,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,additionally you agree that you will protect the privacy security and legal rights of your application users,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,you agree to notify nvidia in writing of any known or suspected distribution or use of the sdk not in compliance with the requirements of this agreement and to enforce the terms of your agreements with respect to distributed sdk,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,authorized users you may allow employees and contractors of your entity or of your subsidiaryies to access and use the sdk from your secure network to perform work on your behalf,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,if you are an academic institution you may allow users enrolled or employed by the academic institution to access and use the sdk from your secure network,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,you are responsible for the compliance with the terms of this agreement by your authorized users,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,if you become aware that your authorized users didnÃÂ¢ÃÂÃÂt follow the terms of this agreement you agree to take reasonable steps to resolve the noncompliance and prevent new occurrences,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,pre release sdk the sdk versions identified as alpha beta preview or otherwise as pre release may not be fully functional may contain errors or design flaws and may have reduced or different security privacy accessibility availability and reliability standards relative to commercial versions of nvidia software and materials,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,use of a pre release sdk may result in unexpected results loss of data project delays or other unpredictable damage or loss,0,0,0,0,0,0,0,0,0,0,1,0,1
+18,you may use a pre release sdk at your own risk understanding that pre release sdks are not intended for use in production or business critical systems,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,nvidia may choose not to make available a commercial version of any pre release sdk,1,0,0,0,0,0,0,0,0,0,0,0,1
+20,nvidia may also choose to abandon development and terminate the availability of a pre release sdk at any time without liability,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,updates nvidia may at its option make available patches workarounds or other updates to this sdk,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,unless the updates are provided with their separate governing terms they are deemed part of the sdk licensed to you as provided in this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,you agree that the form and content of the sdk that nvidia provides may change without prior notice to you,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,while nvidia generally maintains compatibility between versions nvidia may in some cases make changes that introduce incompatibilities in future versions of the sdk,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,third party licenses the sdk may come bundled with or otherwise include or be distributed with third party software licensed by a nvidia supplier and or open source software provided under an open source license,0,0,0,0,0,0,0,0,1,0,0,0,1
+26,use of third party software is subject to the third party license terms or in the absence of third party terms the terms of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,copyright to third party software is held by the copyright holders indicated in the third  party software or license,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,reservation of rights nvidia reserves all rights title and interest in and to the sdk not expressly granted to you under this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,limitations the following license limitations apply to your use of the sdk 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,you may not reverse engineer decompile or disassemble or remove copyright or other proprietary notices from any portion of the sdk or copies of the sdk,0,0,0,0,0,1,0,1,0,0,0,0,1
+31,except as expressly provided in this agreement you may not copy sell rent sublicense transfer distribute modify or create derivative works of any portion of the sdk,1,1,1,1,0,0,0,0,0,0,0,0,1
+32,for clarity you may not distribute or sublicense the sdk as a stand alone product,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,unless you have an agreement with nvidia for this purpose you may not indicate that an application created with the sdk is sponsored or endorsed by nvidia,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,you may not bypass disable or circumvent any encryption security digital rights management or authentication mechanism in the sdk,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,you may not use the sdk in any manner that would cause it to become subject to an open source software license,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,as examples licenses that require as a condition of use modification and or distribution that the sdk be a,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,licensed for the purpose of making derivative works or c redistributable at no charge,1,0,0,0,0,0,0,0,0,0,0,0,1
+38,unless you have an agreement with nvidia for this purpose you may not use the sdk with any system or application where the use or failure of the system or application can reasonably be expected to threaten or result in personal injury death or catastrophic loss,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,examples include use in avionics navigation military medical life support or other life critical applications,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,nvidia does not design test or manufacture the sdk for these critical uses and nvidia shall not be liable to you or any third party in whole or in part for any claims or damages arising from such uses,0,0,0,0,0,0,0,0,0,0,1,0,0
+41,you agree to defend indemnify and hold harmless nvidia and its affiliates and their respective employees contractors agents officers and directors from and against any and all claims damages obligations losses liabilities costs or debt fines restitutions and expenses including but not limited to attorneyÃÂ¢ÃÂÃÂs fees and costs incident to establishing the right of indemnification arising out of or related to your use of the sdk outside of the scope of this agreement or not in compliance with its terms,0,1,0,0,0,0,0,0,0,0,1,0,0
+42,nvidia or its licensors hold all rights title and interest in and to the sdk and its modifications and derivative works including their respective intellectual property rights subject to your rights described in this section,0,1,1,0,0,0,0,0,0,0,0,0,0
+43,this sdk may include software and materials from nvidiaÃÂ¢ÃÂÃÂs licensors and these licensors are intended third party beneficiaries that may enforce this agreement with respect to their intellectual property rights,0,1,0,0,0,0,0,0,0,0,0,0,0
+44,you hold all rights title and interest in and to your applications and your derivative works of the sample source code delivered in the sdk including their respective intellectual property rights subject to nvidiaÃÂ¢ÃÂÃÂs rights described in this section,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,you may but donÃÂ¢ÃÂÃÂt have to provide to nvidia suggestions feature requests or other feedback regarding the sdk including possible enhancements or modifications to the sdk,0,0,0,0,0,0,0,0,0,0,0,0,1
+46,for any feedback that you voluntarily provide you hereby grant nvidia and its affiliates a perpetual non exclusive worldwide irrevocable license to use reproduce modify license sublicense through multiple tiers of sublicensees and distribute through multiple tiers of distributors it without the payment of any royalties or fees to you,0,1,0,0,0,0,0,0,0,0,0,0,1
+47,nvidia is constantly looking for ways to improve its products so you may send feedback to nvidia through the developer portal at https   developernvidiacom,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,no warranties the sdk is provided by nvidia ÃÂ¢ÃÂÃÂas isÃÂ¢ÃÂÃÂ and ÃÂ¢ÃÂÃÂwith all faultsÃÂ¢ÃÂÃÂ to the maximum extent permitted by law nvidia and its affiliates expressly disclaim all warranties of any kind or nature whether express implied or statutory including but not limited to any warranties of merchantability fitness for a particular purpose title non infringement or the absence of any defects therein whether latent or patent,0,0,0,0,0,0,0,0,0,0,0,1,0
+49,no warranty is made on the basis of trade usage course of dealing or course of trade,0,0,0,0,0,0,0,0,0,0,0,1,0
+50,limitation of liability to the maximum extent permitted by law nvidia and its affiliates shall not be liable for any special incidental punitive or consequential damages or any lost profits loss of use loss of data or loss of goodwill or the costs of procuring substitute products arising out of or in connection with this agreement or the use or performance of the sdk whether such liability arises from any claim based upon breach of contract breach of warranty tort including negligence product liability or any other cause of action or theory of liability,0,0,0,0,0,0,0,0,0,0,1,0,0
+51,in no event will nvidiaÃÂ¢ÃÂÃÂs and its affiliates total cumulative liability under or arising out of this agreement exceed us$1000,0,0,0,0,0,0,0,0,0,0,1,0,0
+52,the nature of the liability or the number of claims or suits shall not enlarge or extend this limit,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,these exclusions and limitations of liability shall apply regardless if nvidia or its affiliates have been advised of the possibility of such damages and regardless of whether a remedy fails its essential purpose,0,0,0,0,0,0,0,0,0,0,1,0,0
+54,these exclusions and limitations of liability form an essential basis of the bargain between the parties and absent any of these exclusions or limitations of liability the provisions of this agreement including without limitation the economic terms would be substantially different,0,0,0,0,0,0,0,0,0,0,1,0,0
+55,this agreement will continue to apply until terminated by either you or nvidia as described below,0,0,0,0,0,0,0,0,0,0,0,0,1
+56,if you want to terminate this agreement you may do so by stopping to use the sdk,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,nvidia may at any time terminate this agreement if a,0,0,0,0,0,0,0,0,0,0,0,0,1
+58,i you fail to comply with any term of this agreement and the non compliance is not fixed within thirty 30 days following notice from nvidia or immediately if you violate nvidiaÃÂ¢ÃÂÃÂs intellectual property rights b,0,0,0,0,0,0,0,0,0,0,1,0,0
+59,ii you commence or participate in any legal proceeding against nvidia with respect to the sdk or c iii nvidia decides to no longer provide the sdk in a country or in nvidiaÃÂ¢ÃÂÃÂs sole discretion the continued use of it is no longer commercially viable,0,0,0,0,0,0,0,0,0,0,0,0,1
+60,upon any termination of this agreement you agree to promptly discontinue use of the sdk and destroy all copies in your possession or control,0,0,0,0,0,0,0,0,0,0,0,0,1
+61,your prior distributions in accordance with this agreement are not affected by the termination of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,upon written request you will certify in writing that you have complied with your commitments under this section,0,0,0,0,0,0,0,0,1,0,0,0,0
+63,upon any termination of this agreement all provisions survive except for the license grant provisions,0,0,0,0,0,0,0,0,0,0,1,0,1
+64,general if you wish to assign this agreement or your rights and obligations including by merger consolidation dissolution or operation of law contact nvidia to ask for permission,0,0,0,0,0,0,0,0,0,0,0,0,1
+65,any attempted assignment not approved by nvidia in writing shall be void and of no effect,0,0,0,0,0,0,0,0,0,0,1,0,0
+66,nvidia may assign delegate or transfer this agreement and its rights and obligations and if to a non affiliate you will be notified,0,0,0,0,0,0,0,0,0,0,1,0,1
+67,you agree to cooperate with nvidia and provide reasonably requested information to verify your compliance with this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+68,this agreement will be governed in all respects by the laws of the united states and of the state of delaware as those laws are applied to contracts entered into and performed entirely within delaware by delaware residents without regard to the conflicts of laws principles,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,the united nations convention on contracts for the international sale of goods is specifically disclaimed,0,0,0,0,0,0,0,0,0,0,1,0,0
+70,you agree to all terms of this agreement in the english language,0,0,0,0,0,0,0,0,0,0,0,0,1
+71,the state or federal courts residing in santa clara county california shall have exclusive jurisdiction over any dispute or claim arising out of this agreement,0,0,0,0,0,0,0,0,0,0,1,0,0
+72,notwithstanding this you agree that nvidia shall still be allowed to apply for injunctive remedies or an equivalent type of urgent legal relief in any jurisdiction,0,0,0,0,0,0,0,0,0,0,1,0,0
+73,if any court of competent jurisdiction determines that any provision of this agreement is illegal invalid or unenforceable such provision will be construed as limited to the extent necessary to be consistent with and fully enforceable under the law and the remaining provisions will remain in full force and effect,0,0,0,0,0,0,0,0,0,0,1,0,0
+74,each party acknowledges and agrees that the other is an independent contractor in the performance of this agreement,0,0,0,0,0,0,0,0,0,0,1,0,0
+75,the sdk has been developed entirely at private expense and is ÃÂ¢ÃÂÃÂcommercial itemsÃÂ¢ÃÂÃÂ consisting of ÃÂ¢ÃÂÃÂcommercial computer softwareÃÂ¢ÃÂÃÂ and ÃÂ¢ÃÂÃÂcommercial computer software documentationÃÂ¢ÃÂÃÂ provided with restricted rights,0,0,0,0,0,0,0,0,0,0,0,0,1
+76,use duplication or disclosure by the us government or a us government subcontractor is subject to the restrictions in this agreement pursuant to dfars 2277202 3a or as set forth in subparagraphs c1 and 2 of the commercial computer software   restricted rights clause at far 52227 19 as applicable,0,0,0,0,0,0,0,0,0,0,0,0,1
+77,contractor manufacturer is nvidia 2788 san tomas expressway santa clara ca 95051,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,the sdk is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,you agree that you will not ship transfer or export the sdk into any country or use the sdk in any manner prohibited by the united states bureau of industry and security or economic sanctions regulations administered by the us department of treasuryÃÂ¢ÃÂÃÂs office of foreign assets control ofac or any applicable export laws restrictions or regulations,0,0,0,0,0,0,0,0,0,0,0,0,1
+80,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0,1
+81,by accepting this agreement you confirm that you are not a resident or citizen of any country currently embargoed by the us and that you are not otherwise prohibited from receiving the sdk,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,any notice delivered by nvidia to you under this agreement will be delivered via mail email or fax,0,0,0,0,0,0,0,0,0,0,0,0,1
+83,you agree that any notices that nvidia sends you electronically will satisfy any legal communication requirements,0,0,0,0,0,0,0,0,0,0,0,0,1
+84,please direct your legal notices or other correspondence to nvidia corporation 2788 san tomas expressway santa clara california 95051 united states of america attention legal department,0,0,0,0,0,0,0,0,0,0,0,0,1

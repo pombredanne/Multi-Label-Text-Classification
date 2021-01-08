@@ -1,0 +1,37 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,you may copy and use the firmware subject to these conditions 1,0,0,0,0,0,0,0,0,0,0,0,0
+2,this firmware is licensed for use only in conjunction with hauppauge component products,0,0,0,0,0,0,0,0,0,0,0,0
+3,use of the firmware in conjunction with non hauppauge component products is not licensed hereunder,0,0,0,0,0,0,0,0,0,0,0,0
+4,you may not copy modify rent sell distribute or transfer any part of the firmware except as provided in this agreement and you agree to prevent unauthorized copying of the firmware,1,1,1,1,0,0,0,0,0,0,0,0
+5,you may not reverse engineer decompile or disassemble the firmware,0,0,0,0,0,0,0,0,0,0,0,0
+6,the firmware may contain the firmware or other property of third party suppliers,0,0,0,0,0,0,0,0,0,0,0,0
+7,except as expressly provided herein you shall not use hauppauges name in any publications advertisements or other announcements without hauppauges prior written consent,0,0,0,0,0,1,0,0,0,0,0,0
+8,you do not have any rights to use any hauppauge trademarks or logos,0,0,0,0,0,1,0,0,0,0,0,0
+9,title to all copies of the firmware remains with hauppauge or its suppliers,0,0,0,0,0,0,0,0,0,0,0,0
+10,the firmware is copyrighted and protected by the laws of the united states and other countries and international treaty provisions,0,0,0,0,0,0,0,0,0,0,0,0
+11,you may not remove any copyright notices from the firmware,0,0,0,0,0,0,0,1,0,0,0,0
+12,hauppauge may make changes to the firmware or items referenced therein at any time without notice but is not obligated to support or update the firmware,0,0,0,0,0,0,0,0,0,0,0,0
+13,except as otherwise expressly provided hauppauge grants no express or implied right under hauppauge patents copyrights trademarks or other intellectual property rights,0,0,0,0,1,1,0,0,0,0,0,0
+14,you may transfer the firmware only if a copy of this license accompanies the firmware and the recipient agrees to be fully bound by these terms,0,0,0,0,0,0,0,0,0,0,0,0
+15,the firmware is provided as is and possibly with faults,0,0,0,0,0,0,0,0,0,0,0,0
+16,unless expressly agreed otherwise hauppauge and its suppliers and licensors disclaim any and all warranties and guarantees express implied or otherwise including but not limited to the warranties of merchantability noninfringement or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,0
+17,hauppauge does not warrant or assume responsibility for the accuracy or completeness of any information text graphics links or other items contained within the firmware,0,0,0,0,0,0,0,0,0,0,0,0
+18,you assume all liability financial or otherwise associated with your use or disposition of the firmware,0,0,0,0,0,0,0,0,0,0,0,0
+19,in no event shall hauppauge or its suppliers and licensors be liable for any damages whatsoever from any cause of action of any kind including without limitation lost profits business interruption or lost information arising out of the use modification or inability to use the firmware or otherwise nor for punitive incidental consequential or special damages of any kind even if hauppauge or its suppliers and licensors have been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0
+20,some jurisdictions prohibit exclusion or limitation of liability for implied warranties or consequential or incidental damages so certain limitations may not apply,0,0,0,0,0,0,0,0,0,0,1,0
+21,you may also have other legal rights that vary between jurisdictions,0,0,0,0,0,0,0,0,0,0,0,0
+22,no modification amendment or waiver of any provision of this agreement shall be effective unless in writing and signed by an officer of hauppauge,0,0,0,0,0,0,0,0,0,0,1,0
+23,no failure or delay in exercising any right power or remedy under this agreement shall operate as a waiver of any such right power or remedy,0,0,0,0,0,0,0,0,0,0,1,0
+24,without limiting the foregoing terms and conditions on any purchase orders or similar materials submitted by you to hauppauge and any terms contained in hauppauges standard acknowledgment form that are in conflict with these terms shall be of no force or effect,0,0,0,0,0,0,0,0,0,0,0,0
+25,if any provision of this agreement is held by a court of competent jurisdiction to be contrary to law such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provisions of this agreement shall remain in full force and effect,0,0,0,0,0,0,0,0,0,0,0,0
+26,each party acknowledges that the firmware is subject to applicable import and export regulations of the united states and of the countries in which each party transacts business specifically including us,0,0,0,0,0,0,0,0,0,0,0,0
+27,each party shall comply with such laws and regulations as well as all other laws and regulations applicable to the firmware,0,0,0,0,0,0,0,0,0,0,0,0
+28,without limiting the generality of the foregoing each party agrees that it will not export re export transfer or divert any of the firmware or the direct programs thereof to any restricted place or party in accordance with us export regulations,0,0,0,0,0,0,0,0,0,0,0,0
+29,note that firmware containing encryption may be subject to additional restrictions,0,0,0,0,0,0,0,0,0,0,0,0
+30,claims arising under this agreement shall be governed by the laws of new york excluding its principles of conflict of laws and the united nations convention on contracts for the sale of goods,0,0,0,0,0,0,0,0,0,0,1,0
+31,you may not export the firmware in violation of applicable export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+32,hauppauge is not obligated under any other agreements unless they are in writing and signed by an authorized representative of hauppauge,0,0,0,0,0,0,0,0,0,0,0,0
+33,use duplication or disclosure by the government is subject to restrictions as set forth in far52227 14 and dfar252227 7013 et seq,0,1,0,0,0,0,0,0,0,0,0,0
+34,use of the firmware by the government constitutes acknowledgment of hauppauges proprietary rights therein,0,0,0,0,0,0,0,0,0,0,0,0
+35,contractor or manufacturer is hauppauge computer works inc 91 cabot court hauppauge ny 11788 termination of this agreement,0,0,0,0,0,0,0,0,0,0,0,1
+36,hauppauge may terminate this agreement at any time if you violate its terms,0,0,0,0,0,0,0,0,0,0,1,0

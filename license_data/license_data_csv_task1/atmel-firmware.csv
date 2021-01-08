@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use of the microcode software  firmware  is permitted provided that the following conditions are met 1,0,0,0,0,0,0,0,0,0,0,0,0
+2,any reproduction of firmware must contain the above copyright notice this list of conditions and the below disclaimer in the documentation and or other materials provided with the distribution and 3,0,0,0,0,0,0,0,1,0,0,0,0
+3,the name of atmel corporation may not be used to endorse or promote products derived from this firmware without specific prior written consent,0,0,0,0,0,1,0,0,0,0,0,0
+4,disclaimer atmel provides this firmware as is with no warranties or indemnities whatsoever,0,0,0,0,0,0,0,0,0,0,0,1
+5,atmel expressly disclaims any express statutory or implied warranties including but not limited to the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,1
+6,in no event shall atmel be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this firmware even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0

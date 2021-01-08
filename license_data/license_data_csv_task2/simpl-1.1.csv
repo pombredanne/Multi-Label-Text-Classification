@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,permission to use copy modify and distribute this software and its documentation with or without modification for any purpose and without fee or royalty is hereby granted provided that you include the following on all copies of the software and documentation or portions thereof including modifications that you make a,1,1,1,1,0,0,0,0,0,0,0,0,1
+2,the full text of this license in a location viewable to users of the redistributed or derivative work,0,1,0,0,0,0,0,1,0,0,0,0,1
+3,notice of any changes or modifications to the files including the date changes were made,0,0,0,0,0,0,0,0,0,1,0,0,1
+4,the name servicemarks and trademarks of the copyright holders may not be used in advertising or publicity pertaining to the software without specific written prior permission,0,0,0,0,0,1,0,0,0,0,0,0,0
+5,title to copyright in this software and any associated documentation will at all times remain with copyright holders,0,0,0,0,0,0,0,1,0,0,0,0,1
+6,this software and documentation is provided as is and copyright holders make no representations or warranties express or implied including but not limited to warranties of merchantability or fitness for any particular purpose or that the use of the software or documentation will not infringe any third party patents copyrights trademarks or other rights,0,0,0,0,0,0,0,0,0,0,0,1,0

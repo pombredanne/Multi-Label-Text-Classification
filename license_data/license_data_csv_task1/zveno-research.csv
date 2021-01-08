@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,zveno makes this software available free of charge for any purpose,0,0,0,0,0,0,0,0,0,0,0,0
+2,this software may be copied and distributed with or without modifications but this notice must be included on any copy,0,1,1,0,0,0,0,1,0,0,0,0
+3,the software was developed for research purposes only and zveno does not warrant that it is error free or fit for any purpose,1,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use of this software and associated documentation software with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+2,redistributions of source code must retain copyright statements and notices,0,0,0,0,0,0,0,1,0,0,0,0
+3,redistributions must also contain a copy of this document,0,0,0,0,0,0,0,0,0,0,0,0
+4,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0
+5,the name dom4j must not be used to endorse or promote products derived from this software without prior written permission of metastuff ltd for written permission please contact dom4j info@metastuffcom,0,0,0,0,0,1,0,0,0,0,0,0
+6,products derived from this software may not be called dom4j nor may dom4j appear in their names without prior written permission of metastuff ltd dom4j is a registered trademark of metastuff ltd 5,0,0,0,0,0,1,0,0,0,0,0,0
+7,due credit should be given to the dom4j project   http  wwwdom4jorg this software is provided by metastuff ltd and contributors ``as is and any expressed or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,23 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,libgeotiff licensing all the source code in this toolkit are either in the public domain or under an x style license,0,0,0,0,0,0,0,0,0,0,0,0
+2,in any event it is all considered to be free to use for any purpose including commercial software,1,0,0,0,0,0,0,0,0,0,0,0
+3,no credit is required though some of the code requires that the specific source code modules retain their existing copyright statements,0,0,0,0,0,0,0,0,0,0,0,0
+4,the csv files and other tables derived from the epsg coordinate system database are also free to use,0,1,0,0,0,0,0,0,0,0,0,0
+5,in particular no part of this code is copyleft nor does it imply any requirement for users to disclose this or their own source code,0,0,0,0,0,0,0,0,0,0,0,0
+6,all components not carrying their own copyright message but distributed with libgeotiff should be considered to be under the same license as niles code,0,0,0,0,0,0,0,0,0,0,0,0
+7,          code by frank warmerdam has this copyright notice directly copied from x consortium licence copyright c 1999 frank warmerdam permission is hereby granted free of charge to any person obtaining a copy of this software and associated documentation files the software to deal in the software without restriction including without limitation the rights to use copy modify merge publish distribute sublicense and or sell copies of the software and to permit persons to whom the software is furnished to do so subject to the following conditions the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software,1,1,1,1,0,0,0,1,0,0,0,0
+8,the software is provided as is without warranty of any kind express or implied including but not limited to the warranties of merchantability fitness for a particular purpose and noninfringement,0,0,0,0,0,0,0,0,0,0,0,1
+9,in no event shall the authors or copyright holders be liable for any claim damages or other liability whether in an action of contract tort or otherwise arising from out of or in connection with the software or the use or other dealings in the software,0,0,0,0,0,0,0,0,0,0,0,1
+10,            code by niles ritter is under this licence written by niles d ritter,0,0,0,0,0,0,0,0,0,0,0,1
+11,copyright c 1995 niles d ritter permission granted to use this software so long as this copyright notice accompanies any products derived therefrom,0,0,0,0,0,0,0,0,0,0,0,0
+12,            the epsg tables from which the csv files and inc files are derived carried this statement on use of the data from the epsg web site use of the data the user assumes the entire risk as to the accuracy and the use of this data,0,1,0,0,0,0,0,0,0,0,0,0
+13,the data may be used copied and distributed subject to the following conditions 1,0,1,0,0,0,0,0,0,0,0,0,0
+14,information provided in this document is provided as is without warranty of any kind either expressed or implied including but not limited to the implied warranties of merchantability and or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+15,the data may be included in any commercial package provided that any commerciality is based on value added by the provider and not on a value ascribed to the epsg dataset which is made available at no charge,1,0,0,0,0,0,0,0,0,0,0,0
+16,the ownership of the epsg dataset [ogp] must be acknowledged,0,0,0,0,0,0,0,0,0,0,0,0
+17,subsets of information may be extracted from the dataset,0,0,0,0,0,0,0,0,0,0,0,0
+18,users are advised that coordinate reference system and coordinate transformation descriptions are incomplete unless all elements detailed as essential in ogp surveying and positioning guidance note 7 1 annex f are included,0,1,0,1,0,0,0,0,0,1,0,0
+19,essential elements should preferably be reproduced as described in the dataset,0,0,0,0,0,0,0,0,0,0,0,0
+20,modification of parameter values is permitted as described in the table below to allow change to the content of the information provided that numeric equivalence is achieved,0,0,0,0,0,0,0,0,0,0,0,0
+21,numeric equivalence refers to the results of geodetic calculations in which the parameters are used for example i conversion of ellipsoid defining parameters or ii conversion of parameters between one and two standard parallel projection methods or iii conversion of parameters between 7 parameter geocentric transformation methods,0,1,1,1,0,0,0,0,0,0,0,0
+22,epsg provides a table at this point with some details 5,0,0,0,0,0,0,0,0,0,0,0,0

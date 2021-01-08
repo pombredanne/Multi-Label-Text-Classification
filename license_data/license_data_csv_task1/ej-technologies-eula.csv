@@ -1,0 +1,72 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,ej technologies eula http  wwwej technologiescom buy jprofiler jprofiler_licensehtml important read carefully this end user license agreement eula is a legal agreement between you either an individual or a single legal entity and ej technologies gmbh ej technologies which covers your use of jprofiler and related software components software product or jprofiler,0,0,0,0,0,0,0,0,0,0,0,0
+2,a software license and a license key or serial number software product license issued only by ej technologies or its authorized agents to a designated user may be required according to the following agreement,0,0,0,0,1,0,0,0,0,0,0,0
+3,if you do not agree to the terms of this eula then do not download install or use the software product or the software product license,0,0,0,0,0,0,0,0,0,0,0,0
+4,by explicitly accepting this eula you are acknowledging and agreeing to be bound by the following terms 1,0,0,0,0,0,0,0,0,0,0,0,0
+5,grant of license the software product is owned by ej technologies,0,0,0,0,0,0,0,0,0,0,0,1
+6,the software product is protected by copyright laws and international copyright treaties as well as other intellectual property laws and treaties,0,0,0,0,0,0,0,1,0,0,0,0
+7,ej technologies reserves all intellectual property rights including copyrights and trademark rights,0,0,0,0,1,0,0,0,0,0,1,0
+8,according to your order ej technologies grants you a non exclusive non transferable license to use the software product under certain obligations and limited rights as set forth in this agreement   single user license ej technologies grants the non exclusive non transferable right for a single user to use this software product,0,0,0,1,0,0,0,0,0,0,0,0
+9,each additional user of the software product requires an additional software product license,0,0,0,0,0,0,0,0,0,0,0,0
+10,you may use each software product license on more than one computer system as long as it is always used by the same user,0,0,0,0,0,0,0,0,0,0,0,0
+11,you may transfer the software product license to a different user only if you remove all previous installations completely,0,0,0,0,0,0,0,0,1,0,0,0
+12,  single machine license ej technologies grants the non exclusive non transferable right to install this software product on a single computer system,0,0,0,0,0,0,0,0,0,0,0,0
+13,each additional installation of the software product requires an additional software product license,0,0,0,0,0,0,0,0,0,0,0,0
+14,you may transfer the software product license to a different computer system only if you remove the previous installation completely,0,0,0,0,0,0,0,0,1,0,0,0
+15,  floating license ej technologies grants the non exclusive non transferable right to install this software product on multiple computer systems,0,0,0,0,0,0,0,0,0,0,0,0
+16,an arbitrary number of users may install the software product but the maximum number of concurrently running instances is limited according to your order,0,0,0,0,0,0,0,0,0,0,0,0
+17,each additional concurrent user of the software product requires an additional software product license,0,0,0,0,0,0,0,0,0,0,0,0
+18,ej technologies provides you with a license server that manages the use of floating licenses,0,0,0,0,0,0,0,0,0,0,0,0
+19,you agree to be bound by the separate license agreement of the license server,0,0,0,0,0,0,0,0,0,0,0,0
+20,  site license ej technologies grants the non exclusive non transferable right to install and use this software product on an arbitrary number of computer systems on one site,1,1,0,0,0,0,0,0,0,0,0,0
+21,ej technologies issues a software product license that allows you to use the software product accordingly,0,0,0,0,0,0,0,0,1,0,0,0
+22,you may not disclose the software product license in any way,0,0,0,0,0,0,0,0,0,0,0,0
+23,backup copy you may make copies of the software product and the software product license as reasonably necessary for the use authorized above including as needed for backup and or archival purposes,1,0,0,0,0,0,0,0,0,0,0,0
+24,each copy must reproduce all copyright and other proprietary rights notices on or in the software product,0,0,0,0,0,0,0,1,0,0,0,0
+25,license to distribute redistributable files ej technologies grants you a non exclusive non transferable limited license to distribute all parts of jprofiler that are required for running the profiling agent provided that   you remove your license key from the redistributed configuration file configxml   you do not remove or alter any proprietary legends or notices contained in or on the redistributables   you only distribute the redistributables with a license agreement that protects ej technologies interests consistently with the terms contained in this agreement   you agree to defend and indemnify ej technologies from and against any damages costs liabilities settlement amounts and or expenses including attorneys fees incurred in connection with any claim lawsuit or action by any third party that arises or results from the use or distribution of any redistributable files,0,1,0,0,0,0,0,0,0,0,0,0
+26,restricted use for evaluation this software product can be used in conjunction with a free evaluation software product license,0,0,0,0,0,0,0,0,0,0,0,0
+27,if you are using such an evaluation software product license you may use the software product only to evaluate its suitability for purchase,0,0,0,0,0,0,0,0,0,0,0,0
+28,evaluation software has been limited in some way either through timeouts restricted use or evaluation warnings,0,1,0,0,0,0,0,0,0,0,0,0
+29,ej technologies bears no liability for any damages resulting from use or attempted use after expiration of the software product and has no duty to provide any support before or after the expiration date of an evaluation license,0,0,0,0,0,0,0,0,0,0,1,0
+30,support services ej technologies may provide you with support services related to the software product according to your order,0,0,0,0,0,0,0,0,0,0,0,0
+31,use of any such support services is governed by policies described on ej technologies web site http  wwwej technologiescom,0,0,0,0,0,0,0,0,0,0,0,0
+32,any supplemental software code or related materials that ej technologies provides to you as part of the support services in periodic updates to the software product or otherwise is to be considered part of the software product and is subject to the terms and conditions of this eula,0,0,0,0,0,0,0,0,0,0,0,0
+33,with respect to any technical information you provide to ej technologies as part of the support services ej technologies may use such information for its business purposes without restriction including for product support and development,0,0,0,0,0,0,0,0,0,0,0,0
+34,ej technologies will not use such technical information in a form that personally identifies you without first obtaining your permission,0,0,0,0,0,0,0,0,0,0,0,0
+35,restrictions you may not use copy or distribute the software product except as granted by this eula without written authorization from ej technologies,0,1,0,0,0,0,0,0,0,0,0,0
+36,you may not tamper with alter or use the software product in a way that disables circumvents or otherwise defeats its built in licensing verification and enforcement capabilities,0,0,0,0,0,0,0,0,0,0,0,0
+37,you may not remove or alter any trademark logo copyright or other proprietary notice legend symbol or label in the software product,0,0,0,0,0,1,0,0,0,0,0,0
+38,you may not modify or create derivative copies of the software product license,0,1,1,0,0,0,0,0,0,0,0,0
+39,you may not reverse engineer decompile defeat license encryption mechanisms or disassemble the software product or software product license except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation,0,0,0,1,0,0,0,0,0,0,0,0
+40,you may not rent lease lend or in any way distribute or transfer any rights in this eula or the software product to third parties without ej technologies written approval and subject to written agreement by the recipient of the terms of this eula,0,1,0,0,0,0,0,0,0,0,0,0
+41,the software product is not fault tolerant and is not designed manufactured or intended for use or resale as on line control equipment in hazardous environments requiring fail safe performance in which the failure of the software product or any software tool process or service that was developed using the software product could lead directly to death personal injury or severe physical or environmental damage high risk activities,0,0,0,0,0,0,0,0,0,0,0,0
+42,accordingly ej technologies and its suppliers and licensors specifically disclaim any express or implied warranty of fitness for high risk activities,0,0,0,0,0,0,0,0,0,0,0,1
+43,you agree that ej technologies and its suppliers and licensors will not be liable for any claims or damages arising from the use of the software product or any software tool process or service that was developed using the software product in such applications,0,0,0,0,0,0,0,0,0,0,0,0
+44,third party rights any software provided along with the software product that is associated with a separate license agreement is licensed to you under the terms of that license agreement,0,0,0,0,0,0,0,0,1,0,0,0
+45,this license does not apply to those portions of the software product,0,0,0,0,0,0,0,0,0,0,0,0
+46,copies of these third party licenses are included in all copies of the software product,0,1,0,0,0,0,0,0,0,0,0,0
+47,limited warranty you have ensured with the above mentioned evaluation version that the software product works according to your requirements and the advertised features,0,0,0,0,0,0,0,0,0,0,0,0
+48,ej technologies disclaims all warranties for deficiencies that are reasonably discoverable with the evaluation version of the software product,0,0,0,0,0,0,0,0,0,0,0,1
+49,you acknowledge that software cannot be completely error free,0,0,0,0,0,0,0,0,0,0,0,0
+50,ej technologies disclaims all warranties regarding non severe deviations of the advertised features of the software product,0,0,0,0,0,0,0,0,0,0,0,0
+51,the limitation period is one year if not otherwise regulated by law and starts with the service provision,0,0,0,0,0,0,0,0,0,0,0,0
+52,to the maximum extent permitted by applicable law ej technologies and its third party suppliers and licensors disclaim all other representations warranties and conditions expressed implied statutory or otherwise including but not limited to implied warranties or conditions of merchantability satisfactory quality fitness for a particular purpose title and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+53,the entire risk arising out of use or performance of the software product remains with you,0,0,0,0,0,0,0,0,0,0,0,0
+54,limitation of liability this limitation of liability is to the maximum extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,1,0
+55,ej technologies is liable to indemnity only according to the following terms ej technologies is fully liable in case of intention gross negligence loss from physical injury severe organizational failure or in case of an acceptance of guarantee,0,0,0,0,0,0,0,0,0,0,1,0
+56,liability for slight negligence is limited to material breach of contractual obligations and in that case to the typically predictable loss,0,0,0,0,0,0,0,0,0,0,1,0
+57,contributory negligence of the licensee and other parties will be taken into account,0,0,0,0,0,0,0,0,0,0,0,0
+58,any liability under the terms of product liability laws remains unaffected,0,0,0,0,0,0,0,0,0,0,1,0
+59,you agree to ensure that a data backup is performed on all computers that the software product or redistributable parts of it are used on,0,0,0,0,0,0,0,0,0,0,0,0
+60,in case of loss of data liability is limited to the cost that would arise in the case where a proper backup has been performed,0,0,0,0,0,0,0,0,0,0,1,0
+61,the limitation period is one year if not otherwise regulated by law and starts with the service provision,0,0,0,0,0,0,0,0,0,0,0,1
+62,any limitation of ej technologies liability also applies to your staff agents and associated companies,0,0,0,0,0,0,0,0,0,0,0,0
+63,general ej technologies may terminate this eula if you fail to comply with any term or condition of this eula,0,0,0,0,0,0,0,0,1,0,0,0
+64,in such event you must destroy all copies of the software product and software product licenses,0,0,0,0,0,0,0,0,0,0,0,0
+65,this eula is governed by the laws of germany,0,0,0,0,0,0,0,0,0,0,0,1
+66,exclusive jurisdiction and place of performance is muenchen germany as long as permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+67,the united nations convention for the international sale of goods shall not apply,0,0,0,0,0,0,0,0,0,0,0,0
+68,this eula is the entire agreement between ej technologies and you and supersedes any other communications or advertising with respect to the software product this eula may be modified only by written agreement signed by authorized representatives of you and ej technologies,0,0,0,0,0,0,0,0,0,0,0,0
+69,if any provision of this eula is held invalid the remainder of this eula shall continue in full force and effect,0,0,0,0,0,0,0,0,0,0,1,0
+70,all rights not expressly granted in this agreement are retained by ej technologies,0,0,0,1,0,0,0,0,0,0,0,0
+71,contact information if you have any questions about this eula or if you want to contact ej technologies for any reason please direct correspondence to ej technologies gmbh claude lorrain str,0,0,0,0,0,0,0,0,0,0,0,0

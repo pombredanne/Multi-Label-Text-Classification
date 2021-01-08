@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,it has also been designated as gpl compatible by the free software foundation fsf,0,0,0,0,0,0,0,0,0,0,0,0
+2,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+3,redistributions in source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0
+4,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,1,0,0,0,0
+5,the name zope corporation tm must not be used to endorse or promote products derived from this software without prior written permission from zope corporation,0,0,0,0,0,1,0,0,0,0,0,0
+6,the right to distribute this software or to use it for any purpose does not give you the right to use servicemarks sm or trademarks tm of zope corporation,1,0,0,1,0,0,0,0,0,0,0,0
+7,use of them is covered in a separate agreement see http  wwwzopecom marks,0,0,0,0,0,0,0,0,0,0,0,0
+8,if any files are modified you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change,0,0,0,0,0,0,0,0,0,1,0,0
+9,disclaimer this software is provided by zope corporation ``as is and any expressed or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1
+10,in no event shall zope corporation or its contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0
+11,this software consists of contributions made by zope corporation and many individuals on behalf of zope corporation,0,0,0,0,0,0,0,1,0,0,0,0

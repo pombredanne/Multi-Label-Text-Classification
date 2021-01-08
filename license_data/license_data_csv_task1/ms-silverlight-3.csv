@@ -1,0 +1,97 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,microsoft software supplemental license terms microsoft silverlight 3 tools for visual studio 2008 service pack 1 please note microsoft corporation or based on where you live one of its affiliates licenses this supplement to you,0,0,0,0,0,0,0,0,0,0,0,0
+2,you may use it with each validly licensed copy of microsoft visual studio 2008 service pack 1 and microsoft visual web developer 2008 express edition software for which this supplement is applicable the software,0,0,0,0,0,0,0,0,0,0,0,0
+3,you may not use the supplement if you do not have a license for the software,0,0,0,0,0,0,0,0,0,0,0,0
+4,the license terms for the software apply to your use of this supplement,0,0,0,0,0,0,0,0,0,0,0,0
+5,microsoft provides support services for the supplement as described at wwwsupportmicrosoftcom common internationalaspx,0,0,0,0,0,0,0,0,0,0,0,0
+6,microsoft software license terms microsoft silverlight 3 these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0
+7,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+8,the terms also apply to any microsoft Ã¢Â·	updates including but not limited to bug fixes patches updates upgrades enhancements new versions and successors to the software collectively called updates Ã¢Â·	supplements Ã¢Â·	internet based services and Ã¢Â·	support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+9,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+10,as described below your installation of this software also operates as your consent to the transmission of certain standard computer information and to the automatic downloading and installation of updates on your computer,0,0,0,0,0,0,0,0,0,0,0,0
+11,if you comply with these license terms you have the rights below,0,0,0,0,1,0,0,0,1,0,0,0
+12,you may install and use any number of copies of the software,0,0,0,0,0,0,0,0,0,0,0,0
+13,you may also make any number of copies as you need to distribute the software within your organization,0,0,0,0,0,0,0,0,0,0,0,0
+14,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+15,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+16,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+17,you may not Ã¢Â·	work around any technical limitations in the software Ã¢Â·	reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã¢Â·	publish the software for others to copy Ã¢Â·	rent lease or lend the software or Ã¢Â·	transfer the software or this agreement to any third party,1,1,1,1,0,0,0,0,0,0,0,0
+18,it may change or cancel them at any time,0,0,0,0,0,0,0,0,0,0,0,0
+19,this software contains an automatic update feature that is on by default,0,0,0,0,0,0,0,0,0,0,0,0
+20,for more information about this feature including instructions for to turning it off see gomicrosoftcom fwlink ?linkid147032,0,0,0,0,0,0,0,0,0,0,0,0
+21,you may turn off this feature while the software is running opt out,0,0,0,0,0,0,0,0,0,0,0,1
+22,unless you expressly opt out of this feature this feature will a connect to microsoft or service provider computer systems over the internet b use internet protocols to send to the appropriate systems standard computer information such as your computerÃ¢ÂÂs internet protocol address the type of operating system browser and name and version of the software you are using and the language code of the device where you installed the software and c automatically download and install or prompt you to download and or install current updates to the software,0,1,0,0,0,0,0,0,0,0,0,0
+23,in some cases you will not receive a separate notice before this feature takes effect,0,0,0,0,0,0,0,0,0,0,0,0
+24,by installing the software you consent to the transmission of standard computer information and the automatic downloading and installation of updates,0,0,0,0,0,0,1,0,0,0,0,1
+25,if you use the software to access content that has been protected with microsoft digital rights management drm in order to let you play the content the software may automatically request media usage rights from a rights server on the internet and download and install available drm updates,0,1,1,0,0,0,0,0,0,0,0,0
+26,notice about the h264 avc visual standard and the vc 1 video standard,0,0,0,0,0,0,0,0,0,0,0,0
+27,this software may include h264 mpeg 4 avc and or vc 1decoding technology,0,0,0,0,0,0,0,0,0,0,0,0
+28,requires this notice this product is licensed under the avc and the vc 1 patent portfolio licenses for the personal and non commercial use of a consumer to a encode video in compliance with the above standards video standards and or b decode avc and vc 1 video that was encoded by a consumer engaged in a personal and non commercial activity and or was obtained from a video provider licensed to provide such video,1,0,0,1,0,0,0,0,0,0,0,0
+29,none of the licenses extend to any other product regardless of whether such product is included with this software in a single article,0,0,0,0,0,0,0,0,0,0,0,0
+30,no license is granted or shall be implied for any other use,0,0,0,0,0,0,0,0,0,0,0,0
+31,additional information may be obtained from mpeg la llc,0,0,0,0,0,0,0,0,0,0,0,0
+32,for clarification purposes only the notice in this section does not limit or inhibit the use of the software provided under this agreement for normal business uses that are personal to that business which do not include i redistribution of the software to third parties or ii creation of content with the video standards compliant technologies for distribution to third parties,0,1,1,1,0,0,0,0,0,0,0,0
+33,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+34,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,1,0
+35,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+36,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+37,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+38,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,1,0
+39,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0
+40,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0
+42,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+43,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,1,0
+44,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+45,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+46,you can recover from microsoft and its suppliers only direct damages up to us $500,0,1,0,0,0,0,0,0,0,0,1,0
+47,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+48,this limitation applies to Ã¢Â·	anything related to the software services content including code on third party internet sites or third party programs and Ã¢Â·	claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+49,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0
+50,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+51,microsoft software license terms microsoft silverlight 3 software development kit these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0
+52,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+53,the terms also apply to any microsoft Ã¢Â·	updates Ã¢Â·	supplements Ã¢Â·	internet based services and Ã¢Â·	support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+54,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+55,the software is a software development kit designed to work with microsoft silverlight collectively microsoft silverlight,0,0,0,0,0,0,0,0,0,0,0,0
+56,this agreement does not give you any rights to install or use microsoft silverlight,0,0,0,0,0,0,0,0,0,0,0,0
+57,you must acquire a separate license to acquire such rights,0,0,0,0,0,0,0,0,0,0,0,0
+58,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0
+59,one user may install and use any number of copies of the software on your devices to design develop and test your programs for use with microsoft silverlight,0,0,0,0,0,0,0,0,0,0,0,0
+60,the software contains code that you are permitted to distribute in programs you develop for use with microsoft silverlight if you comply with the terms below,0,0,0,1,0,0,0,0,0,0,0,0
+61,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+62,you may modify copy and distribute the source and object code form of code marked as sample,0,1,1,1,0,0,0,0,0,0,0,0
+63,you may copy and distribute the object code form of code marked as silverlight libraries client libraries and server libraries,0,1,0,0,0,0,1,0,0,0,0,0
+64,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+65,for any distributable code you distribute you must Ã¢Â·	add significant primary functionality to it in your programs Ã¢Â·	require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã¢Â·	display your valid copyright notice on your programs and Ã¢Â·	indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0
+66,you may not Ã¢Â·	alter any copyright trademark or patent notice in the distributable code Ã¢Â·	use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft Ã¢Â·	include distributable code in malicious deceptive or unlawful programs or Ã¢Â·	modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+67,an excluded license is one that requires as a condition of use modification or distribution that Ã¢Â·	the code be disclosed or distributed in source code form or Ã¢Â·	others have the right to modify it,0,1,0,0,0,0,0,0,0,0,0,0
+68,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+69,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+70,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+71,you may not Ã¢Â·	work around any technical limitations in the software Ã¢Â·	reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã¢Â·	publish the software for others to copy Ã¢Â·	rent lease or lend the software or Ã¢Â·	transfer the software or this agreement to any third party,1,1,1,0,0,0,0,0,0,0,0,0
+72,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+73,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0
+74,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0
+75,notice about the h264 avc visual standard and the vc 1 video standard,0,0,0,0,0,0,0,0,0,0,0,0
+76,this software may include h264 mpeg 4 avc and or vc 1,0,0,0,0,0,0,0,0,0,0,0,1
+77,requires this notice this product is licensed under the avc and the vc 1 patent portfolio licenses for the personal and non commercial use of a consumer to 1 encode video in compliance with the above standards video standards and or 2 decode avc and vc 1 video that was encoded by a consumer engaged in a personal and non commercial activity and or was obtained from a video provider licensed to provide such video,1,0,0,1,0,0,0,0,0,0,0,0
+78,no license is granted or shall be implied for any other use,0,0,0,0,0,0,0,0,0,0,0,0
+79,additional information may be obtained from mpeg la llc,0,0,0,0,0,0,0,0,0,0,0,0
+80,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+81,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0
+82,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+83,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+84,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+85,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,1,0
+86,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0
+87,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+88,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0
+89,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+90,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,1,0
+91,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+92,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+93,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+94,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+95,this limitation applies to Ã¢Â·	anything related to the software services content including code on third party internet sites or third party programs and Ã¢Â·	claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+96,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0

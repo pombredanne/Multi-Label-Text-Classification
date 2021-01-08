@@ -1,0 +1,24 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,customer is granted a royalty free non transferable right to reproduce and use the software for the purpose of developing applications which run in conjunction with the software,1,0,0,1,0,0,0,0,0,0,0,0
+2,customer may not modify the software including any apis exposed by the software in any way,0,0,0,0,0,0,0,0,0,0,0,0
+3,software is confidential copyrighted information of sun and title to all copies is retained by sun and or its licensors,0,1,0,0,0,0,0,0,0,0,0,0
+4,except to the extent enforcement of this provision is prohibited by applicable law if at all customer shall not decompile disassemble decrypt extract or otherwise reverse engineer software,0,0,0,0,0,0,0,0,0,0,0,0
+5,software is not designed or intended for use in on line control of aircraft air traffic aircraft navigation or aircraft communications or in the design construction operation or maintenance of any nuclear facility,1,0,0,0,0,0,0,0,1,0,0,0
+6,customer warrants that it will not use or redistribute the software for such purposes,0,0,0,0,0,0,0,0,0,0,0,0
+7,this agreement does not authorize customer to use any sun name trademark or logo,0,0,0,0,0,1,0,0,0,0,0,0
+8,customer acknowledges that sun owns the java trademark and all java related trademarks logos and icons including the coffee cup and duke ``java marks and agrees to i comply with the java trademark guidelines at http  javasuncom trademarkshtml ii not do anything harmful to or inconsistent with suns rights in the java marks and iii assist sun in protecting those rights including assigning to sun any rights acquired by customer in any java mark,0,0,0,0,0,1,0,0,0,0,0,0
+9,software is provided ``as is without a warranty of any kind,0,0,0,0,0,0,0,0,0,0,0,1
+10,all express or implied representations and warranties including any implied warranty of merchantability fitness for a particular purpose or non infringement are hereby excluded,0,0,0,0,0,0,0,0,0,0,0,1
+11,in no event will sun or its licensors be liable for any lost revenue profit or data or for specialindirect consequential incidental or punitive damages however caused and regardless of the theory of liability arising out of the downloading of use of or inability to use software even if sun has been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0
+12,customer may terminate this agreement at any time by destroying all copies of software,0,0,0,0,0,0,0,0,0,0,0,0
+13,this agreement will terminate immediately without notice from sun if customer fails to comply with any provision of this agreement,0,0,0,0,0,0,0,0,1,0,0,0
+14,upon such termination customer must destroy all copies of software,0,0,0,0,0,0,0,0,0,0,0,0
+15,sections 4 and 5 above shall survive termination of this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+16,software including technical data is subject to us export control laws including the us,0,0,0,0,0,0,0,0,0,0,0,0
+17,export administration act and its associated regulations and may be subject to export or import regulations in other countries,0,1,0,0,0,0,0,0,0,0,0,0
+18,customer agrees to comply strictly with all such regulations and acknowledges that it has the responsibility to obtain licenses to export re export or import software,0,1,0,0,0,0,0,0,0,0,0,0
+19,software may not be downloaded or otherwise exported or re exported i into or to a national or resident of cuba iraq iran north korea libya sudan syria or any country to which the us has embargoed goods or ii to anyone on the us treasury departments list of specially designated nations or the us commerce departments table of denial orders,0,0,0,0,0,0,0,0,0,0,0,0
+20,use duplication or disclosure by the united states government is subject to the restrictions as set forth in the rights in technical data and computer software clauses in dfars 252227 7013c 1 ii and far 52227 19c 2 as applicable,0,0,0,0,0,0,0,0,0,0,0,0
+21,any action related to this agreement will be governed by california law and controlling us federal law,0,0,0,0,0,0,0,0,0,0,1,0
+22,no choice of law rules of any jurisdiction will apply,0,0,0,0,0,1,0,0,0,0,0,0
+23,if any of the above provisions are held to be in violation of applicable law void or unenforceable in any jurisdiction then such provisions are herewith waived or amended to the extent necessary for the agreement to be otherwise enforceable in such jurisdiction,0,0,0,0,0,0,0,0,0,0,0,0

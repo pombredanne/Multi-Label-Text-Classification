@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,it was created by a number of people working in cooperation and is given to you freely as a gift,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,you may use modify redistribute and generally hack it about in any way you like and you do not have to give us anything in return,0,1,1,1,0,0,0,0,0,0,0,0,1
+3,however if you like this product you are encouraged to thank us by making a return gift to the allegro community,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,this could be by writing an add on package providing a useful bug report making an improvement to the library or perhaps just releasing the sources of your program so that other people can learn from them,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,if you redistribute parts of this code or make a game using it it would be nice if you mentioned allegro somewhere in the credits but you are not required to do this,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,disclaimer the software is provided as is without warranty of any kind express or implied including but not limited to the warranties of merchantability fitness for a particular purpose title and non infringement,0,0,0,0,0,0,0,0,0,0,0,1,0

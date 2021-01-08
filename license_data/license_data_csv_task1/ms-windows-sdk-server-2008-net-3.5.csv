@@ -1,0 +1,56 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,microsoft windows sdk for windows server 2008 and net framework 35 license microsoft software license terms these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0
+2,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+3,the terms also apply to any microsoft Ã´ÂÂ°Â updates Ã´ÂÂ°Â supplements Ã´ÂÂ°Â internet based services and Ã´ÂÂ°Â support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+4,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+5,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0
+6,one user may install and use any number of copies of the software on your devices to design develop and test your programs that run on a microsoft windows operating system,0,0,0,0,0,0,0,0,0,0,0,0
+7,these license terms apply to your use of those programs,0,0,0,0,0,0,0,0,0,0,0,0
+8,the software contains code that you are permitted to distribute in programs you develop if you comply with the terms below,0,0,0,1,0,0,0,0,0,0,0,0
+9,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+10,you may copy and distribute the object code form of code listed in redisttxt files,0,1,0,0,0,0,0,0,0,0,0,0
+11,you may modify copy and distribute the source and object code form of code marked as sample,0,1,1,1,0,0,1,0,0,0,0,0
+12,you may copy and distribute the unmodified output of microsoft merge modules,0,1,0,0,0,0,0,0,0,0,0,0
+13,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+14,for any distributable code you distribute you must Ã´ÂÂ°Â add significant primary functionality to it in your programs Ã´ÂÂ°Â for any distributable code having a filename extension of lib distribute only the results of running such distributable code through a linker with your application Ã´ÂÂ°Â distribute distributable code included in a setup program only as part of that setup program without modification Ã´ÂÂ°Â require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã´ÂÂ°Â display your valid copyright notice on your programs Ã´ÂÂ°Â for distributable code from the windows media services sdk portions of the software include in your programÃ¢ÂÂs help about box or in another obvious place if there is no box the following copyright notice portions utilize microsoft windows media technologies,0,1,0,0,0,0,0,1,0,0,0,0
+15,all rights reserved and Ã´ÂÂ°Â indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,0,0,0,0,0,0,0,0,0,0,0
+16,you may not Ã´ÂÂ°Â alter any copyright trademark or patent notice in the distributable code Ã´ÂÂ°Â use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft Ã´ÂÂ°Â include distributable code in malicious deceptive or unlawful programs or Ã´ÂÂ°Â modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+17,an excluded license is one that requires as a condition of use modification or distribution that Ã´ÂÂ°Â the code be disclosed or distributed in source code form or Ã´ÂÂ°Â others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0
+18,it may change or cancel them at any time,0,0,0,0,0,0,0,0,0,0,0,0
+19,you may not use this service in any way that could harm it or impair anyone elseÃ¢ÂÂs use of it,0,0,0,0,0,0,0,0,0,0,1,0
+20,you may not use the service to try to gain unauthorized access to any service data account or network by any means,0,0,0,0,0,0,0,0,0,0,0,0
+21,the software includes one or more components of the net framework 35 net components,0,0,0,0,0,0,0,0,0,0,0,0
+22,you may conduct internal benchmark testing of those components,0,0,0,0,0,0,0,0,0,0,0,0
+23,you may disclose the results of any benchmark test of those components provided that you comply with the conditions set forth at http  gomicrosoftcom fwlink ?linkid66406,0,0,0,0,0,0,0,0,0,0,0,0
+24,notwithstanding any other agreement you may have with microsoft if you disclose such benchmark test results microsoft shall have the right to disclose the results of benchmark tests it conducts of your products that compete with the applicable net component provided it complies with the same conditions set forth at http  gomicrosoftcom fwlink ?linkid66406,0,0,0,0,0,0,0,0,0,0,0,0
+25,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+26,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+27,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+28,for more information see wwwmicrosoftcom licensing userights <http  wwwmicrosoftcom licensing userights>,0,0,0,0,0,0,0,0,0,0,0,0
+29,you may not Ã´ÂÂ°Â work around any technical limitations in the software Ã´ÂÂ°Â reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã´ÂÂ°Â make more copies of the software than specified in this agreement or allowed by applicable law despite this limitation Ã´ÂÂ°Â publish the software for others to copy Ã´ÂÂ°Â rent lease or lend the software or Ã´ÂÂ°Â use the software for commercial software hosting services,1,0,1,1,0,0,0,0,0,0,0,0
+30,you may not use the code generation or optimization tools in the software such as compilers linkers assemblers runtime code generators and code generating design and modeling tools to create programs object code libraries assemblies or executables to run on a platform other than microsoft operating systems run time technologies or application platforms,0,1,0,0,0,0,0,0,0,0,0,0
+31,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+32,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0
+33,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0
+34,the first user of the software may transfer it and this agreement directly to a third party,0,0,0,0,0,0,0,0,0,0,0,0
+35,before the transfer that party must agree that this agreement applies to the transfer and use of the software,0,0,0,0,0,0,0,0,0,0,0,0
+36,the first user must uninstall the software before transferring it separately from the device,0,0,0,0,0,0,0,0,0,0,0,0
+37,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+38,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,1,0
+39,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+40,for additional information see wwwmicrosoftcom exporting <http  wwwmicrosoftcom exporting>,0,0,0,0,0,0,0,0,0,0,0,0
+41,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+42,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+43,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0
+44,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,0,0
+45,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+46,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,1,0
+47,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+48,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0
+49,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+50,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+51,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+52,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+53,this limitation applies to Ã´ÂÂ°Â anything related to the software services content including code on third party internet sites or third party programs and Ã´ÂÂ°Â claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+54,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,0,1
+55,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0

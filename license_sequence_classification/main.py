@@ -201,9 +201,11 @@ def predict(load_path, file_path='./data/Task2.predict.csv', save_path='./data/T
     else:
         config.device = 'cpu'
 
-    print('current config:\n', config)
-
     data_texts = read_prediction_data(file_path)
+
+    if len(data_texts) == 0:
+        save_prediction_result([], file_path, save_path)
+        return
 
     # Load Bert Tokenizer
     if config.bert_model == 'bert':
@@ -234,7 +236,7 @@ def predict(load_path, file_path='./data/Task2.predict.csv', save_path='./data/T
         input_ids = batch['input_ids'].to(config.device)
         attention_mask = batch['attention_mask'].to(config.device)
         outputs = model(input_ids, attention_mask=attention_mask)
-        logits = outputs[1]
+        logits = outputs[0]
         pred.extend(torch.argmax(logits, dim=1).tolist())
 
     save_prediction_result(pred, file_path, save_path)

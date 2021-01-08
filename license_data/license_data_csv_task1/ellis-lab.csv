@@ -1,0 +1,14 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this license is a legal agreement between you and {copyright owner} for the use of {component} the software,0,0,0,0,0,0,0,0,0,0,0,0
+2,by obtaining the software you agree to comply with the terms and conditions of this license,0,0,0,0,0,0,0,0,1,0,0,0
+3,permitted use you are permitted to use copy modify and distribute the software and its documentation with or without modification for any purpose provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+4,a copy of this license agreement must be included with the distribution,0,0,0,0,0,0,0,0,0,0,0,0
+5,redistributions of source code must retain the above copyright notice in all source code files,0,0,0,0,0,0,0,1,0,0,0,0
+6,redistributions in binary form must reproduce the above copyright notice in the documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,1,0,0,0,0
+7,any files that have been modified must carry notices stating the nature of the change and the names of those who changed them,0,0,0,0,0,0,0,0,0,1,0,0
+8,products derived from the software must include an acknowledgment that they are derived from {component} in their documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,0,0,0,0,0
+9,products derived from the software may not be called {component} nor may {component} appear in their name without prior written permission from {copyright owner},0,0,0,0,0,1,0,0,0,0,0,0
+10,indemnity you agree to indemnify and hold harmless the authors of the software and any contributors for any direct indirect incidental or consequential third party claims actions or suits as well as any related expenses liabilities damages settlements or fees arising from your use or misuse of the software or a violation of any terms of this license,0,0,0,0,0,0,0,0,0,0,1,0
+11,disclaimer of warranty the software is provided as is without warranty of any kind expressed or implied including but not limited to warranties of quality performance non infringement merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+12,limitations of liability you assume all risk associated with the installation and use of the software,0,0,0,0,0,0,0,0,0,0,0,0
+13,in no event shall the authors or copyright holders of the software be liable for claims damages or other liability arising from out of or in connection with the software,0,0,0,0,0,0,0,0,0,0,1,1

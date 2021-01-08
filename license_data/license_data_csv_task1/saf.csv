@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,service availability forum license ownership of specification and copyrights,0,0,0,0,0,0,0,0,0,0,0,0
+2,the specification and all worldwide copyrights therein are the exclusive property of licensor,0,0,0,0,0,0,0,0,0,0,0,0
+3,you may not remove obscure or alter any copyright or other proprietary rights notices that are in or on the copy of the specification you download,0,0,0,0,0,0,0,1,0,0,0,0
+4,you must reproduce all such notices on all copies of the specification you make,0,0,0,0,0,0,0,1,0,0,0,0
+5,licensor may make changes to the specification or to items referenced therein at any time without notice,0,0,0,0,0,0,0,0,0,0,0,0
+6,licensor is not obligated to support or update the specification,0,0,0,0,0,0,0,0,0,0,0,0
+7,permission to use copy modify and distribute this software for any purpose without fee is hereby granted provided that this entire notice is included in all copies of any software which is or includes a copy or modification of this software and in all copies of the supporting documentation for such software,1,1,1,1,0,0,0,1,0,0,0,0
+8,this software is being provided as is without any express or implied warranty,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,14 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this program is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 3 of the license or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0,1
+2,this program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you should have received a copy of the gnu general public license along with this program,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,the flowplayer free version is released under the gnu general public license version 3 gpl,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,our gpl based license requires that you do not remove the copyright notices or author attribution from the players user interface,0,0,0,0,0,0,0,1,0,0,0,0,1
+7,these are present in the player canvas bottom left corner and in the context menu,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,the commercial player version does not require any flowplayer notices or texts and also provides some additional features,0,0,0,0,0,0,0,1,0,0,0,0,1
+9,additional term per gpl section 7 if you convey this program or any modifications of it and assume contractual liability for the program to recipients of it you agree to indemnify flowplayer ltd for any liability that those contractual assumptions impose on flowplayer ltd,0,0,0,0,0,0,0,0,0,0,1,0,0
+10,except as expressly provided herein no trademark rights are granted in any trademarks of flowplayer ltd licensees are granted a limited non exclusive right to use the mark flowplayer and the flowplayer logos in connection with unmodified copies of the program and the copyright notices required by section 5d of the gpl license,0,0,0,0,0,1,0,1,0,0,0,0,0
+11,for the purposes of this limited trademark license grant customizing the flowplayer by skinning scripting or including plugins provided by flowplayer ltd is not considered modifying the program,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,licensees that do modify the program taking advantage of the open source license may not use the flowplayer mark or flowplayer logos and must change the logo as follows stating that the licensee modified the flowplayer,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,a suitable notice might read flowplayer source code modified by modorg 2012 for the canvas the notice should read based on flowplayer source code,0,0,0,0,0,0,1,1,0,0,0,0,1

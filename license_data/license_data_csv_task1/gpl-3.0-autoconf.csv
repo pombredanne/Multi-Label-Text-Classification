@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this program is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 3 of the license or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0
+2,this program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+3,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0
+4,you should have received a copy of the gnu general public license along with this program,0,0,0,0,0,0,0,0,0,0,0,0
+5,autoconf configure script exception version 30 18 august 2009 copyright Ã¢Â© 2009 free software foundation inc <http  fsforg > everyone is permitted to copy and distribute verbatim copies of this license document but changing it is not allowed,0,1,1,1,0,0,0,1,0,0,0,0
+6,this exception is an additional permission under section 7 of the gnu general public license version 3 gplv3,0,0,0,0,0,0,0,0,0,0,0,0
+7,it applies to a given file that bears a notice placed by the copyright holder of the file stating that the file is governed by gplv3 along with this exception,0,0,0,0,0,0,0,1,0,0,0,0
+8,the purpose of this exception is to allow distribution of autoconfs typical output under terms of the recipients choice including proprietary,0,1,0,0,0,0,0,0,0,0,0,0
+9,you have permission to propagate output of autoconf even if such propagation would otherwise violate the terms of gplv3,0,0,0,0,0,0,0,0,0,0,0,0
+10,however if by modifying autoconf you cause any ineligible code of the version you received to become normally copied code of your modified version then you void this exception for the resulting covered work,0,0,0,0,0,0,0,0,0,0,0,0
+11,if you convey that resulting covered work you must remove this exception in accordance with the second paragraph of section 7 of gplv3,0,0,0,0,0,0,0,0,0,0,0,0

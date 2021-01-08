@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,softfloat legal notice softfloat was written by john r hauser,,,,,,,,,,,,
+2,this work was made possible in part by the international computer science institute located at suite 600 1947 center street berkeley california 94704,,,,,,,,,,,,
+3,funding was partially provided by the national science foundation under grant mip 9311980,,,,,,,,,,,,
+4,the original version of this code was written as part of a project to build a fixed point vector processor in collaboration with the university of california at berkeley overseen by profs,,,,,,,,,,,,
+5,although reasonable effort has been made to avoid it this software may contain faults that will at times result in incorrect behavior,,,,,,,,,,,,
+6,use of this software is restricted to persons and organizations who can and will take full responsibility for any and all losses costs or other problems arising from its use,,,,,,,,,,,,

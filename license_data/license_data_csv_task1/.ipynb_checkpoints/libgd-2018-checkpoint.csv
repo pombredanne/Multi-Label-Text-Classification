@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,credits and license terms in order to resolve any possible confusion regarding the authorship of gd the following copyright statement covers all of the authors who have required such a statement,0,0,0,0,0,0,0,0,0,0,0,0
+2,if you are aware of any oversights in this copyright notice please contact pierre a,0,0,0,0,0,0,0,1,0,0,0,0
+3,portions copyright 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 by cold spring harbor laboratory,0,0,0,0,0,0,0,0,0,0,1,0
+4,funded under grant p41 rr02188 by the national institutes of health,0,0,0,0,0,0,0,0,0,0,0,0
+5,portions copyright 1996 1997 1998 1999 2000 2001 2002 2003 2004 by boutellcom inc portions relating to gd2 format copyright 1999 2000 2001 2002 2003 2004 philip warner,0,0,0,0,0,0,0,1,0,0,0,0
+6,portions relating to png copyright 1999 2000 2001 2002 2003 2004 greg roelofs,0,0,0,0,0,0,0,0,0,0,0,0
+7,portions relating to gdttfc copyright 1999 2000 2001 2002 2003 2004 john ellson ellson@graphvizorg,0,0,0,0,0,0,0,0,0,0,0,0
+8,portions relating to gdftc copyright 2001 2002 2003 2004 john ellson ellson@graphvizorg,0,0,0,0,0,0,0,0,0,0,0,0
+9,portions copyright 2000 2001 2002 2003 2004 2005 2006 2007 pierre alain joye pierre@libgdorg,0,0,0,0,0,0,0,0,0,0,0,0
+10,portions relating to jpeg and to color quantization copyright 2000 2001 2002 2003 2004 doug becker and copyright c 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 thomas g lane,0,0,0,0,0,0,0,0,0,0,0,0
+11,this software is based in part on the work of the independent jpeg group,0,0,0,0,0,0,0,0,0,0,0,0
+12,portions relating to gif compression copyright 1989 by jef poskanzer and david rowley with modifications for thread safety by thomas boutell,0,0,0,0,0,0,0,0,0,0,0,0
+13,portions relating to gif decompression copyright 1990 1991 1993 by david koblas with modifications for thread safety by thomas boutell,0,0,0,0,0,0,0,0,0,0,0,0
+14,portions relating to wbmp copyright 2000 2001 2002 2003 2004 maurice szmurlo and johan van den brande,0,0,0,0,0,0,0,0,0,0,0,0
+15,portions relating to gif animations copyright 2004 jaakko hyvÃ£Â¤tti jaakkohyvatti@ikifi permission has been granted to copy distribute and modify gd in any context without fee including a commercial application provided that this notice is present in user accessible supporting documentation,1,1,1,1,0,0,0,1,0,0,0,0
+16,this does not affect your ownership of the derived work itself and the intent is to assure proper credit for the authors of gd not to interfere with your productive use of gd,1,0,0,0,0,0,0,0,0,0,0,0
+17,derived works includes all programs that utilize the library,0,0,0,0,0,0,0,0,0,0,0,0
+18,the copyright holders disclaim all warranties either express or implied including but not limited to implied warranties of merchantability and fitness for a particular purpose with respect to this code and accompanying documentation,0,0,0,0,0,0,0,0,0,0,0,0

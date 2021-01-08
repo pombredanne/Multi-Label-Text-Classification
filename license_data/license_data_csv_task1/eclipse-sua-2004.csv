@@ -1,0 +1,24 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,eclipseorg makes available software documentation information and or other materials for open source projects collectively content,0,0,0,0,0,0,1,0,0,0,0,0
+2,use of the content is governed by the terms and conditions of this agreement and or the terms and conditions of license agreements or notices indicated or referenced below,0,1,0,0,0,0,0,0,1,0,0,0
+3,by using the content you agree that your use of the content is governed by this agreement and or the terms and conditions of any applicable license agreements or notices indicated or referenced below,0,0,0,0,0,0,0,0,1,0,0,0
+4,if you do not agree to the terms and conditions of this agreement and the terms and conditions of any applicable license agreements or notices indicated or referenced below then you may not use the content,0,0,0,1,0,0,0,0,0,0,0,0
+5,applicable licenses unless otherwise indicated all content made available by eclipseorg is provided to you under the terms and conditions of the common public license version 10 cpl,0,0,0,0,0,0,0,0,0,0,0,0
+6,a copy of the cpl is provided with this content and is also available at http  wwweclipseorg legal cpl v10html,0,0,0,0,0,0,0,1,0,0,0,0
+7,for purposes of the cpl program will mean the content,0,0,0,0,0,0,0,0,0,0,0,0
+8,content includes but is not limited to source code object code documentation and other files maintained in the eclipseorg cvs repository repository in cvs modules modules and made available as downloadable archives downloads,0,0,0,0,0,0,1,0,0,0,0,0
+9,content may be apportioned into plug ins plug ins plug in fragments fragments and features features,0,0,0,0,0,0,0,0,0,0,0,0
+10,a feature is a bundle of one or more plug ins and or fragments and associated material,0,0,0,0,0,0,0,0,0,0,0,0
+11,files named featurexml may contain a list of the names and version numbers of the plug ins and or fragments associated with a feature,0,0,0,0,0,0,0,0,0,0,0,0
+12,plug ins and fragments are located in directories named plugins and features are located in directories named features,0,1,0,0,0,0,0,1,0,0,0,0
+13,files named featurexml may contain a list of the names and version numbers of included features,0,0,0,0,0,0,0,0,0,0,0,0
+14,the terms and conditions governing plug ins and fragments should be contained in files named abouthtml abouts,0,0,0,0,0,0,0,0,0,0,0,0
+15,the terms and conditions governing features and included features should be contained in files named licensehtml feature licenses,0,0,0,0,0,0,0,0,0,0,0,0
+16,abouts and feature licenses may be located in any directory of a download or module including but not limited to the following locations the top level root directory plug in and fragment directories subdirectories of the directory named src of certain plug ins feature directories note if a feature made available by eclipseorg is installed using the eclipse update manager you must agree to a license feature update license during the installation process,0,0,0,0,0,0,0,0,1,0,0,0
+17,if the feature contains included features the feature update license should either provide you with the terms and conditions governing the included features or inform you where you can locate them,0,0,0,0,0,0,0,0,0,0,0,0
+18,feature update licenses may be found in the license property of files named featureproperties,0,0,0,0,0,0,0,0,0,0,0,0
+19,such abouts feature licenses and feature update licenses contain the terms and conditions or references to such terms and conditions that govern your use of the associated content in that directory,0,1,0,1,0,0,0,0,0,0,0,0
+20,the abouts feature licenses and feature update licenses may refer to the cpl or other license agreements notices or terms and conditions,0,0,0,0,0,0,0,0,1,0,0,0
+21,some of these other license agreements may include but are not limited to eclipse public license version 10 available at http  wwweclipseorg legal epl v10html apache software license 11 available at http  wwwapacheorg licenses license ibm public license 10 available at http  osssoftwareibmcom developerworks opensource license10html metro link public license 100 available at http  wwwopengrouporg openmotif supporters metrolink licensehtml mozilla public license version 11 available at http  wwwmozillaorg mpl mpl 11html it is your obligation to read and accept all such terms and conditions prior to use of the content,0,0,0,0,0,0,0,0,0,0,0,0
+22,if no about feature license or feature update license is provided please contact eclipseorg to determine what terms and conditions govern that particular content,0,0,0,0,0,0,0,0,0,0,0,0
+23,the country in which you are currently may have restrictions on the import possession and use and or re export to another country of encryption software,0,1,0,0,0,0,0,0,0,0,0,0

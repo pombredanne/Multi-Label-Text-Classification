@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,you may make and give away verbatim copies of the source form of the standard version of this package without restriction provided that you duplicate all of the original copyright notices and associated disclaimers,0,0,0,1,0,0,0,1,0,0,0,0,1
+2,you may apply bug fixes portability fixes and other modifications derived from the public domain or from the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,a package modified in such a way shall still be considered the standard version,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you may otherwise modify your copy of this package in any way provided that you insert a prominent notice in each changed script suite or file stating how and when you changed that script suite or file and provided that you do at least one of the following a use the modified package only within your corporation or organization or retain the modified package solely for personal use,0,0,1,0,0,0,0,0,0,0,0,0,1
+5,b place your modifications in the public domain or otherwise make them freely available such as by posting said modifications to usenet or an equivalent medium or placing the modifications on a major archive site such as ftpuunet or by allowing the copyright holder to include your modifications in the standard version of the package,0,0,1,0,0,0,0,0,0,0,0,0,1
+6,c rename any non standard executables so the names do not conflict with standard executables which must also be provided and provide a separate manual page or equivalent for each non standard executable that clearly documents how it differs from the standard version,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,d make other distribution arrangements with the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,you may distribute the programs of this package in object code or executable form provided that you do at least one of the following a distribute a standard version of the executables and library files together with instructions in the manual page or equivalent on where to get the standard version,0,0,0,0,0,0,1,0,0,0,0,0,1
+9,b accompany the distribution with the machine readable source of the package with your modifications,0,0,0,0,0,0,1,0,0,0,0,0,1
+10,c accompany any non standard executables with their corresponding standard version executables give the non standard executables non standard names and clearly document the differences in manual pages or equivalent together with instructions on where to get the standard version,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,d make other distribution arrangements with the copyright holder,0,0,0,0,0,0,0,1,0,0,0,0,1
+12,you may charge a reasonable copying fee for any distribution of this package,1,0,0,0,0,0,0,0,0,0,0,0,1
+13,you may charge any fee you choose for support of this package,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,you may not charge a fee for this package itself,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,however you may distribute this package in aggregate with other possibly commercial programs as part of a larger possibly commercial software distribution provided that you do not advertise this package as a product of your own,1,1,0,0,0,0,0,0,1,0,0,0,1
+16,the scripts and library files supplied as input to or produced as output from the programs of this package do not automatically fall under the copyright of this package but belong to whomever generated them and may be sold commercially and may be aggregated with this package,0,1,0,0,0,0,0,0,0,0,0,0,1
+17,scripts suites or programs supplied by you that depend on or otherwise make use of this package shall not be considered part of this package,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,the name of the copyright holder may not be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0,0

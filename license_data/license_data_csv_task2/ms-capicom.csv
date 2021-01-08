@@ -1,0 +1,49 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,microsoft software license terms microsoft capicom these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,the terms also apply to any microsoft ÃÂ¢ÃÂ· updates ÃÂ¢ÃÂ· supplements ÃÂ¢ÃÂ· internet based services and ÃÂ¢ÃÂ· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,you may install and use any number of copies of the software on your devices running validly licensed copies of windows 2000 windows xp windows vista or windows server 2003,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,you may not ÃÂ¢ÃÂ· work around any technical limitations in the software ÃÂ¢ÃÂ· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation ÃÂ¢ÃÂ· make more copies of the software than specified in this agreement or allowed by applicable law despite this limitation ÃÂ¢ÃÂ· publish the software for others to copy ÃÂ¢ÃÂ· rent lease or lend the software or ÃÂ¢ÃÂ· use the software for commercial software hosting services,1,1,0,1,0,0,0,0,0,0,0,0,1
+11,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,the first user of the software may transfer it and this agreement directly to a third party,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,before the transfer that party must agree that this agreement applies to the transfer and use of the software,0,0,0,1,0,0,0,0,0,0,0,0,1
+16,the first user must uninstall the software before transferring it separately from the device,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,for additional information see wwwmicrosoftcom exporting <http  wwwmicrosoftcom exporting>,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0,0
+25,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,this limitation applies to ÃÂ¢ÃÂ· anything related to the software services content including code on third party internet sites or third party programs and ÃÂ¢ÃÂ· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1,0
+34,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+35,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+36,please note as this software is distributed in quebec canada some of the clauses in this agreement are provided below in french,0,1,0,1,0,0,0,0,0,0,0,0,1
+37,remarque  ce logiciel ÃÂ£ÃÂ©tant distribuÃÂ£ÃÂ© au quÃÂ£ÃÂ©bec canada certaines des clauses dans ce contrat sont fournies ci dessous en franÃÂ£ÃÂ§ais,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,le logiciel visÃÂ£ÃÂ© par une licence est offert ÃÂ¢ÃÂ« tel quel ÃÂ¢ÃÂ»,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,toute utilisation de ce logiciel est ÃÂ£ÃÂ  votre seule risque et pÃÂ£ÃÂ©ril,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,vous pouvez bÃÂ£ÃÂ©nÃÂ£ÃÂ©ficier de droits additionnels en vertu du droit local sur la protection des consommateurs que ce contrat ne peut modifier,0,0,0,0,0,0,0,0,0,0,0,1,0
+41,la ou elles sont permises par le droit locale les garanties implicites de qualitÃÂ£ÃÂ© marchande dÃÂ¢ÃÂadÃÂ£ÃÂ©quation ÃÂ£ÃÂ  un usage particulier et dÃÂ¢ÃÂabsence de contrefaÃÂ£ÃÂ§on sont exclues,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,limitation des dommages intÃÂ£ÃÂrÃÂ£ÃÂts et exclusion de responsabilitÃÂ£ÃÂ pour les dommages,0,0,0,0,0,0,0,0,0,0,1,0,0
+43,vous pouvez obtenir de microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement ÃÂ£ÃÂ  hauteur de 500 $ us,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,vous ne pouvez prÃÂ£ÃÂ©tendre ÃÂ£ÃÂ  aucune indemnisation pour les autres dommages y compris les dommages spÃÂ£ÃÂ©ciaux indirects ou accessoires et pertes de bÃÂ£ÃÂ©nÃÂ£ÃÂ©fices,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,cette limitation concerne ÃÂ¢ÃÂ· tout ce qui est reliÃÂ£ÃÂ© au logiciel aux services ou au contenu y compris le code figurant sur des sites internet tiers ou dans des programmes tiers et ÃÂ¢ÃÂ· les rÃÂ£ÃÂ©clamations au titre de violation de contrat ou de garantie ou au titre de responsabilitÃÂ£ÃÂ© stricte de nÃÂ£ÃÂ©gligence ou dÃÂ¢ÃÂune autre faute dans la limite autorisÃÂ£ÃÂ©e par la loi en vigueur,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,elle sÃÂ¢ÃÂapplique ÃÂ£ÃÂ©galement mÃÂ£ÃÂªme si microsoft connaissait ou devrait connaÃÂ£ÃÂ®tre lÃÂ¢ÃÂÃÂ£ÃÂ©ventualitÃÂ£ÃÂ© dÃÂ¢ÃÂun tel dommage,0,0,0,0,0,0,0,0,0,0,0,1,0
+47,si votre pays nÃÂ¢ÃÂautorise pas lÃÂ¢ÃÂexclusion ou la limitation de responsabilitÃÂ£ÃÂ© pour les dommages indirects accessoires ou de quelque nature que ce soit il se peut que la limitation ou lÃÂ¢ÃÂexclusion ci dessus ne sÃÂ¢ÃÂappliquera pas ÃÂ£ÃÂ  votre ÃÂ£ÃÂ©gard,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,vous pourriez avoir dÃÂ¢ÃÂautres droits prÃÂ£ÃÂ©vus par les lois de votre pays,0,0,0,0,0,0,0,0,0,0,0,0,0

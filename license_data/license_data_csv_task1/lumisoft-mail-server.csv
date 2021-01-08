@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,general usage terms  if you use redistribute compiled binary there are no restrictions,0,1,0,1,0,0,0,0,0,0,0,0
+2,you can use it in any project commercial and no commercial ,1,0,0,1,0,0,0,0,0,0,0,0
+3,its allowed to complile source code parts to your application but then you may not rename class names and namespaces ,0,0,0,0,0,0,0,0,0,0,0,0
+4,the software is provided as is without warranty of any kind express or implied including but not limited to the warranties of merchantability fitness for a particular purpose and noninfringement,0,0,0,0,0,0,0,0,0,0,0,1

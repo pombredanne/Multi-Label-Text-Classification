@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,permission & conditions permission is hereby granted free of charge to any person obtaining a copy of the work to use study copy merge embed modify redistribute and sell modified and unmodified copies of the work subject to the following conditions a neither the work nor any of its individual components in original or modified versions may be i sold by itself ii used for website or app generators iii used to create templates themes and plugins for sale,1,1,1,1,0,0,0,0,0,0,0,0,1
+2,b original or modified versions of the work may be bundled redistributed and or sold with any software provided that each copy contains the above copyright notice and this license,0,0,0,0,0,0,0,1,0,0,0,0,1
+3,these can be included either as stand alone text files human readable headers or in the appropriate machine readable metadata field within text or binary files as long as those files can be easily viewed by the user,0,1,0,0,0,0,0,0,0,0,0,0,1
+4,c no modified version of the work may use the reserved names unless explicit written permission is granted by the corresponding copyright holder,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,this restriction only applies to the primary product name as presented to the users,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,d the names of the copyright holders or the authors of the work shall not be used to promote endorse or advertise any modified version,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,e the work modified or unmodified in part or in whole must be distributed entirely under this license and must not be distributed under any other license,0,1,0,0,0,0,0,0,1,0,0,0,1
+8,conditions can be changed only with explicit written permission of the copyright holders,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,termination this license becomes null and void if any of the above conditions are not met,0,0,0,0,0,0,0,0,0,0,0,1,1
+10,disclaimer the work is provided as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0

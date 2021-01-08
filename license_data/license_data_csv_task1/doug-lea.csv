@@ -1,0 +1,13 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,doug lea license doug lea   8094a your file barrierjava file barrierjava originally written by doug lea and released into the public domain,0,0,0,0,0,0,0,0,0,0,0,0
+2,this may be used for any purposes whatsoever without acknowledgment,0,0,0,1,0,0,0,0,0,0,0,0
+3,thanks for the assistance and support of sun microsystems labs and everyone contributing testing and using this code,0,0,0,0,0,0,0,0,0,0,0,0
+4,history date who what 11jun1998 dl create public version lea   8094b your file brokenbarrierexceptionjava file brokenbarrierexceptionjava ,0,0,0,0,0,0,0,0,0,0,0,0
+5,originally written by doug lea and released into the public domain,0,0,0,0,0,0,0,0,0,0,0,0
+6,this may be used for any purposes whatsoever without acknowledgment,0,0,0,1,0,0,0,0,0,0,0,0
+7,thanks for the assistance and support of sun microsystems labs and everyone contributing testing and using this code,0,0,0,0,0,0,0,0,0,0,0,0
+8,history date who whatlea   8094c your file cyclicbarrierjava file cyclicbarrierjava originally written by doug lea and released into the public domain,0,0,0,0,0,0,0,0,0,0,0,0
+9,this may be used for any purposes whatsoever without acknowledgment,1,0,0,1,0,0,0,0,0,0,0,0
+10,thanks for the assistance and support of sun microsystems labs and everyone contributing testing and using this code,0,0,0,0,0,0,0,0,0,0,0,0
+11,history date who what 11jul1998 dl create public version 28aug1998 dl minor code simplification lea   80094d your file timeoutexceptionjava file timeoutexceptionjava originally written by doug lea and released into the public domain,0,0,0,0,0,0,0,0,0,1,0,0
+12,this may be used for any purposes whatsoever without acknowledgment,0,0,0,1,0,0,0,0,0,0,0,0

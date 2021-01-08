@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,purpose this license gives everyone as much permission to work with this software as possible while protecting contributors from liability,0,0,0,0,0,0,0,0,0,0,0,0
+2,acceptance in order to receive this license you must agree to its rules,0,0,0,0,0,0,0,0,0,0,0,0
+3,the rules of this license are both obligations under that agreement and conditions to your license,0,0,0,0,0,0,0,0,1,0,0,0
+4,you must not do anything with this software that triggers a rule that you cannot or will not follow,0,0,0,0,0,0,0,0,0,0,0,0
+5,copyright each contributor licenses you to do everything with this software that would otherwise infringe that contributors copyright in it,0,1,0,0,0,0,0,0,0,0,0,0
+6,notices you must ensure that everyone who gets a copy of any part of this software from you with or without changes also gets the text of this license or a link to <https  blueoakcouncilorg license 100>,0,0,0,0,0,0,0,0,0,0,0,0
+7,excuse if anyone notifies you in writing that you have not complied with [notices]#notices you can keep your license by taking all practical steps to comply within 30 days after the notice,0,0,0,0,0,0,0,0,0,0,0,0
+8,if you do not do so your license ends immediately,0,0,0,0,0,0,0,0,0,0,0,0
+9,patent each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license,0,0,0,0,1,0,0,0,0,0,0,0

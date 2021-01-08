@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the enclosed software and documentation includes copyrighted works of hewlett packard co for as long as you comply with the following limitations you are hereby authorized to i use reproduce and modify the software and documentation and to ii distribute the software and documentation including modifications for non commercial purposes only,1,1,1,1,0,0,0,0,0,0,0,0
+2,the enclosed software and documentation is made available at no charge in order to advance the general development of high performance networking products,0,0,0,0,0,0,0,0,0,0,0,0
+3,you may not delete any copyright notices contained in the software or documentation,0,0,0,0,0,0,0,1,0,0,0,0
+4,all hard copies and copies in source code or object code form of the software or documentation including modifications must contain at least one of the copyright notices,0,0,0,0,0,0,0,1,0,0,0,0
+5,the enclosed software and documentation has not been subjected to testing and quality control and is not a hewlett packard co product,0,0,0,0,0,0,0,0,0,0,1,0
+6,at a future time hewlett packard co may or may not offer a version of the software and documentation as a product,0,0,0,0,0,0,0,0,0,0,0,1
+7,hewlett packard company does not warrant that the use reproduction modification or distribution of the software or documentation will not infringe a third partys intellectual property rights,0,0,0,0,0,0,0,0,0,0,0,0
+8,hp does not warrant that the software or documentation is error free,0,0,0,0,0,0,0,0,0,0,0,1
+9,hp disclaims all warranties express and implied with regard to the software and the documentation,0,0,0,0,0,0,0,0,0,0,0,1
+10,hp specifically disclaims all warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1

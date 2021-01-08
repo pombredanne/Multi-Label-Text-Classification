@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use in source and binary forms are permitted provided that,0,1,0,1,0,0,0,0,0,0,0,0
+2,1 source distributions retain this entire copyright notice and comment,0,0,0,0,0,0,0,1,0,0,0,0
+3,2 modifications made to the software are prominently mentioned and a copy of the original software or a pointer to its location are included,0,0,0,0,0,0,0,0,0,0,0,0
+4,and 3 distributions including binaries display the following acknowledgement this product includes software developed by brian m clapper <bmc@clapperorg> in the documentation or other materials provided with the distribution,0,0,0,0,0,0,0,0,0,0,0,0
+5,the name of the author may not be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0
+6,this software is provided ``as is and without any express or implied warranties including without limitation the implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+7,effectively this means you can do what you want with the software except remove this notice or take advantage of the authors name,0,0,0,0,0,0,0,0,0,0,0,0

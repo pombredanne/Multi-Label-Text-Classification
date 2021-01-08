@@ -1,0 +1,15 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the mrouted program is covered by the following license,0,0,0,0,0,0,0,0,0,0,0,0
+2,use of the mrouted program represents acceptance of these terms and conditions,0,0,0,0,0,0,0,0,0,0,0,0
+3,stanford grants to licensee a nonexclusive and nontransferable license to use copy and modify the computer software ``mrouted hereinafter called the ``program upon the terms and conditions hereinafter set out and until licensee discontinues use of the licensed program,0,0,0,0,0,0,0,0,0,0,0,0
+4,licensee acknowledges that the program is a research tool still in the development state that it is being supplied ``as is without any accompanying services from stanford and that this license is entered into in order to encourage scientific collaboration aimed at further development and application of the program,0,0,0,1,0,0,0,0,0,0,0,0
+5,licensee may copy the program and may sublicense others to use object code copies of the program or any derivative version of the program,0,0,0,0,0,0,0,0,0,0,0,0
+6,all copies must contain all copyright and other proprietary notices found in the program as provided by stanford,0,0,0,0,0,0,0,1,0,0,0,0
+7,title to copyright to the program remains with stanford,0,0,0,1,0,0,0,0,0,0,0,0
+8,licensee hereby grants stanford a royalty free license to use copy modify distribute and sublicense any such derivative works,0,1,1,1,0,0,0,0,0,0,0,0
+9,at the time licensee provides a copy of a derivative version of the program to a third party licensee shall provide stanford with one copy of the source code of the derivative version at no charge to stanford,0,0,0,0,0,0,1,0,0,0,0,0
+10,stanford makes no representations or warranties express or implied,0,0,0,0,0,0,0,0,0,0,0,1
+11,by way of example but not limitation stanford makes no representation or warranties of merchantability or fitness for any particular purpose or that the use of the licensed program will not infringe any patents copyrights trademarks or other rights,0,0,0,0,0,0,0,0,0,0,0,0
+12,stanford shall not be held liable for any liability nor for any direct indirect or consequential damages with respect to any claim by licensee or any third party on account of or arising from this agreement or use of the program,0,0,0,0,0,0,0,0,0,0,1,0
+13,this agreement shall be construed interpreted and applied in accordance with the state of california and any legal action arising out of this agreement or use of the program shall be filed in a court in the state of california,0,0,0,0,0,0,0,0,0,0,0,0
+14,nothing in this agreement shall be construed as conferring rights to use in advertising publicity or otherwise any trademark or the name of ``stanford,0,0,0,0,0,1,0,0,0,0,0,0

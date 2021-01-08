@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,basically i only care that you do not remove the copyright notice from the source code when using sglib,,,,,,,,,,,,
+2,more precisely you can use sglib or its derivative forms under the condition that the copyright notice is preserved in any project whether commercial or not free of charges,,,,,,,,,,,,
+3,in particular you can use sglib under the terms of any license defined as an open source license by the open source initiative see http  wwwopensourceorg ,,,,,,,,,,,,
+4,this includes most common open source licenses such as the bsd license and gnu gpl,,,,,,,,,,,,

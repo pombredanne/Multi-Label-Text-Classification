@@ -1,0 +1,62 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,license by using or installing any software productincluding source code and corresponding documentation created by lavantech hereafter referred to as software you are agreeing to be bound by the terms and conditions of this license agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,as used in this license agreement you shall mean the individual using or installing the software together with any individual or entity including but not limited to your employer on whose behalf you are acting in using or installing the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,you shall be the licensee under this license agreement,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,this license agreement constitutes the complete agreement between you and lavantech,0,0,0,0,0,0,0,0,1,0,0,0,1
+5,no amendment or modification may be made to this agreement except in writing signed by you and lavantech,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,if you do not agree to the terms and conditions of the agreement discontinue use of the software immediately,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,license grant in consideration for the license fee paid and other good and valuable consideration lavantech grants to you only the licensee the non exclusive world wide right to use the software in accordance with the license you purchase,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,if you are using this product for your employer this agreement also includes your employer,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,trial demo license software that is distributed as trial demo may only be used for testing and evaluation purposes by a single developer,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,the trial demo software cannot be distributed as part of your software,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,the software license is valid only for 30 days from the time of download or installation,1,0,0,0,0,0,0,0,0,0,0,0,1
+12,the trial demo software should be destroyed after the trial period,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,developer license single developer license allows one developer to use the software for development and integration of any number of applications,1,0,0,0,0,0,0,0,0,0,0,0,1
+14,if you have more than one developer that will be developing applications using the software you will need to purchase a developer license for each additional developer,1,0,0,0,0,0,0,0,0,0,0,0,1
+15,the 5 developer license grants the rights of the developer license for up to 5 developers,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,the enterprise developer license grants the rights of the developer license for unlimited number of developers within a same organization,1,0,0,0,0,0,0,0,0,0,0,0,0
+17,personal non commercial developer license grants the rights of the developer license for one developer for non commercial purposes,1,0,0,1,0,0,0,0,0,0,0,0,0
+18,non commercial purposes means use of the software by an individual who does not directly or indirectly support any commercial efforts,1,0,0,1,0,0,0,0,0,0,0,0,1
+19,the developer license allows the developer royalty free unlimited distribution of the software bundled with an application provided you adhere to the following distribution terms ÃÂ¢ÃÂÃÂ¢	you may not resell rent lease or distribute the software alone,0,1,1,0,0,0,0,0,0,0,0,0,1
+20,the software must be distributed as a component of an application and bundled with an application or with the applications installation files,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,the software may only be used as part of and in connection with the bundled application,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,ÃÂ¢ÃÂÃÂ¢	you may not resell rent lease or distribute software in any way that would compete with lavantech,1,0,0,0,0,0,0,0,0,0,0,0,1
+23,ÃÂ¢ÃÂÃÂ¢	you shall protect and keep secure all source code provided with software,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,all source code provided with software that is distributed with an application must be compiled or password protected to the extent that only the software developers may obtain access to it,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,ÃÂ¢ÃÂÃÂ¢	a valid copyright notice must be provided within the user documentation start up screen or in the help about section of your application that specifies lavantech as the provider of the software bundled with your application for example <<your application name>> contains components licensed from lavantech,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,these components may only be used as part of and in connection with <<your application name>>,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,source code license if a source code license is purchased lavantech grants you the right to use and modify the lavantech source under the following condition,0,0,1,0,0,0,0,0,0,0,0,0,1
+28,ÃÂ¢ÃÂÃÂ¢	lavantech shall retain all right title and interest in and to all updates modifications enhancements and derivative works in whole or in part of the lavantech source code created by you including all copyrights subsisting therein to the extent such modifications enhancements or derivative works contain copyrightable code or expression derived from the lavantech source code provided however that lavantech grants to you a fully paid royalty free license to use copy and modify such updates modifications enhancements and derivative works or copies thereof for use as authorized in this license,0,1,1,1,0,0,0,1,0,0,0,0,1
+29,ÃÂ¢ÃÂÃÂ¢	you may not distribute the lavantech source code or any modified version or derivative work of the lavantech source code in source code form,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,ÃÂ¢ÃÂÃÂ¢	lavantech require all developers who plan to access lavantech source code signing on the source code license,0,0,0,0,0,0,1,0,0,0,0,0,1
+31,as long as they signed they become registered developers,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,an alternative to this is to let a delegate signs source code license as an organization,0,0,0,0,0,0,1,0,0,0,0,0,1
+33,the delegate will be responsible for letting other developers who plan to access the source code reviewing this license agreement first before releasing them the access,0,0,0,0,0,0,0,0,0,0,0,0,1
+34,ÃÂ¢ÃÂÃÂ¢	the source code contained herein and in related files is provided to the registered developer for the purposes of education and troubleshooting,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,under no circumstances may any portion of the source code be distributed disclosed or otherwise made available to any third party without the express written consent of lavantech,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,ÃÂ¢ÃÂÃÂ¢	under no circumstances may the source code be used in whole or in part as the basis for creating a product that provides the same or substantially the same functionality as any lavantech products,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,ÃÂ¢ÃÂÃÂ¢	the registered developer acknowledges that this source code contains valuable and proprietary trade secrets of lavantech,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,the registered developer agrees to expend every effort to insure its confidentiality,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,for example under no circumstances may the registered developer allow to put the source code on an internal network where he or she has no control,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,ÃÂ¢ÃÂÃÂ¢	due to the insecurity of java byte code if you plan to use classes that built from the source code directly you must agree to obfuscate the classes before distributing it to your customers,0,0,0,0,0,0,1,0,0,0,0,0,1
+41,copyright the lavantech software and the accompanying materials are copyrighted and contain proprietary information,0,1,0,0,0,0,0,1,0,0,0,0,1
+42,unauthorized copying of the software or accompanying materials even if modified merged or included with other software or of the written materials is expressly forbidden,0,0,0,0,0,0,0,0,0,0,0,0,1
+43,you may be held legally responsible for any infringement of intellectual property rights that is caused or encouraged by your failure to abide by the terms of this agreement,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,you may make copies of the software solely for backup purposes provided the copyright and trademark notices are reproduced in their entirety on the backup copy,0,1,0,1,0,0,0,1,0,0,0,0,1
+45,lavantech reserves all rights not specifically granted to licensee,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,the software and documentation are licensed not sold to you,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,you may not rent lease display or distribute copies of the software to others except under the conditions of the developer license,1,1,0,0,0,0,0,0,0,0,0,0,1
+48,you may not disassemble decompose reverse engineer or alter the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+49,this agreement will terminate automatically without notice from lavantech if you fail to comply with any provision contained herein or if the funds paid for the license are refunded or are not received,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,upon termination you must destroy the software and all copies of them in part and in whole including modified copies if any,0,0,0,0,0,0,0,0,0,0,0,0,1
+51,if you have distributed software with an application under the developer license you may continue to use said software for up to 90 days after termination,0,0,0,0,0,0,0,0,0,0,0,0,1
+52,lavantech reserves the right to terminate the agreement for any reason that competes with or negatively effects lavantech,0,0,0,0,0,0,0,0,0,0,1,0,1
+53,warranty although efforts have been made to assure that the software is date compliant correct reliable and technically accurate the software is licensed to you as is and without warranties as to performance of merchantability fitness for a particular purpose or use or any other warranties whether expressed or implied,0,0,0,0,0,0,0,0,0,0,0,1,0
+54,you your organization and all users of the software assume all risks when using it,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,the manufacturers distributors and resellers of the software shall not be liable for any consequential incidental punitive or special damages arising out of the use of or inability to use the software or the provision of or failure to provide support services even if we have been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+56,technical support lavantech offers free technical support over email for all its latest version of the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+57,controlling law and severability this license agreement shall be governed by and construed in accordance with the laws of the united states and the state of ohio as applied to agreements entered into and to be performed entirely within ohio between ohio residents,0,0,0,0,0,0,0,0,1,0,0,0,0
+58,the courts of the state of ohio county of lake shall have exclusive jurisdiction and venue over any dispute proceeding or action arising out of or in connection with this license agreement or your use of the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,if for any reason a court of competent jurisdiction finds any provision of this license agreement or portion thereof to be unenforceable that provision of the license agreement shall be enforced to the maximum extent permissible so as to effect the intent of the parties and the remainder of this license agreement shall continue in full force and effect,0,0,0,0,0,0,0,0,1,0,0,0,1
+60,non waiver the failure by either party at any time to enforce any of the provisions of this license agreement or any right or remedy available hereunder or at law or in equity or to exercise any option herein provided shall not constitute a waiver of such provision right remedy or option or in any way affect the validity of this license agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,the waiver of any default by either party shall not be deemed a continuing waiver but shall apply solely to the instance to which such waiver is directed,0,0,0,0,0,0,0,0,0,0,1,0,0

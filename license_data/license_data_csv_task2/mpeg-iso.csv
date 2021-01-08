@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,mpeg 2 nbc audio decoder this software module was originally developed by at&t dolby laboratories fraunhofer gesellschaft iis in the course of development of the mpeg 2 nbc mpeg 4 audio standard iso iec 13818 7 14496 12 and 3,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,this software module is an implementation of a part of one or more mpeg 2 nbc mpeg 4 audio tools as specified by the mpeg 2 nbc mpeg 4 audio standard,0,0,0,0,0,0,0,0,0,0,0,1,1
+3,iso iec gives users of the mpeg 2 nbc mpeg 4 audio standards free license to this software module or modifications thereof for use in hardware or software products claiming conformance to the mpeg 2 nbc mpeg 4 audio standards,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,those intending to use this software module in hardware or software products are advised that this use may infringe existing patents,0,0,0,0,1,0,0,0,0,0,0,0,1
+5,the original developer of this software module and his her company the subsequent editors and their companies and iso iec have no liability for use of this software module or modifications thereof in an implementation,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,copyright is not released for non mpeg 2 nbc mpeg 4 audio conforming productsthe original developer retains full right to use the code for his her own purpose assign or donate the code to a third party and to inhibit third party from using the code for non mpeg 2 nbc mpeg 4 audio conforming products,0,0,0,1,0,0,0,0,0,0,0,0,1
+7,this copyright notice must be included in all copies or derivative works,0,0,0,0,0,0,0,1,0,0,0,0,1

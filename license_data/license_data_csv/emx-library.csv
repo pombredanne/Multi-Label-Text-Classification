@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the emx libraries are not distributed under the gpl,,,,,,,,,,,,
+2,linking an application with the emx libraries does not cause the executable to be covered by the gnu general public license,,,,,,,,,,,,
+3,you are allowed to change and copy the emx library sources if you keep the copyright message intact,,,,,,,,,,,,

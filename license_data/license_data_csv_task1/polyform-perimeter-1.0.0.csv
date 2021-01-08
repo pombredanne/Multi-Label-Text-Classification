@@ -1,0 +1,18 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,## acceptance in order to get any license under these terms you must agree to them as both strict obligations and conditions to all your licenses,0,0,0,0,0,0,0,0,1,0,0,0
+2,## copyright license the licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensors copyright in it for any permitted purpose,0,0,0,0,0,0,0,1,0,0,0,0
+3,however you may only distribute the software according to [distribution license]#distribution license and make changes or new works based on the software according to [changes and new works license]#changes and new works license,0,1,0,0,0,0,0,0,1,0,0,0
+4,## distribution license the licensor grants you an additional copyright license to distribute copies of the software,0,0,0,0,0,0,0,0,0,0,0,0
+5,your license to distribute covers distributing the software with changes and new works permitted by [changes and new works license]#changes and new works license,0,1,0,0,0,0,0,0,0,0,0,0
+6,## notices you must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the url for them above as well as copies of any plain text lines beginning with `required notice` that the licensor provided with the software,0,0,0,0,0,0,0,1,0,0,0,0
+7,for example > required notice copyright yoyodyne inc http  examplecom ## changes and new works license the licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose,0,0,0,0,0,0,0,1,0,0,0,0
+8,## patent license the licensor grants you a patent license for the software that covers patent claims the licensor can license or becomes able to license that you would infringe by using the software,0,0,0,0,1,0,0,0,0,0,0,0
+9,## noncompete any purpose is a permitted purpose except for providing to others any product that competes with the software,1,0,0,0,0,0,0,0,0,0,0,0
+10,## competition if you use this software to market a product as a substitute for the functionality or value of the software it competes with the software,0,0,0,0,0,0,0,0,0,0,0,0
+11,a product may compete regardless how it is designed or deployed,0,0,0,0,0,0,0,0,0,0,0,0
+12,for example a product may compete even if it provides its functionality via any kind of interface including services libraries or plug ins even if it is ported to a different platforms or programming languages and even if it is provided free of charge,0,0,0,0,0,0,0,0,0,0,0,0
+13,## fair use you may have fair use rights for the software under the law,0,0,0,0,0,0,0,0,0,0,0,0
+14,## no other rights these terms do not allow you to sublicense or transfer any of your licenses to anyone else or prevent the licensor from granting licenses to anyone else,1,0,0,0,0,0,0,0,0,0,0,0
+15,## patent defense if you make any written claim that the software infringes or contributes to infringement of any patent your patent license for the software granted under these terms ends immediately,0,0,0,0,1,0,0,0,0,0,0,0
+16,if your company makes such a claim your patent license ends immediately for work on behalf of your company,0,0,0,0,0,0,0,0,0,0,0,0
+17,## violations the first time you are notified in writing that you have violated any of these terms or done anything with the software not covered by your licenses your licenses can nonetheless continue if you come into full compliance with these terms and take practical steps to correct past violations within 32 days of receiving notice,0,0,0,0,0,0,0,0,1,0,0,0

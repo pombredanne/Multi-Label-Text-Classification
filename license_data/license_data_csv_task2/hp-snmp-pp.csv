@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,attention use of this software is subject to the following terms,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,permission to use copy modify distribute and or sell this software and or its documentation is hereby granted without fee,1,1,1,1,0,0,0,0,0,0,0,0,1
+3,user agrees to display the above copyright notice and this license notice in all copies of the software and any documentation of the software,0,0,0,0,0,0,0,1,0,0,0,0,1
+4,user agrees to assume all liability for the use of the software hewlett packard makes no representations about the suitability of this software for any purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+5,it is provided as is without warranty of any kind either express or implied,0,0,0,0,0,0,0,0,0,0,0,1,0

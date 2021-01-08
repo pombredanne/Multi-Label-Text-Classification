@@ -1,0 +1,13 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,copyright notice copyright 1997 2000 university of notre dame,0,0,0,0,0,0,0,1,0,0,0,0,1
+2,authors jeremy g siek jeffery m squyres michael p mcnally and andrew lumsdaine license agreement in consideration of being allowed to copy and or use this software user agrees to be bound by the terms and conditions of this license agreement as licensee,0,0,0,0,0,0,0,0,1,0,0,0,1
+3,this agreement gives you the licensee certain rights and obligations,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,by using the software you indicate that you have read understood and will comply with the following terms and conditions,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,permission is hereby granted to use or copy this program for any purpose provided the text of this notice to include copyright notice license agreement and disclaimer is retained with all copies,0,0,0,1,0,0,0,1,0,0,0,0,1
+6,permission to modify the code and to distribute modified code is granted provided the text of this notice is retained a notice that the code was modified is included with the above copyright notice and with the copyright notice in any modified files and that this file license is distributed with the modified code,0,1,1,1,0,0,0,1,1,0,0,0,1
+7,title to copyright to this software and its derivatives and to any associated documentation shall at all times remain with licensor and licensee agrees to preserve the same,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,nothing in this agreement shall be construed as conferring rights to use in advertising publicity or otherwise any trademark or the name of the university of notre dame du lac,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,disclaimer licensor makes no representations or warranties express or implied,0,0,0,0,0,0,0,0,0,0,0,1,0
+10,by way of example but not limitation licensor makes no representations or warranties of merchantability or fitness for any particular purpose or that the use of the licensed software components or documentation will not infringe any patents copyrights trademarks or other rights,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,the authors and the university of notre dame du lac shall not be held liable for any liability nor for any direct indirect or consequential damages with respect to any claim by licensee or any third party on account of or arising from this agreement or use of this software,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,any disputes arising out of this agreement or licensees use of the software at any time shall be resolved by the courts of the state of indiana,0,0,0,0,0,0,0,0,0,0,0,0,0

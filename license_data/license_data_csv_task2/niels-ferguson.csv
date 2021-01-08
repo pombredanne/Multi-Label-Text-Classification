@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,the author hereby grants a perpetual license to everybody to use this code for any purpose as long as the copyright message is included in the source code of this or any derived work,0,0,0,1,0,0,0,0,0,0,0,0,1
+2,yes this means that you your company your club and anyone else can use this code anywhere you want,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,you can change it and distribute it under the gpl include it in your commercial product without releasing the source code put it on the web etc,0,1,0,0,0,0,0,0,0,0,0,0,1
+4,the only thing you cannot do is remove my copyright message or distribute any source code based on this implementation that does not include my copyright message,0,0,0,0,0,0,0,1,0,0,0,0,1
+5,i appreciate a mention in the documentation or credits but i understand if that is difficult to do,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,i also appreciate it if you tell me where and why you used my code,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,disclaimer as im giving away my work for free im of course not going to accept any liability of any form,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,this code or the twofish cipher might very well be flawed you have been warned,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,this software is provided as is without any kind of warrenty or guarantee,0,0,0,0,0,0,0,0,0,0,0,1,0

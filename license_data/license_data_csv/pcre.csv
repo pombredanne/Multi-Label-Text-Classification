@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,pcre licence              pcre is a library of functions to support regular expressions whose syntax and semantics are as close as possible to those of the perl 5 language,,,,,,,,,,,,
+2,written by philip hazel <ph10@camacuk> university of cambridge computing service cambridge england,,,,,,,,,,,,
+3,copyright c 1997 2001 university of cambridge permission is granted to anyone to use this software for any purpose on any computer system and to redistribute it freely subject to the following restrictions 1,,,,,,,,,,,,
+4,this software is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,,,,,,,,,,,,
+5,the origin of this software must not be misrepresented either by explicit claim or by omission,,,,,,,,,,,,
+6,in practice this means that if you use pcre in software which you distribute to others commercially or otherwise you must put a sentence like this regular expression support is provided by the pcre library package which is open source software written by philip hazel and copyright by the university of cambridge england somewhere reasonably visible in your documentation and in any relevant files or online help data or similar,,,,,,,,,,,,
+7,a reference to the ftp site for the source that is to ftp  ftpcsxcamacuk pub software programming pcre  should also be given in the documentation,,,,,,,,,,,,
+8,altered versions must be plainly marked as such and must not be misrepresented as being the original software,,,,,,,,,,,,
+9,if pcre is embedded in any software that is released under the gnu general purpose licence gpl or lesser general purpose licence lgpl then the terms of that licence shall supersede any condition above with which it is incompatible,,,,,,,,,,,,
+10,the documentation for pcre supplied in the doc directory is distributed under the same terms as the software itself,,,,,,,,,,,,

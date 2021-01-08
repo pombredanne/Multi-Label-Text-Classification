@@ -1,0 +1,32 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,introduction cupstm is provided under the gnu general public license gpl and gnu library general public license lgpl version 2 with exceptions for apple operating systems and the openssl toolkit,0,1,1,0,0,0,0,0,1,0,0,0
+2,a copy of the exceptions and licenses follow this introduction,0,0,0,0,0,0,0,0,0,0,0,0
+3,the gnu lgpl applies to the cups and cups imaging libraries located in the cups and filter subdirectories of the cups source distribution and in the cups include directory and library files in the binary distributions,0,1,1,0,0,0,0,0,0,0,0,0
+4,the gnu gpl applies to the remainder of the cups distribution including the pdftops filter which is based upon xpdf,0,0,0,0,0,0,0,0,0,0,0,0
+5,for those not familiar with the gnu gpl the license basically allows you to use the cups software at no charge,0,0,0,0,0,0,0,0,0,0,0,0
+6,distribute verbatim copies of the software in source or binary form,0,1,0,1,0,0,0,0,0,0,0,0
+7,sell verbatim copies of the software for a media fee or sell support for the software,1,0,0,0,0,0,0,0,0,0,0,0
+8,what this license does not allow you to do is make changes or add features to cups and then sell a binary distribution without source code,0,1,0,0,0,0,0,0,0,0,0,0
+9,you must provide source for any changes or additions to the software and all code must be provided under the gpl or lgpl as appropriate,0,0,0,0,0,0,0,0,0,0,0,0
+10,the only exceptions to this are the portions of the cups software covered by the apple operating system license exceptions outlined later in this license agreement,0,0,0,0,0,0,0,0,1,0,0,0
+11,the gnu lgpl relaxes the link to restriction allowing you to develop applications that use the cups and cups imaging libraries under other licenses and or conditions as appropriate for your application driver or filter,0,0,0,0,0,0,0,0,0,0,0,0
+12,license exceptions in addition as the copyright holder of cups apple inc grants the following special exceptions apple operating system development license exception software that is developed by any person or entity for an apple operating system apple os developed software including but not limited to apple and third party printer drivers filters and backends for an apple operating system that is linked to the cups imaging library or based on any sample filters or backends provided with cups shall not be considered to be a derivative work or collective work based on the cups program and is exempt from the mandatory source code release clauses of the gnu gpl,0,0,0,0,0,0,0,0,1,0,0,0
+13,you may therefore distribute linked combinations of the cups imaging library with apple os developed software without releasing the source code of the apple os developed software,0,1,1,1,0,0,1,0,0,0,0,0
+14,you may also use sample filters and backends provided with cups to develop apple os developed software without releasing the source code of the apple os developed software,0,0,1,1,0,0,0,0,0,0,0,0
+15,an apple operating system means any operating system software developed and or marketed by apple computer inc including but not limited to all existing releases and versions of apples darwin mac os x and mac os x server products and all follow on releases and future versions thereof,0,1,0,0,0,0,0,0,0,0,0,0
+16,this exception is only available for apple os developed software and does not apply to software that is distributed for use on other operating systems,0,0,0,0,0,0,0,0,0,0,0,0
+17,all cups software that falls under this license exception have the following text at the top of each source file this file is subject to the apple os developed software exception,0,1,0,0,0,0,0,1,0,0,0,0
+18,openssl toolkit license exception apple inc explicitly allows the compilation and distribution of the cups software with the openssl toolkit,0,0,0,0,0,0,0,0,0,0,0,0
+19,no developer is required to provide these exceptions in a derived work,0,0,0,0,0,0,0,0,0,0,0,0
+20,kerberos support code the kerberos support code ksc is copyright 2006 by jelmer vernooij and is provided as is without any express or implied warranty,0,0,0,0,0,0,0,0,0,0,0,1
+21,in no event will the author or apple inc be held liable for any damages arising from the use of the ksc,0,0,0,0,0,0,0,0,0,0,1,0
+22,sources files containing ksc have the following text at the top of each source file this file contains kerberos support code copyright 2006 by jelmer vernooij,0,0,0,0,0,0,0,1,0,0,0,0
+23,the ksc copyright and license apply only to kerberos related feature code in cups,0,0,0,0,0,0,0,0,0,0,0,0
+24,such code is typically conditionally compiled based on the present of the have_gssapi preprocessor definition,0,0,0,0,0,0,0,0,0,0,0,0
+25,permission is granted to anyone to use the ksc for any purpose including commercial applications and to alter it and redistribute it freely subject to the following restrictions the origin of the ksc must not be misrepresented you must not claim that you wrote the original software,1,1,0,1,0,0,0,0,0,0,0,0
+26,if you use the ksc in a product an acknowledgment in the product documentation would be appreciated but is not required,0,0,0,0,0,0,0,0,0,0,0,0
+27,altered source versions must be plainly marked as such and must not be misrepresented as being the original software,0,0,0,0,0,0,0,0,0,1,0,0
+28,this notice may not be removed or altered from any source distribution,0,0,0,0,0,0,0,0,0,0,0,0
+29,trademarks cups and the cups logo the cups marks are trademarks of apple inc apple grants you a non exclusive and non transferable right to use the cups marks in any direct port or binary distribution incorporating cups software and in any promotional material therefor,0,1,0,0,0,0,0,0,0,0,0,0
+30,you agree that your products will meet the highest levels of quality and integrity for similar goods not be unlawful and be developed manufactured and distributed in compliance with this license,0,0,0,0,0,0,0,0,0,0,1,0
+31,you will not interfere with apples rights in the cups marks and all use of the cups marks shall inure to the benefit of apple,0,0,0,0,0,0,0,0,0,0,0,0

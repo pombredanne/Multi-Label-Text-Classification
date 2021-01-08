@@ -1,0 +1,24 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,11the software is copyrighted and or contains proprietary information protected by law,0,0,0,0,0,0,0,0,0,0,0,0
+2,all software and all copies thereof are and will remain the sole property of agere systems or its suppliers,0,1,0,0,0,0,0,0,0,0,0,0
+3,agere systems hereby grants you a non exclusive right to use the software in whatever form recorded which is furnished to you under or in contemplation of this agreement in an agere systems winmodem,0,1,0,1,0,0,0,0,0,0,0,0
+4,any other use of the software or removal of the software from a country in which use is licensed shall automatically terminate this license,0,0,0,0,0,0,0,0,0,0,0,0
+5,12you agree to use your best efforts to see that any user of the software licensed hereunder complies with the terms and conditions of this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+6,20 software use 21you are permitted to make copies of the software provided that any such copy the original software,0,0,0,0,0,0,0,0,0,0,0,0
+7,22you agree not to merge or combine any portion of the software with any other software other than the linux operating system unless expressly permitted by the laws of the jurisdiction where you are located,0,0,0,0,0,0,0,0,1,0,0,0
+8,any portion of the software merged or combined with the other software will continue to be the subject of the terms and conditions of this agreement and you agree to reproduce on the merged or combined portion of the software the copyright and other proprietary rights notices included in the original software,0,0,0,0,0,0,0,0,0,0,0,0
+9,23redistribution and usage agere permits use and limited redistribution of this licensed software in source and binary forms with or without modification subject to the following terms and conditions in addition to the terms mentioned in this agreement,0,1,1,1,0,0,0,0,0,0,0,0
+10,231agere systems reserves the right not to allow a third party to reuse or redistribute the software at its sole discretion,0,0,0,0,0,0,0,0,0,0,0,0
+11,232user hereby agrees not to remove or alter any copyright trademark credits and other proprietary notices contained within or associated with the licensed software and shall include all such unaltered copyright trademark credits and other proprietary notices on or in every copy of the software,0,0,0,0,0,0,0,1,0,0,0,0
+12,233notwithstanding any other provisions in this agreement to the contrary any modifications or alterations made to the licensed software shall cause any warranties and intellectual property indemnifications to become null and void and of no further effect,0,0,0,0,0,0,0,0,0,1,0,0
+13,30 disclaimer of warranty 31you understand and acknowledge that the software may contain errors bugs or other defects,0,0,0,0,0,0,0,0,0,0,0,1
+14,the software is provided on as is basis without warranty of any kind,0,0,0,0,0,0,0,0,0,0,0,1
+15,32agere systems has used reasonable efforts to minimize defects or errors in the software,0,0,0,0,0,0,0,0,0,0,0,0
+16,however you assume the risk of any and all damage or loss from use or inability to use the software,0,0,0,0,0,0,0,0,0,0,1,0
+17,specifically but not in limitation of the foregoing disclaimers agere systems does not warrant that the functions of the software will meet your requirements or that the software operation will be error free or uninterrupted,0,0,0,0,0,0,0,0,0,0,0,1
+18,33agere systems bears no responsibility for supplying assistance for fixing or for communicating known errors to you pertaining to the software supplied hereunder,0,0,0,0,0,0,1,0,0,0,0,0
+19,34you understand that agere systems its affiliates contractors suppliers and agents make no warranties express or implied and specifically disclaim any warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+20,41regardless of any other provisions of this agreement neither agere systems nor its affiliates contractors suppliers or agents shall be liable for any indirect incidental or consequential damages including lost profits sustained or incurred in connection with the use operation or inability to use the software or for damages due to causes beyond the reasonable control of agere systems its affiliates contractors suppliers and agents attributable to any service products or action of any other person,0,0,0,0,0,0,0,0,0,0,1,0
+21,42this agreement shall be construed in accordance with and governed by the laws of the state of new york,0,0,0,0,0,0,0,0,0,0,1,0
+22,you acknowledge that you have read this agreement and understand it and that by downloading or using the software you agree to be bound by its terms and conditions,0,0,0,0,0,0,0,0,0,0,0,0
+23,you further agree that this agreement is the complete and exclusive statement of the rights and liabilities of the parties,0,0,0,0,0,0,0,0,0,0,0,0

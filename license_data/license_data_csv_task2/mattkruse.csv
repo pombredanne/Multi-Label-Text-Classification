@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,notice you may use this code for any purpose commercial or private without any further permission from the author,1,0,0,1,0,0,0,0,0,0,0,0,1
+2,you may remove this notice from your final code if you wish however it is appreciated by the author if at least my web site address is kept,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,you may not re distribute this code in any way except through its use,0,1,0,1,0,0,0,0,0,0,0,0,0
+4,that means you can include it in your product or your web site or any other form where the code is actually being used,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,you may not put the plain javascript up on your site for download or include it in your javascript libraries for download,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,if you wish to share this code with others please just point them to the url instead,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,please do not link directly to my js files from your site,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,copy the files to your server and use them there,0,0,0,0,0,0,0,0,0,0,0,0,1

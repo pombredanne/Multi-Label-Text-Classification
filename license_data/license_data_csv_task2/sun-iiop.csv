@@ -1,0 +1,14 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this software product licensed product implementing the object management groups internet inter orb protocol is protected by copyright and is distributed under the following license restricting its use,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,portions of licensed product may be protected by one or more us or foreign patents or pending applications,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,licensed product is made available for your use provided that you include this license and copyright notice on all media and documentation and the software program in which this product is incorporated in whole or part,0,0,0,0,0,0,0,1,0,0,0,0,1
+4,you may copy modify distribute or sublicense the licensed product without charge as part of a product or software program developed by you so long as you preserve the functionality of interoperating with the object management groups internet inter orb protocol version one,0,1,0,0,0,0,0,0,0,0,0,0,1
+5,however any uses other than the foregoing uses shall require the express written consent of sun microsystems inc,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,the names of sun microsystems inc and any of its subsidiaries or affiliates may not be used in advertising or publicity pertaining to distribution of the licensed product as permitted herein,0,0,0,0,0,1,0,0,0,0,0,0,0
+7,this license is effective until terminated by sun for failure to comply with this license,0,0,0,0,0,0,0,0,1,0,1,0,1
+8,upon termination you shall destroy or return all code and documentation for the licensed product,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,licensed product is provided as is with no warranties of any kind including the warranties of design merchantibility and fitness for a particular purpose noninfringement or arising from a course of dealing usage or trade practice,0,0,0,0,0,0,0,0,0,0,0,1,0
+10,licensed product is provided with no support and without any obligation on the part of sun or any of its subsidiaries or affiliates to assist in its use correction modification or enhancement,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,sun or any of its subsidiaries or affiliates shall have no liability with respect to the infringement of copyrights trade secrets or any patents by licensed product or any part thereof,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,in no event will sun or any of its subsidiaries or affiliates be liable for any lost revenue or profits or other special indirect and consequential damages even if sun has been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+13,use duplication or disclosure by the government is subject to restrictions as set forth in subparagraph c1ii of the rights in technical data and computer software clause at dfars 252227 7013 and far 52227 19,0,1,0,0,0,0,0,0,0,0,0,0,1

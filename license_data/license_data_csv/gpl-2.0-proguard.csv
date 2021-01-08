@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,you can use it freely for processing your applications commercial or not,,,,,,,,,,,,
+2,your code obviously remains yours after having been processed and its license can remain the same,,,,,,,,,,,,
+3,the proguard code itself is copyrighted but its distribution license provides you with some rights for modifying and redistributing its code and its documentation,,,,,,,,,,,,
+4,more specifically proguard is distributed under the terms of the gnu general public license gpl version 2 as published by the free software foundation fsf,,,,,,,,,,,,
+5,in short this means that you may freely redistribute the program modified or as is on the condition that you make the complete source code available as well,,,,,,,,,,,,
+6,if you develop a program that is linked with proguard the program as a whole has to be distributed at no charge under the gpl,,,,,,,,,,,,
+7,i am granting a special exception to the latter clause in wording suggested by the fsf for combinations with the following stand alone applications apache ant apache maven the google android sdk the eclipse proguarddt gui the eclipseme jme ide the oracle netbeans java ide the oracle jme wireless toolkit the intel txe sdk the simple build tool for scala the neomad tools by neomades the javaground tools and the sanaware tools,,,,,,,,,,,,

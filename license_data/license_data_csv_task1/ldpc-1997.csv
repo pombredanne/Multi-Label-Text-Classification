@@ -1,0 +1,28 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the following copyright license applies to all works by the linux documentation project,0,0,0,0,0,0,0,1,0,0,0,0
+2,please read the license carefully   it is somewhat like the gnu general public license but there are several conditions in it that differ from what you may be used to,0,0,0,0,0,0,0,0,1,0,0,0
+3,if you have any questions please email the ldp coordinator mdw@metalabuncedu,0,0,0,0,0,0,0,0,0,0,0,0
+4,the linux documentation project manuals may be reproduced and distributed in whole or in part subject to the following conditions all linux documentation project manuals are copyrighted by their respective authors,0,1,1,0,0,0,0,0,0,0,0,0
+5,the copyright notice above and this permission notice must be preserved complete on all complete or partial copies,0,0,0,0,0,0,0,1,0,0,0,0
+6,any translation or derivative work of linux installation and getting started must be approved by the author in writing before distribution,0,0,0,0,0,0,0,0,0,0,0,0
+7,if you distribute linux installation and getting started in part instructions for obtaining the complete version of this manual must be included and a means for obtaining a complete version provided,0,0,0,0,0,0,1,0,0,0,0,0
+8,small portions may be reproduced as illustrations for reviews or quotes in other works without this permission notice if proper citation is given,0,1,0,0,0,0,0,1,0,0,0,0
+9,the gnu general public license referenced below may be reproduced under the conditions given within it,0,1,0,0,0,0,0,0,0,0,0,0
+10,exceptions to these rules may be granted for academic purposes write to the author and ask,0,0,0,1,0,0,0,0,0,0,0,0
+11,these restrictions are here to protect us as authors not to restrict you as educators and learners,0,0,0,0,0,0,0,0,0,0,0,0
+12,all source code in linux installation and getting started is placed under the gnu general public license available via anonymous ftp from the gnu archive site,0,1,0,0,0,0,1,0,0,0,0,0
+13,publishing ldp manuals if youre a publishing company interested in distributing any of the ldp manuals read on,0,0,0,0,0,0,0,0,0,0,0,0
+14,by the license given in the previous section anyone is allowed to publish and distribute verbatim copies of the linux documentation project manuals,0,1,0,0,0,0,0,0,0,0,0,0
+15,however if you would like to distribute a translation or derivative work based on any of the ldp manuals you must obtain permission from the author in writing before doing so,0,0,0,0,0,0,0,0,0,0,0,0
+16,all translations and derivative works of ldp manuals must be placed under the linux documentation license given in the previous section,0,0,0,0,0,0,0,0,0,0,0,0
+17,that is if you plan to release a translation of one of the manuals it must be freely distributable by the above terms,0,0,0,0,0,0,0,0,0,0,0,0
+18,you may of course sell the ldp manuals for profit,0,0,0,0,0,0,0,0,0,0,0,0
+19,keep in mind however that because the ldp manuals are freely distributable anyone may photocopy or distribute printed copies free of charge if they wish to do so,0,1,0,0,0,0,0,0,0,0,0,0
+20,we do not require to be paid royalties for any profit earned from selling ldp manuals,0,0,0,0,0,0,0,0,0,0,0,0
+21,however we would like to suggest that if you do sell ldp manuals for profit that you either offer the author royalties or donate a portion of your earnings to the author the ldp as a whole or to the linux development community,0,0,0,0,0,0,0,0,0,0,0,0
+22,you may also wish to send one or more free copies of the ldp manual that you are distributing to the author,0,0,0,0,0,0,0,0,0,0,0,0
+23,your show of support for the ldp and the linux community will be very appreciated,0,0,0,0,0,0,0,0,0,0,0,0
+24,we would like to be informed of any plans to publish or distribute ldp manuals just so we know how theyre becoming available,0,0,0,0,0,0,0,0,0,0,0,0
+25,if you are publishing or planning to publish any ldp manuals please send email to matt welsh email mdw@metalabuncedu,0,0,0,0,0,0,0,0,0,0,0,0
+26,we encourage linux software distributors to distribute the ldp manuals such as the installation and getting started guide with their software,0,1,0,0,0,0,0,0,0,0,0,0
+27,the ldp manuals are intended to be used as the official linux documentation and wed like to see mail order distributors bundling the ldp manuals with the software,0,0,0,0,0,0,0,0,0,0,0,0

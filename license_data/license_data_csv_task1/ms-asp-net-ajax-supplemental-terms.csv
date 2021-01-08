@@ -1,0 +1,17 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,microsoft software supplement license terms microsoft aspnet 20 ajax extensions microsoft corporation or based on where you live one of its affiliates licenses this supplement to you,0,1,0,0,0,0,0,0,0,0,0,0
+2,if you are licensed to use microsoft windows operating system software the software you may use this supplement,0,1,0,0,0,0,0,0,0,0,0,0
+3,you may not use it if you do not have a license for the software,0,0,0,0,0,0,0,0,0,0,0,0
+4,you may use a copy of this supplement with each validly licensed copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+5,the following license terms describe additional use terms for this supplement,0,0,0,1,0,0,0,0,0,0,0,0
+6,these terms and the license terms for the software apply to your use of the supplement,0,0,0,0,0,0,0,0,0,0,0,0
+7,if there is a conflict these supplemental license terms apply,0,0,0,0,0,0,0,0,0,0,0,0
+8,if you do not accept them do not use this supplement,0,0,0,0,0,0,0,0,0,0,0,0
+9,microsoft provides support services for this supplement as described at wwwsupportmicrosoftcom common internationalaspx <http  wwwsupportmicrosoftcom common internationalaspx>,0,0,0,0,0,0,0,0,0,0,0,0
+10,this supplement contains code that you are permitted to distribute in programs you develop if you comply with the terms below,0,1,0,0,0,0,0,0,0,0,0,0
+11,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+12,you may copy and distribute the object code form of code listed in redisttxt files,0,1,0,1,0,0,0,1,0,0,0,0
+13,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+14,for any distributable code you distribute you must   add significant primary functionality to it in your programs   distribute distributable code included in a setup program only as part of that setup program without modification   require distributors and external end users to agree to terms that protect it at least as much as this agreement   display your valid copyright notice on your programs and   indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0
+15,you may not   alter any copyright trademark or patent notice in the distributable code   use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft   distribute distributable code to run on a platform other than the windows platform   include distributable code in malicious deceptive or unlawful programs or   modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+16,an excluded license is one that requires as a condition of use modification or distribution that   the code be disclosed or distributed in source code form or   others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0

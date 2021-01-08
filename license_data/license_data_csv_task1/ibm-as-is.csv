@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this source and object code has been made available to you by ibm on an as is basis,0,0,0,0,0,0,0,0,0,0,0,0
+2,it is provided without warranty of any kind including the warranties of merchantability and fitness for a particular purpose or of noninfringement of third party rights,0,0,0,0,0,0,0,0,0,0,0,1
+3,in no event shall ibm or its licensors be liable for incidental consequential or punitive damages,0,0,0,0,0,0,0,0,0,0,1,0
+4,ibms or its licensors damages for any cause of action whether in contract or in tort at law or at equity shall be limited to a maximum of $1000 per license,0,0,0,0,0,0,0,0,0,0,1,0
+5,no license under ibm patents or patent applications is to be implied by the copyright license,0,0,0,0,1,0,0,0,0,0,0,0
+6,any user of this software should understand that neither ibm nor its licensors will be responsible for any consequences resulting from the use of this software,0,0,0,0,0,0,0,0,0,0,0,0
+7,any person who transfers this source code or any derivative work must include the ibm copyright notice this paragraph and the preceding two paragraphs in the transferred software,0,0,0,0,0,0,0,1,0,0,0,0
+8,any person who transfers this object code or any derivative work must include the ibm copyright notice in the transferred software,0,0,0,0,0,0,0,1,0,0,0,0

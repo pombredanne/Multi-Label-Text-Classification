@@ -1,0 +1,685 @@
+model:LSAN
+train_file_path_task:./data/Task1.train.12t.csv
+test_file_path_task:./data/Task1.test.12t.csv
+save_path:./saved_models/
+random_seed:719
+label_embedding_path:./cache/label_embeddings.12t.npy
+max_seq_length:256
+embedding_size:300
+label_embedding_size:768
+lstm_hidden_dimension:768
+d_a:200
+loss:BCELoss
+focal_loss_reduction:mean
+focal_loss_alpha:0.5
+focal_loss_gamma:2
+num_epochs:300
+batch_size:16
+gradient_accumulation_steps:4
+learning_rate:0.0001
+betas:(0.9, 0.99)
+weight_decay:5e-05
+num_of_class:12
+threshold:0.5
+early_stop_criterion:loss
+early_stop_patience:30
+use_cuda:True
+gpu:2
+device:cuda
+Training Set Size 564, Validation Set Size 188
+epoch  1 train end : avg_train_loss = 0.4911
+epoch  1 train end : avg_accuracy_score = 0.7861
+epoch  1 train end : macro_precision_score = 0.1740
+epoch  1 train end : macro_recall_score = 0.1319
+epoch  1 train end : macro_f1_score = 0.1432
+valid_accuracy_score_each_class = ['0.8670', '0.7181', '0.7553', '0.7340', '0.9362', '0.9255', '0.9840', '0.7021', '0.9149', '0.9468', '0.8989', '0.8032']
+valid_precision_score_each_class = ['0.2500', '0.5000', '0.5833', '0.5000', '1.0000', '1.0000', '1.0000', '0.3333', '1.0000', '1.0000', '1.0000', '0.5636']
+valid_recall_score_each_class = ['0.0435', '0.0755', '0.1458', '0.0200', '0.0000', '0.0000', '0.0000', '0.1200', '0.0000', '0.0000', '0.0952', '0.7045']
+valid_f1_score_each_class = ['0.0741', '0.1311', '0.2333', '0.0385', '0.0000', '0.0000', '0.0000', '0.1765', '0.0000', '0.0000', '0.1739', '0.6263']
+epoch  1 valid end : avg_val_loss = 0.4147
+epoch  1 valid end : avg_accuracy_score = 0.8488
+epoch  1 valid end : macro_precision_score = 0.7275
+epoch  1 valid end : macro_recall_score = 0.1004
+epoch  1 valid end : macro_f1_score = 0.1211
+Model saved at epoch: 1
+Write to checkpoint
+epoch  2 train end : avg_train_loss = 0.3557
+epoch  2 train end : avg_accuracy_score = 0.8576
+epoch  2 train end : macro_precision_score = 0.8401
+epoch  2 train end : macro_recall_score = 0.0859
+epoch  2 train end : macro_f1_score = 0.1340
+valid_accuracy_score_each_class = ['0.8777', '0.7021', '0.7340', '0.7287', '0.9362', '0.9255', '0.9840', '0.7979', '0.9149', '0.9468', '0.9255', '0.7766']
+valid_precision_score_each_class = ['1.0000', '0.4211', '0.4000', '0.4865', '1.0000', '1.0000', '1.0000', '0.7727', '1.0000', '1.0000', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.0000', '0.1509', '0.0833', '0.3600', '0.0000', '0.0000', '0.0000', '0.3400', '0.0000', '0.0000', '0.3333', '0.0455']
+valid_f1_score_each_class = ['0.0000', '0.2222', '0.1379', '0.4138', '0.0000', '0.0000', '0.0000', '0.4722', '0.0000', '0.0000', '0.5000', '0.0870']
+epoch  2 valid end : avg_val_loss = 0.3564
+epoch  2 valid end : avg_accuracy_score = 0.8542
+epoch  2 valid end : macro_precision_score = 0.8400
+epoch  2 valid end : macro_recall_score = 0.1094
+epoch  2 valid end : macro_f1_score = 0.1528
+Model saved at epoch: 2
+Write to checkpoint
+epoch  3 train end : avg_train_loss = 0.2975
+epoch  3 train end : avg_accuracy_score = 0.8808
+epoch  3 train end : macro_precision_score = 0.8704
+epoch  3 train end : macro_recall_score = 0.2037
+epoch  3 train end : macro_f1_score = 0.2751
+valid_accuracy_score_each_class = ['0.8777', '0.6862', '0.7500', '0.7287', '0.9362', '0.9255', '0.9840', '0.8191', '0.9149', '0.9468', '0.9521', '0.9521']
+valid_precision_score_each_class = ['0.5000', '0.4605', '0.5200', '0.4894', '1.0000', '1.0000', '1.0000', '0.7500', '1.0000', '1.0000', '0.9286', '0.9268']
+valid_recall_score_each_class = ['0.1739', '0.6604', '0.2708', '0.4600', '0.0000', '0.0000', '0.0000', '0.4800', '0.0000', '0.0000', '0.6190', '0.8636']
+valid_f1_score_each_class = ['0.2581', '0.5426', '0.3562', '0.4742', '0.0000', '0.0000', '0.0000', '0.5854', '0.0000', '0.0000', '0.7429', '0.8941']
+epoch  3 valid end : avg_val_loss = 0.3125
+epoch  3 valid end : avg_accuracy_score = 0.8728
+epoch  3 valid end : macro_precision_score = 0.7979
+epoch  3 valid end : macro_recall_score = 0.2940
+epoch  3 valid end : macro_f1_score = 0.3211
+Model saved at epoch: 3
+Write to checkpoint
+epoch  4 train end : avg_train_loss = 0.2468
+epoch  4 train end : avg_accuracy_score = 0.9025
+epoch  4 train end : macro_precision_score = 0.6903
+epoch  4 train end : macro_recall_score = 0.3547
+epoch  4 train end : macro_f1_score = 0.4186
+valid_accuracy_score_each_class = ['0.8989', '0.7660', '0.8085', '0.8085', '0.9468', '0.9468', '0.9840', '0.9255', '0.9149', '0.9415', '0.9521', '0.9734']
+valid_precision_score_each_class = ['0.7500', '0.5882', '0.8000', '0.7692', '1.0000', '0.7500', '0.5000', '0.8600', '1.0000', '0.0000', '0.9286', '1.0000']
+valid_recall_score_each_class = ['0.2609', '0.5660', '0.3333', '0.4000', '0.1667', '0.4286', '0.3333', '0.8600', '0.0000', '0.0000', '0.6190', '0.8864']
+valid_f1_score_each_class = ['0.3871', '0.5769', '0.4706', '0.5263', '0.2857', '0.5455', '0.4000', '0.8600', '0.0000', '0.0000', '0.7429', '0.9398']
+epoch  4 valid end : avg_val_loss = 0.2479
+epoch  4 valid end : avg_accuracy_score = 0.9056
+epoch  4 valid end : macro_precision_score = 0.7455
+epoch  4 valid end : macro_recall_score = 0.4045
+epoch  4 valid end : macro_f1_score = 0.4779
+Model saved at epoch: 4
+Write to checkpoint
+epoch  5 train end : avg_train_loss = 0.2064
+epoch  5 train end : avg_accuracy_score = 0.9217
+epoch  5 train end : macro_precision_score = 0.6912
+epoch  5 train end : macro_recall_score = 0.4492
+epoch  5 train end : macro_f1_score = 0.5116
+valid_accuracy_score_each_class = ['0.9043', '0.8138', '0.8457', '0.8298', '0.9468', '0.9309', '0.9840', '0.9043', '0.9096', '0.9362', '0.9521', '0.9840']
+valid_precision_score_each_class = ['0.7273', '0.6500', '0.9524', '0.9091', '1.0000', '1.0000', '1.0000', '0.8810', '0.0000', '0.3750', '0.9286', '1.0000']
+valid_recall_score_each_class = ['0.3478', '0.7358', '0.4167', '0.4000', '0.1667', '0.0714', '0.0000', '0.7400', '0.0000', '0.3000', '0.6190', '0.9318']
+valid_f1_score_each_class = ['0.4706', '0.6903', '0.5797', '0.5556', '0.2857', '0.1333', '0.0000', '0.8043', '0.0000', '0.3333', '0.7429', '0.9647']
+epoch  5 valid end : avg_val_loss = 0.2265
+epoch  5 valid end : avg_accuracy_score = 0.9118
+epoch  5 valid end : macro_precision_score = 0.7853
+epoch  5 valid end : macro_recall_score = 0.3941
+epoch  5 valid end : macro_f1_score = 0.4634
+Model saved at epoch: 5
+Write to checkpoint
+epoch  6 train end : avg_train_loss = 0.1862
+epoch  6 train end : avg_accuracy_score = 0.9283
+epoch  6 train end : macro_precision_score = 0.8303
+epoch  6 train end : macro_recall_score = 0.5375
+epoch  6 train end : macro_f1_score = 0.5996
+valid_accuracy_score_each_class = ['0.9096', '0.8457', '0.8298', '0.8617', '0.9521', '0.9415', '0.9840', '0.9149', '0.9149', '0.9468', '0.9521', '0.9787']
+valid_precision_score_each_class = ['0.7500', '0.8158', '0.9444', '0.8158', '1.0000', '0.8000', '1.0000', '0.8542', '1.0000', '1.0000', '0.9286', '1.0000']
+valid_recall_score_each_class = ['0.3913', '0.5849', '0.3542', '0.6200', '0.2500', '0.2857', '0.0000', '0.8200', '0.0000', '0.0000', '0.6190', '0.9091']
+valid_f1_score_each_class = ['0.5143', '0.6813', '0.5152', '0.7045', '0.4000', '0.4211', '0.0000', '0.8367', '0.0000', '0.0000', '0.7429', '0.9524']
+epoch  6 valid end : avg_val_loss = 0.2028
+epoch  6 valid end : avg_accuracy_score = 0.9193
+epoch  6 valid end : macro_precision_score = 0.9091
+epoch  6 valid end : macro_recall_score = 0.4029
+epoch  6 valid end : macro_f1_score = 0.4807
+Model saved at epoch: 6
+Write to checkpoint
+epoch  7 train end : avg_train_loss = 0.1721
+epoch  7 train end : avg_accuracy_score = 0.9362
+epoch  7 train end : macro_precision_score = 0.8352
+epoch  7 train end : macro_recall_score = 0.5900
+epoch  7 train end : macro_f1_score = 0.6489
+valid_accuracy_score_each_class = ['0.8936', '0.8617', '0.8723', '0.8670', '0.9521', '0.9521', '0.9787', '0.9255', '0.9202', '0.9468', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.5517', '0.8140', '0.9615', '0.8571', '1.0000', '1.0000', '0.3333', '0.8750', '1.0000', '1.0000', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.6957', '0.6604', '0.5208', '0.6000', '0.2500', '0.3571', '0.3333', '0.8400', '0.0625', '0.0000', '0.7143', '0.9091']
+valid_f1_score_each_class = ['0.6154', '0.7292', '0.6757', '0.7059', '0.4000', '0.5263', '0.3333', '0.8571', '0.1176', '0.0000', '0.8108', '0.9524']
+epoch  7 valid end : avg_val_loss = 0.2079
+epoch  7 valid end : avg_accuracy_score = 0.9260
+epoch  7 valid end : macro_precision_score = 0.8608
+epoch  7 valid end : macro_recall_score = 0.4953
+epoch  7 valid end : macro_f1_score = 0.5603
+Model saved at epoch: 7
+Write to checkpoint
+epoch  8 train end : avg_train_loss = 0.1550
+epoch  8 train end : avg_accuracy_score = 0.9412
+epoch  8 train end : macro_precision_score = 0.8544
+epoch  8 train end : macro_recall_score = 0.6245
+epoch  8 train end : macro_f1_score = 0.6989
+valid_accuracy_score_each_class = ['0.8777', '0.8777', '0.8670', '0.8723', '0.9787', '0.9681', '0.9787', '0.9255', '0.9149', '0.9468', '0.9521', '0.9787']
+valid_precision_score_each_class = ['0.5000', '0.8261', '0.9259', '0.8824', '1.0000', '1.0000', '0.0000', '0.9091', '1.0000', '0.5000', '0.9286', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7170', '0.5208', '0.6000', '0.6667', '0.5714', '0.0000', '0.8000', '0.0000', '0.4000', '0.6190', '0.9091']
+valid_f1_score_each_class = ['0.6102', '0.7677', '0.6667', '0.7143', '0.8000', '0.7273', '0.0000', '0.8511', '0.0000', '0.4444', '0.7429', '0.9524']
+epoch  8 valid end : avg_val_loss = 0.1942
+epoch  8 valid end : avg_accuracy_score = 0.9282
+epoch  8 valid end : macro_precision_score = 0.7893
+epoch  8 valid end : macro_recall_score = 0.5489
+epoch  8 valid end : macro_f1_score = 0.6064
+Model saved at epoch: 8
+Write to checkpoint
+epoch  9 train end : avg_train_loss = 0.1480
+epoch  9 train end : avg_accuracy_score = 0.9456
+epoch  9 train end : macro_precision_score = 0.8493
+epoch  9 train end : macro_recall_score = 0.6291
+epoch  9 train end : macro_f1_score = 0.6995
+valid_accuracy_score_each_class = ['0.8830', '0.8723', '0.8883', '0.9096', '0.9787', '0.9521', '0.9840', '0.9096', '0.9255', '0.9574', '0.9574', '0.9787']
+valid_precision_score_each_class = ['0.5143', '0.7736', '0.8649', '0.8235', '1.0000', '1.0000', '0.5000', '0.8367', '0.7500', '1.0000', '0.9333', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7736', '0.6667', '0.8400', '0.6667', '0.3571', '0.6667', '0.8200', '0.1875', '0.2000', '0.6667', '0.9091']
+valid_f1_score_each_class = ['0.6207', '0.7736', '0.7529', '0.8317', '0.8000', '0.5263', '0.5714', '0.8283', '0.3000', '0.3333', '0.7778', '0.9524']
+epoch  9 valid end : avg_val_loss = 0.1890
+epoch  9 valid end : avg_accuracy_score = 0.9331
+epoch  9 valid end : macro_precision_score = 0.8330
+epoch  9 valid end : macro_recall_score = 0.6280
+epoch  9 valid end : macro_f1_score = 0.6724
+Model saved at epoch: 9
+Write to checkpoint
+epoch 10 train end : avg_train_loss = 0.1321
+epoch 10 train end : avg_accuracy_score = 0.9529
+epoch 10 train end : macro_precision_score = 0.9127
+epoch 10 train end : macro_recall_score = 0.6844
+epoch 10 train end : macro_f1_score = 0.7554
+valid_accuracy_score_each_class = ['0.9149', '0.8830', '0.8989', '0.8777', '0.9734', '0.9681', '0.9840', '0.9149', '0.9149', '0.9521', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.6667', '0.7627', '0.9394', '0.7547', '1.0000', '1.0000', '0.5000', '0.8864', '0.5000', '0.5714', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.6087', '0.8491', '0.6458', '0.8000', '0.5833', '0.5714', '0.3333', '0.7800', '0.1250', '0.4000', '0.7143', '0.9091']
+valid_f1_score_each_class = ['0.6364', '0.8036', '0.7654', '0.7767', '0.7368', '0.7273', '0.4000', '0.8298', '0.2000', '0.4706', '0.8108', '0.9524']
+epoch 10 valid end : avg_val_loss = 0.1789
+epoch 10 valid end : avg_accuracy_score = 0.9353
+epoch 10 valid end : macro_precision_score = 0.7932
+epoch 10 valid end : macro_recall_score = 0.6100
+epoch 10 valid end : macro_f1_score = 0.6758
+Model saved at epoch: 10
+Write to checkpoint
+epoch 11 train end : avg_train_loss = 0.1269
+epoch 11 train end : avg_accuracy_score = 0.9542
+epoch 11 train end : macro_precision_score = 0.8779
+epoch 11 train end : macro_recall_score = 0.6934
+epoch 11 train end : macro_f1_score = 0.7581
+valid_accuracy_score_each_class = ['0.9096', '0.8777', '0.8404', '0.8830', '0.9787', '0.9628', '0.9947', '0.9202', '0.9202', '0.9628', '0.9574', '0.9787']
+valid_precision_score_each_class = ['0.6500', '0.7679', '0.9500', '0.7593', '1.0000', '1.0000', '1.0000', '0.8302', '1.0000', '1.0000', '0.9333', '1.0000']
+valid_recall_score_each_class = ['0.5652', '0.8113', '0.3958', '0.8200', '0.6667', '0.5000', '0.6667', '0.8800', '0.0625', '0.3000', '0.6667', '0.9091']
+valid_f1_score_each_class = ['0.6047', '0.7890', '0.5588', '0.7885', '0.8000', '0.6667', '0.8000', '0.8544', '0.1176', '0.4615', '0.7778', '0.9524']
+epoch 11 valid end : avg_val_loss = 0.1906
+epoch 11 valid end : avg_accuracy_score = 0.9322
+epoch 11 valid end : macro_precision_score = 0.9076
+epoch 11 valid end : macro_recall_score = 0.6037
+epoch 11 valid end : macro_f1_score = 0.6809
+Model saved at epoch: 11
+Write to checkpoint
+epoch 12 train end : avg_train_loss = 0.1242
+epoch 12 train end : avg_accuracy_score = 0.9558
+epoch 12 train end : macro_precision_score = 0.8859
+epoch 12 train end : macro_recall_score = 0.7511
+epoch 12 train end : macro_f1_score = 0.8037
+valid_accuracy_score_each_class = ['0.9149', '0.8936', '0.8245', '0.8723', '0.9628', '0.9521', '0.9840', '0.9255', '0.9309', '0.9628', '0.9681', '0.9787']
+valid_precision_score_each_class = ['0.8182', '0.9231', '0.9412', '0.8611', '1.0000', '1.0000', '1.0000', '0.9091', '1.0000', '1.0000', '0.9412', '0.9762']
+valid_recall_score_each_class = ['0.3913', '0.6792', '0.3333', '0.6200', '0.4167', '0.3571', '0.0000', '0.8000', '0.1875', '0.3000', '0.7619', '0.9318']
+valid_f1_score_each_class = ['0.5294', '0.7826', '0.4923', '0.7209', '0.5882', '0.5263', '0.0000', '0.8511', '0.3158', '0.4615', '0.8421', '0.9535']
+epoch 12 valid end : avg_val_loss = 0.1954
+epoch 12 valid end : avg_accuracy_score = 0.9309
+epoch 12 valid end : macro_precision_score = 0.9475
+epoch 12 valid end : macro_recall_score = 0.4816
+epoch 12 valid end : macro_f1_score = 0.5886
+epoch 13 train end : avg_train_loss = 0.1232
+epoch 13 train end : avg_accuracy_score = 0.9561
+epoch 13 train end : macro_precision_score = 0.9080
+epoch 13 train end : macro_recall_score = 0.7159
+epoch 13 train end : macro_f1_score = 0.7767
+valid_accuracy_score_each_class = ['0.9309', '0.8989', '0.8989', '0.8723', '0.9787', '0.9734', '0.9840', '0.9202', '0.9255', '0.9628', '0.9628', '0.9894']
+valid_precision_score_each_class = ['0.8125', '0.8400', '0.8919', '0.7826', '1.0000', '1.0000', '0.5000', '0.9487', '1.0000', '0.8000', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.5652', '0.7925', '0.6875', '0.7200', '0.6667', '0.6429', '1.0000', '0.7400', '0.1250', '0.4000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8155', '0.7765', '0.7500', '0.8000', '0.7826', '0.6667', '0.8315', '0.2222', '0.5333', '0.8108', '0.9767']
+epoch 13 valid end : avg_val_loss = 0.1810
+epoch 13 valid end : avg_accuracy_score = 0.9415
+epoch 13 valid end : macro_precision_score = 0.8761
+epoch 13 valid end : macro_recall_score = 0.6674
+epoch 13 valid end : macro_f1_score = 0.7194
+Model saved at epoch: 13
+Write to checkpoint
+epoch 14 train end : avg_train_loss = 0.1155
+epoch 14 train end : avg_accuracy_score = 0.9549
+epoch 14 train end : macro_precision_score = 0.8709
+epoch 14 train end : macro_recall_score = 0.7328
+epoch 14 train end : macro_f1_score = 0.7903
+valid_accuracy_score_each_class = ['0.9096', '0.8989', '0.8936', '0.8989', '0.9840', '0.9734', '0.9947', '0.9202', '0.9362', '0.9574', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.6000', '0.8400', '0.8889', '0.8298', '1.0000', '1.0000', '1.0000', '0.8889', '1.0000', '1.0000', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7925', '0.6667', '0.7800', '0.7500', '0.6429', '0.6667', '0.8000', '0.2500', '0.2000', '0.6667', '0.9091']
+valid_f1_score_each_class = ['0.6792', '0.8155', '0.7619', '0.8041', '0.8571', '0.7826', '0.8000', '0.8421', '0.4000', '0.3333', '0.8000', '0.9524']
+epoch 14 valid end : avg_val_loss = 0.1672
+epoch 14 valid end : avg_accuracy_score = 0.9424
+epoch 14 valid end : macro_precision_score = 0.9206
+epoch 14 valid end : macro_recall_score = 0.6589
+epoch 14 valid end : macro_f1_score = 0.7357
+Model saved at epoch: 14
+Write to checkpoint
+epoch 15 train end : avg_train_loss = 0.1098
+epoch 15 train end : avg_accuracy_score = 0.9586
+epoch 15 train end : macro_precision_score = 0.8896
+epoch 15 train end : macro_recall_score = 0.7648
+epoch 15 train end : macro_f1_score = 0.8101
+valid_accuracy_score_each_class = ['0.9096', '0.8989', '0.9043', '0.8936', '0.9787', '0.9734', '0.9894', '0.9415', '0.9362', '0.9574', '0.9681', '0.9840']
+valid_precision_score_each_class = ['0.6000', '0.9474', '0.9412', '0.8409', '1.0000', '1.0000', '0.6667', '0.8824', '1.0000', '0.6000', '0.9412', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.6792', '0.6667', '0.7400', '0.6667', '0.6429', '0.6667', '0.9000', '0.2500', '0.6000', '0.7619', '0.9318']
+valid_f1_score_each_class = ['0.6792', '0.7912', '0.7805', '0.7872', '0.8000', '0.7826', '0.6667', '0.8911', '0.4000', '0.6000', '0.8421', '0.9647']
+epoch 15 valid end : avg_val_loss = 0.1724
+epoch 15 valid end : avg_accuracy_score = 0.9446
+epoch 15 valid end : macro_precision_score = 0.8683
+epoch 15 valid end : macro_recall_score = 0.6907
+epoch 15 valid end : macro_f1_score = 0.7488
+Model saved at epoch: 15
+Write to checkpoint
+epoch 16 train end : avg_train_loss = 0.1021
+epoch 16 train end : avg_accuracy_score = 0.9634
+epoch 16 train end : macro_precision_score = 0.8996
+epoch 16 train end : macro_recall_score = 0.7746
+epoch 16 train end : macro_f1_score = 0.8271
+valid_accuracy_score_each_class = ['0.9149', '0.8883', '0.9043', '0.8617', '1.0000', '0.9681', '0.9894', '0.9255', '0.9415', '0.9628', '0.9574', '0.9840']
+valid_precision_score_each_class = ['0.6207', '0.8636', '0.8261', '0.7400', '1.0000', '1.0000', '0.6667', '0.8750', '1.0000', '1.0000', '0.9333', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7170', '0.7917', '0.7400', '1.0000', '0.5714', '0.6667', '0.8400', '0.3125', '0.3000', '0.6667', '0.9318']
+valid_f1_score_each_class = ['0.6923', '0.7835', '0.8085', '0.7400', '1.0000', '0.7273', '0.6667', '0.8571', '0.4762', '0.4615', '0.7778', '0.9647']
+epoch 16 valid end : avg_val_loss = 0.1711
+epoch 16 valid end : avg_accuracy_score = 0.9415
+epoch 16 valid end : macro_precision_score = 0.8771
+epoch 16 valid end : macro_recall_score = 0.6934
+epoch 16 valid end : macro_f1_score = 0.7463
+epoch 17 train end : avg_train_loss = 0.1010
+epoch 17 train end : avg_accuracy_score = 0.9629
+epoch 17 train end : macro_precision_score = 0.8810
+epoch 17 train end : macro_recall_score = 0.8007
+epoch 17 train end : macro_f1_score = 0.8310
+valid_accuracy_score_each_class = ['0.8989', '0.8883', '0.9043', '0.8777', '0.9681', '0.9734', '0.9947', '0.9415', '0.9362', '0.9628', '0.9628', '0.9734']
+valid_precision_score_each_class = ['0.5625', '0.8810', '0.8409', '0.7755', '1.0000', '1.0000', '1.0000', '0.8824', '1.0000', '0.6667', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.6981', '0.7708', '0.7600', '0.5000', '0.6429', '0.6667', '0.9000', '0.2500', '0.6000', '0.7143', '0.8864']
+valid_f1_score_each_class = ['0.6545', '0.7789', '0.8043', '0.7677', '0.6667', '0.7826', '0.8000', '0.8911', '0.4000', '0.6316', '0.8108', '0.9398']
+epoch 17 valid end : avg_val_loss = 0.1820
+epoch 17 valid end : avg_accuracy_score = 0.9402
+epoch 17 valid end : macro_precision_score = 0.8789
+epoch 17 valid end : macro_recall_score = 0.6810
+epoch 17 valid end : macro_f1_score = 0.7440
+epoch 18 train end : avg_train_loss = 0.0975
+epoch 18 train end : avg_accuracy_score = 0.9628
+epoch 18 train end : macro_precision_score = 0.8951
+epoch 18 train end : macro_recall_score = 0.7714
+epoch 18 train end : macro_f1_score = 0.8237
+valid_accuracy_score_each_class = ['0.9255', '0.9043', '0.9149', '0.8989', '1.0000', '0.9894', '0.9894', '0.9202', '0.9309', '0.9628', '0.9628', '0.9840']
+valid_precision_score_each_class = ['0.6800', '0.8182', '0.8200', '0.8039', '1.0000', '1.0000', '0.6667', '0.8889', '1.0000', '0.8000', '0.9375', '0.9767']
+valid_recall_score_each_class = ['0.7391', '0.8491', '0.8542', '0.8200', '1.0000', '0.8571', '0.6667', '0.8000', '0.1875', '0.4000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.7083', '0.8333', '0.8367', '0.8119', '1.0000', '0.9231', '0.6667', '0.8421', '0.3158', '0.5333', '0.8108', '0.9655']
+epoch 18 valid end : avg_val_loss = 0.1697
+epoch 18 valid end : avg_accuracy_score = 0.9486
+epoch 18 valid end : macro_precision_score = 0.8660
+epoch 18 valid end : macro_recall_score = 0.7369
+epoch 18 valid end : macro_f1_score = 0.7706
+Model saved at epoch: 18
+Write to checkpoint
+epoch 19 train end : avg_train_loss = 0.0877
+epoch 19 train end : avg_accuracy_score = 0.9694
+epoch 19 train end : macro_precision_score = 0.9257
+epoch 19 train end : macro_recall_score = 0.8393
+epoch 19 train end : macro_f1_score = 0.8767
+valid_accuracy_score_each_class = ['0.9096', '0.9096', '0.9096', '0.8883', '0.9681', '0.9787', '0.9947', '0.9255', '0.9362', '0.9521', '0.9521', '0.9787']
+valid_precision_score_each_class = ['0.6250', '0.9286', '0.8298', '0.8222', '1.0000', '1.0000', '1.0000', '0.8333', '1.0000', '0.5556', '1.0000', '0.9545']
+valid_recall_score_each_class = ['0.6522', '0.7358', '0.8125', '0.7400', '0.5000', '0.7143', '0.6667', '0.9000', '0.2500', '0.5000', '0.5714', '0.9545']
+valid_f1_score_each_class = ['0.6383', '0.8211', '0.8211', '0.7789', '0.6667', '0.8333', '0.8000', '0.8654', '0.4000', '0.5263', '0.7273', '0.9545']
+epoch 19 valid end : avg_val_loss = 0.1752
+epoch 19 valid end : avg_accuracy_score = 0.9419
+epoch 19 valid end : macro_precision_score = 0.8791
+epoch 19 valid end : macro_recall_score = 0.6665
+epoch 19 valid end : macro_f1_score = 0.7361
+epoch 20 train end : avg_train_loss = 0.0831
+epoch 20 train end : avg_accuracy_score = 0.9694
+epoch 20 train end : macro_precision_score = 0.9266
+epoch 20 train end : macro_recall_score = 0.8322
+epoch 20 train end : macro_f1_score = 0.8747
+valid_accuracy_score_each_class = ['0.9096', '0.9096', '0.9202', '0.8936', '0.9947', '0.9787', '0.9840', '0.9309', '0.9362', '0.9628', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.6000', '0.8750', '0.8667', '0.8125', '1.0000', '1.0000', '0.5000', '0.9302', '1.0000', '0.8000', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7925', '0.8125', '0.7800', '0.9167', '0.7143', '0.3333', '0.8000', '0.2500', '0.4000', '0.7143', '0.9091']
+valid_f1_score_each_class = ['0.6792', '0.8317', '0.8387', '0.7959', '0.9565', '0.8333', '0.4000', '0.8602', '0.4000', '0.5333', '0.8108', '0.9524']
+epoch 20 valid end : avg_val_loss = 0.1772
+epoch 20 valid end : avg_accuracy_score = 0.9468
+epoch 20 valid end : macro_precision_score = 0.8602
+epoch 20 valid end : macro_recall_score = 0.6838
+epoch 20 valid end : macro_f1_score = 0.7410
+epoch 21 train end : avg_train_loss = 0.0825
+epoch 21 train end : avg_accuracy_score = 0.9694
+epoch 21 train end : macro_precision_score = 0.8977
+epoch 21 train end : macro_recall_score = 0.8435
+epoch 21 train end : macro_f1_score = 0.8672
+valid_accuracy_score_each_class = ['0.9096', '0.9202', '0.9149', '0.8723', '0.9734', '0.9840', '0.9894', '0.9202', '0.9255', '0.9681', '0.9521', '0.9787']
+valid_precision_score_each_class = ['0.6000', '0.8519', '0.8636', '0.7241', '1.0000', '1.0000', '1.0000', '0.9487', '1.0000', '0.7500', '1.0000', '0.9545']
+valid_recall_score_each_class = ['0.7826', '0.8679', '0.7917', '0.8400', '0.5833', '0.7857', '0.3333', '0.7400', '0.1250', '0.6000', '0.5714', '0.9545']
+valid_f1_score_each_class = ['0.6792', '0.8598', '0.8261', '0.7778', '0.7368', '0.8800', '0.5000', '0.8315', '0.2222', '0.6667', '0.7273', '0.9545']
+epoch 21 valid end : avg_val_loss = 0.1928
+epoch 21 valid end : avg_accuracy_score = 0.9424
+epoch 21 valid end : macro_precision_score = 0.8911
+epoch 21 valid end : macro_recall_score = 0.6646
+epoch 21 valid end : macro_f1_score = 0.7218
+epoch 22 train end : avg_train_loss = 0.0820
+epoch 22 train end : avg_accuracy_score = 0.9681
+epoch 22 train end : macro_precision_score = 0.9099
+epoch 22 train end : macro_recall_score = 0.8158
+epoch 22 train end : macro_f1_score = 0.8548
+valid_accuracy_score_each_class = ['0.9202', '0.8936', '0.9309', '0.8936', '0.9787', '0.9894', '0.9840', '0.9362', '0.9362', '0.9681', '0.9681', '0.9894']
+valid_precision_score_each_class = ['0.6667', '0.8235', '0.8889', '0.7778', '1.0000', '1.0000', '0.5000', '0.8800', '0.8333', '0.8333', '0.9412', '1.0000']
+valid_recall_score_each_class = ['0.6957', '0.7925', '0.8333', '0.8400', '0.6667', '0.8571', '1.0000', '0.8800', '0.3125', '0.5000', '0.7619', '0.9545']
+valid_f1_score_each_class = ['0.6809', '0.8077', '0.8602', '0.8077', '0.8000', '0.9231', '0.6667', '0.8800', '0.4545', '0.6250', '0.8421', '0.9767']
+epoch 22 valid end : avg_val_loss = 0.1786
+epoch 22 valid end : avg_accuracy_score = 0.9490
+epoch 22 valid end : macro_precision_score = 0.8454
+epoch 22 valid end : macro_recall_score = 0.7578
+epoch 22 valid end : macro_f1_score = 0.7770
+Model saved at epoch: 22
+Write to checkpoint
+epoch 23 train end : avg_train_loss = 0.0751
+epoch 23 train end : avg_accuracy_score = 0.9690
+epoch 23 train end : macro_precision_score = 0.9114
+epoch 23 train end : macro_recall_score = 0.8366
+epoch 23 train end : macro_f1_score = 0.8668
+valid_accuracy_score_each_class = ['0.9255', '0.9149', '0.9202', '0.8989', '0.9787', '0.9947', '0.9894', '0.9255', '0.9415', '0.9681', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.7143', '0.8936', '0.8511', '0.8298', '1.0000', '1.0000', '1.0000', '0.8214', '1.0000', '0.8333', '1.0000', '0.9545']
+valid_recall_score_each_class = ['0.6522', '0.7925', '0.8333', '0.7800', '0.6667', '0.9286', '0.3333', '0.9200', '0.3125', '0.5000', '0.6667', '0.9545']
+valid_f1_score_each_class = ['0.6818', '0.8400', '0.8421', '0.8041', '0.8000', '0.9630', '0.5000', '0.8679', '0.4762', '0.6250', '0.8000', '0.9545']
+epoch 23 valid end : avg_val_loss = 0.1702
+epoch 23 valid end : avg_accuracy_score = 0.9499
+epoch 23 valid end : macro_precision_score = 0.9082
+epoch 23 valid end : macro_recall_score = 0.6950
+epoch 23 valid end : macro_f1_score = 0.7629
+epoch 24 train end : avg_train_loss = 0.0772
+epoch 24 train end : avg_accuracy_score = 0.9718
+epoch 24 train end : macro_precision_score = 0.9254
+epoch 24 train end : macro_recall_score = 0.8410
+epoch 24 train end : macro_f1_score = 0.8783
+valid_accuracy_score_each_class = ['0.9096', '0.8989', '0.9096', '0.8511', '0.9840', '0.9787', '0.9894', '0.9309', '0.9362', '0.9628', '0.9681', '0.9894']
+valid_precision_score_each_class = ['0.6071', '0.7931', '0.7925', '0.6833', '1.0000', '1.0000', '1.0000', '0.8776', '0.7500', '0.6667', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.7391', '0.8679', '0.8750', '0.8200', '0.7500', '0.7143', '0.3333', '0.8600', '0.3750', '0.6000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8288', '0.8317', '0.7455', '0.8571', '0.8333', '0.5000', '0.8687', '0.5000', '0.6316', '0.8333', '0.9767']
+epoch 24 valid end : avg_val_loss = 0.1946
+epoch 24 valid end : avg_accuracy_score = 0.9424
+epoch 24 valid end : macro_precision_score = 0.8475
+epoch 24 valid end : macro_recall_score = 0.7170
+epoch 24 valid end : macro_f1_score = 0.7561
+epoch 25 train end : avg_train_loss = 0.0808
+epoch 25 train end : avg_accuracy_score = 0.9675
+epoch 25 train end : macro_precision_score = 0.8797
+epoch 25 train end : macro_recall_score = 0.8566
+epoch 25 train end : macro_f1_score = 0.8673
+valid_accuracy_score_each_class = ['0.9043', '0.8777', '0.9149', '0.8936', '0.9947', '0.9840', '0.9947', '0.9362', '0.9362', '0.9787', '0.9574', '0.9894']
+valid_precision_score_each_class = ['0.5926', '0.7206', '0.8077', '0.7885', '1.0000', '1.0000', '0.7500', '0.8800', '1.0000', '1.0000', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.6957', '0.9245', '0.8750', '0.8200', '0.9167', '0.7857', '1.0000', '0.8800', '0.2500', '0.6000', '0.6190', '0.9545']
+valid_f1_score_each_class = ['0.6400', '0.8099', '0.8400', '0.8039', '0.9565', '0.8800', '0.8571', '0.8800', '0.4000', '0.7500', '0.7647', '0.9767']
+epoch 25 valid end : avg_val_loss = 0.1873
+epoch 25 valid end : avg_accuracy_score = 0.9468
+epoch 25 valid end : macro_precision_score = 0.8783
+epoch 25 valid end : macro_recall_score = 0.7768
+epoch 25 valid end : macro_f1_score = 0.7966
+Model saved at epoch: 25
+Write to checkpoint
+epoch 26 train end : avg_train_loss = 0.0799
+epoch 26 train end : avg_accuracy_score = 0.9724
+epoch 26 train end : macro_precision_score = 0.9345
+epoch 26 train end : macro_recall_score = 0.8488
+epoch 26 train end : macro_f1_score = 0.8813
+valid_accuracy_score_each_class = ['0.9255', '0.9043', '0.9202', '0.8883', '0.9894', '0.9840', '0.9947', '0.9202', '0.9362', '0.9681', '0.9681', '0.9787']
+valid_precision_score_each_class = ['0.7368', '0.7966', '0.8511', '0.7843', '1.0000', '1.0000', '0.7500', '0.8431', '1.0000', '0.7000', '1.0000', '0.9545']
+valid_recall_score_each_class = ['0.6087', '0.8868', '0.8333', '0.8000', '0.8333', '0.7857', '1.0000', '0.8600', '0.2500', '0.7000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8393', '0.8421', '0.7921', '0.9091', '0.8800', '0.8571', '0.8515', '0.4000', '0.7000', '0.8333', '0.9545']
+epoch 26 valid end : avg_val_loss = 0.1800
+epoch 26 valid end : avg_accuracy_score = 0.9481
+epoch 26 valid end : macro_precision_score = 0.8680
+epoch 26 valid end : macro_recall_score = 0.7689
+epoch 26 valid end : macro_f1_score = 0.7938
+epoch 27 train end : avg_train_loss = 0.0768
+epoch 27 train end : avg_accuracy_score = 0.9727
+epoch 27 train end : macro_precision_score = 0.9174
+epoch 27 train end : macro_recall_score = 0.8653
+epoch 27 train end : macro_f1_score = 0.8890
+valid_accuracy_score_each_class = ['0.9149', '0.8883', '0.9202', '0.8989', '0.9787', '0.9840', '0.9840', '0.9468', '0.9309', '0.9628', '0.9628', '0.9894']
+valid_precision_score_each_class = ['0.7059', '0.7963', '0.9024', '0.7925', '1.0000', '1.0000', '0.5000', '0.9348', '1.0000', '0.6667', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.5217', '0.8113', '0.7708', '0.8400', '0.6667', '0.7857', '0.6667', '0.8600', '0.1875', '0.6000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.6000', '0.8037', '0.8315', '0.8155', '0.8000', '0.8800', '0.5714', '0.8958', '0.3158', '0.6316', '0.8108', '0.9767']
+epoch 27 valid end : avg_val_loss = 0.1871
+epoch 27 valid end : avg_accuracy_score = 0.9468
+epoch 27 valid end : macro_precision_score = 0.8530
+epoch 27 valid end : macro_recall_score = 0.6983
+epoch 27 valid end : macro_f1_score = 0.7444
+epoch 28 train end : avg_train_loss = 0.0713
+epoch 28 train end : avg_accuracy_score = 0.9747
+epoch 28 train end : macro_precision_score = 0.9362
+epoch 28 train end : macro_recall_score = 0.8839
+epoch 28 train end : macro_f1_score = 0.9074
+valid_accuracy_score_each_class = ['0.9043', '0.9362', '0.9202', '0.8777', '0.9894', '0.9840', '0.9947', '0.9255', '0.9255', '0.9681', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.6667', '0.9184', '0.8511', '0.7547', '1.0000', '1.0000', '0.7500', '0.8462', '0.6667', '0.7500', '1.0000', '0.9545']
+valid_recall_score_each_class = ['0.4348', '0.8491', '0.8333', '0.8000', '0.8333', '0.7857', '1.0000', '0.8800', '0.2500', '0.6000', '0.6667', '0.9545']
+valid_f1_score_each_class = ['0.5263', '0.8824', '0.8421', '0.7767', '0.9091', '0.8800', '0.8571', '0.8627', '0.3636', '0.6667', '0.8000', '0.9545']
+epoch 28 valid end : avg_val_loss = 0.1729
+epoch 28 valid end : avg_accuracy_score = 0.9473
+epoch 28 valid end : macro_precision_score = 0.8465
+epoch 28 valid end : macro_recall_score = 0.7406
+epoch 28 valid end : macro_f1_score = 0.7768
+epoch 29 train end : avg_train_loss = 0.0639
+epoch 29 train end : avg_accuracy_score = 0.9755
+epoch 29 train end : macro_precision_score = 0.9532
+epoch 29 train end : macro_recall_score = 0.8956
+epoch 29 train end : macro_f1_score = 0.9229
+valid_accuracy_score_each_class = ['0.9043', '0.9096', '0.9149', '0.8723', '0.9787', '0.9840', '0.9947', '0.9255', '0.9362', '0.9681', '0.9681', '0.9787']
+valid_precision_score_each_class = ['0.5862', '0.8750', '0.8333', '0.7600', '1.0000', '1.0000', '0.7500', '0.9091', '1.0000', '0.7500', '0.9412', '0.9545']
+valid_recall_score_each_class = ['0.7391', '0.7925', '0.8333', '0.7600', '0.6667', '0.7857', '1.0000', '0.8000', '0.2500', '0.6000', '0.7619', '0.9545']
+valid_f1_score_each_class = ['0.6538', '0.8317', '0.8333', '0.7600', '0.8000', '0.8800', '0.8571', '0.8511', '0.4000', '0.6667', '0.8421', '0.9545']
+epoch 29 valid end : avg_val_loss = 0.1811
+epoch 29 valid end : avg_accuracy_score = 0.9446
+epoch 29 valid end : macro_precision_score = 0.8633
+epoch 29 valid end : macro_recall_score = 0.7453
+epoch 29 valid end : macro_f1_score = 0.7775
+epoch 30 train end : avg_train_loss = 0.0626
+epoch 30 train end : avg_accuracy_score = 0.9780
+epoch 30 train end : macro_precision_score = 0.9450
+epoch 30 train end : macro_recall_score = 0.8925
+epoch 30 train end : macro_f1_score = 0.9159
+valid_accuracy_score_each_class = ['0.8883', '0.9149', '0.8989', '0.8723', '0.9894', '0.9840', '0.9894', '0.9468', '0.9309', '0.9681', '0.9574', '0.9894']
+valid_precision_score_each_class = ['0.5294', '0.8936', '0.8222', '0.7321', '1.0000', '1.0000', '0.6000', '0.9000', '0.7143', '0.7500', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.7925', '0.7708', '0.8200', '0.8333', '0.7857', '1.0000', '0.9000', '0.3125', '0.6000', '0.6190', '0.9545']
+valid_f1_score_each_class = ['0.6316', '0.8400', '0.7957', '0.7736', '0.9091', '0.8800', '0.7500', '0.9000', '0.4348', '0.6667', '0.7647', '0.9767']
+epoch 30 valid end : avg_val_loss = 0.1921
+epoch 30 valid end : avg_accuracy_score = 0.9441
+epoch 30 valid end : macro_precision_score = 0.8285
+epoch 30 valid end : macro_recall_score = 0.7643
+epoch 30 valid end : macro_f1_score = 0.7769
+epoch 31 train end : avg_train_loss = 0.0593
+epoch 31 train end : avg_accuracy_score = 0.9790
+epoch 31 train end : macro_precision_score = 0.9541
+epoch 31 train end : macro_recall_score = 0.8970
+epoch 31 train end : macro_f1_score = 0.9235
+valid_accuracy_score_each_class = ['0.9149', '0.9149', '0.8989', '0.8989', '0.9734', '0.9840', '0.9947', '0.9202', '0.9362', '0.9681', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.7059', '0.8776', '0.9143', '0.8163', '1.0000', '1.0000', '1.0000', '0.8182', '0.8333', '0.7500', '1.0000', '0.9762']
+valid_recall_score_each_class = ['0.5217', '0.8113', '0.6667', '0.8000', '0.5833', '0.7857', '0.6667', '0.9000', '0.3125', '0.6000', '0.6667', '0.9318']
+valid_f1_score_each_class = ['0.6000', '0.8431', '0.7711', '0.8081', '0.7368', '0.8800', '0.8000', '0.8571', '0.4545', '0.6667', '0.8000', '0.9535']
+epoch 31 valid end : avg_val_loss = 0.1856
+epoch 31 valid end : avg_accuracy_score = 0.9455
+epoch 31 valid end : macro_precision_score = 0.8910
+epoch 31 valid end : macro_recall_score = 0.6872
+epoch 31 valid end : macro_f1_score = 0.7642
+epoch 32 train end : avg_train_loss = 0.0614
+epoch 32 train end : avg_accuracy_score = 0.9767
+epoch 32 train end : macro_precision_score = 0.9490
+epoch 32 train end : macro_recall_score = 0.9027
+epoch 32 train end : macro_f1_score = 0.9239
+valid_accuracy_score_each_class = ['0.9149', '0.9043', '0.8883', '0.8883', '0.9787', '0.9787', '0.9840', '0.9362', '0.9415', '0.9681', '0.9628', '0.9894']
+valid_precision_score_each_class = ['0.6400', '0.8571', '0.9355', '0.7959', '1.0000', '0.9167', '0.5000', '0.8654', '0.7778', '0.7500', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.6957', '0.7925', '0.6042', '0.7800', '0.6667', '0.7857', '1.0000', '0.9000', '0.4375', '0.6000', '0.6667', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8235', '0.7342', '0.7879', '0.8000', '0.8462', '0.6667', '0.8824', '0.5600', '0.6667', '0.8000', '0.9767']
+epoch 32 valid end : avg_val_loss = 0.1967
+epoch 32 valid end : avg_accuracy_score = 0.9446
+epoch 32 valid end : macro_precision_score = 0.8365
+epoch 32 valid end : macro_recall_score = 0.7403
+epoch 32 valid end : macro_f1_score = 0.7676
+epoch 33 train end : avg_train_loss = 0.0634
+epoch 33 train end : avg_accuracy_score = 0.9759
+epoch 33 train end : macro_precision_score = 0.9327
+epoch 33 train end : macro_recall_score = 0.8903
+epoch 33 train end : macro_f1_score = 0.9095
+valid_accuracy_score_each_class = ['0.9202', '0.8936', '0.8936', '0.8777', '0.9787', '0.9840', '0.9894', '0.9309', '0.8777', '0.9681', '0.9681', '0.9681']
+valid_precision_score_each_class = ['0.6333', '0.8113', '1.0000', '0.7547', '1.0000', '1.0000', '0.6667', '0.9302', '0.3704', '0.7500', '0.9412', '0.9130']
+valid_recall_score_each_class = ['0.8261', '0.8113', '0.5833', '0.8000', '0.6667', '0.7857', '0.6667', '0.8000', '0.6250', '0.6000', '0.7619', '0.9545']
+valid_f1_score_each_class = ['0.7170', '0.8113', '0.7368', '0.7767', '0.8000', '0.8800', '0.6667', '0.8602', '0.4651', '0.6667', '0.8421', '0.9333']
+epoch 33 valid end : avg_val_loss = 0.2064
+epoch 33 valid end : avg_accuracy_score = 0.9375
+epoch 33 valid end : macro_precision_score = 0.8142
+epoch 33 valid end : macro_recall_score = 0.7401
+epoch 33 valid end : macro_f1_score = 0.7630
+epoch 34 train end : avg_train_loss = 0.0624
+epoch 34 train end : avg_accuracy_score = 0.9771
+epoch 34 train end : macro_precision_score = 0.9300
+epoch 34 train end : macro_recall_score = 0.8882
+epoch 34 train end : macro_f1_score = 0.9075
+valid_accuracy_score_each_class = ['0.9255', '0.9043', '0.9202', '0.8670', '0.9840', '0.9894', '1.0000', '0.9415', '0.9309', '0.9734', '0.9681', '0.9894']
+valid_precision_score_each_class = ['0.6800', '0.8571', '0.9714', '0.7273', '1.0000', '1.0000', '1.0000', '0.8980', '1.0000', '0.7778', '0.9412', '1.0000']
+valid_recall_score_each_class = ['0.7391', '0.7925', '0.7083', '0.8000', '0.7500', '0.8571', '1.0000', '0.8800', '0.1875', '0.7000', '0.7619', '0.9545']
+valid_f1_score_each_class = ['0.7083', '0.8235', '0.8193', '0.7619', '0.8571', '0.9231', '1.0000', '0.8889', '0.3158', '0.7368', '0.8421', '0.9767']
+epoch 34 valid end : avg_val_loss = 0.2069
+epoch 34 valid end : avg_accuracy_score = 0.9495
+epoch 34 valid end : macro_precision_score = 0.9044
+epoch 34 valid end : macro_recall_score = 0.7609
+epoch 34 valid end : macro_f1_score = 0.8045
+Model saved at epoch: 34
+Write to checkpoint
+epoch 35 train end : avg_train_loss = 0.0571
+epoch 35 train end : avg_accuracy_score = 0.9792
+epoch 35 train end : macro_precision_score = 0.9325
+epoch 35 train end : macro_recall_score = 0.9257
+epoch 35 train end : macro_f1_score = 0.9282
+valid_accuracy_score_each_class = ['0.9202', '0.9096', '0.9202', '0.8989', '0.9734', '0.9894', '0.9894', '0.9362', '0.9309', '0.9628', '0.9628', '0.9787']
+valid_precision_score_each_class = ['0.7000', '0.8600', '0.8511', '0.8163', '1.0000', '1.0000', '0.6000', '0.8654', '1.0000', '0.7143', '1.0000', '0.9762']
+valid_recall_score_each_class = ['0.6087', '0.8113', '0.8333', '0.8000', '0.5833', '0.8571', '1.0000', '0.9000', '0.1875', '0.5000', '0.6667', '0.9318']
+valid_f1_score_each_class = ['0.6512', '0.8350', '0.8421', '0.8081', '0.7368', '0.9231', '0.7500', '0.8824', '0.3158', '0.5882', '0.8000', '0.9535']
+epoch 35 valid end : avg_val_loss = 0.2055
+epoch 35 valid end : avg_accuracy_score = 0.9477
+epoch 35 valid end : macro_precision_score = 0.8653
+epoch 35 valid end : macro_recall_score = 0.7233
+epoch 35 valid end : macro_f1_score = 0.7572
+epoch 36 train end : avg_train_loss = 0.0568
+epoch 36 train end : avg_accuracy_score = 0.9793
+epoch 36 train end : macro_precision_score = 0.9509
+epoch 36 train end : macro_recall_score = 0.9026
+epoch 36 train end : macro_f1_score = 0.9258
+valid_accuracy_score_each_class = ['0.9415', '0.8777', '0.9096', '0.8883', '0.9894', '0.9787', '0.9894', '0.9415', '0.9415', '0.9681', '0.9521', '0.9734']
+valid_precision_score_each_class = ['0.7500', '0.7419', '0.8039', '0.7843', '1.0000', '1.0000', '1.0000', '0.9149', '1.0000', '0.7500', '1.0000', '0.9333']
+valid_recall_score_each_class = ['0.7826', '0.8679', '0.8542', '0.8000', '0.8333', '0.7143', '0.3333', '0.8600', '0.3125', '0.6000', '0.5714', '0.9545']
+valid_f1_score_each_class = ['0.7660', '0.8000', '0.8283', '0.7921', '0.9091', '0.8333', '0.5000', '0.8866', '0.4762', '0.6667', '0.7273', '0.9438']
+epoch 36 valid end : avg_val_loss = 0.2081
+epoch 36 valid end : avg_accuracy_score = 0.9459
+epoch 36 valid end : macro_precision_score = 0.8899
+epoch 36 valid end : macro_recall_score = 0.7070
+epoch 36 valid end : macro_f1_score = 0.7608
+epoch 37 train end : avg_train_loss = 0.0543
+epoch 37 train end : avg_accuracy_score = 0.9796
+epoch 37 train end : macro_precision_score = 0.9303
+epoch 37 train end : macro_recall_score = 0.9117
+epoch 37 train end : macro_f1_score = 0.9200
+valid_accuracy_score_each_class = ['0.9202', '0.8989', '0.9096', '0.8457', '0.9787', '0.9840', '0.9894', '0.9309', '0.9255', '0.9681', '0.9628', '0.9840']
+valid_precision_score_each_class = ['0.6538', '0.8400', '0.8444', '0.6842', '1.0000', '1.0000', '0.6000', '0.8491', '0.6000', '0.7500', '0.9375', '1.0000']
+valid_recall_score_each_class = ['0.7391', '0.7925', '0.7917', '0.7800', '0.6667', '0.7857', '1.0000', '0.9000', '0.3750', '0.6000', '0.7143', '0.9318']
+valid_f1_score_each_class = ['0.6939', '0.8155', '0.8172', '0.7290', '0.8000', '0.8800', '0.7500', '0.8738', '0.4615', '0.6667', '0.8108', '0.9647']
+epoch 37 valid end : avg_val_loss = 0.2004
+epoch 37 valid end : avg_accuracy_score = 0.9415
+epoch 37 valid end : macro_precision_score = 0.8133
+epoch 37 valid end : macro_recall_score = 0.7564
+epoch 37 valid end : macro_f1_score = 0.7719
+epoch 38 train end : avg_train_loss = 0.0511
+epoch 38 train end : avg_accuracy_score = 0.9821
+epoch 38 train end : macro_precision_score = 0.9625
+epoch 38 train end : macro_recall_score = 0.9119
+epoch 38 train end : macro_f1_score = 0.9352
+valid_accuracy_score_each_class = ['0.9255', '0.9043', '0.9255', '0.8830', '0.9787', '0.9894', '0.9947', '0.9309', '0.9309', '0.9681', '0.9681', '0.9840']
+valid_precision_score_each_class = ['0.6667', '0.8182', '0.8696', '0.7414', '1.0000', '1.0000', '1.0000', '0.8491', '0.8000', '0.6667', '1.0000', '0.9767']
+valid_recall_score_each_class = ['0.7826', '0.8491', '0.8333', '0.8600', '0.6667', '0.8571', '0.6667', '0.9000', '0.2500', '0.8000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.7200', '0.8333', '0.8511', '0.7963', '0.8000', '0.9231', '0.8000', '0.8738', '0.3810', '0.7273', '0.8333', '0.9655']
+epoch 38 valid end : avg_val_loss = 0.1988
+epoch 38 valid end : avg_accuracy_score = 0.9486
+epoch 38 valid end : macro_precision_score = 0.8657
+epoch 38 valid end : macro_recall_score = 0.7612
+epoch 38 valid end : macro_f1_score = 0.7921
+epoch 39 train end : avg_train_loss = 0.0553
+epoch 39 train end : avg_accuracy_score = 0.9806
+epoch 39 train end : macro_precision_score = 0.9408
+epoch 39 train end : macro_recall_score = 0.9354
+epoch 39 train end : macro_f1_score = 0.9379
+valid_accuracy_score_each_class = ['0.9096', '0.8830', '0.9096', '0.8564', '0.9840', '0.9787', '1.0000', '0.9415', '0.9415', '0.9681', '0.9521', '0.9734']
+valid_precision_score_each_class = ['0.6000', '0.7627', '0.8298', '0.6825', '1.0000', '1.0000', '1.0000', '0.8980', '1.0000', '0.7500', '1.0000', '1.0000']
+valid_recall_score_each_class = ['0.7826', '0.8491', '0.8125', '0.8600', '0.7500', '0.7143', '1.0000', '0.8800', '0.3125', '0.6000', '0.5714', '0.8864']
+valid_f1_score_each_class = ['0.6792', '0.8036', '0.8211', '0.7611', '0.8571', '0.8333', '1.0000', '0.8889', '0.4762', '0.6667', '0.7273', '0.9398']
+epoch 39 valid end : avg_val_loss = 0.2344
+epoch 39 valid end : avg_accuracy_score = 0.9415
+epoch 39 valid end : macro_precision_score = 0.8769
+epoch 39 valid end : macro_recall_score = 0.7516
+epoch 39 valid end : macro_f1_score = 0.7878
+epoch 40 train end : avg_train_loss = 0.0592
+epoch 40 train end : avg_accuracy_score = 0.9790
+epoch 40 train end : macro_precision_score = 0.9523
+epoch 40 train end : macro_recall_score = 0.9278
+epoch 40 train end : macro_f1_score = 0.9393
+valid_accuracy_score_each_class = ['0.9096', '0.9096', '0.8830', '0.8617', '0.9787', '0.9894', '0.9947', '0.9415', '0.9362', '0.9681', '0.9628', '0.9681']
+valid_precision_score_each_class = ['0.6071', '0.8462', '0.9643', '0.7143', '1.0000', '1.0000', '0.7500', '0.9149', '0.8333', '0.7500', '0.9375', '0.9130']
+valid_recall_score_each_class = ['0.7391', '0.8302', '0.5625', '0.8000', '0.6667', '0.8571', '1.0000', '0.8600', '0.3125', '0.6000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8381', '0.7105', '0.7547', '0.8000', '0.9231', '0.8571', '0.8866', '0.4545', '0.6667', '0.8108', '0.9333']
+epoch 40 valid end : avg_val_loss = 0.2144
+epoch 40 valid end : avg_accuracy_score = 0.9419
+epoch 40 valid end : macro_precision_score = 0.8526
+epoch 40 valid end : macro_recall_score = 0.7414
+epoch 40 valid end : macro_f1_score = 0.7752
+epoch 41 train end : avg_train_loss = 0.0743
+epoch 41 train end : avg_accuracy_score = 0.9761
+epoch 41 train end : macro_precision_score = 0.9488
+epoch 41 train end : macro_recall_score = 0.9218
+epoch 41 train end : macro_f1_score = 0.9346
+valid_accuracy_score_each_class = ['0.9149', '0.9202', '0.7926', '0.8883', '0.9734', '0.9734', '1.0000', '0.9362', '0.9468', '0.9681', '0.9574', '0.9787']
+valid_precision_score_each_class = ['0.6207', '0.9524', '0.9091', '0.8372', '1.0000', '1.0000', '1.0000', '0.8654', '1.0000', '0.7500', '0.9333', '0.9545']
+valid_recall_score_each_class = ['0.7826', '0.7547', '0.2083', '0.7200', '0.5833', '0.6429', '1.0000', '0.9000', '0.3750', '0.6000', '0.6667', '0.9545']
+valid_f1_score_each_class = ['0.6923', '0.8421', '0.3390', '0.7742', '0.7368', '0.7826', '1.0000', '0.8824', '0.5455', '0.6667', '0.7778', '0.9545']
+epoch 41 valid end : avg_val_loss = 0.2507
+epoch 41 valid end : avg_accuracy_score = 0.9375
+epoch 41 valid end : macro_precision_score = 0.9019
+epoch 41 valid end : macro_recall_score = 0.6823
+epoch 41 valid end : macro_f1_score = 0.7495
+epoch 42 train end : avg_train_loss = 0.0676
+epoch 42 train end : avg_accuracy_score = 0.9753
+epoch 42 train end : macro_precision_score = 0.9387
+epoch 42 train end : macro_recall_score = 0.9042
+epoch 42 train end : macro_f1_score = 0.9210
+valid_accuracy_score_each_class = ['0.9362', '0.8936', '0.9149', '0.8936', '0.9787', '0.9894', '0.9947', '0.9362', '0.9149', '0.9734', '0.9681', '0.9840']
+valid_precision_score_each_class = ['0.7391', '0.7797', '0.9000', '0.8261', '1.0000', '1.0000', '0.7500', '0.9318', '1.0000', '0.7273', '1.0000', '0.9767']
+valid_recall_score_each_class = ['0.7391', '0.8679', '0.7500', '0.7600', '0.6667', '0.8571', '1.0000', '0.8200', '0.0000', '0.8000', '0.7143', '0.9545']
+valid_f1_score_each_class = ['0.7391', '0.8214', '0.8182', '0.7917', '0.8000', '0.9231', '0.8571', '0.8723', '0.0000', '0.7619', '0.8333', '0.9655']
+epoch 42 valid end : avg_val_loss = 0.2238
+epoch 42 valid end : avg_accuracy_score = 0.9481
+epoch 42 valid end : macro_precision_score = 0.8859
+epoch 42 valid end : macro_recall_score = 0.7441
+epoch 42 valid end : macro_f1_score = 0.7653
+epoch 43 train end : avg_train_loss = 0.0570
+epoch 43 train end : avg_accuracy_score = 0.9801
+epoch 43 train end : macro_precision_score = 0.9339
+epoch 43 train end : macro_recall_score = 0.9175
+epoch 43 train end : macro_f1_score = 0.9246
+valid_accuracy_score_each_class = ['0.9202', '0.9043', '0.9202', '0.8936', '0.9947', '0.9840', '0.9947', '0.9468', '0.9309', '0.9628', '0.9574', '0.9681']
+valid_precision_score_each_class = ['0.6818', '0.8431', '0.8511', '0.8571', '1.0000', '1.0000', '0.7500', '0.9348', '1.0000', '0.7143', '1.0000', '0.9130']
+valid_recall_score_each_class = ['0.6522', '0.8113', '0.8333', '0.7200', '0.9167', '0.7857', '1.0000', '0.8600', '0.1875', '0.5000', '0.6190', '0.9545']
+valid_f1_score_each_class = ['0.6667', '0.8269', '0.8421', '0.7826', '0.9565', '0.8800', '0.8571', '0.8958', '0.3158', '0.5882', '0.7647', '0.9333']
+epoch 43 valid end : avg_val_loss = 0.2059
+epoch 43 valid end : avg_accuracy_score = 0.9481
+epoch 43 valid end : macro_precision_score = 0.8788
+epoch 43 valid end : macro_recall_score = 0.7367
+epoch 43 valid end : macro_f1_score = 0.7758
+epoch 44 train end : avg_train_loss = 0.0445
+epoch 44 train end : avg_accuracy_score = 0.9840
+epoch 44 train end : macro_precision_score = 0.9702
+epoch 44 train end : macro_recall_score = 0.9091
+epoch 44 train end : macro_f1_score = 0.9323
+valid_accuracy_score_each_class = ['0.9309', '0.9043', '0.9202', '0.9043', '0.9787', '0.9840', '0.9947', '0.9362', '0.9309', '0.9681', '0.9628', '0.9681']
+valid_precision_score_each_class = ['0.7500', '0.8302', '0.8667', '0.8333', '1.0000', '1.0000', '0.7500', '0.8654', '0.6154', '0.7500', '1.0000', '0.9130']
+valid_recall_score_each_class = ['0.6522', '0.8302', '0.8125', '0.8000', '0.6667', '0.7857', '1.0000', '0.9000', '0.5000', '0.6000', '0.6667', '0.9545']
+valid_f1_score_each_class = ['0.6977', '0.8302', '0.8387', '0.8163', '0.8000', '0.8800', '0.8571', '0.8824', '0.5517', '0.6667', '0.8000', '0.9333']
+epoch 44 valid end : avg_val_loss = 0.1789
+epoch 44 valid end : avg_accuracy_score = 0.9486
+epoch 44 valid end : macro_precision_score = 0.8478
+epoch 44 valid end : macro_recall_score = 0.7640
+epoch 44 valid end : macro_f1_score = 0.7962
+Early stopping at epoch: 44
+Best epoch:  14
+Best f1 epoch:  34
+Training and Validation Stage Done...

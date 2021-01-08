@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,copyright Ã¢Â© world wide web consortium massachusetts institute of technology institut national de recherche en informatique et en automatique keio university,0,0,0,0,0,0,0,0,0,0,0,0
+2,http  wwww3org consortium legal  public documents on the w3c site are provided by the copyright holders under the following license,0,0,0,0,0,0,0,0,0,0,0,0
+3,the software or document type definitions dtds associated with w3c specifications are governed by the software notice,0,0,0,0,0,0,0,0,0,0,0,0
+4,by using and or copying this document or the w3c document from which this statement is linked you the licensee agree that you have read understood and will comply with the following terms and conditions permission to use copy and distribute the contents of this document or the w3c document from which this statement is linked in any medium for any purpose and without fee or royalty is hereby granted provided that you include the following on all copies of the document or portions thereof that you use a link or url to the original w3c document,0,1,1,1,0,0,0,1,0,0,0,0
+5,the pre existing copyright notice of the original author or if it doesnt exist a notice of the form copyright Ã¢Â© [$date of document] world wide web consortium massachusetts institute of technology institut national de recherche en informatique et en automatique keio university,0,0,0,0,0,0,0,1,0,0,0,0
+6,http  wwww3org consortium legal  hypertext is preferred but a textual representation is permitted,0,0,0,1,0,0,0,0,0,0,0,0
+7,if it exists the status of the w3c document,0,0,0,0,0,0,0,0,0,0,0,0
+8,when space permits inclusion of the full text of this notice should be provided,0,0,0,0,0,0,0,0,0,0,0,0
+9,we request that authorship attribution be provided in any software documents or other items or products that you create pursuant to the implementation of the contents of this document or any portion thereof,0,0,0,0,0,0,0,0,0,0,0,0
+10,no right to create modifications or derivatives of w3c documents is granted pursuant to this license,0,0,0,0,0,0,0,0,0,0,0,0
+11,however if additional requirements documented in the copyright faq are satisfied the right to create modifications or derivatives is sometimes granted by the w3c to individuals complying with those requirements,0,0,1,0,0,0,0,0,0,0,0,0
+12,this document is provided as is and copyright holders make no representations or warranties express or implied including but not limited to warranties of merchantability fitness for a particular purpose non infringement or title that the contents of the document are suitable for any purpose nor that the implementation of such contents will not infringe any third party patents copyrights trademarks or other rights,0,0,0,0,0,0,0,0,0,0,0,0
+13,copyright holders will not be liable for any direct indirect special or consequential damages arising out of any use of the document or the performance or implementation of the contents thereof,0,0,0,0,0,0,0,0,0,0,1,0
+14,the name and trademarks of copyright holders may not be used in advertising or publicity pertaining to this document or its contents without specific written prior permission,0,0,0,0,0,1,0,0,0,0,0,0
+15,title to copyright in this document will at all times remain with copyright holders,0,0,0,0,0,0,0,1,0,0,0,0
+16,                                                                             this formulation of w3cs notice and license became active on april 05 1999 so as to account for the treatment of dtds schemas and bindings,0,0,0,0,0,0,0,0,0,0,0,0
+17,see the older formulation for the policy prior to this date,0,0,0,0,0,0,0,0,0,0,0,0
+18,please see our copyright faq for common questions about using materials from our site including specific terms and conditions for packages like libwww amaya and jigsaw,0,0,0,0,0,0,0,0,0,0,0,0

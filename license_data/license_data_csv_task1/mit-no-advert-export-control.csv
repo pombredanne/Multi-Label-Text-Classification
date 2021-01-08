@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,export of this software from the united states of america may require a specific license from the united states government,0,0,0,0,0,0,0,0,0,0,0,0
+2,it is the responsibility of any person or organization contemplating export to obtain such a license before exporting,0,0,0,0,0,0,0,0,0,0,0,0
+3,within that constraint permission to use copy modify and distribute this software and its documentation for any purpose and without fee is hereby granted provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation and that the name of the author not be used in advertising or publicity pertaining to distribution of the software without specific written prior permission,0,1,1,1,0,0,0,1,0,0,0,0
+4,the author makes no representations about the suitability of this software for any purpose,0,0,0,0,0,0,0,0,0,0,0,0
+5,it is provided as is without express or implied warranty,0,0,0,0,0,0,0,0,0,0,0,1

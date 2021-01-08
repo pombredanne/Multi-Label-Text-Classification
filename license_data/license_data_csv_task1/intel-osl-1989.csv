@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,copyright c 1989 intel corporation intel hereby grants you permission to copy modify and distribute this software and its documentation,0,1,1,1,0,0,0,0,0,0,0,0
+2,intel grants this permission provided that the above copyright notice appears in all copies and that both the copyright notice and this permission notice appear in supporting documentation,0,0,0,1,0,0,0,1,0,0,0,0
+3,in addition intel grants this permission provided that you prominently mark as not part of the original any modifications made to this software or documentation and that the name of intel corporation not be used in advertising or publicity pertaining to distribution of the software or the documentation without specific written prior permission,0,0,0,0,0,0,0,0,0,0,0,0

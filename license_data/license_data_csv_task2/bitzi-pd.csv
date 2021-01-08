@@ -1,0 +1,16 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,when we publish our source code we usually place it in the public domain whenever possible to allow the widest possible reuse and benefit,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,we try to include on most such released files a small notice such as pd 2006 the bitzi corporation please see file copying or http  bitzicom publicdomain for more info,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,  for major standalone files or as the copying file we include a version of this longer explanation pd 2006 the bitzi corporation 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,this work and others bearing the above label were created by or on behalf of the bitzi corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,often other public domain material by other authors is incorporated this should be clear from notations in the source code,0,0,0,0,0,0,0,1,0,0,0,0,1
+6,if other non  public domain code or libraries are included this is is done under those works respective licenses,0,0,0,0,0,0,0,1,0,0,0,0,1
+7,the bitzi corporation places its portion of these labelled works into the public domain disclaiming all rights granted us by copyright law,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,bitzi places no restrictions on your freedom to copy use redistribute and modify this work though you should be aware of points 3 4 and 5 below,0,1,1,1,0,0,0,0,0,0,0,0,1
+9,the bitzi corporation reserves all rights with regard to any of its trademarks which may appear herein such as bitzi bitcollider or bitpedia,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,please take care that your uses of this work do not infringe on our trademarks or imply our endorsement,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,for example you should change labels and identifier strings in your derivative works where appropriate,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,some code and libraries may be incorporated in this work in accordance with the licenses offered by their respective rightsholders,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,further copying use redistribution and modification of these third party portions remains subject to their original licenses,0,1,0,1,0,0,0,0,0,0,0,0,1
+14,this software is provided by the author ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0
+15,in no event shall the author be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0,0

@@ -1,0 +1,21 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,copyright in this document and the software accompanying this document is owned by daniel f savarese,0,0,0,0,0,0,0,1,0,0,0,0,1
+2,netcomponents license daniel f savarese hereinafter referred to as daniel grants you a non exclusive non transferable limited license to use the software components comprising the netcomponents java class package licensed software,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,you may not redistribute any of the licensed software except as follows 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you may reproduce and redistribute the licensed software in object code form only java class files and only when incorporated into your software product which adds substantial and primary functionality to the licensed software,0,1,0,0,0,0,0,0,0,0,0,0,1
+5,you may not permit further redistribution of the licensed software by your end users except as part of a new software product you develop that meets the restricions of item 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,to clarify you may use the licensed software only to build new software you develop and you may only distribute the licensed software as part of this new software,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,you may not include the licensed software in a software development kit or other library or development tool that exposes the apis of the licensed software without first negotiating a specific license for that purpose with daniel,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,except as permitted by applicable law and this license you may not decompile reverse engineer disassemble modify rent lease loan distribute create derivative works from the licensed software or transmit the licensed software over a network,1,1,1,0,0,0,0,0,1,0,0,0,1
+9,you may not use or otherwise export or reexport the licensed software except as authorized by united states law and the laws of the jurisdiction in which the licensed software was obtained,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,in particular but without limitation the licensed software may not be used or otherwise exported or reexported 1 into or to a national or resident of any united states embargoed country or 2 to anyone on the us treasury departmentt list of specially designated nationals or the us department of commerces table of denial orders,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,by using the licensed software you represent and warrant that you are not located in under control of or a national or resident of any such country or on any such list,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,daniel makes no representations or warranties about the suitability of the licensed software either express or implied including but not limited to the implied warranties of merchantability fitness for a particular purpose or non infringement,0,0,0,0,0,0,0,0,0,0,0,1,0
+13,oro shall not be liable for any damages suffered by licensee as a result of using modifying or distributing the licensed software or its derivatives,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,the licensed software is not designed for use in high risk activities requiring fail safe performance,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,oro disclaims any express or implied warranty of fitness for high risk activities,0,0,0,0,0,0,0,0,0,0,0,1,0
+16,restricted rights legend the licensed software and documentation is a commercial item as defined in 48 cfr,1,0,0,0,0,0,0,0,0,0,0,0,1
+17,2101 10 95 consisting of commercial computer software and commercial computer software documentation as defined in 48 cfr,1,0,0,0,0,0,0,0,0,0,0,1,1
+18,use duplication or disclosure by the us government is subject to the restrictions of us government end users consistent with 48 cfr,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,trademarks oro the oro logo original reusable objects component software for the internet and netcomponents are trademarks or registered trademarks of daniel f savarese in the united states and other countries,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,java is trademark of sun microsystems inc netscape is a trademark of netscape communications corporation,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,181 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this installation contains the following software the license terms of each of which are included below Ã¢Â· microsoft aspnet model view controller 3 tools update Ã¢Â· microsoft aspnet web pages Ã¢Â· microsoft package manager for net Ã¢Â· microsoft software update to visual studio kb2483190 microsoft software license terms microsoft aspnet model view controller 3 tools update these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,1,1,0,0,0,0,0,1,0,0,0
+2,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+3,the terms also apply to any microsoft Ã¢Â· updates Ã¢Â· supplements Ã¢Â· internet based services and Ã¢Â· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+4,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+5,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0
+6,one user may install and use any number of copies of the software on your devices to design develop and test your aspnet programs,0,0,0,0,0,0,0,0,0,0,0,0
+7,you may modify copy and distribute or deploy any js files contained in the software as part of your aspnet programs,0,1,0,0,0,0,0,0,0,0,0,0
+8,in addition to the js files described above the software contains code that you are permitted to distribute in aspnet programs you develop if you comply with the terms below,0,0,0,0,0,0,0,0,0,0,0,0
+9,the code and text files listed below are distributable code,0,0,0,0,0,0,0,0,0,0,0,0
+10,you may copy and distribute the object code form of systemwebmvcdll,0,0,0,0,0,0,0,0,0,0,0,0
+11,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+12,for any distributable code you distribute you must Ã¢Â· add significant primary functionality to it in your programs Ã¢Â· require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã¢Â· display your valid copyright notice on your programs and Ã¢Â· indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0
+13,you may not Ã¢Â· alter any copyright trademark or patent notice in the distributable code Ã¢Â· use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft Ã¢Â· distribute distributable code to run on a platform other than the windows platform Ã¢Â· include distributable code in malicious deceptive or unlawful programs or Ã¢Â· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+14,an excluded license is one that requires as a condition of use modification or distribution that Ã¢Â· the code be disclosed or distributed in source code form or Ã¢Â· others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0
+15,the software may include third party code that microsoft not the third party licenses to you under this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+16,notices if any for the third party code are included for your information only,0,0,0,0,0,0,0,0,0,0,0,0
+17,microsoftÃ¢ÂÂs service and support obligations if any apply only to the unmodified third party code running on aspnet,0,0,0,0,0,0,0,0,0,0,0,0
+18,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+19,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+20,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+21,you may not Ã¢Â· work around any technical limitations in the software Ã¢Â· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã¢Â· make more copies of the software than specified in this agreement or allowed by applicable law despite this limitation Ã¢Â· publish the software for others to copy Ã¢Â· rent lease or lend the software or Ã¢Â· transfer the software or this agreement to any third party,0,1,1,1,0,0,0,0,0,0,0,0
+22,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+23,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0
+24,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0
+25,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+26,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0
+27,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+28,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+29,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,1,0,0,0,0,0,0,0,0
+30,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0
+31,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,1,0,0,0,0,0,1,0
+32,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+33,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,1
+34,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+35,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0
+36,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+37,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+38,you can recover from microsoft and its suppliers only direct damages up to us $500,0,1,0,0,0,0,0,0,0,0,1,0
+39,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+40,this limitation applies to Ã¢Â· anything related to the software services content including code on third party internet sites or third party programs and Ã¢Â· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+41,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,1
+42,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+43,microsoft software license terms microsoft aspnet web pages these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0
+44,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+45,the terms also apply to any microsoft Ã¢Â· updates Ã¢Â· supplements Ã¢Â· internet based services and Ã¢Â· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+46,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+47,as described below using some features also operates as your consent to the transmission of certain standard computer information for internet based services,0,0,0,0,0,0,0,0,0,0,0,0
+48,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0
+49,one user may install and use any number of copies of the software on your devices to design develop and test your aspnet programs,0,0,0,0,0,0,0,0,0,0,0,0
+50,the software contains code that you are permitted to distribute in programs you develop if you comply with the terms below,0,1,0,0,0,0,0,0,0,0,0,0
+51,the code and text files listed below are distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+52,you may copy and distribute the object code form of the following files Ã¢Â§ microsoftwebinfrastructuredll Ã¢Â§ nugetcoredll Ã¢Â§ systemwebhelpersdll Ã¢Â§ systemwebrazordll Ã¢Â§ systemwebwebpagesadministrationdll Ã¢Â§ systemwebwebpagesdeploymentdll Ã¢Â§ systemwebwebpagesdll Ã¢Â§ systemwebwebpagesrazordll Ã¢Â§ webmatrixdatadll Ã¢Â§ webmatrixwebdatadll,0,1,0,0,0,0,0,0,0,0,0,0
+53,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+54,for any distributable code you distribute you must Ã¢Â· add significant primary functionality to it in your programs Ã¢Â· require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã¢Â· display your valid copyright notice on your programs and Ã¢Â· indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0
+55,you may not Ã¢Â· alter any copyright trademark or patent notice in the distributable code Ã¢Â· use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft Ã¢Â· distribute distributable code to run on a platform other than the windows platform Ã¢Â· include distributable code in malicious deceptive or unlawful programs or Ã¢Â· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+56,an excluded license is one that requires as a condition of use modification or distribution that Ã¢Â· the code be disclosed or distributed in source code form or Ã¢Â· others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0
+57,it may change or cancel them at any time,0,0,1,0,0,0,0,0,0,0,1,0
+58,the software feature described below connects to microsoft or service provider computer systems over the internet,0,0,0,0,0,0,0,0,1,0,0,1
+59,in some cases you will not receive a separate notice when they connect,0,0,0,0,0,0,0,0,0,0,0,0
+60,for more information about this feature see the software documentation and the privacy statement available at gomicrosoftcom fwlink ?linkid205205,0,0,0,0,0,0,0,0,0,0,0,0
+61,by using this feature you consent to the transmission of this information,0,0,0,0,0,0,0,0,0,0,0,0
+62,microsoft does not use the information to identify or contact you,0,0,0,0,0,0,0,0,0,0,0,0
+63,the following feature uses internet protocols which send to the appropriate systems computer information such as your internet protocol address the type of operating system browser and name and version of the software you are using and the language code of the device where you installed the software,0,0,0,0,0,0,1,0,0,0,0,0
+64,microsoft or a third party service provider uses this information to make the internet based service available to you,0,0,0,0,0,0,0,0,0,0,0,0
+65,this software will access a list of packages that is supplied by means of an odata service online from microsoft or a third party service provider,0,0,0,0,0,0,0,0,0,0,0,1
+66,please refer to the package manager feature section below for a description of this feature,0,0,0,0,0,0,0,0,0,0,0,0
+67,we or a third party service provider may use the computer information to improve our or their software and services,0,0,0,0,0,0,0,0,0,0,0,0
+68,we or they may also share it with others such as hardware and software vendors,0,0,0,0,0,0,0,0,0,0,0,0
+69,they may use the information to improve how their products run with microsoft software,0,0,0,0,0,0,0,0,0,0,0,0
+70,you may not use this service in any way that could harm it or impair anyone elseÃ¢ÂÂs use of it,0,0,0,0,0,0,0,0,0,0,0,0
+71,you may not use the service to try to gain unauthorized access to any service data account or network by any means,0,0,0,0,0,0,0,0,0,0,0,0
+72,this software includes a package manager feature which enables you to obtain other software packages from other sources,0,0,0,0,0,0,1,0,0,0,0,0
+73,those packages are offered and distributed in some cases by third parties or in some cases by microsoft but each such package is under its own license terms,0,1,0,0,0,0,0,0,1,0,0,0
+74,microsoft is not developing distributing or licensing any of the third party packages to you but instead as a convenience is providing you with this package manager feature in order to access any packages for your own use,0,0,0,0,0,0,0,0,0,0,0,0
+75,by using this package manager feature you acknowledge and agree that you may be accessing and using the third party packages as distributed by such third parties and under the separate license terms applicable to each package including any terms applicable to software dependencies that may be included in the package,0,0,0,1,0,0,0,0,1,0,0,0
+76,you acknowledge and agree that it is your responsibility to locate understand and comply with all applicable license terms for each package and its dependencies for example by following the package source feed url or by reviewing the packages for embedded notices or license terms,0,0,0,0,0,0,0,0,1,0,0,0
+77,the package manager feature may have been pre set to a feed that is hosted by microsoft or a third party service provider located at gomicrosoftcom fwlink ?linkid206669,0,0,0,0,0,0,0,0,0,0,0,0
+78,the packages listed on this feed may include packages submitted by third parties,0,1,0,0,0,0,0,0,0,0,0,0
+79,microsoft makes no representations warranties or guarantees as to the feed url any feeds from such url the information contained therein or any packages referenced in or accessed by you through such feeds,0,0,0,0,0,0,0,0,0,0,0,0
+80,microsoft grants you no license rights for third party software that is obtained using this feature or from the feed,0,0,0,0,0,0,0,0,0,0,0,0
+81,you may change the feed url that the package manager feature initially points to at any time at your discretion,0,0,0,0,0,0,0,0,0,0,0,0
+82,the package manager feature of the software includes third party code,0,0,0,0,0,0,0,0,0,0,0,0
+83,however such code is licensed to you by microsoft under this license agreement rather than licensed to you by any third party under some other license terms,0,0,0,0,0,0,0,0,1,0,0,0
+84,notices if any for the third party code are included with this software for your information only,0,0,0,0,0,0,0,0,0,0,0,0
+85,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+86,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+87,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+88,you may not Ã¢Â· work around any technical limitations in the software Ã¢Â· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã¢Â· make more copies of the software than specified in this agreement or allowed by applicable law despite this limitation Ã¢Â· publish the software for others to copy Ã¢Â· rent lease or lend the software or Ã¢Â· transfer the software or this agreement to any third party,0,0,1,1,0,0,0,0,0,0,0,0
+89,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+90,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0
+91,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,1,0,0,0,0,0
+92,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+93,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,1,0
+94,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+95,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+96,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+97,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,1,0
+98,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0
+99,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+100,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0
+101,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+102,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,1,0
+103,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+104,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+105,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+106,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+107,this limitation applies to Ã¢Â· anything related to the software services content including code on third party internet sites or third party programs and Ã¢Â· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+108,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,1
+109,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+110,microsoft software license terms microsoft package manager for net these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,1,0,0,0,0,0,0,0,0,0,0
+111,they apply to the software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0
+112,the terms also apply to any microsoft Ã¢Â· updates Ã¢Â· supplements Ã¢Â· internet based services and Ã¢Â· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0
+113,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+114,as described below using some features also operates as your consent to the transmission of certain standard computer information for internet based services,0,0,0,0,0,0,0,0,0,0,0,0
+115,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,1,0,0,0
+116,one user may install and use any number of copies of the software on your devices to design develop and test your programs,0,0,0,0,0,0,0,0,0,0,0,0
+117,the software contains code that you are permitted to distribute in programs you develop if you comply with the terms below,0,0,0,0,0,0,0,0,0,0,0,0
+118,the code and text files listed below are distributable code,0,1,0,1,0,0,0,0,0,0,0,0
+119,you may copy and distribute the object code form of nugetcoredll,0,0,0,0,0,0,0,0,0,0,0,0
+120,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+121,for any distributable code you distribute you must Ã¢Â· add significant primary functionality to it in your programs Ã¢Â· require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã¢Â· display your valid copyright notice on your programs and Ã¢Â· indemnify defend and hold harmless microsoft from any claims including attorneysÃ¢ÂÂ fees related to the distribution or use of your programs,0,1,0,0,0,0,0,0,0,0,0,0
+122,you may not Ã¢Â· alter any copyright trademark or patent notice in the distributable code Ã¢Â· use microsoftÃ¢ÂÂs trademarks in your programsÃ¢ÂÂ names or in a way that suggests your programs come from or are endorsed by microsoft Ã¢Â· distribute distributable code to run on a platform other than the windows platform Ã¢Â· include distributable code in malicious deceptive or unlawful programs or Ã¢Â· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+123,an excluded license is one that requires as a condition of use modification or distribution that Ã¢Â· the code be disclosed or distributed in source code form or Ã¢Â· others have the right to modify it,0,1,1,0,0,0,0,0,0,0,0,0
+124,it may change or cancel them at any time,0,0,0,0,0,0,0,0,0,0,0,0
+125,the software feature described below connects to microsoft or service provider computer systems over the internet,0,0,0,0,0,0,0,0,0,0,0,1
+126,in some cases you will not receive a separate notice when they connect,0,0,0,0,0,0,0,0,0,0,0,0
+127,for more information about this feature see the software documentation and the privacy statement available at gomicrosoftcom fwlink ?linkid205205,0,0,0,0,0,0,1,0,0,0,0,1
+128,by using this feature you consent to the transmission of this information,0,0,0,0,0,0,0,0,0,0,0,0
+129,microsoft does not use the information to identify or contact you,0,0,0,0,0,0,0,0,0,0,0,0
+130,the following feature uses internet protocols which send to the appropriate systems computer information such as your internet protocol address the type of operating system browser and name and version of the software you are using and the language code of the device where you installed the software,0,0,0,0,0,0,1,0,0,0,0,0
+131,microsoft or a third party service provider uses this information to make the internet based service available to you,0,0,0,0,0,0,0,0,0,0,0,0
+132,this software will access a list of packages that is supplied by means of an odata service online from microsoft or a third party service provider,0,0,0,0,0,0,0,0,0,0,0,1
+133,please refer to the package manager feature section below for a description of this feature,0,0,0,0,0,0,0,0,0,0,0,0
+134,we or a third party service provider may use the computer information to improve our or their software and services,0,0,0,0,0,0,0,0,0,0,0,0
+135,we or they may also share it with others such as hardware and software vendors,0,0,0,0,0,0,0,0,0,0,0,0
+136,they may use the information to improve how their products run with microsoft software,0,0,0,0,0,0,0,0,0,0,0,0
+137,you may not use this service in any way that could harm it or impair anyone elseÃ¢ÂÂs use of it,0,0,0,0,0,0,0,0,0,0,1,0
+138,you may not use the service to try to gain unauthorized access to any service data account or network by any means,0,0,0,0,0,0,0,0,0,0,0,0
+139,this software includes a package manager feature which enables you to obtain other software packages from other sources,0,0,0,0,0,0,0,0,0,0,0,0
+140,those packages are offered and distributed in some cases by third parties or in some cases by microsoft but each such package is under its own license terms,0,1,0,0,0,0,0,0,1,0,0,0
+141,microsoft is not developing distributing or licensing any of the third party packages to you but instead as a convenience is providing you with this package manager feature in order to access any packages for your own use,1,0,0,0,0,0,0,0,0,0,0,0
+142,by using this package manager feature you acknowledge and agree that you may be accessing and using the third party packages as distributed by such third parties and under the separate license terms applicable to each package including any terms applicable to software dependencies that may be included in the package,0,0,0,1,0,0,0,0,1,0,0,0
+143,you acknowledge and agree that it is your responsibility to locate understand and comply with all applicable license terms for each package and its dependencies for example by following the package source feed url or by reviewing the packages for embedded notices or license terms,0,0,0,0,0,0,0,0,1,0,0,0
+144,the package manager feature may have been pre set to a feed that is hosted by microsoft or a third party service provider located at gomicrosoftcom fwlink ?linkid206669,0,0,0,0,0,0,0,0,0,0,0,0
+145,the packages listed on this feed may include packages submitted by third parties,0,0,0,0,0,0,0,0,0,0,0,0
+146,microsoft makes no representations warranties or guarantees as to the feed url any feeds from such url the information contained therein or any packages referenced in or accessed by you through such feeds,0,0,0,0,0,0,0,0,0,0,0,0
+147,microsoft grants you no license rights for third party software that is obtained using this feature or from the feed,0,0,0,0,0,0,0,0,0,0,0,0
+148,you may change the feed url that the package manager feature initially points to at any time at your discretion,0,0,0,0,0,0,0,0,0,0,0,0
+149,the package manager feature of the software includes third party code,0,0,0,0,0,0,0,0,0,0,0,0
+150,however such code is licensed to you by microsoft under this license agreement rather than licensed to you by any third party under some other license terms,0,0,0,0,0,0,0,0,1,0,0,0
+151,notices if any for the third party code are included with this software for your information only,0,0,0,0,0,0,0,0,0,0,0,0
+152,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+153,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0
+154,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+155,you may not Ã¢Â· work around any technical limitations in the software Ã¢Â· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation Ã¢Â· make more copies of the software than specified in this agreement or allowed by applicable law despite this limitation Ã¢Â· publish the software for others to copy Ã¢Â· rent lease or lend the software or Ã¢Â· transfer the software or this agreement to any third party,0,1,1,1,0,0,0,0,0,0,0,0
+156,you may make one backup copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+157,you may use it only to reinstall the software,0,0,0,0,0,0,0,0,0,0,0,0
+158,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0
+159,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0
+160,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0
+161,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+162,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+163,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+164,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,1,0
+165,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0
+166,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0
+167,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0
+168,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+169,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0
+170,you may have additional consumer rights under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0
+171,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,1
+172,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+173,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+174,this limitation applies to Ã¢Â· anything related to the software services content including code on third party internet sites or third party programs and Ã¢Â· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+175,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,1
+176,the above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+177,microsoft software license terms microsoft software update to visual studio kb2483190 please note microsoft corporation or based on where you live one of its affiliates licenses this supplement to you,0,1,0,0,0,0,0,0,1,0,0,0
+178,you may use it with each validly licensed copy of microsoft visual studio 2010 or microsoft windows operating system software for which this supplement is applicable the software,0,1,0,0,0,0,0,0,1,0,0,0
+179,you may not use the supplement if you do not have a license for the software,0,0,0,0,0,0,0,0,0,0,0,0
+180,the license terms for the software apply to your use of this supplement,0,0,0,0,0,0,0,0,0,0,0,0

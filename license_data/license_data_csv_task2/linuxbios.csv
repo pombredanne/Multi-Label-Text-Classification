@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this software and ancillary information herein called software called linuxbios is made available under the terms described here,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,the software has been approved for release with associated la cc number 00 34,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,unless otherwise indicated this software has been authored by an employee or employees of the university of california operator of the los alamos national laboratory under contract no,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,w 7405 eng 36 with the us department of energy,0,0,0,0,0,0,0,0,0,0,1,0,0
+5,the us government has rights to use reproduce and distribute this software,0,1,0,0,0,0,0,0,0,0,0,0,1
+6,the public may copy distribute prepare derivative works and publicly display this software without charge provided that this notice and any statement of authorship are reproduced on all copies,0,1,1,1,0,0,0,1,0,0,0,0,1
+7,neither the government nor the university makes any warranty express or implied or assumes any liability or responsibility for the use of this software,0,0,0,0,0,0,0,0,0,0,0,1,0

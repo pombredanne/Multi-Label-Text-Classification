@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this library is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 of the license or at your option any later version,,,,,,,,,,,,
+2,this library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,,,,,,,,,,,,
+3,see the gnu general public license for more details,,,,,,,,,,,,
+4,you should have received a copy of the gnu general public license along with this library if not write to the free software foundation inc 59 temple place   suite 330 boston ma 02111 1307 usa,,,,,,,,,,,,
+5,as a special exception if other files instantiate generics from this unit or you link this unit with other files to produce an executable this unit does not by itself cause the resulting executable to be covered by the gnu general public license,,,,,,,,,,,,

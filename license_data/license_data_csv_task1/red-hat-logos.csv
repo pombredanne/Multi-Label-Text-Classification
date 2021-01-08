@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,red hat inc grants you the right to use the package during the normal operation of other software programs that call upon the package,0,0,0,0,0,0,0,0,0,0,0,0
+2,red hat inc grants to you the right and license to copy and redistribute the package but only in conjunction with copying or redistributing additional software packages that call upon the package during the normal course of operation,0,1,1,0,0,0,0,0,0,0,0,0
+3,such rights are granted to you without fee provided that 1,0,0,0,0,0,0,0,0,0,0,0,0
+4,the above copyright notice and this license are included with each copy you make and they remain intact and are not altered deleted or modified in any way 2,0,1,1,1,0,0,0,1,0,0,0,0
+5,you do not modify the package or the appearance of any or all of the logos in any manner and 3,0,0,0,0,0,0,0,0,0,0,0,0
+6,you do not use any or all of the logos as or as part of a trademark trade name or trade identifier or in any other fashion except as set forth in this license,0,0,0,0,0,1,0,0,0,0,0,0
+7,this package is provided as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

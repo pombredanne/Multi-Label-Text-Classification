@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,lzma sdk provides the documentation samples header files libraries and tools you need to develop applications that use lzma compression,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,license         lzma sdk is available under any of the following licenses 1 gnu lesser general public license gnu lgpl 2 common public license cpl 3 common development and distribution license cddl version 10 4 simplified license for unmodified code read special exception it means that you can select one of these options and follow rules of that license,0,0,0,0,0,0,0,0,1,0,0,0,1
+3,123 gnu lgpl cpl and cddl licenses are classified as   free software licenses at http  wwwgnuorg    osi approved at http  wwwopensourceorg  4 simplified license for unmodified code read special exception igor pavlov as the author of this code expressly permits you to statically or dynamically link your code or bind by name to the files from lzma sdk,0,1,1,0,0,0,0,0,0,0,0,0,1
+4,special exception allows you to use lzma sdk in applications with closed code while you keep lzma sdk code unmodified,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,special exception #2 igor pavlov as the author of this code expressly permits you to use this code under the same terms and conditions contained in the license agreement you have for any previous version of lzma sdk developed by igor pavlov,0,0,0,1,0,0,0,0,0,0,0,0,1
+6,special exception #2 allows owners of proprietary licenses to use latest version of lzma sdk as update for previous versions,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,some files in lzma sdk are placed in public domain,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,lzmaalonecpp lzmaalonecs lzmaalonejava so you can change them as you want and use special exception for other unmodified files,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,for example you can edit c	ypesh to solve some compatibility problems with your compiler,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,      you should have received a copy of the gnu lesser general public license along with this library if not write to the free software foundation inc 59 temple place suite 330 boston ma 02111 1307 usa you should have received a copy of the common public license along with this library,0,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,skeleton implementation for bisons yacc like parsers in c copyright c 1984 1989 1990 2000 2006 2009 2010 free software foundation inc,,,,,,,,,,,,
+2,this program is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 3 of the license or at your option any later version,,,,,,,,,,,,
+3,this program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,,,,,,,,,,,,
+4,see the gnu general public license for more details,,,,,,,,,,,,
+5,you should have received a copy of the gnu general public license along with this program,,,,,,,,,,,,
+6,as a special exception you may create a larger work that contains part or all of the bison parser skeleton and distribute that work under terms of your choice so long as that work isnt itself a parser generator using the skeleton or a modified version thereof as a parser skeleton,,,,,,,,,,,,
+7,alternatively if you modify or redistribute the parser skeleton itself you may at your option remove this special exception which will cause the skeleton and the resulting bison output files to be licensed under the gnu general public license without this special exception,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this library is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0,1
+2,this library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you should have received a copy of the gnu general public license along with this library see the file copying,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,if not write to the free software foundation 51 franklin street fifth floor boston ma 02110 1301 usa,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,as a special exception to gpl any html file which merely makes function calls to this code and for that purpose includes it by reference shall be deemed a separate work for copyright law purposes,0,0,0,1,0,0,0,1,0,0,0,0,1
+7,in addition the copyright holders of this code give you permission to combine this code with free software libraries that are released under the gnu lgpl,0,1,1,0,0,0,0,0,0,0,0,0,1
+8,you may copy and distribute such a system following the terms of the gnu gpl for this code and the lgpl for the libraries,0,1,1,1,0,0,0,0,0,0,0,0,1
+9,if you modify this code you may extend this exception to your version of the code but you are not obligated to do so,0,0,0,0,0,0,0,0,0,0,0,0,1

@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,our books are here to help you get your job done,0,0,0,0,0,0,0,0,0,0,0,0
+2,in general you may use the code in our books in your programs and documentation,0,0,0,0,0,0,0,0,0,0,0,0
+3,you do not need to contact us for permission unless youre reproducing a significant portion of the code,0,0,0,0,0,0,0,0,0,0,0,0
+4,for example writing a program that uses several chunks of code from our books does not require permission,0,0,0,0,0,0,0,0,0,0,0,0
+5,answering a question by citing our books and quoting example code does not require permission,0,0,0,0,0,0,0,0,0,0,0,0
+6,on the other hand selling or distributing a cd rom of examples from oreilly books does require permission,1,0,0,0,0,0,0,0,0,0,0,0
+7,incorporating a significant amount of example code from our books into your products documentation does require permission,0,0,0,0,0,0,0,0,0,0,0,0
+8,an attribution usually includes the title author publisher and isbn,0,0,0,0,0,0,0,0,0,0,0,0

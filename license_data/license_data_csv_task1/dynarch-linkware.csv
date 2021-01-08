@@ -1,0 +1,16 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,license agreement licensee is not allowed to modify or remove any copyright notices from any of the product files,0,0,0,0,0,0,0,1,0,0,0,0
+2,subject to the terms of this agreement dynarchcom grants you a non exclusive non transferable free license to use the product on sites that you own under the following terms and conditions 1 non commercial,1,0,0,1,0,0,0,0,0,0,0,0
+3,sites that use the product under this license sites must be non profit examples of accepted websites are free or hobby websites blogs charity organizations or universities or websites of open source projects,1,1,0,0,0,0,0,0,0,0,0,0
+4,sites may contain advertising as long as they are not published for the specific purpose of showing ads,0,0,0,0,0,0,0,0,0,0,0,0
+5,the sites may not include pornography adult or mature content gambling or casino related content if you are not sure that your site follows our policy you must ask us,0,0,0,0,0,0,0,0,0,0,0,0
+6,sites using the product under this license must link back to the product home page in each page where the product is used,0,1,0,0,0,0,0,0,0,0,0,0
+7,example of acceptable code <a hrefhttp  wwwdynarchcom products dhtml menu  titlevisit the dhtml menu page> dhtml menu by dynarchcom < a> you can include a target_blank attribute if you wish,0,0,0,0,0,0,0,0,0,0,0,0
+8,you may place the link anywhere in the page the main requirement is that it must be visible and that it should point directly to the product pageÃ¢ÂÂserver side redirects are not acceptable,0,0,0,0,0,0,0,0,0,0,0,0
+9,please refer to the file linkwarehtml in the product package for more details on this after you download the product,0,0,0,0,0,0,0,0,0,0,0,0
+10,this free license does not cover usage on your intranetÃ¢ÂÂfor that you need to purchase a commercial license,1,0,0,0,0,0,0,0,0,0,0,0
+11,you may not distribute the product nor any derivative works to any third party,0,0,0,0,0,0,0,0,0,0,0,0
+12,you may not distribute free nor commercial software applications or libraries that incorporate the product,0,0,0,1,0,0,0,0,0,0,0,0
+13,all rights not specifically granted to licensee herein are retained by dynarchcom,0,0,0,0,0,1,0,0,0,0,0,0
+14,this software is provided by the copyright holders and contributors as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1
+15,in no event shall the copyright owner or contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0

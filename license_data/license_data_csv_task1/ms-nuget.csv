@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,nuget begin license text microsoft grants you the right to use these script files for the sole purpose of either i interacting through your browser with the microsoft website or online service subject to the applicable licensing or use terms or ii using the files as included with a microsoft product subject to that products license terms,0,0,1,1,0,0,0,0,0,0,0,0
+2,microsoft reserves all other rights to the files not expressly granted by microsoft whether by implication estoppel or otherwise,0,0,0,0,0,0,0,0,0,0,0,0
+3,insofar as a script file is dual licensed under gpl microsoft neither took the code under gpl nor distributes it thereunder but under the terms set out in this paragraph,0,0,0,1,0,0,0,0,1,0,0,0
+4,all notices and licenses below are for informational purposes only,0,0,0,0,0,0,0,1,0,0,0,0

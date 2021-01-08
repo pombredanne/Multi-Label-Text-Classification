@@ -1,0 +1,31 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,introduction the freetype project is distributed in several archive packages some of them may contain in addition to the freetype font engine various tools and contributions which rely on or relate to the freetype project,0,1,0,0,0,0,0,0,0,0,0,0
+2,this license applies to all files found in such packages and which do not fall under their own explicit license,0,0,0,0,0,0,0,0,0,0,0,0
+3,the license affects thus the freetype font engine the test programs documentation and makefiles at the very least,0,0,0,0,0,0,0,0,0,0,0,0
+4,this license was inspired by the bsd artistic and ijg independent jpeg group licenses which all encourage inclusion and use of free software in commercial and freeware products alike,1,1,0,1,0,0,0,0,0,0,0,0
+5,as a consequence its main points are that o we dont promise that this software works,0,0,0,0,0,0,0,0,0,0,0,0
+6,however we will be interested in any kind of bug reports,0,0,0,0,0,0,0,0,0,0,0,0
+7,`as is distribution o you can use this software for whatever you want in parts or full form without having to pay us,0,1,0,0,0,0,0,0,0,0,0,0
+8,`royalty free usage o you may not pretend that you wrote this software,0,0,0,0,0,0,0,0,0,0,0,0
+9,if you use it or only parts of it in a program you must acknowledge somewhere in your documentation that you have used the freetype code,0,0,0,0,0,0,0,0,0,0,0,0
+10,`credits we specifically permit and encourage the inclusion of this software with or without modifications in commercial products,0,0,0,0,0,0,0,0,1,0,0,0
+11,we disclaim all warranties covering the freetype project and assume no liability related to the freetype project,0,0,0,0,0,0,0,0,0,0,0,1
+12,finally many people asked us for a preferred form for a credit disclaimer to use in compliance with this license,0,0,0,0,0,0,0,0,0,0,0,0
+13,we thus encourage you to use the following text  portions of this software are copyright Ã¢Â© <year> the freetype project wwwfreetypeorg,0,0,0,0,0,0,0,0,0,0,0,0
+14,please replace <year> with the value from the freetype version you actually use,0,0,0,0,0,0,0,0,0,0,0,0
+15,no warranty                the freetype project is provided `as is without warranty of any kind either express or implied including but not limited to warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+16,in no event will any of the authors or copyright holders be liable for any damages caused by the use or the inability to use of the freetype project,0,0,0,0,0,0,0,0,0,0,1,0
+17,redistribution                   this license grants a worldwide royalty free perpetual and irrevocable right and license to use execute perform compile display copy create derivative works of distribute and sublicense the freetype project in both source and object code forms and derivative works thereof for any purpose and to authorize others to exercise some or all of the rights granted herein subject to the following conditions o redistribution of source code must retain this license file `ftltxt unaltered any additions deletions or changes to the original files must be clearly indicated in accompanying documentation,1,1,1,1,0,0,0,1,0,1,0,0
+18,the copyright notices of the unaltered original files must be preserved in all copies of source files,0,0,0,0,0,0,0,1,0,0,0,0
+19,o redistribution in binary form must provide a disclaimer that states that the software is based in part of the work of the freetype team in the distribution documentation,0,0,0,0,0,0,0,0,0,0,0,0
+20,we also encourage you to put an url to the freetype web page in your documentation though this isnt mandatory,0,0,0,0,0,0,0,0,0,0,0,0
+21,these conditions apply to any software derived from or based on the freetype project not just the unmodified files,0,0,0,0,0,0,0,0,0,0,0,0
+22,if you use our work you must acknowledge us,0,0,0,0,0,0,0,0,0,0,0,0
+23,advertising                neither the freetype authors and contributors nor you shall use the name of the other for commercial advertising or promotional purposes without specific prior written permission,1,0,0,1,0,1,0,0,0,0,0,0
+24,we suggest but do not require that you use one or more of the following phrases to refer to this software in your documentation or advertising materials `freetype project `freetype engine `freetype library or `freetype distribution,0,0,0,0,0,0,0,0,0,0,0,0
+25,as you have not signed this license you are not required to accept it,0,0,0,0,0,0,0,0,0,0,0,0
+26,however as the freetype project is copyrighted material only this license or another one contracted with the authors grants you the right to use distribute and modify it,0,1,1,1,0,0,0,0,0,0,0,0
+27,therefore by using distributing or modifying the freetype project you indicate that you understand and accept all the terms of this license,0,0,0,0,0,0,0,0,0,0,0,0
+28,contacts             there are two mailing lists related to freetype o freetype@nongnuorg discusses general use and applications of freetype as well as future and wanted additions to the library and distribution,0,1,0,0,0,0,0,0,0,0,0,0
+29,if you are looking for support start in this list if you havent found anything to help you in the documentation,0,0,0,0,0,0,0,0,0,0,0,0
+30,o freetype devel@nongnuorg discusses bugs as well as engine internals design issues specific licenses porting etc,0,0,0,0,0,0,0,0,0,0,0,0

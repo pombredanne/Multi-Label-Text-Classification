@@ -1,0 +1,65 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,hewlett packard enterprise support center hpe end user license agreement applicability,0,0,0,0,0,0,0,0,0,0,0,1
+2,this end user license agreement the agreement governs the use of accompanying software unless it is subject to a separate agreement between you and hewlett packard enterprise company and its subsidiaries hpe,0,0,0,1,0,0,0,0,1,0,0,0
+3,by downloading copying or using the software you agree to this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+4,hpe provides translations of this agreement in certain languages other than english which may be found at http  wwwhpecom software swlicensing,0,0,0,0,0,0,0,0,0,0,0,0
+5,this agreement includes supporting material accompanying the software or referenced by hpe which may be software license information additional license authorizations software specifications published warranties supplier terms open source software licenses and similar content supporting material,0,0,0,0,0,0,0,0,1,0,0,0
+6,additional license authorizations are at http  wwwhpecom software swlicensing,0,0,0,0,0,0,0,0,0,0,0,0
+7,if you agree to this agreement on behalf of another person or entity you warrant you have authority to do so,0,0,0,0,0,0,0,0,0,0,0,0
+8,if you obtained software as a consumer nothing in this agreement affects your statutory rights,0,0,0,0,0,0,0,0,0,0,0,0
+9,hpe may elect to deliver software and related software product or license information by electronic transmission or download,0,0,0,0,0,0,0,0,0,0,0,0
+10,if you abide by this agreement hpe grants you a non exclusive non transferable license to use one copy of the version or release of the accompanying software for your internal purposes only and is subject to any specific software licensing information that is in the software product or its supporting material,0,0,0,0,0,0,0,0,0,0,0,0
+11,your use is subject to the following restrictions unless specifically allowed in supporting material you may not use software to provide services to third parties,0,0,0,1,0,0,0,0,0,0,0,0
+12,you may not make copies and distribute resell or sublicense software to third parties,0,1,0,0,0,0,0,0,0,0,0,0
+13,you may not download and use patches enhancements bug fixes or similar updates unless you have a license to the underlying software,0,0,0,0,0,0,0,0,0,0,0,0
+14,however such license doesnt automatically give you a right to receive such updates and hpe reserves the right to make such updates only available to customers with support contracts,0,0,0,0,0,0,0,0,0,0,0,0
+15,you may not copy software or make it available on a public or external distributed network,0,0,0,0,0,0,0,0,0,0,0,0
+16,you may not allow access on an intranet unless it is restricted to authorized users,0,0,0,0,0,0,0,0,0,0,0,0
+17,you may make one copy of the software for archival purposes or when it is an essential step in authorized use,1,0,0,0,0,0,0,0,0,0,0,0
+18,you may not modify reverse engineer disassemble decrypt decompile or make derivative works of software,0,1,1,0,0,0,0,0,0,0,0,0
+19,if you have a mandatory right to do so under statute you must inform hpe in writing about such modifications,0,0,0,0,0,0,0,0,0,0,0,0
+20,some software may require keys or other technical protection measures and hpe may monitor your compliance with the agreement remotely or otherwise,0,0,0,0,0,0,0,0,0,0,0,0
+21,if hpe makes a license management program for recording and reporting license usage information you will use such program no later than 180 days from the date its made available,0,0,0,0,0,0,0,0,0,0,0,0
+22,no transfer of ownership of any intellectual property will occur under this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+23,you must reproduce copyright notices on software and documentation for authorized copies,0,0,0,0,0,0,0,1,0,0,0,0
+24,operating system software may only be used on approved hardware and configurations,0,0,0,0,0,0,0,0,0,0,0,0
+25,hpe branded software materially conforms to its specifications if any and is free of malware at the time of delivery if you notify hpe within 90 days of delivery of non conformance to this warranty hpe will replace your copy,0,0,0,0,0,0,0,0,0,0,0,0
+26,hpe does not warrant that the operation of software will be uninterrupted or error free or that software will operate in hardware and software combinations other than as authorized by hpe in supporting material,0,0,0,0,0,0,0,0,0,0,0,1
+27,to the extent permitted by law hpe disclaims all other warranties,0,0,0,0,0,0,0,0,0,0,0,1
+28,hpe will defend and or settle any claims against you that allege that hpe branded software as supplied under this agreement infringes the intellectual property rights of a third party,0,0,0,0,0,0,0,0,0,0,0,0
+29,hpe will rely on your prompt notification of the claim and cooperation with our defense,0,0,0,0,0,0,0,0,0,0,0,0
+30,hpe may modify the software so as to be non infringing and materially equivalent or we may procure a license,0,0,0,0,0,0,0,0,0,0,0,0
+31,if these options are not available we will refund to you the amount paid for the affected product in the first year or the depreciated value thereafter,0,0,0,0,0,0,0,0,0,0,0,0
+32,hpe is not responsible for claims resulting from any unauthorized use of the software,0,0,0,0,0,0,0,0,0,0,1,0
+33,hpes liability to you under this agreement is limited to the amount actually paid by you to hpe for the relevant software except for amounts in section 12 intellectual property rights infringement,0,0,0,0,0,0,0,0,0,0,0,0
+34,neither you nor hpe will be liable for lost revenues or profits downtime costs loss or damage to data or indirect special or consequential costs or damages,0,0,0,0,0,0,0,0,0,0,1,0
+35,this provision does not limit either partys liability for unauthorized use of intellectual property death or bodily injury caused by their negligence acts of fraud willful repudiation of the agreement or any liability that may not be excluded or limited by applicable law,0,0,0,0,0,0,0,0,0,0,1,0
+36,this agreement is effective until terminated or in the case of a limited term license upon expiration however your rights under this agreement terminate if you fail to comply with it,0,0,0,0,0,0,0,0,1,0,0,0
+37,immediately upon termination or expiration you will destroy the software and documentation and any copies or return them to hpe,0,1,0,0,0,0,0,0,0,0,0,0
+38,you may keep one copy of software and documentation for archival purposes,0,0,0,0,0,0,1,1,0,0,0,0
+39,we may ask you to certify in writing you have complied with this section,0,0,0,0,0,0,0,0,0,0,0,0
+40,warranty disclaimers the limitation of liability this section on termination and section 15 general will survive termination,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may not assign this agreement without prior written consent of hpe payment of transfer fees and compliance with hpes software license transfer policies,0,0,0,0,0,0,0,0,0,0,0,0
+42,authorized assignments will terminate your license to the software and you must deliver software and documentation and copies thereof to the assignee,0,0,0,0,0,0,0,0,0,0,0,0
+43,the assignee will agree in writing to this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+44,you may only transfer firmware if you transfer associated hardware,0,0,0,0,0,0,0,0,0,0,0,0
+45,if the software is licensed to you for use in the performance of a us government prime contract or subcontract you agree that consistent with far 12211 and 12212 commercial computer software computer software documentation and technical data for commercial items are licensed under hpes standard commercial license,1,0,0,0,0,0,0,0,0,0,0,0
+46,you agree to comply with the trade related laws and regulations of the us and other national governments,0,0,0,0,0,0,0,0,0,0,1,0
+47,if you export import or otherwise transfer products provided under this agreement you will be responsible for obtaining any required export or import authorizations,0,0,0,0,0,0,0,0,0,0,0,0
+48,you confirm that you are not located in a country that is subject to trade control sanctions currently cuba iran n korea n sudan and syria and further agree that you will not retransfer the products to any such country,0,0,0,0,0,0,0,0,0,0,1,0
+49,hpe may suspend its performance under this agreement to the extent required by laws applicable to either party,0,0,0,0,0,0,0,0,1,0,0,0
+50,hpe may audit you for compliance with the software license terms,0,0,0,0,0,0,0,0,0,0,0,0
+51,upon reasonable notice hpe may conduct an audit during normal business hours with the auditors costs being at hpes expense,0,0,0,0,0,0,0,0,0,0,1,0
+52,if an audit reveals underpayments then you will pay to hpe such underpayments,0,0,0,0,0,0,0,0,0,0,0,0
+53,if underpayments discovered exceed five 5 percent you will reimburse hpe for the auditor costs,0,0,0,0,0,0,0,0,0,0,0,0
+54,to the extent the supporting material includes open source licenses such licenses shall control over this agreement with respect to the particular open source component,0,0,0,0,0,0,0,0,0,0,0,0
+55,to the extent supporting material includes the gnu general public license or the gnu lesser general public license a the software includes a copy of the source code or b if you downloaded the software from a website a copy of the source code is available on the same website or c if you send hpe written notice hpe will send you a copy of the source code for a reasonable fee,0,0,0,0,0,0,1,1,0,0,0,0
+56,written notices under this agreement may be provided to hpe via the method provided in the supporting material,0,0,0,0,0,0,0,0,0,0,0,0
+57,this agreement will be governed by the laws of the state of california usa excluding rules as to choice and conflict of law,0,0,0,0,0,0,0,0,0,0,0,0
+58,you and hpe agree that the united nations convention on contracts for the international sale of goods will not apply,0,0,0,0,0,0,0,0,0,0,1,0
+59,neither party will be liable for performance delays nor for non performance due to causes beyond its reasonable control except for payment obligations,0,0,0,0,0,0,0,0,0,0,1,0
+60,this agreement represents our entire understanding with respect to its subject matter and supersedes any previous communication or agreements that may exist,0,0,0,0,0,0,0,0,0,0,0,0
+61,modifications to the agreement will be made only through a written amendment signed by both parties,0,0,0,0,0,0,0,0,0,0,0,0
+62,if hpe doesnt exercise its rights under this agreement such delay is not a waiver of its rights,0,0,0,0,0,0,0,0,0,0,1,0
+63,if you acquired the software as a consumer within the meaning of the australian consumer law under the australian competition and consumer act 2010 cth then despite any other provision of this agreement the terms at this url apply http  wwwhpecom software swlicensing,0,0,0,0,0,0,0,0,0,0,0,0
+64,if you are based in the russian federation and the rights to use the software are provided to you under a separate license and or sublicense agreement concluded between you and a duly authorized hpe partner then this agreement shall not be applicable,0,0,0,0,0,0,0,0,0,0,0,0

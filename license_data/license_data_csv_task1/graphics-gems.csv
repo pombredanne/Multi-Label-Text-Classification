@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,license this code repository predates the concept of open source and predates most licenses along such lines,0,0,0,0,0,0,0,0,0,0,0,0
+2,as such the official license truly is eula the graphics gems code is copyright protected,0,0,0,0,0,0,0,1,0,0,0,0
+3,in other words you cannot claim the text of the code as your own and resell it,0,0,0,0,0,0,0,0,0,0,0,0
+4,using the code is permitted in any program product or library non commercial or commercial,1,0,0,0,0,0,0,0,0,0,0,0
+5,giving credit is not required though is a nice gesture,0,0,0,0,0,0,0,0,0,0,0,0
+6,the code comes as is and if there are any flaws or problems with any gems code nobody involved with gems   authors editors publishers or webmasters   are to be held responsible,0,0,0,0,0,0,0,0,0,0,0,0

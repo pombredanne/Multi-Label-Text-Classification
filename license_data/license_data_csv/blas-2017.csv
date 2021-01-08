@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the reference blas is a freely available software package,,,,,,,,,,,,
+2,it is available from netlib via anonymous ftp and the world wide web,,,,,,,,,,,,
+3,thus it can be included in commercial software packages and has been,,,,,,,,,,,,
+4,we only ask that proper credit be given to the authors,,,,,,,,,,,,
+5,it is not trademarked but we do ask the following if you modify the source for these routines we ask that you change the name of the routine and comment the changes made to the original,,,,,,,,,,,,
+6,we will gladly answer any questions regarding the software,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,,,,,,,,,,,,
+2,because this is a derivative work you must comply with the {snifferc} terms reproduced above,,,,,,,,,,,,
+3,redistributions of source code must retain the tcpdump group copyright notice at the top of this source file this list of conditions and the following disclaimer,,,,,,,,,,,,
+4,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,,,,,,,,,,,,
+5,the names {tcpdump} or {libpcap} may not be used to endorse or promote products derived from this software without prior written permission,,,,,,,,,,,,
+6,because the program is licensed free of charge there is no warranty for the program to the extent permitted by applicable law,,,,,,,,,,,,
+7,except when otherwise stated in writing the copyright holders and or other parties provide the program as is without warranty of any kind either expressed or implied including but not limited to the implied warranties of merchantability and fitness for a particular purpose,,,,,,,,,,,,
+8,the entire risk as to the quality and performance of the program is with you,,,,,,,,,,,,
+9,should the program prove defective you assume the cost of all necessary servicing repair or correction,,,,,,,,,,,,

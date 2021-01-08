@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,here is an example to make clear the distinction between an application and a library the opera web browser is an application built on top of the qt toolkit,,,,,,,,,,,,
+2,while opera has a finite scope it is a web browser qt is also used in a lot of other applications for instance the kde desktop,,,,,,,,,,,,
+3,qt is a library for developers while opera is a general audience application,,,,,,,,,,,,
+4,license agreement licensee is not allowed to modify or remove any copyright notices from any of the product files,,,,,,,,,,,,
+5,subject to the terms of this agreement dynarchcom grants licensee a non exclusive non transferable license to use the product in any number of applications developed by the licensee as long as the product does not make the main nor major functionality of any of those applications,,,,,,,,,,,,
+6,the licensee may distribute such applications incorporating the product without paying royalty fees to dynarchcom,,,,,,,,,,,,
+7,the product can not be redistributed as part of a software library,,,,,,,,,,,,
+8,only applications having a finite purpose are supported by this license,,,,,,,,,,,,
+9,all rights not specifically granted to licensee herein are retained by dynarchcom,,,,,,,,,,,,
+10,this software is provided by the copyright holders and contributors as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,,,,,,,,,,,,
+11,in no event shall the copyright owner or contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,,,,,,,,,,,,

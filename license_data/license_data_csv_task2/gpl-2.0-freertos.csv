@@ -1,0 +1,32 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,the freertos source code is licensed by a modified gnu general public license   the modification taking the form of an exception,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,the exception permits the source code of applications that use freertos solely through the api published on this website to remain closed source thus permitting the use of freertos in commercial applications without necessitating that the whole application be open sourced,1,0,1,1,0,0,0,0,0,0,0,0,1
+3,the exception can only be used if you wish to combine freertos with a proprietary product and you comply with the terms stated in the exception itself,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,the freertos download also includes demo application source code some of which is provided by third parties and is licensed separately from freertos,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,for the avoidance of any doubt refer to the comment included at the top of each source and header file for license and copyright information,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,this is a list of files for which real time engineers ltd is not the copyright owner and are not covered by the gpl,0,0,0,0,0,0,0,1,0,0,0,0,1
+7,various header files provided by silicon manufacturers and tool vendors that define processor specific memory addresses and utility macros,0,1,0,0,0,0,1,0,0,0,0,0,0
+8,permission has been granted by the various copyright holders for these files to be included in the freertos download,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,users must ensure license conditions are adhered to for any use other than compilation of the freertos demo applications,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,the uip tcp ip stack the copyright of which is held by adam dunkels,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,users must ensure the open source license conditions stated at the top of each uip source file is understood and adhered to,0,0,0,0,0,0,1,0,0,0,0,0,1
+12,the lwip tcp ip stack the copyright of which is held by the swedish institute of computer science,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,users must ensure the open source license conditions stated at the top of each lwip source file is understood and adhered to,0,0,0,0,0,0,1,0,0,0,0,0,1
+14,various peripheral driver source files and binaries provided by silicon manufacturers and tool vendors,0,0,0,0,0,0,1,0,0,0,0,0,1
+15,permission has been granted by the various copyright holders for these files to be included in the freertos download,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,users must ensure license conditions are adhered to for any use other than compilation of the freertos demo applications,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,the files contained within freertos\demo\wiznet_demo_tern_186	ern_code which are slightly modified versions of code provided by and copyright to tern inc,0,1,0,0,0,0,0,0,0,0,0,0,1
+18,errors and omissions should be reported to richard barry contact details for whom can be obtained from the contact page,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,this library is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0,1
+20,this library is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+21,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,you should have received a copy of the gnu general public license along with this library see the file copying,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,if not write to the free software foundation 51 franklin street fifth floor boston ma 02110 1301 usa,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,gnu general public license exception any freertos source code whether modified or in its original release form or whether in whole or in part can only be distributed by you under the terms of the gnu general public license plus this exception,0,1,0,0,0,0,0,0,1,0,0,0,1
+25,an independent module is a module which is not derived from or based on freertos,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,exception text clause 1 linking freertos statically or dynamically with other modules is making a combined work based on freertos,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,thus the terms and conditions of the gnu general public license cover the whole combination,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,as a special exception the copyright holder of freertos gives you permission to link freertos with independent modules that communicate with freertos solely through the freertos api interface regardless of the license terms of these independent modules and to copy and distribute the resulting combined work under terms of your choice provided that 1,0,1,0,0,0,0,0,0,0,0,0,0,1
+29,every copy of the combined work is accompanied by a written statement that details to the recipient the version of freertos used and an offer by yourself to provide the freertos source code including any modifications you may have made should the recipient request it,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,the combined work is not itself an rtos scheduler kernel or related product,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,the independent modules add significant and primary functionality to freertos and do not merely extend the existing functionality already present in freertos,0,0,0,0,0,0,0,0,0,0,0,0,1

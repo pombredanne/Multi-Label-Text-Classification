@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,copyright 1993 geoff kuenning granada hills ca all rights reserved,0,0,0,0,0,0,0,0,0,0,0,1
+2,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+3,redistributions of source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0
+4,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0
+5,all modifications to the source code must be clearly marked as such,0,0,0,0,0,0,0,0,0,1,0,0
+6,binary redistributions based on modified source code must be clearly marked as modified versions in the documentation and or other materials provided with the distribution,0,0,0,0,0,0,0,0,0,0,0,0
+7,all advertising materials mentioning features or use of this software must display the following acknowledgment this product includes software developed by geoff kuenning and other unpaid contributors,0,0,0,0,0,0,0,0,0,0,0,0
+8,the name of geoff kuenning may not be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0
+9,this software is provided by geoff kuenning and contributors ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

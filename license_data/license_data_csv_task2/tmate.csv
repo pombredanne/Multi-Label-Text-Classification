@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this license applies to all portions of tmate svnkit library which are not externally maintained libraries eg,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,all the source code and compiled classes in package orgtigrissubversionjavahl except svnclient class are covered by the license in javahl license file copyright c 2004 2009 tmate software,0,1,0,0,0,0,0,1,0,0,0,0,1
+3,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met redistributions of source code must retain the above copyright notice this list of conditions and the following disclaimer,0,1,1,1,0,0,0,1,0,0,0,0,1
+4,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0,1
+5,redistributions in any form must be accompanied by information on how to obtain complete source code for the software that uses svnkit and any accompanying software that uses the software that uses svnkit,0,0,0,0,0,0,1,0,0,0,0,0,1
+6,the source code must either be included in the distribution or be available for no more than the cost of distribution plus a nominal fee and must be freely redistributable under reasonable conditions,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,for an executable file complete source code means the source code for all modules it contains,0,0,0,0,0,0,1,0,0,0,0,0,1
+8,it does not include source code for modules or files that typically accompany the major components of the operating system on which the executable file runs,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,redistribution in any form without redistributing source code for software that uses svnkit is possible only when such redistribution is explictly permitted by tmate software,1,1,0,1,0,0,0,0,0,0,0,0,1
+10,please contact tmate software at support@svnkitcom to get such permission,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,this software is provided by tmate software ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability fitness for a particular purpose or non infringement are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0

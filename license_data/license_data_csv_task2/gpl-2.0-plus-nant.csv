@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this program is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 of the license or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0,1
+2,this program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you should have received a copy of the gnu general public license along with this program if not write to the free software foundation inc 59 temple place suite 330 boston ma 02111 1307 usa in addition as a special exception gerry shaw gives permission to link the code of this program with the microsoft net library or with modified versions of microsoft net library that use the same license as the microsoft net library and distribute linked combinations including the two,0,1,1,0,0,0,0,0,0,0,0,0,1
+5,you must obey the gnu general public license in all respects for all of the code used other than the microsoft net library,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,if you modify this file you may extend this exception to your version of the file but you are not obligated to do so,0,1,1,0,0,0,0,0,0,0,0,0,1
+7,if you do not wish to do so delete this exception statement from your version,0,0,0,0,0,0,0,0,0,1,0,0,1
+8,a copy of the gnu general public license is available in the copyingtxt file included with all nant distributions,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,for more licensing information refer to the gnu general public license on the gnu project web site,0,0,0,0,0,0,1,0,0,0,0,0,1

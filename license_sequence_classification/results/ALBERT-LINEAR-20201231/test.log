@@ -1,0 +1,17 @@
+current config:
+ device:cuda
+gpu:0
+train_file:/data/home/duanxu/license-detection/code/license_sequence_classification/data/Task2.train.csv
+test_file:/data/home/duanxu/license-detection/code/license_sequence_classification/data/Task2.test.csv
+model_save_path:/data/home/duanxu/license-detection/code/license_sequence_classification/saved_models
+load_path:saved_models/ALBERT-LINEAR-20201231/
+ckpt_name:None
+bert_model:albert
+batch_size:16
+lr:5e-05
+epoch_num:300
+random_seed:338
+test text num:  115
+load model saved_models/ALBERT-LINEAR-20201231/2020-12-31#10:20:03--epoch:4 successfully
+loss: 0.011583904972623871| overall accuracy: 0.9565217391304348
+precision: 0.9393939393939394| recall: 0.9841269841269841| f1: 0.9612403100775193

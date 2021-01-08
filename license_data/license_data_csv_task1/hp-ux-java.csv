@@ -1,0 +1,56 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,hp ux runtime environment for the javatm 2 platform attention use of the software is subject to the hp software license terms and supplemental restrictions set forth below third party software license terms found in the thirdpartylicensereadmetxt file and the warranty disclaimer attached,0,0,0,0,0,0,0,0,0,0,0,0
+2,if you do not accept these terms fully you may not install or otherwise use the software,0,0,0,0,0,0,0,0,0,0,0,0
+3,notwithstanding anything to the contrary in this notice installing or otherwise using the software indicates your acceptance of these license terms,0,0,0,0,0,0,0,0,0,0,0,0
+4,hp software license terms the following terms govern your use of the software unless you have a separate written agreement with hp,0,0,0,0,0,0,0,0,0,0,0,0
+5,hp has the right to change these terms and conditions at any time with or without notice,0,0,0,0,0,0,0,0,0,0,0,0
+6,license grant hp grants you a license to use one copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+7,use means storing loading installing executing or displaying the software,0,0,0,0,0,0,0,0,0,0,0,1
+8,you may not modify the software or disable any licensing or control features of the software,0,0,1,0,0,0,0,0,0,0,0,0
+9,if the software is licensed for concurrent use you may not allow more than the maximum number of authorized users to use the software concurrently,0,0,0,0,0,0,0,0,0,0,0,0
+10,ownership the software is owned and copyrighted by hp or its third party suppliers,0,1,0,0,0,0,0,0,0,0,0,1
+11,your license confers no title or ownership in the software and is not a sale of any rights in the software,1,0,0,0,0,0,0,0,0,0,0,0
+12,hps third party suppliers may protect their rights in the event of any violation of these license terms,0,0,0,0,0,0,0,0,0,0,1,0
+13,third party code some third party code embedded or bundled with the software is licensed to you under different terms and conditions as set forth in the thirdpartylicensereadmetxt file,0,0,0,0,0,0,0,0,1,0,0,0
+14,in addition to any terms and conditions of any third party license identified in the thirdpartylicensereadmetxt file the disclaimer of warranty and limitation of liability provisions in this license shall apply to all code distributed as part of or bundled with the software,0,0,0,0,0,0,0,0,0,0,0,0
+15,source code software may contain source code that unless expressly licensed for other purposes is provided solely for reference purposes pursuant to the terms of this license,1,0,0,1,0,0,0,0,0,0,0,0
+16,source code may not be redistributed unless expressly provided for in these license terms,0,0,0,0,0,0,0,0,0,0,0,0
+17,copies and adaptations you may only make copies or adaptations of the software for archival purposes or when copying or adaptation is an essential step in the authorized use of the software,1,0,0,0,0,0,0,0,0,0,0,0
+18,you must reproduce all copyright notices in the original software on all copies or adaptations,0,0,0,0,0,0,0,1,0,0,0,0
+19,you may not copy the software onto any bulletin board or similar system,0,0,0,0,0,0,0,0,0,0,0,0
+20,no disassembly or decryption you may not disassemble or decompile the software unless hps prior written consent is obtained,0,0,0,0,0,0,0,0,0,0,0,0
+21,in some jurisdictions hps consent may not be required for disassembly or decompilation,0,0,0,0,0,0,0,0,0,0,0,0
+22,upon request you will provide hp with reasonably detailed information regarding any disassembly or decompilation,0,0,0,0,0,0,0,0,0,0,0,0
+23,you may not decrypt the software unless decryption is a necessary part of the operation of the software,0,0,0,0,0,0,0,0,0,0,0,0
+24,transfer your license will automatically terminate upon any transfer of the software,0,0,0,0,0,0,0,0,0,0,0,0
+25,upon transfer you must deliver the software including any copies and related documentation to the transferee,0,0,0,0,0,0,0,0,0,0,0,0
+26,the transferee must accept these license terms as a condition to the transfer,0,0,0,0,0,0,0,0,0,0,0,0
+27,termination hp may terminate your license upon notice for failure to comply with any of these license terms,0,0,0,0,0,0,0,0,1,0,0,0
+28,upon termination you must immediately destroy the software together with all copies adaptations and merged portions in any form,0,0,0,0,0,0,0,0,0,0,0,0
+29,export requirements you may not export or re export the software or any copy or adaptation in violation of any applicable laws or regulations,0,0,0,0,0,0,0,0,0,0,0,0
+30,this software or any copy or adaptation may not be exported reexported or transferred to or within countries under us economic embargo including the following countries afghanistan taliban controlled areas cuba iran iraq libya north korea serbia sudan and syria,0,0,0,0,0,0,0,0,0,0,0,0
+31,this software or any copy or adaptation may not be exported reexported or transferred to persons or entities listed on the us department of commerce denied parties list or on any us treasury department designated nationals exclusion list or to any party directly or indirectly involved in the development or production of nuclear chemical biological weapons or related missile technology programs as specified in the us,0,0,0,0,0,0,0,0,0,0,0,0
+32,us government contracts if the software is licensed for use in the performance of a us government prime contract or subcontract you agree that consistent with far 12211 and 12212 commercial computer software computer software documentation and technical data for commercial items are licensed under hps standard commercial license,1,0,0,0,0,0,0,0,0,0,0,0
+33,supplemental restrictions you acknowledge the software is not designed or intended for use in on line control of aircraft air traffic aircraft navigation or aircraft communications or in the design construction operation or maintenance of any nuclear facility,1,0,0,0,0,0,0,0,1,0,0,0
+34,hp disclaims any express or implied warranty of fitness for such uses,0,0,0,0,0,0,0,0,0,0,0,1
+35,additional supplemental restrictions for hp ux runtime environment for the javatm 2 platform license to distribute hp ux runtime environment for the javatm 2 platform,0,0,0,0,0,0,0,0,0,0,0,0
+36,you are granted a royalty free right to reproduce and distribute the hp ux runtime environment for java provided that you distribute the hp ux runtime environment for the java 2 platform complete and unmodified only as a part of and for the sole purpose of running your java compatible applet or application program into which the hp ux runtime environment for the java 2 platform is incorporated,0,0,1,0,0,0,1,0,0,0,0,0
+37,licensee may not modify the java platform interface jpi identified as classes contained within the java package or any subpackages of the java package by creating additional classes within the jpi or otherwise causing the addition to or modification of the classes in the jpi,0,0,1,0,0,0,0,0,0,0,0,0
+38,in the event that licensee creates any java related api and distributes such api to others for applet or application development licensee must promptly publish broadly an accurate specification for such api for free use by all developers of java based software,0,0,0,0,0,0,0,0,0,0,0,0
+39,you may make the hp ux runtime environment for the java 2 platform accessible to application programs developed by you provided that the programs allow such access only through the invocation interface specified and provided that you shall not expose or document other interfaces that permit access to such hp ux runtime environment for the java 2 platform,0,0,0,0,0,0,0,0,0,0,0,0
+40,you shall not be restricted hereunder from exposing or documenting interfaces to software components that use or access the hp ux runtime environment for the java 2 platform,0,0,0,0,0,0,0,0,0,0,0,0
+41,hp warranty statement duration of limited warranty 90 days hp warrants to you the end customer that hp hardware accessories and supplies will be free from defects in materials and workmanship after the date of purchase for the period specified above,0,0,0,0,0,0,0,0,0,0,0,1
+42,if hp receives notice of such defects during the warranty period hp will at its option either repair or replace products which prove to be defective,0,0,0,0,0,0,0,0,0,0,0,1
+43,replacement products may be either new or equivalent in performance to new,0,0,0,0,0,0,0,0,0,0,0,0
+44,hp warrants to you that hp software will not fail to execute its programming instructions after the date of purchase for the period specified above due to defects in materials and workmanship when properly installed and used,0,0,0,0,0,0,0,0,0,0,0,0
+45,if hp receives notice of such defects during the warranty period hp will replace software which does not execute its programming instructions due to such defects,0,0,0,0,0,0,0,0,0,0,0,1
+46,hp does not warrant that the operation of hp products will be uninterrupted or error free,0,0,0,0,0,0,0,0,0,0,0,1
+47,if hp is unable within a reasonable time to repair or replace any product to a condition warranted you will be entitled to a refund of the purchase price upon prompt return of the product,0,0,0,0,0,0,0,0,0,0,0,0
+48,alternatively in the case of hp software you will be entitled to a refund of the purchase price upon prompt delivery to hp of written notice from you confirming destruction of the hp software together with all copies adaptations and merged portions in any form,0,0,0,0,0,0,0,0,0,0,0,0
+49,hp products may contain remanufactured parts equivalent to new in performance or may have been subject to incidental use,0,0,0,0,0,0,0,0,0,0,0,0
+50,warranty does not apply to defects resulting from a improper or inadequate maintenance or calibration b software interfacing parts or supplies not supplied by hp c unauthorized modification or misuse d operation outside of the published environmental specifications for the product e improper site preparation or maintenance or f the presence of code from hp suppliers embedded in or bundled with any hp product,0,0,0,0,0,0,0,0,0,0,0,0
+51,to the extent allowed by local law the above warranties are exclusive and no other warranty or condition whether written or oral is expressed or implied and hp specifically disclaims any implied warranties or conditions of merchantability satisfactory quality and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+52,some countries states or provinces do not allow limitations on the duration of an implied warranty so the above limitation or exclusion may not apply to you,0,0,0,0,0,0,0,0,0,0,0,1
+53,this warranty gives you specific legal rights and you might also have other rights that vary from country to country state to state or province to province,0,0,0,0,0,0,0,0,0,0,0,0
+54,to the extent allowed by local law the remedies in this warranty statement are your sole and exclusive remedies,0,0,0,0,0,0,0,0,0,0,0,1
+55,except as indicated above in no event will hp or its suppliers be liable for loss of data or for direct special incidental consequential including lost profit or data or other damage whether based in contract tort or otherwise,0,0,0,0,0,0,0,0,0,0,1,0

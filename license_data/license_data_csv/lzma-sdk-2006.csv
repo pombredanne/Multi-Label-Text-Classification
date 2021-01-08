@@ -1,0 +1,3 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,lzma sdk 440 copyright c 1999 2006 igor pavlov 2006 05 01 http  www7 ziporg  lzma sdk is licensed under two licenses 1 gnu lesser general public license gnu lgpl 2 common public license cpl it means that you can select one of these two licenses and follow rules of that license,,,,,,,,,,,,
+2,special exception igor pavlov as the author of this code expressly permits you to statically or dynamically link your code or bind by name to the interfaces of this file without subjecting your linked code to the terms of the cpl or gnu lgpl,,,,,,,,,,,,

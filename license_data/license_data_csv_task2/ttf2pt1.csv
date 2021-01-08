@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,ttf2pt1 project license the following copyright notice applies to all the files provided in this distribution unless explicitly noted otherwise the most notable exception being t1asmc,0,0,0,0,0,0,0,1,0,0,0,0,1
+2,copyright c 1997 2002 by the authors andrew weeks <ccsaw@bathacuk> frank m siegert <fms@thisnet> mark heath <mheath@netspacenetau> thomas henlich <thenlich@rcsurztu dresdende> sergey babkin <babkin@userssourceforgenet> <sab123@hotmailcom> turgut uyar <uyar@csituedutr> rihardas hepas <rch@writemecom> szalay tamas <tomek@elenderhu> johan vromans <jvromans@squirrelnl> petr titera <ptitera@shcvutcz> lei wang <lwang@amath8amtaccn> chen xiangyang <chenxy@sunihepaccn> zvezdan petkovic <zpetkovic@computerorg> rigel <rigel863@yahoocom> all rights reserved,0,1,0,0,0,0,0,0,0,0,0,1,1
+3,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0,1
+4,redistributions of source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0,1
+5,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0,1
+6,all advertising materials mentioning features or use of this software must display the following acknowledgement this product includes software developed by the ttf2pt1 project and its contributors,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,this software is provided by the authors and contributors ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,in no event shall the authors or contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,for the approximate list of the authors responsibilities see the project history,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,other contributions to the project are turgut uyar <uyar@csituedutr> the unicode translation table for the turkish language,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,rihardas hepas <rch@writemecom> the unicode translation table for the baltic languages,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,szalay tamas <tomek@elenderhu> the unicode translation table for the central european languages,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,johan vromans <jvromans@squirrelnl> the rpm file,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,petr titera <ptitera@shcvutcz> the unicode map format with names the forced unicode option,0,0,0,1,0,0,0,0,0,0,0,0,1
+15,frank m siegert <frank@thisnet> port to windows lei wang <lwang@amath8amtaccn> chen xiangyang <chenxy@sunihepaccn> translation maps for chinese fonts,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,zvezdan petkovic <zpetkovic@computerorg> the unicode translation tables for the cyrillic alphabet,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,rigel <rigel863@yahoocom> generation of the dvips encoding files modification to the chinese maps,0,0,0,0,0,0,0,0,0,1,0,0,1
+18,i lee hetherington <ilh@lcsmitedu> the type1 assembler from the package t1utils its full copyright notice copyright c 1992 by i lee hetherington all rights reserved,0,0,0,0,0,0,0,1,0,0,0,0,1

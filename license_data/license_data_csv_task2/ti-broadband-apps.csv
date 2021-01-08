@@ -1,0 +1,27 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,license   texas instruments hereinafter ti grants you a license to use the software program and documentation in this package licensed materials for texas instruments broadband products,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,restrictions   you may not reverse assemble or reverse compile the licensed materials provided in object code or executable format,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,you may not sublicense transfer assign rent or lease the licensed materials or this agreement without written permission from ti,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,accordingly you may either make one copy of the licensed materials for backup and or archival purposes or copy the licensed materials to another medium and keep the original licensed materials for backup and or archival purposes,1,0,0,0,0,0,0,0,0,0,0,0,1
+5,runtime and applications software   you may create modified or derivative programs of software identified as runtime libraries or applications software which in source code form remain subject to this agreement but object code versions of such derivative programs are not subject to this agreement,0,1,1,1,0,0,0,0,0,0,0,0,1
+6,warranty   ti warrants the media to be free from defects in material and workmanship and that the software will substantially conform to the related documentation for a period of ninety 90 days after the date of your purchase,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,ti does not warrant that the licensed materials will be free from error or will meet your specific requirements,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,remedies   if you find defects in the media or that the software does not conform to the enclosed documentation you may return the licensed materials along with the purchase receipt postage prepaid to the following address within the warranty period and receive a refund,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,texas instruments application specific products ms 8650 c o adam2 application manager 12500 ti boulevard dallas tx 75243   usa 7,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,limitations   ti makes no warranty or condition either expressed or implied including but not limited to any implied warranties of merchantability and fitness for a particular purpose regarding the licensed materials,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,neither ti nor any applicable licensor will be liable for any indirect incidental or consequential damages including but not limited to loss of profits,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,you may terminate it at any other time by destroying the program together with all copies modifications and merged portions in any form,0,0,1,0,0,0,0,0,1,0,0,0,1
+13,it also will terminate if you fail to comply with any term or condition of this agreement,0,0,0,0,0,0,0,0,1,0,1,0,1
+14,export control   the re export of united states origin software and documentation is subject to the us,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,important notice texas instruments ti reserves the right to make changes to or to discontinue any semiconductor product or service identified in this publication without notice,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,ti advises its customers to obtain the latest version of the relevant information to verify before placing orders that the information being relied upon is current,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,ti warrants performance of its semiconductor products and related software to current specifications in accordance with tis standard warranty,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,testing and other quality control techniques are utilized to the extent ti deems necessary to support this warranty,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,unless mandated by government requirements specific testing of all parameters of each device is not necessarily performed,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,please be aware that texas instruments products are not intended for use in life support appliances devices or systems,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,use of a ti product in such applications without the written approval of the appropriate ti officer is prohibited,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,certain applications using semiconductor devices may involve potential risks of injury property damage or loss of life,0,0,0,0,0,0,0,0,0,0,1,0,0
+23,in order to minimize these risks adequate design and operating safeguards should be provided by the customer to minimize inherent or procedural hazards,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,inclusion of ti products in such applications is understood to be fully at the risk of the customer using ti devices or systems,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,ti assumes no liability for ti applications assistance customer product design software performance or infringement of patents or services described herein,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,nor does ti warrant or represent that license either expressed or implied is granted under any patent right copyright mask work right or other intellectual property right of ti covering or relating to any combination machine or process in which such semiconductor products or services might be or are used,0,0,0,0,0,0,0,0,0,0,0,0,0

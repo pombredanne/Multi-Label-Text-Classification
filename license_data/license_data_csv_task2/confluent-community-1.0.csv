@@ -1,0 +1,36 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this confluent community license agreement version 10 the ÃÂ¢ÃÂÃÂagreementÃÂ¢ÃÂÃÂ sets forth the terms on which confluent inc ÃÂ¢ÃÂÃÂconfluentÃÂ¢ÃÂÃÂ makes available certain software made available by confluent under this agreement the ÃÂ¢ÃÂÃÂsoftwareÃÂ¢ÃÂÃÂ,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,by installing downloading accessing using or distributing any of the software you agree to the terms and conditions of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,if you do not agree to such terms and conditions you must not use the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,if you are receiving the software on behalf of a legal entity you represent and warrant that you have the actual authority to agree to the terms and conditions of this agreement on behalf of such entity,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,ÃÂ¢ÃÂÃÂlicenseeÃÂ¢ÃÂÃÂ means you an individual or the entity on whose behalf you are receiving the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,subject to the terms and conditions of this agreement confluent hereby grants to licensee a non exclusive royalty free worldwide non transferable non sublicenseable license during the term of this agreement to a use the software b prepare modifications and derivative works of the software c distribute the software including without limitation in source code or object code form and d reproduce copies of the software the ÃÂ¢ÃÂÃÂlicenseÃÂ¢ÃÂÃÂ,0,1,1,1,0,0,0,0,0,0,0,0,1
+7,licensee is not granted the right to and licensee shall not exercise the license for an excluded purpose,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,for purposes of this agreement ÃÂ¢ÃÂÃÂexcluded purposeÃÂ¢ÃÂÃÂ means making available any software as a service platform as a service infrastructure as a service or other similar online service that competes with confluent products or services that provide the software,0,0,0,0,0,0,0,0,0,0,0,1,1
+9,in consideration of the license licenseeÃÂ¢ÃÂÃÂs distribution of the software is subject to the following conditions a licensee must cause any software modified by licensee to carry prominent notices stating that licensee modified the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,on each software copy licensee shall reproduce and not remove or alter all confluent or third party copyright or other proprietary notices contained in the software and licensee must provide the notice below with each copy,0,1,0,0,0,0,0,1,0,0,0,0,1
+11,ÃÂ¢ÃÂÃÂthis software is made available by confluent inc under the terms of the confluent community license agreement version 10 located at http  wwwconfluentio confluent community license,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,by installing downloading accessing using or distributing any of the software you agree to the terms of such license agreementÃÂ¢ÃÂÃÂ 13 licensee modifications,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,licensee may add its own copyright notices to modifications made by licensee and may provide additional or different license terms and conditions for use reproduction or distribution of licenseeÃÂ¢ÃÂÃÂs modifications,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,while redistributing the software or modifications thereof licensee may choose to offer for a fee or free of charge support warranty indemnity or other obligations,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,licensee and not confluent will be responsible for any such obligations,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,the license does not include the right to sublicense the software however each recipient to which licensee provides the software may exercise the licenses so long as such recipient agrees to the terms and conditions of this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,this agreement will continue unless and until earlier terminated as set forth herein,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,if licensee breaches any of its conditions or obligations under this agreement this agreement will terminate automatically and the license will terminate automatically and permanently,0,0,0,0,0,0,0,0,1,0,1,1,1
+19,as between the parties confluent will retain all right title and interest in the software and all intellectual property rights therein,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,confluent hereby reserves all rights not expressly granted to licensee in this agreement,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,confluent hereby reserves all rights in its trademarks and service marks and no licenses therein are granted in this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,confluent hereby disclaims any and all warranties and conditions express implied statutory or otherwise and specifically disclaims any warranty of merchantability or fitness for a particular purpose with respect to the software,0,0,0,0,0,0,0,0,0,0,0,1,0
+23,confluent will not be liable for any damages of any kind including but not limited to lost profits or any consequential special incidental indirect or direct damages however caused and on any theory of liability arising out of this agreement,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,the foregoing shall apply to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,this agreement will be governed by and interpreted in accordance with the laws of the state of california without reference to its conflict of laws principles,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,if licensee is located within the united states all disputes arising out of this agreement are subject to the exclusive jurisdiction of courts located in santa clara county california,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,if licensee is located outside of the united states any dispute controversy or claim arising out of or relating to this agreement will be referred to and finally determined by arbitration in accordance with the jams international arbitration rules,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,the place of arbitration will be palo alto california,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,the language to be used in the arbitral proceedings will be english,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof,0,0,0,0,0,0,0,0,0,0,1,0,0
+31,licensee is not authorized to assign its rights under this agreement to any third party,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,confluent may freely assign its rights under this agreement to any third party,0,1,0,0,0,0,0,0,0,0,0,0,1
+33,this agreement is the entire agreement between the parties regarding the subject matter hereof,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,no amendment or modification of this agreement will be valid or binding upon the parties unless made in writing and signed by the duly authorized representatives of both parties,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,in the event that any provision including without limitation any condition of this agreement is held to be unenforceable this agreement and all licenses and rights granted hereunder will immediately terminate,0,0,0,0,0,0,0,0,0,0,0,0,0

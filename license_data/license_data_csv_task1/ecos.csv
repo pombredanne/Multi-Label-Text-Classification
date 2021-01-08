@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this file is part of ecos the embedded configurable operating system,0,0,0,0,0,0,0,0,0,0,0,0
+2,ecos is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 or at your option any later version,0,1,1,0,0,0,0,0,0,0,0,0
+3,ecos is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+4,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0
+5,you should have received a copy of the gnu general public license along with ecos if not write to the free software foundation inc 59 temple place suite 330 boston ma 02111 1307 usa,0,0,0,0,0,0,0,0,0,0,0,0
+6,as a special exception if other files instantiate templates or use macros or inline functions from this file or you compile this file and link it with other works to produce a work based on this file this file does not by itself cause the resulting work to be covered by the gnu general public license,0,1,1,0,0,0,0,0,0,0,0,0
+7,however the source code for this file must still be made available in accordance with section 3 of the gnu general public license,0,0,0,0,0,0,0,0,0,0,0,0

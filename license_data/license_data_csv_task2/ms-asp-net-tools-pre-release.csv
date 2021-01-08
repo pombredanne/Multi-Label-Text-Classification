@@ -1,0 +1,48 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,microsoft pre release software license terms microsoft aspnet tools these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,1,0,0,0,0
+2,they apply to the pre release software named above which includes the media on which you received it if any,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,the terms also apply to any microsoft ÃÂ¢ÃÂ· updates ÃÂ¢ÃÂ· supplements ÃÂ¢ÃÂ· internet based services and ÃÂ¢ÃÂ· support services for this software unless other terms accompany those items,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,if you do not accept them do not use the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,as described below using some features also operates as your consent to the transmission of certain standard computer information for internet based services,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,ÃÂ¢ÃÂ· you may install and use any number of copies of the software on your premises to design develop and test your aspnet programs,1,0,0,0,0,0,0,0,0,0,0,0,1
+8,because the software is a pre release version and may not work correctly provided that you take adequate precautionary measures to back up and protect any data that may be affected by use of the software you may deploy your programs to a hosting provider for production validation at your sole discretion and risk on the following conditions o you agree to assume all risk associated with use of the software o you may not make any representation warranty or promise on behalf of microsoft or with respect to the software or its performance and o you may not use the software for hazardous environments that require fail safe controls,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,you may copy and distribute the object code form of code and files listed in the packages at http  gomicrosoftcom fwlink ?linkid296594 as part of your aspnet programs deployed to a hosting provider if you comply with the terms below,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,for any distributable code you distribute you must ÃÂ¢ÃÂ· use the distributable code in your programs and not as a standalone distribution ÃÂ¢ÃÂ· require distributors and your external users to agree to terms that protect it at least as much as this agreement and ÃÂ¢ÃÂ· indemnify defend and hold harmless microsoft from any claims including attorneys fees related to the distribution of your programs,0,1,0,0,0,0,0,0,0,0,0,0,1
+11,you may not ÃÂ¢ÃÂ· alter any copyright trademark or patent notice in the distributable code ÃÂ¢ÃÂ· use microsoftÃÂ¢ÃÂÃÂs trademarks in your programsÃÂ¢ÃÂÃÂ names or in a way that suggests your programs come from or are endorsed by microsoft ÃÂ¢ÃÂ· distribute distributable code to run on a platform other than the windows platform ÃÂ¢ÃÂ· include distributable code in malicious deceptive or unlawful programs or ÃÂ¢ÃÂ· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0,1
+12,an excluded license is one that requires as a condition of use modification or distribution that ÃÂ¢ÃÂ· the code be disclosed or distributed in source code form or ÃÂ¢ÃÂ· others have the right to modify it,0,1,0,0,0,0,0,0,0,0,0,0,1
+13,when commercially available you must acquire and use the final release version of the software in order to develop and distribute versions of your programs that work with the final commercial release of the software,1,1,0,0,0,0,0,0,0,0,0,0,1
+14,the software may include third party programs that microsoft not the third party licenses to you under this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,notices if any for the third party program are included for your information only,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,you agree to indemnify hold harmless and defend microsoft from and against any claims allegations lawsuits losses and costs including attorney fees that arise or result from the use deployment or distribution of your programs that use the software,0,1,0,0,0,0,0,0,0,0,1,0,0
+17,the software including the package manager feature of the software may include third party code that microsoft not the third party licenses to you under this agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,notices if any for the third party code are included for your information only,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,the term of this agreement is until 30 06 2014 day month year or within 90 days of commercial release of the software whichever is first,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,it may not work the way a final version of the software will,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,we may change it for the final commercial version,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,if you give feedback about the software to microsoft you give to microsoft without charge the right to use share and commercialize your feedback in any way and for any purpose,0,0,1,0,0,0,0,0,0,0,0,0,1
+23,you also give to third parties without charge any patent rights needed for their products technologies and services to use or interface with any specific parts of a microsoft software or service that includes the feedback,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,you will not give feedback that is subject to a license that requires microsoft to license its software or documentation to third parties because we include your feedback in them,0,0,0,0,0,0,0,0,1,0,0,0,1
+25,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,you may not ÃÂ¢ÃÂ· disclose the results of any benchmark tests of the software to any third party without microsoftÃÂ¢ÃÂÃÂs prior written approval ÃÂ¢ÃÂ· work around any technical limitations in the software ÃÂ¢ÃÂ· reverse engineer decompile or disassemble the software except and only to the extent that applicable law expressly permits despite this limitation ÃÂ¢ÃÂ· publish the software for others to copy ÃÂ¢ÃÂ· rent lease or lend the software or ÃÂ¢ÃÂ· transfer the software or this agreement to any third party,0,1,1,0,0,0,0,0,0,0,0,0,1
+29,any person that has valid access to your computer or internal network may copy and use the documentation for your internal reference purposes,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,the software is subject to united states export laws and regulations,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,you must comply with all domestic and international export laws and regulations that apply to the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,these laws include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,because this software is as is we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,if you acquired the software in the united states washington state law governs the interpretation of this agreement and applies to claims for breach of it regardless of conflict of laws principles,0,0,0,0,0,0,0,0,0,0,1,0,0
+36,the laws of the state where you live govern all other claims including claims under state consumer protection laws unfair competition laws and in tort,0,0,0,0,0,0,0,0,0,0,1,0,0
+37,if you acquired the software in any other country the laws of that country apply,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,you may have other rights under the laws of your country,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,you may also have rights with respect to the party from whom you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,this agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,you may have additional consumer rights or statutory guarantees under your local laws which this agreement cannot change,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,for australia ÃÂ¢ÃÂÃÂ you have statutory guarantees under the australian consumer law and nothing in these terms is intended to affect those rights,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0,0
+45,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,this limitation applies to ÃÂ¢ÃÂ· anything related to the software services content including code on third party internet sites or third party programs and ÃÂ¢ÃÂ· claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1,0
+47,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0,0

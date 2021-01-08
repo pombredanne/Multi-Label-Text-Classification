@@ -1,0 +1,65 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,microsoft software license terms microsoft net library these license terms are an agreement between microsoft corporation or based on where you live one of its affiliates and you,0,0,0,0,0,0,0,0,0,0,0,0
+2,the terms also apply to any microsoft services or updates for the software except to the extent those have different terms,0,0,0,0,0,0,0,0,0,0,0,0
+3,if you comply with these license terms you have the rights below,0,0,0,0,0,0,0,0,0,0,0,0
+4,you may install and use any number of copies of the software to design develop and test youre applications,0,0,0,0,0,0,0,0,0,0,0,0
+5,you may modify copy distribute or deploy any js files contained in the software as part of your applications,0,1,1,0,0,0,0,0,0,0,0,0
+6,the software may include third party components with separate legal notices or governed by other agreements as may be described in the thirdpartynotices files accompanying the software,0,0,0,0,0,0,0,0,0,0,0,0
+7,in addition to the js files described above the software is comprised of distributable code,0,0,0,0,0,0,0,0,0,0,0,0
+8,Ã¢ÂÂdistributable codeÃ¢ÂÂ is code that you are permitted to distribute in programs you develop if you comply with the terms below,0,0,0,0,0,0,0,0,0,0,0,0
+9,Ã¢Â· you may copy and distribute the object code form of the software,0,1,0,0,0,0,0,0,0,0,0,0
+10,you may permit distributors of your programs to copy and distribute the distributable code as part of those programs,0,1,0,0,0,0,0,0,0,0,0,0
+11,for any distributable code you distribute you must Ã¢Â· use the distributable code in your programs and not as a standalone distribution Ã¢Â· require distributors and external end users to agree to terms that protect it at least as much as this agreement Ã¢Â· display your valid copyright notice on your programs and Ã¢Â· indemnify defend and hold harmless microsoft from any claims including attorneys fees related to the distribution or use of your applications except to the extent that any claim is based solely on the distributable code,0,1,0,0,0,0,0,0,0,0,0,0
+12,you may not Ã¢Â· alter any copyright trademark or patent notice in the distributable code Ã¢Â· use microsofts trademarks in your programs names or in a way that suggests your programs come from or are endorsed by microsoft Ã¢Â· include distributable code in malicious deceptive or unlawful programs or Ã¢Â· modify or distribute the source code of any distributable code so that any part of it becomes subject to an excluded license,0,1,1,0,0,0,0,0,0,0,0,0
+13,an excluded license is one that requires as a condition of use modification or distribution that Ã¢Â· the code be disclosed or distributed in source code form or Ã¢Â· others have the right to modify it,0,1,0,0,0,0,0,0,0,0,0,0
+14,the software may collect information about you and your use of the software and send that to microsoft,0,0,0,0,0,0,0,0,0,0,0,0
+15,microsoft may use this information to provide services and improve our products and services,0,0,0,0,1,0,0,0,0,0,0,0
+16,you may opt out of many of these scenarios but not all as described in the product documentation,0,0,0,0,0,0,0,0,0,0,0,0
+17,there are also some features in the software that may enable you and microsoft to collect data from users of your applications,0,1,0,0,0,0,0,0,0,0,0,0
+18,if you use these features you must comply with applicable law including providing appropriate notices to users of your applications together with a copy of microsofts privacy statement,0,0,0,0,0,0,0,0,0,0,0,0
+19,our privacy statement is located at https  gomicrosoftcom fwlink ?linkid824704,0,0,0,0,0,0,0,0,0,0,0,0
+20,you can learn more about data collection and use in the help documentation and our privacy statement,0,0,0,0,0,0,0,0,0,0,0,0
+21,your use of the software operates as your consent to these practices,0,0,0,0,0,0,0,0,0,0,0,0
+22,to the extent microsoft is a processor or subprocessor of personal data in connection with the software microsoft makes the commitments in the european union general data protection regulation terms of the online services terms to all customers effective may 25 2018 at http  gomicrosoftcom ?linkid9840733,0,0,0,0,0,0,0,0,0,0,0,0
+23,this agreement only gives you some rights to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+24,unless applicable law gives you more rights despite this limitation you may use the software only as expressly permitted in this agreement,0,0,0,0,0,0,0,0,0,0,0,0
+25,in doing so you must comply with any technical limitations in the software that only allow you to use it in certain ways,0,0,0,0,0,0,0,0,0,0,0,0
+26,you may not Ã¢Â· work around any technical limitations in the software Ã¢Â· reverse engineer decompile or disassemble the software or otherwise attempt to derive the source code for the software except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software Ã¢Â· remove minimize block or modify any notices of microsoft or its suppliers in the software Ã¢Â· use the software in any way that is against the law or Ã¢Â· share publish rent or lease the software provide the software as a stand alone offering for others to use or transfer the software or this agreement to any third party,1,1,1,0,0,0,0,0,0,0,0,0
+27,you must comply with all domestic and international export laws and regulations that apply to the software which include restrictions on destinations end users and end use,0,0,0,0,0,0,0,0,0,0,0,0
+28,for further information on export restrictions visit wwwmicrosoftcom exporting,0,0,0,0,0,0,0,0,0,0,0,0
+29,because this software is Ã¢ÂÂas isÃ¢ÂÂ we may not provide support services for it,0,0,0,0,0,0,0,0,0,0,0,0
+30,this agreement and the terms for supplements updates internet based services and support services that you use are the entire agreement for the software and support services,0,0,0,0,0,0,0,0,0,0,0,0
+31,if you acquired the software in the united states washington law applies to interpretation of and claims for breach of this agreement and the laws of the state where you live apply to all other claims,0,0,0,0,0,0,0,0,0,0,0,0
+32,if you acquired the software in any other country its laws apply,0,0,0,0,0,0,0,0,0,0,0,0
+33,you may have other rights including consumer rights under the laws of your state or country,0,0,0,0,0,0,0,0,0,0,0,0
+34,separate and apart from your relationship with microsoft you may also have rights with respect to the party from which you acquired the software,0,0,0,0,0,0,0,0,0,0,0,0
+35,this agreement does not change those other rights if the laws of your state or country do not permit it to do so,0,0,0,0,0,0,0,0,0,0,0,0
+36,for example if you acquired the software in one of the below regions or mandatory country law applies then the following provisions apply to you a australia,0,0,0,0,0,0,0,0,0,0,0,0
+37,you have statutory guarantees under the australian consumer law and nothing in this agreement is intended to affect those rights,0,0,0,0,0,0,0,0,0,0,0,0
+38,if you acquired this software in canada you may stop receiving updates by turning off the automatic update feature disconnecting your device from the internet if and when you re connect to the internet however the software will resume checking for and installing updates or uninstalling the software,0,0,0,0,0,0,0,0,0,0,0,0
+39,the product documentation if any may also specify how to turn off updates for your specific device or software,0,0,0,0,0,0,0,0,0,0,0,0
+40,the software will perform substantially as described in any microsoft materials that accompany it,0,0,0,0,0,0,0,0,0,0,0,0
+41,however microsoft gives no contractual guarantee in relation to the software,0,0,0,0,0,0,0,0,0,0,0,0
+42,in case of intentional conduct gross negligence claims based on the product liability act as well as in case of death or personal or physical injury microsoft is liable according to the statutory law,0,0,0,0,0,0,0,0,0,0,1,1
+43,subject to the foregoing clause ii microsoft will only be liable for slight negligence if microsoft is in breach of such material contractual obligations the fulfillment of which facilitate the due performance of this agreement the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in so called cardinal obligations,0,0,0,0,0,0,0,0,0,0,1,0
+44,in other cases of slight negligence microsoft will not be liable for slight negligence 11,0,0,0,0,0,0,0,0,0,0,1,0
+45,the software is licensed Ã¢ÂÂas isÃ¢ÂÂ you bear the risk of using it,0,0,0,0,0,0,0,0,0,0,0,1
+46,to the extent permitted under your local laws microsoft excludes the implied warranties of merchantability fitness for a particular purpose and non infringement,0,0,0,0,0,0,0,0,0,0,0,0
+47,you can recover from microsoft and its suppliers only direct damages up to us $500,0,0,0,0,0,0,0,0,0,0,1,0
+48,you cannot recover any other damages including consequential lost profits special indirect or incidental damages,0,0,0,0,0,0,0,0,0,0,1,0
+49,this limitation applies to a anything related to the software services content including code on third party internet sites or third party applications and b claims for breach of contract breach of warranty guarantee or condition strict liability negligence or other tort to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1
+50,it also applies even if microsoft knew or should have known about the possibility of the damages,0,0,0,0,0,0,0,0,0,0,1,0
+51,the above limitation or exclusion may not apply to you because your state or country may not allow the exclusion or limitation of incidental consequential or other damages,0,0,0,0,0,0,0,0,0,0,1,0
+52,please note as this software is distributed in quebec canada some of the clauses in this agreement are provided below in french,0,1,0,1,0,0,0,0,0,0,0,0
+53,remarque  ce logiciel Ã£Â©tant distribuÃ£Â© au quÃ£Â©bec canada certaines des clauses dans ce contrat sont fournies ci dessous en franÃ£Â§ais,0,0,0,0,0,0,0,1,0,0,0,0
+54,le logiciel visÃ£Â© par une licence est offert Ã¢Â« tel quel Ã¢Â»,0,0,0,0,0,0,0,0,0,0,0,0
+55,toute utilisation de ce logiciel est Ã£Â  votre seule risque et pÃ£Â©ril,0,0,0,0,0,0,0,0,0,0,0,0
+56,vous pouvez bÃ£Â©nÃ£Â©ficier de droits additionnels en vertu du droit local sur la protection des consommateurs que ce contrat ne peut modifier,0,0,0,0,0,0,0,0,0,0,1,0
+57,la ou elles sont permises par le droit locale les garanties implicites de qualitÃ£Â© marchande dadÃ£Â©quation Ã£Â  un usage particulier et dabsence de contrefaÃ£Â§on sont exclues,0,0,0,0,0,0,0,0,0,0,0,0
+58,limitation des dommages intÃ£ÂrÃ£Âts et exclusion de responsabilitÃ£Â pour les dommages,0,0,0,0,0,0,0,0,0,0,0,0
+59,vous pouvez obtenir de microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement Ã£Â  hauteur de 500 $ us,0,0,0,0,0,0,0,0,0,0,0,0
+60,vous ne pouvez prÃ£Â©tendre Ã£Â  aucune indemnisation pour les autres dommages y compris les dommages spÃ£Â©ciaux indirects ou accessoires et pertes de bÃ£Â©nÃ£Â©fices,0,0,0,0,0,0,0,0,0,0,0,0
+61,cette limitation concerne Ã¢Â· tout ce qui est reliÃ£Â© au logiciel aux services ou au contenu y compris le code figurant sur des sites internet tiers ou dans des programmes tiers  et Ã¢Â· les rÃ£Â©clamations au titre de violation de contrat ou de garantie ou au titre de responsabilitÃ£Â© stricte de nÃ£Â©gligence ou dune autre faute dans la limite autorisÃ£Â©e par la loi en vigueur,0,0,0,0,0,0,0,0,0,0,0,0
+62,elle sapplique Ã£Â©galement mÃ£Âªme si microsoft connaissait ou devrait connaÃ£Â®tre lÃ£Â©ventualitÃ£Â© dun tel dommage,0,0,0,0,0,0,0,0,0,0,0,0
+63,si votre pays nautorise pas lexclusion ou la limitation de responsabilitÃ£Â© pour les dommages indirects accessoires ou de quelque nature que ce soit il se peut que la limitation ou lexclusion ci dessus ne sappliquera pas Ã£Â  votre Ã£Â©gard,0,0,0,0,0,0,0,0,0,0,0,0
+64,vous pourriez avoir dautres droits prÃ£Â©vus par les lois de votre pays,0,0,0,0,0,0,0,0,0,0,0,0

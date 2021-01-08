@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,permission is hereby granted by the authors of this software to any person to use the software for any purpose free of charge including the rights to run read copy change distribute and sell it and including usage rights to any patents the authors may hold on it subject to the following conditions this license or a link to its text must be included with all copies of the software and any derivative works,1,1,1,0,0,0,0,0,0,0,0,0,1
+2,any modification to the software submitted to the authors may be incorporated into the software under the terms of this license,0,0,1,0,0,0,0,0,1,0,0,0,1
+3,the software is provided as is without warranty of any kind including but not limited to the warranties of title fitness merchantability and non infringement,0,0,0,0,0,0,0,0,0,0,0,1,0

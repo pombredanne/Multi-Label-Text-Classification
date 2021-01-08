@@ -1,0 +1,105 @@
+model:BERT
+train_file_path_task:./data/Task1.train.12t.csv
+test_file_path_task:./data/Task1.test.12t.csv
+save_path:./saved_models/
+random_seed:719
+bert_model:albert
+max_seq_length:512
+hidden_size:768
+hidden_dropout_prob:0.2
+loss:FocalLoss
+focal_loss_reduction:mean
+focal_loss_alpha:0.5
+focal_loss_gamma:2
+num_epochs:300
+batch_size:16
+gradient_accumulation_steps:4
+learning_rate:0.0001
+betas:(0.9, 0.99)
+weight_decay:5e-05
+num_of_class:12
+threshold:0.5
+early_stop_criterion:loss
+early_stop_patience:30
+use_cuda:True
+gpu:2
+device:cuda
+Test Set Size 189
+load model None successfully
+avg_val_loss = 0.0308
+avg_accuracy_score = 0.9497
+macro_precision_score = 0.8283
+macro_recall_score = 0.7667
+macro_f1_score = 0.7899
+---class 1---
+amount_of_true_label = 21
+accuracy_score = 0.9101
+precision_score = 0.5833
+recall_score = 0.6667
+f1_score = 0.6222
+---class 2---
+amount_of_true_label = 56
+accuracy_score = 0.8942
+precision_score = 0.7903
+recall_score = 0.8750
+f1_score = 0.8305
+---class 3---
+amount_of_true_label = 49
+accuracy_score = 0.9259
+precision_score = 0.8889
+recall_score = 0.8163
+f1_score = 0.8511
+---class 4---
+amount_of_true_label = 45
+accuracy_score = 0.9206
+precision_score = 0.7679
+recall_score = 0.9556
+f1_score = 0.8515
+---class 5---
+amount_of_true_label = 8
+accuracy_score = 0.9735
+precision_score = 0.7143
+recall_score = 0.6250
+f1_score = 0.6667
+---class 6---
+amount_of_true_label = 8
+accuracy_score = 0.9947
+precision_score = 1.0000
+recall_score = 0.8750
+f1_score = 0.9333
+---class 7---
+amount_of_true_label = 8
+accuracy_score = 0.9735
+precision_score = 0.8000
+recall_score = 0.5000
+f1_score = 0.6154
+---class 8---
+amount_of_true_label = 54
+accuracy_score = 0.9312
+precision_score = 1.0000
+recall_score = 0.7593
+f1_score = 0.8632
+---class 9---
+amount_of_true_label = 17
+accuracy_score = 0.9048
+precision_score = 0.4615
+recall_score = 0.3529
+f1_score = 0.4000
+---class 10---
+amount_of_true_label = 13
+accuracy_score = 0.9894
+precision_score = 1.0000
+recall_score = 0.8462
+f1_score = 0.9167
+---class 11---
+amount_of_true_label = 14
+accuracy_score = 0.9947
+precision_score = 0.9333
+recall_score = 1.0000
+f1_score = 0.9655
+---class 12---
+amount_of_true_label = 42
+accuracy_score = 0.9841
+precision_score = 1.0000
+recall_score = 0.9286
+f1_score = 0.9630

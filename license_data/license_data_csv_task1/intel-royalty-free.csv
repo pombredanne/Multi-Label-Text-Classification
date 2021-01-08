@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,you have intels permission to incorporate this code into your product royalty free,0,1,0,0,0,0,0,0,0,0,0,0
+2,intel has various intellectual property rights which it may assert under certain circumstances such as if another manufacturers processor mis identifies itself as being genuineintel when the cpuid instruction is executed,0,0,0,0,0,0,0,0,0,0,0,0
+3,intel specifically disclaims all warranties express or implied and all liability including consequential and other indirect damages for the use of this code including liability for infringement of any proprietary rights and including the warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,1,0
+4,intel does not assume any responsibility for any errors which may appear in this code nor any responsibility to update it,0,0,0,0,0,0,0,0,0,1,1,0

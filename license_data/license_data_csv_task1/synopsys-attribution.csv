@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,synopsys hs otg linux software driver and documentation hereinafter software is an unsupported proprietary work of synopsys inc unless otherwise expressly agreed to in writing between synopsys and you,0,0,0,0,0,0,0,0,0,0,0,1
+2,the software is not an item of licensed software or licensed product under any end user software license agreement or agreement for licensed product with synopsys or any supplement thereto,0,0,0,0,0,0,0,0,1,0,0,0
+3,you are permitted to use and redistribute this software in source and binary forms with or without modification provided that redistributions of source code must retain this notice,0,1,1,1,0,0,0,0,0,0,0,0
+4,you may not view use disclose copy or distribute this file or any information contained herein except pursuant to this license grant from synopsys,0,1,0,0,0,0,0,1,0,0,0,0
+5,if you do not agree with this notice including the disclaimer below then you are not authorized to use the software,0,0,0,0,0,0,0,0,0,0,0,0
+6,this software is being distributed by synopsys solely on an as is basis and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are hereby disclaimed,0,0,0,0,0,0,0,0,0,0,0,1

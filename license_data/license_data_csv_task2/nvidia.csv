@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,notice to user the source code is copyrighted under us and international laws,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,nvidia corp of sunnyvale california owns the copyright and as design patents pending on the design and interface of the nv chips,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,users and possessors of this source code are hereby granted a nonexclusive royalty free copyright and design patent license to use this code in individual and commercial software,1,1,0,1,0,0,0,1,0,0,0,0,1
+4,any use of this source code must include in the user documentation and internal comments to the code notices to the end user as follows copyright c 1996 1998 nvidia corp nvidia design patents pending in the us and foreign countries,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,nvidia corp makes no representation about the suitability of this source code for any purpose,0,0,0,0,0,0,1,0,0,0,0,0,0
+6,it is provided as is without express or implied warranty of any kind,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,nvidia corp disclaims all warranties with regard to this source code including all implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0

@@ -1,0 +1,38 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,legal notice   read before downloading or otherwise using this software,0,0,0,0,0,0,0,1,0,0,0,0
+2,attention use of the software is subject to the hp software license terms and supplemental restrictions set forth below and the hp warranty disclaimer attached,0,0,0,1,0,0,0,0,0,0,0,0
+3,click on the i accept box below to indicate your acceptance of these terms,0,0,0,0,0,0,0,0,0,0,0,0
+4,if you do not accept these terms fully you may not install or otherwise use the software,0,0,0,0,0,0,0,0,0,0,0,0
+5,notwithstanding anything to the contrary in this notice installing or otherwise using the software indicates your acceptance of these license terms,0,0,0,0,0,0,0,0,0,0,0,0
+6,download license for hpjconfig 21 hp software license terms the following terms govern your use of the software unless you have a separate written agreement with hp,0,0,0,0,0,0,0,0,1,0,0,0
+7,license grant hp grants you a license to use one copy of the software,0,0,0,0,0,0,0,0,0,0,0,0
+8,use means storing loading installing executing or displaying the software,0,0,0,0,0,0,0,0,0,0,0,1
+9,you may not modify the software or disable any licensing or control features of the software,0,0,0,0,0,0,0,0,0,0,0,0
+10,if the software is licensed for concurrent use you may not allow more than the maximum number of authorized users to use the software concurrently,0,0,0,0,0,0,0,0,0,0,0,0
+11,ownership the software is owned and copyrighted by hp or its third party suppliers,1,0,0,0,0,0,0,0,0,0,0,1
+12,your license confers no title or ownership in the software and is not a sale of any rights in the software,1,0,0,0,0,0,0,0,0,0,0,1
+13,hps third party suppliers may protect their rights in the event of any violation of these license terms,0,0,0,0,0,0,0,0,0,0,0,0
+14,copies and adaptations you may only make copies or adaptations of the software for archival purposes or when copying or adaptation is an essential step in the authorized use of the software,0,0,0,0,0,0,0,0,0,0,0,0
+15,you must reproduce all copyright notices in the original software on all copies or adaptations,0,0,0,0,0,0,0,1,0,0,0,0
+16,you may not copy the software onto any bulletin board or similar system,0,0,0,0,0,0,0,0,0,0,0,0
+17,no disassembly or decryption you may not disassemble or decompile the software unless hps prior written consent is obtained,0,0,0,0,0,0,0,0,0,0,0,0
+18,in some jurisdictions hps consent may not be required for disassembly or decompilation,0,0,0,0,0,0,0,0,0,0,0,0
+19,upon request you will provide hp with reasonably detailed information regarding any disassembly or decompilation,0,0,0,0,0,0,0,0,0,0,0,0
+20,you may not decrypt the software unless decryption is a necessary part of the operation of the software,0,0,0,0,0,0,0,0,0,0,0,0
+21,transfer your license will automatically terminate upon any transfer of the software,0,0,0,0,0,0,0,0,0,0,0,0
+22,upon transfer you must deliver the software including any copies and related documentation to the transferee,0,0,0,0,0,0,0,0,0,0,0,0
+23,the transferee must accept these license terms as a condition to the transfer,0,0,0,0,0,0,0,0,0,0,0,0
+24,termination hp may terminate your license upon notice for failure to comply with any of these license terms,0,0,0,0,0,0,0,0,1,0,0,0
+25,upon termination you must immediately destroy the software together with all copies adaptations and merged portions in any form,0,1,0,0,0,0,0,0,0,0,0,0
+26,export requirements the software you are about to download contains cryptography technology,0,0,0,0,0,0,0,0,0,0,0,0
+27,some countries regulate the import use and or export of certain products with cryptography,0,0,0,0,0,0,0,0,0,0,0,0
+28,hp makes no claims as to the applicability of local country import use and or export regulations in relation to the download of this product,0,0,0,0,0,0,0,0,0,0,0,0
+29,if you are located outside the us and canada you are advised to consult your local country regulations to insure compliance,0,0,0,0,0,0,0,0,0,0,0,0
+30,you may not export or re export this software or any copy or adaptation in violation of any applicable laws or regulations,0,0,0,0,0,0,0,0,0,0,0,0
+31,without limiting the generality of the foregoing hardware software technology or services provided under this license agreement may not be exported reexported transferred or downloaded to or within or to a national resident of countries under us economic embargo including the following countries cuba iran iraq libya north korea sudan and syria,0,0,0,0,0,0,0,0,1,0,0,0
+32,hardware software technology or services may not be exported reexported transferred or downloaded to persons or entities listed on the us department of commerce denied persons list entity list of proliferation concern or on any us treasury department designated nationals exclusion list or to parties directly or indirectly involved in the development or production of nuclear chemical biological weapons or in missile technology programs as specified in the us,0,0,0,0,0,0,0,0,0,0,0,0
+33,by accepting this license agreement you confirm that you are not located in or a national resident of any country under us economic embargo not identified on any us department of commerce denied persons list entity list or treasury department designated nationals exclusion list and not directly or indirectly involved in the development or production of nuclear chemical biological weapons or in missile technology programs as specified in the us,0,0,0,0,0,0,0,0,0,0,0,0
+34,us government restricted rights the software and any accompanying documentation have been developed entirely at private expense,0,0,0,0,0,0,0,0,0,0,0,0
+35,they are delivered and licensed as commercial computer software as defined in dfars 252227 7013 oct 1988 dfars 252211 7015 may 1991 or dfars 252227 7014 jun 1995 as a commercial item as defined in far2101a or as restricted computer software as defined in far 52227 19 jun 1987or any equivalent agency regulation or contract clause whichever is applicable,1,0,0,0,0,0,0,0,0,0,0,1
+36,you have only those rights provided for such software and any accompanying documentation by the applicable far or dfars clause or the hp standard software agreement for the product involved,0,0,0,0,0,0,0,0,0,0,0,0
+37,supplemental restrictions you acknowledge the software is not designed or intended for use in on line control of aircraft air traffic aircraft navigation or aircraft communications or in the design construction operation or maintenance of any nuclear facility,1,0,0,0,0,0,0,0,1,0,0,0

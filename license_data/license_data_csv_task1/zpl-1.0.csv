@@ -1,0 +1,19 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met 1,0,1,1,1,0,0,0,0,0,0,0,0
+2,redistributions in source code must retain the above copyright notice this list of conditions and the following disclaimer,0,0,0,0,0,0,0,1,0,0,0,0
+3,redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,0,1,0,0,0,0,0,1,0,0,0,0
+4,digital creations requests that attribution be given to zope in any manner possible,0,0,0,0,0,0,0,0,0,0,0,0
+5,zope includes a powered by zope button that is installed by default,0,0,0,0,0,0,0,0,0,0,0,0
+6,while it is not a license violation to remove this button it is requested that the attribution remain,0,0,0,0,0,0,0,0,0,0,0,0
+7,a significant investment has been put into zope and this effort will continue if the zope community continues to grow,0,0,0,0,0,0,0,0,0,0,1,0
+8,all advertising materials and documentation mentioning features derived from or use of this software must display the following acknowledgement this product includes software developed by digital creations for use in the z object publishing environment http  wwwzopeorg ,0,0,0,0,0,0,0,0,0,0,0,0
+9,in the event that the product being advertised includes an intact zope distribution with copyright and license included then this clause is waived,0,0,0,0,0,0,0,0,0,0,0,0
+10,names associated with zope or digital creations must not be used to endorse or promote products derived from this software without prior written permission from digital creations,0,0,0,0,0,1,0,0,0,0,0,0
+11,modified redistributions of any form whatsoever must retain the following acknowledgment this product includes software developed by digital creations for use in the z object publishing environment http  wwwzopeorg ,0,0,0,0,0,0,0,0,0,0,0,0
+12,intact re distributions of any official zope release do not require an external acknowledgement,0,0,0,0,0,0,0,0,0,0,0,0
+13,modifications are encouraged but must be packaged separately as patches to official zope releases,0,0,0,0,0,0,0,0,0,0,0,0
+14,distributions that do not clearly separate the patches from the original work must be clearly labeled as unofficial distributions,0,0,0,0,0,0,0,0,0,1,0,0
+15,modifications which do not carry the name zope may be packaged in any form as long as they conform to all of the clauses above,0,0,0,0,0,0,0,0,0,0,0,0
+16,disclaimer this software is provided by digital creations ``as is and any expressed or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1
+17,in no event shall digital creations or its contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0
+18,this software consists of contributions made by digital creations and many individuals on behalf of digital creations,0,0,0,0,0,0,0,0,0,0,0,0

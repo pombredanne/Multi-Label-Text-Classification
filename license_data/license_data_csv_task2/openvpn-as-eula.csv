@@ -1,0 +1,45 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,openvpn access server end user license agreement openvpn as eula 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,copyright notice openvpn access server license copyright c 2009 2013 openvpn technologies inc all rights reserved,0,0,0,0,0,0,0,1,0,0,0,0,1
+3,openvpn is a trademark of openvpn technologies inc 2,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,redistribution of openvpn access server binary forms and related documents are permitted provided that redistributions of openvpn access serverÃÂ¢ÃÂ binary forms and related documents reproduce the above copyright notice as well as a complete copy of this eula,0,1,0,1,0,0,0,1,0,0,0,0,1
+5,you agree not to reverse engineer decompile disassemble modify translate make any attempt to discover the source code of this software or create derivative works from this software,0,1,1,0,0,0,0,0,0,0,0,0,1
+6,the openvpn access server is bundled with other open source software components some of which fall under different licenses,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,by usingÃÂ¢ÃÂ openvpn or any of the bundled components you agree to be bound by the conditions of the license for each respective component,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,for more information you can find our complete eula end user license agreement on our website http  openvpnnet and a copy of the eula is also distributed with the access server inÃÂ¢ÃÂ the file  usr local openvpn_as licensetxt,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,this software is provided as is and any expressed or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0
+10,in no event shall openvpn technologies inc be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0,0
+11,openvpn technologies inc is the sole distributor of openvpn access server licenses,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,this agreement and licenses granted by it may not be assigned sublicensed or otherwise transferred by licensee without prior written consent of openvpn technologies inc any licenses violating this provision will be subject to revocation and deactivation and will not be eligible for refunds,0,0,0,0,0,1,0,0,0,0,0,0,0
+13,a purchased license entitles you to use this software for the duration of time denoted on your license key on any one 1 particular device up to the concurrent user limit specified by your license,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,multiple license keys may be activated to achieve a desired concurrency limit on this given device,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,unless otherwise prearranged with openvpn technologies inc concurrency counts on license keys are not to be divided for use amongst multiple devices,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,upon activation of the first purchased license key in this software you agree to forego any free licenses or keys that were given to you for demonstration purposes and as such the free licenses will not appear after the activation of a purchased key,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,you are responsible for the timely activation of these licenses on your desired server of choice,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,refunds on purchased license keys are only possible within 30 days of purchase of license key and then only if the license key has not already been activated on a system,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,to request a refund contact us through our support ticket system using the account you have used to purchase the license key,0,0,0,0,0,0,0,0,0,0,0,0,1
+20,exceptions to this policy may be given for machines under failover mode and when the feature is used as directed in the openvpn access server user manual,0,0,0,1,0,0,0,0,0,0,0,0,1
+21,in these circumstances a user is granted one 1 license key per original license key for use solely on failover purposes free of charge,1,0,0,0,0,0,0,0,0,0,0,0,1
+22,other failover and or load balancing use cases will not be eligible for this exception and a separate license key would have to be acquired to satisfy the licensing requirements,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,to request a license exception please file a support ticket in the openvpn access server ticketing system,0,0,0,0,0,0,1,0,0,0,0,0,1
+24,a staff member will be responsible for determining exception eligibility and we reserve the right to decline any requests not meeting our eligibility criteria or requests which we believe may be fraudulent in nature,0,0,0,0,0,0,0,0,0,0,1,0,0
+25,activating a license key ties it to the specific hardware software combination that it was activated on and activated license keys are nontransferable,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,substantial software and or hardware changes may invalidate an activated license,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,in case of substantial software and or hardware changes caused by for example but not limited to failure and subsequent repair or alterations of virtualized hardware software our software product will automatically attempt to contact our online licensing systems to renegotiate the licensing state,0,0,0,0,0,0,0,0,1,0,0,0,1
+28,on any given license key you are limited to three 3 automatic renegotiations within the license key lifetime,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,after these renegotiations are exhausted the license key is considered invalid and the activation state will be locked to the last valid system configuration it was activated on,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,openvpn technologies inc reserves the right to grant exceptions to this policy for license holders under extenuating circumstances and such exceptions can be requested through a ticket via the openvpn access server ticketing system,0,0,0,0,1,0,0,0,0,0,0,0,1
+31,once an activated license key expires or becomes invalid the concurrency limit on our software product will decrease by the amount of concurrent connections previously granted by the license key,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,if all of your purchased license keys have expired the product will revert to demonstration mode which allows a maximum of two 2 concurrent users to be connected to your server,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,prior to your license expiration dates openvpn technologies inc will attempt to remind you to renew your licenses by sending periodic email messages to the licensee email address on record,0,0,0,0,1,0,0,0,0,0,0,0,1
+34,you are solely responsible for the timely renewal of your license keys prior to their expiration if continued operation is expected after the license expiration dates,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,openvpn technologies inc will not be responsible for any misdirected and or undeliverable email messages nor does it have an obligation to contact you regarding your expiring license keys,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,any valid license key holder is entitled to use our ticketing system for support questions or issues specifically related to the openvpn access server product,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,to file a ticket go to our website at http  openvpnnet  and sign in using the account that was registered and used to purchase the license keys,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,you can then access the support ticket system through our website and submit a support ticket,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,tickets filed in the ticketing system are answered on a best  effort basis,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,openvpn technologies inc staff reserve the right to limit responses to users of our demo   expired licenses as well as requests that substantively deviate from the openvpn access server product line,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,tickets related to the open source version of openvpn will not be handled here,0,0,0,0,0,0,0,0,0,0,0,0,1
+42,purchasing a license key does not entitle you to any special rights or privileges except the ones explicitly outlined in this user agreement,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,unless otherwise arranged prior to your purchase with openvpn technologies inc software maintenance costs and terms are subject to change after your initial purchase without notice,0,1,0,0,0,0,0,0,0,0,0,0,1
+44,in case of price decreases or special promotions openvpn technologies inc will not retrospectively apply credits or price adjustments toward any licenses that have already been issued,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this program is free software you can redistribute it and or modify it under the terms of the gnu general public license as published by the free software foundation either version 2 of the license or at your option any later version collectively gpl,0,1,1,0,0,0,0,0,0,0,0,0
+2,as an exception to the terms of the gpl you may copy modify propagate and distribute a work formed by combining geoserver with the eclipse libraries or a work derivative of such a combination even if such copying modification propagation or distribution would otherwise violate the terms of the gpl,0,1,1,1,0,0,0,0,0,0,0,0
+3,nothing in this exception exempts you from complying with the gpl in all respects for all of the code used other than the eclipse libraries,0,0,0,0,0,0,0,0,0,0,0,0
+4,you may include this exception and its grant of permissions when you distribute geoserver,0,0,0,0,0,0,0,0,0,0,0,0
+5,inclusion of this notice with such a distribution constitutes a grant of such permissions,0,0,0,0,0,0,0,0,0,0,0,0
+6,if you do not wish to grant these permissions remove this paragraph from your distribution,0,0,0,0,0,0,0,0,0,0,0,0
+7,geoserver means the geoserver software licensed under version 2 or any later version of the gpl or a work based on such software and licensed under the gpl,0,0,0,0,0,0,0,0,1,0,0,0
+8,eclipse libraries means eclipse modeling framework project and xml schema definition software distributed by the eclipse foundation and licensed under the eclipse public license version 10 epl or a work based on such software and licensed under the epl,0,0,0,0,0,0,0,0,0,0,0,0
+9,this program is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+10,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0

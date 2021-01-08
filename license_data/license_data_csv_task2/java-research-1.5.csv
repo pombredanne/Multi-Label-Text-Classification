@@ -1,0 +1,31 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,sun is licensing the technology under this java research license the license to promote research education innovation and development using the technology,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,commercial use and distribution of technology and modifications is permitted only under a sun commercial license,1,1,0,1,0,0,0,0,0,0,0,0,1
+3,subject to the conditions contained herein sun grants to you a non exclusive non transferable worldwide and royalty free license to do the following for your research use only 1,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,reproduce create modifications of and use the technology alone or with modifications 2,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,share source code of the technology alone or with modifications with other licensees and 3,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,distribute object code of the technology alone or with modifications to any third parties for research use only under a license of your choice that is consistent with this license and publish papers and books discussing the technology which may include relevant excerpts that do not in the aggregate constitute a significant portion of the technology,0,0,0,1,0,0,0,1,0,0,0,0,1
+7,you may use any information in intangible form that you remember after accessing the technology except when such use violates suns copyrights or patent rights,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,other than the rights granted herein sun retains all rights title and interest in technology and you retain all rights title and interest in your modifications and associated specifications subject to the terms of this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,portions of the technology may be provided with notices and open source licenses from open source communities and third parties that govern the use of those portions and any licenses granted hereunder do not alter any rights and obligations you may have under such open source licenses however the disclaimer of warranty and limitation of liability provisions in this license will apply to all technology in this distribution,0,1,0,1,0,0,0,0,0,0,0,0,0
+10,intellectual property requirements as a condition to your license you agree to comply with the following restrictions and responsibilities a,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,you must include a copy of this java research license in a readme file for any technology or modifications you distribute,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,you must also include the following statement use and distribution of this technology is subject to the java research license included herein a once prominently in the source code tree and or specifications for your source code distributions and b once in the same file as your copyright or proprietary notices for your binary code distributions,0,0,0,0,0,0,0,1,0,0,0,0,1
+13,you must cause any files containing your modification to carry prominent notice stating that you changed the files,0,0,0,0,0,0,0,0,0,1,0,0,1
+14,you must not remove or alter any copyright or other proprietary notices in the technology,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,any technology and modifications you receive from any licensee are governed by this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,the technology is provided as is without warranties of any kind either express or implied including without limitation warranties that the technology is free of defects merchantable fit for a particular purpose or non infringing of third party rights,0,0,0,0,0,0,0,0,0,0,0,1,0
+17,you agree that you bear the entire risk in connection with your use and distribution of any and all technology under this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,if any portion of or functionality implemented by the technology becomes the subject of a claim or threatened claim of infringement affected materials sun may in its unrestricted discretion suspend your rights to use and distribute the affected materials under this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,such suspension of rights will be effective immediately upon suns posting of notice of suspension on the technology site,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,in no event will sun be liable for any direct indirect punitive special incidental or consequential damages in connection with or arising out of this license including without limitation loss of profits use data or economic advantage of any sort however it arises and on any theory of liability including negligence whether or not sun has been advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,liability under this section vb2 shall be so limited and excluded notwithstanding failure of the essential purpose of any remedy,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,you may terminate this license at any time by notifying sun in writing,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,all your rights will terminate under this license if you fail to comply with any of its material terms or conditions and do not cure such failure within thirty 30 days after becoming aware of such noncompliance,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,upon termination you must discontinue all uses and distribution of the technology and all provisions of this section v general terms shall survive termination,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,you agree to comply with suns trademark & logo usage requirements as modified from time to time available at http  wwwsuncom policies trademarks ,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,except as expressly provided in this license you are granted no rights in or to any sun trademarks now or hereafter used or licensed by sun,0,0,0,0,0,1,0,0,0,0,0,0,0
+27,this license represents the complete agreement of the parties concerning the subject matter hereof,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,if any provision of this license is held unenforceable such provision shall be reformed to the extent necessary to make it enforceable unless to do so would defeat the intent of the parties in which case this license shall terminate,0,0,0,0,0,0,0,0,1,0,0,0,0
+29,this license is governed by the laws of the united states and the state of california as applied to contracts entered into and performed in california between california residents,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,in no event shall this license be construed against the drafter,0,0,0,0,0,1,0,0,0,0,1,0,0

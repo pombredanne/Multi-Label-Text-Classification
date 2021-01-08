@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this software is free for commercial and non commercial use subject to the following conditions 1,,,,,,,,,,,,
+2,copyright remains vested in qualcomm incorporated and copyright notices in the code are not to be removed,,,,,,,,,,,,
+3,if this package is used in a product qualcomm should be given attribution as the author of the turing encryption algorithm,,,,,,,,,,,,
+4,this can be in the form of a textual message at program startup or in documentation online or textual provided with the package,,,,,,,,,,,,
+5,redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met a redistributions of source code must retain the copyright notice this list of conditions and the following disclaimer,,,,,,,,,,,,
+6,b redistributions in binary form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution,,,,,,,,,,,,
+7,c all advertising materials mentioning features or use of this software must display the following acknowledgement this product includes software developed by qualcomm incorporated,,,,,,,,,,,,
+8,this software is provided ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose and against infringement are disclaimed,,,,,,,,,,,,
+9,in no event shall the author or contributors be liable for any direct indirect incidental special exemplary or consequential damages including but not limited to procurement of substitute goods or services loss of use data or profits or business interruption however caused and on any theory of liability whether in contract strict liability or tort including negligence or otherwise arising in any way out of the use of this software even if advised of the possibility of such damage,,,,,,,,,,,,
+10,the license and distribution terms for any publically available version or derivative of this code cannot be changed that is this code cannot simply be copied and put under another distribution license including the gnu public license,,,,,,,,,,,,
+11,the turing family of encryption algorithms are covered by patents in the united states of america and other countries,,,,,,,,,,,,

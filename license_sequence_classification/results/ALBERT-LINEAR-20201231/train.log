@@ -1,0 +1,103 @@
+current config:
+ device:cuda
+gpu:0
+train_file:/data/home/duanxu/license-detection/code/license_sequence_classification/data/Task2.train.csv
+test_file:/data/home/duanxu/license-detection/code/license_sequence_classification/data/Task2.test.csv
+model_save_path:/data/home/duanxu/license-detection/code/license_sequence_classification/saved_models
+load_path:None
+ckpt_name:None
+bert_model:albert
+batch_size:16
+lr:5e-05
+epoch_num:300
+random_seed:338
+train text num:  342
+val text num:  115
+start training
+epoch: 0|  loss: 0.6881675124168396
+eval epoch: 0| loss: 0.03519088949846185| overall accuracy: 0.8608695652173913
+Saved model at epoch 0 successfully
+Write to checkpoint
+Write to config
+epoch: 1|  loss: 0.0184797253459692
+eval epoch: 1| loss: 0.005862274976528209| overall accuracy: 0.9652173913043478
+Saved model at epoch 1 successfully
+Write to checkpoint
+Write to config
+epoch: 2|  loss: 0.13544504344463348
+eval epoch: 2| loss: 0.00447144764273063| overall accuracy: 0.9826086956521739
+Saved model at epoch 2 successfully
+Write to checkpoint
+Write to config
+epoch: 3|  loss: 0.011648021638393402
+eval epoch: 3| loss: 0.004030569286450096| overall accuracy: 0.9739130434782609
+Saved model at epoch 3 successfully
+Write to checkpoint
+Write to config
+epoch: 4|  loss: 0.004686213564127684
+eval epoch: 4| loss: 0.0031065308873582144| overall accuracy: 0.991304347826087
+Saved model at epoch 4 successfully
+Write to checkpoint
+Write to config
+epoch: 5|  loss: 0.0015961850294843316
+eval epoch: 5| loss: 0.004356058310393406| overall accuracy: 0.9739130434782609
+epoch: 6|  loss: 0.0018505002371966839
+eval epoch: 6| loss: 0.005426308960633596| overall accuracy: 0.9739130434782609
+epoch: 7|  loss: 0.0010479193879291415
+eval epoch: 7| loss: 0.005715843264276729| overall accuracy: 0.9652173913043478
+epoch: 8|  loss: 0.0005986050236970186
+eval epoch: 8| loss: 0.005760050809476525| overall accuracy: 0.9652173913043478
+epoch: 9|  loss: 0.0005404225084930658
+eval epoch: 9| loss: 0.0058150585928081495| overall accuracy: 0.9652173913043478
+epoch: 10|  loss: 0.0004889550036750734
+eval epoch: 10| loss: 0.00593002937081189| overall accuracy: 0.9652173913043478
+epoch: 11|  loss: 0.0004403989587444812
+eval epoch: 11| loss: 0.005993658137689952| overall accuracy: 0.9652173913043478
+epoch: 12|  loss: 0.000512451573740691
+eval epoch: 12| loss: 0.006141983269227912| overall accuracy: 0.9739130434782609
+epoch: 13|  loss: 0.00037030517705716193
+eval epoch: 13| loss: 0.006253779010907949| overall accuracy: 0.9739130434782609
+epoch: 14|  loss: 0.00027077991398982704
+eval epoch: 14| loss: 0.006425691368665708| overall accuracy: 0.9739130434782609
+epoch: 15|  loss: 0.00025119949714280665
+eval epoch: 15| loss: 0.006422456163589073| overall accuracy: 0.9739130434782609
+epoch: 16|  loss: 0.00021820688562002033
+eval epoch: 16| loss: 0.006516758475766477| overall accuracy: 0.9739130434782609
+epoch: 17|  loss: 0.00030719893402419984
+eval epoch: 17| loss: 0.006601258211404733| overall accuracy: 0.9739130434782609
+epoch: 18|  loss: 0.00022895151050761342
+eval epoch: 18| loss: 0.006607500980380396| overall accuracy: 0.9739130434782609
+epoch: 19|  loss: 0.0008407030254602432
+eval epoch: 19| loss: 0.006624091625385715| overall accuracy: 0.9739130434782609
+epoch: 20|  loss: 0.00016767317720223218
+eval epoch: 20| loss: 0.006846391463793976| overall accuracy: 0.9739130434782609
+epoch: 21|  loss: 0.0002284461515955627
+eval epoch: 21| loss: 0.006947057470982975| overall accuracy: 0.9739130434782609
+epoch: 22|  loss: 0.00017569806368555874
+eval epoch: 22| loss: 0.00695474173066348| overall accuracy: 0.9739130434782609
+epoch: 23|  loss: 0.00013612720067612827
+eval epoch: 23| loss: 0.006924811926791849| overall accuracy: 0.9739130434782609
+epoch: 24|  loss: 0.0001458802871638909
+eval epoch: 24| loss: 0.006875671131432603| overall accuracy: 0.9739130434782609
+epoch: 25|  loss: 0.00014691443357151002
+eval epoch: 25| loss: 0.027136680964094526| overall accuracy: 0.9739130434782609
+epoch: 26|  loss: 0.00011357926996424794
+eval epoch: 26| loss: 0.0069628705938711115| overall accuracy: 0.9826086956521739
+epoch: 27|  loss: 0.0001635167864151299
+eval epoch: 27| loss: 0.006991444204354396| overall accuracy: 0.9826086956521739
+epoch: 28|  loss: 0.00010489857959328219
+eval epoch: 28| loss: 0.007053267829051828| overall accuracy: 0.9826086956521739
+epoch: 29|  loss: 0.00012303562834858894
+eval epoch: 29| loss: 0.0070537275810594385| overall accuracy: 0.9826086956521739
+epoch: 30|  loss: 0.00011022244143532589
+eval epoch: 30| loss: 0.007061317609686344| overall accuracy: 0.9826086956521739
+epoch: 31|  loss: 0.00013197505904827267
+eval epoch: 31| loss: 0.0070954172658789704| overall accuracy: 0.9826086956521739
+epoch: 32|  loss: 0.00011552569776540622
+eval epoch: 32| loss: 0.00720799156697467| overall accuracy: 0.9826086956521739
+epoch: 33|  loss: 9.770679025677964e-05
+eval epoch: 33| loss: 0.00741553726098652| overall accuracy: 0.9739130434782609
+epoch: 34|  loss: 9.675203909864649e-05
+eval epoch: 34| loss: 0.00744216855445816| overall accuracy: 0.9826086956521739
+best epoch:  4
+best valid loss:  0.0031065308873582144

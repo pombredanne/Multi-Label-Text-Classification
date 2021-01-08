@@ -1,0 +1,12 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,licensor [legal name of licensor] software [name software and version if applicable] use limitation [number] users license grant,0,0,0,0,0,0,0,0,0,0,0,0
+2,licensor hereby grants to each recipient of the software Ã¢ÂÂyouÃ¢ÂÂ a non exclusive non transferable royalty free and fully paid up license under all of the licensorÃ¢ÂÂs copyright and patent rights to use copy distribute prepare derivative works of publicly perform and display the software subject to the use limitation and the conditions set forth below,0,1,0,1,0,0,0,0,0,0,0,0
+3,the license granted above allows use by up to the number of users per entity set forth above the Ã¢ÂÂuse limitationÃ¢ÂÂ,0,0,0,0,0,0,0,0,0,0,0,0
+4,for determining the number of users Ã¢ÂÂyouÃ¢ÂÂ includes all affiliates meaning legal entities controlling controlled by or under common control with you,0,0,0,0,0,0,0,0,0,0,0,0
+5,if you exceed the use limitation your use is subject to payment of licensorÃ¢ÂÂs then current list price for licenses,0,0,0,0,0,0,0,0,0,0,0,0
+6,redistribution in source code or other forms must include a copy of this license document to be provided in a reasonable manner,0,0,0,0,0,0,1,1,0,0,0,0
+7,any redistribution of the software is only allowed subject to this license,0,0,0,0,0,0,0,0,0,0,0,0
+8,this license does not grant you any right in the trademarks service marks brand names or logos of licensor,0,0,0,0,0,1,0,0,0,0,0,0
+9,the software is provided Ã¢ÂÂas isÃ¢ÂÂ without warranty or condition express or implied including but not limited to warranties of merchantability fitness for a particular purpose and noninfringement,0,0,0,0,0,0,0,0,0,0,0,1
+10,licensors hereby disclaim all liability whether in an action of contract tort or otherwise arising from out of or in connection with the software,0,0,0,0,0,0,0,0,0,0,1,0
+11,if you violate the terms of this license your rights will terminate automatically and will not be reinstated without the prior written consent of licensor,0,0,0,0,0,0,0,0,0,0,0,0

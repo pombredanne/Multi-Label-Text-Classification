@@ -1,0 +1,52 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,part i introduction the rightsholder the person holding rights or claims over the work agrees as follows 20 	what this document covers 21,0,0,0,0,0,0,0,0,0,0,0,1,1
+2,a dedication to the public domain and waiver of copyright and database rights over the work and b,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,a licence of copyright and database rights over the work in jurisdictions that do not allow for relinquishment or waiver,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,copyright law varies between jurisdictions but is likely to cover the database model or schema which is the structure arrangement and organisation of the database and can also include the database tables and table indexes the data entry and output sheets and the field names of data stored in the database,0,1,0,0,0,0,0,0,0,0,0,0,1
+5,copyright may also cover the data depending on the jurisdiction and type of data and b,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,database rights only extend to the extraction and re utilisation of the whole or a substantial part of the data,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,database rights can apply even when there is no copyright over the database,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,database rights can also apply when the data is removed from the database and is selected and arranged in a way that would not infringe any applicable copyright,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,this document does not apply to computer programs used in the making or operation of the database b,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,this document does not cover any patents over the data or the database,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,please see section 42 later in this document for further details and c this document does not cover any trade marks associated with the database,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,please see section 43 later in this document for further details,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,users of this database are cautioned that they may have to clear other rights or consult other licences,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,the rightsholder takes the position that factual information is not covered by copyright,0,0,0,0,0,0,0,1,0,0,0,0,0
+15,this document however covers the work in jurisdictions that may protect the factual information in the work by copyright and to cover any information protected by copyright that is contained in the work,0,0,0,0,0,0,0,1,0,0,0,0,1
+16,part ii dedication to the public domain 30 	dedication waiver and licence of copyright and database rights 31 dedication of copyright and database rights to the public domain,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,the rightsholder by using this document dedicates the work to the public domain for the benefit of the public and relinquishes all rights in copyright and database rights over the work,0,0,0,0,0,0,0,0,0,0,0,0,1
+18,the rightsholder realises that once these rights are relinquished that the rightsholder has no further rights in copyright and database rights over the work and that the work is free and open for others to use,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,the rightsholder intends for their relinquishment to cover all present and future rights in the work under copyright and database rights whether they are vested or contingent rights and that this relinquishment of rights covers all their heirs and successors,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,the above relinquishment of rights applies worldwide and includes media and formats now known or created in the future,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,32 waiver of rights and claims in copyright and database rights when section 31 dedication inapplicable,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,if the dedication in section 31 does not apply in the relevant jurisdiction under section 64 the rightsholder waives any rights and claims that the rightsholder may have or acquire in the future over the work in a,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,to the extent possible in the relevant jurisdiction the above waiver of rights and claims applies worldwide and includes media and formats now known or created in the future,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,the rightsholder agrees not to assert the above rights and waives the right to enforce them over the work,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,33 licence of copyright and database rights when sections 31 and 32 inapplicable,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,if the dedication and waiver in sections 31 and 32 does not apply in the relevant jurisdiction under section 64 the rightsholder and you agree as follows a,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,the licensor grants to you a worldwide royalty free non exclusive licence to use the work for the duration of any applicable copyright and database rights,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,these rights explicitly include commercial use and do not exclude any field of endeavour,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,to the extent possible in the relevant jurisdiction these rights may be exercised in all media and formats whether now known or created in the future,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,this section covers moral rights including the right to be identified as the author of the work or to object to treatment that would otherwise prejudice the authors honour and reputation or any other derogatory treatment a,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,for jurisdictions allowing waiver of moral rights licensor waives all moral rights that licensor may have in the work to the fullest extent possible by the law of the relevant jurisdiction under section 64 b,0,0,0,0,0,0,0,0,0,0,1,0,0
+32,if waiver of moral rights under section 34 a in the relevant jurisdiction is not possible licensor agrees not to assert any moral rights over the work and waives all claims in moral rights to the fullest extent possible by the law of the relevant jurisdiction under section 64 and c for jurisdictions not allowing waiver or an agreement not to assert moral rights under section 34 a and b the author may retain their moral rights over the copyrighted aspects of the work,0,0,0,0,0,0,0,0,0,0,1,0,0
+33,please note that some jurisdictions do not allow for the waiver of moral rights and so moral rights may still subsist over the work in some jurisdictions,0,0,0,0,0,0,0,0,0,0,1,0,0
+34,40 	relationship to other rights 41 no other contractual conditions,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,the rightsholder makes this work available to you without any other contractual obligations either express or implied,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,any community norms statement associated with the work is not a contract and does not form part of this document,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,this document does not grant you a licence for any patents that the rightsholder may own,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,users of this database are cautioned that they may have to clear other rights or consult other licences,0,0,0,0,1,0,0,0,0,0,0,0,0
+39,this document does not grant you a licence for any trade marks that the rightsholder may own or that the rightsholder may use to cover the work,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,users of this database are cautioned that they may have to clear other rights or consult other licences,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,part iii general provisions 50 	warranties disclaimer and limitation of liability 51 the work is provided by the rightsholder as is and without any warranty of any kind either express or implied whether of title of accuracy or completeness of the presence of absence of errors of fitness for purpose or otherwise,0,0,0,0,0,0,0,0,0,0,0,1,0
+42,some jurisdictions do not allow the exclusion of implied warranties so this exclusion may not apply to you,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,52 subject to any liability that may not be excluded or limited by law the rightsholder is not liable for and expressly excludes all liability for loss or damage however and whenever caused to anyone by any use under this document whether by you or by anyone else and whether caused by any fault on the part of the rightsholder or not,0,0,0,0,0,0,0,0,0,0,1,0,0
+44,this exclusion of liability includes but is not limited to any special incidental consequential punitive or exemplary damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+45,this exclusion applies even if the rightsholder has been advised of the possibility of such damages,0,0,0,0,0,0,0,0,0,0,1,0,0
+46,53 if liability may not be excluded by law it is limited to actual and direct financial loss to the extent it is caused by proved negligence on the part of the rightsholder,0,0,0,0,0,0,0,0,0,0,1,0,0
+47,60 	general 61 if any provision of this document is held to be invalid or unenforceable that must not affect the validity or enforceability of the remainder of the terms of this document,0,0,0,0,0,0,0,0,0,0,0,1,0
+48,62 this document is the entire agreement between the parties with respect to the work covered here,0,0,0,0,0,0,0,0,0,0,0,0,1
+49,it replaces any earlier understandings agreements or representations with respect to the work not specified here,0,0,0,0,0,0,0,0,0,0,0,0,1
+50,63 this document does not affect any rights that you or anyone else may independently have under any applicable law to make any use of this work including for jurisdictions where this document is a licence fair dealing fair use database exceptions or any other legally recognised limitation or exception to infringement of copyright or other applicable laws,0,0,0,0,0,0,0,1,0,0,0,0,0
+51,64 this document takes effect in the relevant jurisdiction in which the document terms are sought to be enforced,0,0,0,1,0,0,0,0,0,0,0,0,1

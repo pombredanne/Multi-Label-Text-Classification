@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this is a package of commutative diagram macros built on top of xy pic by michael barr email barr@barrsorg,,,,,,,,,,,,
+2,it may be freely distributed unchanged for non commercial or commercial use,,,,,,,,,,,,
+3,inclusion in a commercial software package is also permitted but i would appreciate receiving a free copy for my personal examination and use,,,,,,,,,,,,
+4,there are no guarantees that this package is good for anything,,,,,,,,,,,,
+5,i have tested it with latex 2e latex 209 and plain tex,,,,,,,,,,,,

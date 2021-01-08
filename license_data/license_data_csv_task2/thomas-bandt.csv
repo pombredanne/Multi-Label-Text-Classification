@@ -1,0 +1,8 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,you can use these library in free and commercial projects without a fee,1,0,0,0,0,0,0,0,0,0,0,0,1
+2,no charge should be made for providing these library to a third party,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,it is allowed to modify the source to fit your special needs,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,if you made improvements you should make it public available by sending us your modifications or publish it on your site,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,if you publish it on your own site you have to notify us,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,this is not a commitment that we include your modifications,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,this copyright notice must be included in the modified source code,0,0,0,0,0,0,0,1,0,0,0,0,1

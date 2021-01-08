@@ -1,0 +1,9 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,if you use the software you accept this license,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,if you do not accept the license do not use the software,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,grant of rights a copyright grant  subject to the terms of this license the licensor grants you a non transferable non exclusive worldwide royalty free copyright license to reproduce the software for reference use,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,b patent grant  subject to the terms of this license the licensor grants you a non transferable non exclusive worldwide royalty free patent license under licensed patents for reference use,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,limitations a no trademark license  this license does not grant you any rights to use the licensors name logo or trademarks,0,0,0,0,0,1,0,0,0,0,0,0,0
+6,b if you begin patent litigation against the licensor over patents that you think may apply to the software including a cross claim or counterclaim in a lawsuit your license to the software ends automatically,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,the licensor gives no express warranties guarantees or conditions,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,you may have additional consumer rights under your local laws which this license cannot change,0,0,0,0,0,0,0,0,0,0,0,0,0

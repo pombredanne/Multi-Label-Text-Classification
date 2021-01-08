@@ -1,0 +1,16 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,if you use the software you accept this license,0,0,0,0,0,0,0,0,0,0,0,0
+2,if you do not accept the license do not use the software,0,0,0,0,0,0,0,0,0,0,0,0
+3,grant of rights a copyright grant  subject to the terms of this license including the license conditions and limitations in section 3 the licensor grants you a non exclusive worldwide royalty free copyright license to reproduce the software prepare derivative works of the software and distribute the software or any derivative works that you create,0,1,0,0,0,0,0,0,0,0,0,0
+4,b patent grant  subject to the terms of this license including the license conditions and limitations in section 3 the licensor grants you a non exclusive worldwide royalty free patent license under licensed patents to make have made use practice sell and offer for sale and or otherwise dispose of the software or derivative works of the software,1,0,0,0,1,0,0,0,0,0,0,0
+5,conditions and limitations a reciprocal grants  your rights to reproduce and distribute the software or any part of the software or to create and distribute derivative works of the software are conditioned on your licensing the software or any larger work you create under the following terms 1,0,1,1,0,0,0,0,0,0,0,0,0
+6,if you distribute the larger work as a series of files you must grant all recipients the copyright and patent licenses in sections 2a & 2b for any file that contains code from the software,0,0,0,0,0,0,0,1,0,0,0,0
+7,you must also provide recipients the source code to any such files that contain code from the software along with a copy of this license,0,0,0,0,0,0,0,0,0,0,0,0
+8,any other files which are entirely your own work and which do not contain any code from the software may be licensed under any terms you choose,0,0,0,0,0,0,0,0,0,0,0,0
+9,if you distribute the larger work as a single file then you must grant all recipients the rights set out in sections 2a & 2b for the entire larger work,0,0,0,0,0,0,0,0,0,0,0,0
+10,you must also provide recipients the source code to the larger work along with a copy of this license,0,0,0,0,0,0,1,0,0,0,0,0
+11,b no trademark license  this license does not grant you any rights to use the licensorÃ¢ÂÂs name logo or trademarks,0,0,0,0,0,1,0,0,0,0,0,0
+12,c if you distribute the software in source code form you may do so only under this license ie you must include a complete copy of this license with your distribution and if you distribute the software solely in compiled or object code form you may only do so under a license that complies with this license,0,1,0,0,0,0,0,1,1,0,0,0
+13,d if you begin patent litigation against the licensor over patents that you think may apply to the software including a cross claim or counterclaim in a lawsuit your license to the software ends automatically,0,0,0,0,1,0,0,0,0,0,0,0
+14,the licensor gives no express warranties guarantees or conditions,0,0,0,0,0,0,0,0,0,0,0,1
+15,you may have additional consumer rights under your local laws which this license cannot change,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,46 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,object the aim of this license is to define the conditions under which one can use this work freely,0,0,0,0,0,0,0,0,0,0,0,0
+2,through this license its author specifies the extent to which you can copy distribute and modify it,0,1,1,0,0,0,0,0,0,0,0,0
+3,21 freedom to copy or to make reproductions you have the right to copy this work for yourself your friends or any other person whatever the technique used,0,0,0,0,0,0,0,0,0,0,0,0
+4,22 freedom to distribute to perform in public you have the right to distribute copies of this work whether modified or not whatever the medium and the place with or without any charge provided that you attach this license without any modification to the copies of this work or indicate precisely where the license can be found specify to the recipient the names of the authors of the originals including yours if you have modified the work specify to the recipient where to access the originals either initial or subsequent,0,1,1,0,0,0,0,0,0,0,0,0
+5,the authors of the originals may if they wish to give you the right to distribute the originals under the same conditions as the copies,0,1,0,0,0,0,0,0,0,0,0,0
+6,23 freedom to modify you have the right to modify copies of the originals whether initial or subsequent provided you comply with the following conditions all conditions in article 22 above if you distribute modified copies indicate that the work has been modified and if it is possible what kind of modifications have been made distribute the subsequent work under the same license or any compatible license,0,1,1,0,0,0,0,0,1,1,0,0
+7,the authors of the original work may give you the right to modify it under the same conditions as the copies,0,1,1,0,0,0,0,0,0,0,0,0
+8,related rights activities giving rise to authors rights and related rights shall not challenge the rights granted by this license,0,0,0,0,0,0,0,0,0,0,1,0
+9,for example this is the reason why performances must be subject to the same license or a compatible license,0,0,0,0,0,0,0,0,0,0,0,0
+10,similarly integrating the work in a database a compilation or an anthology shall not prevent anyone from using the work under the same conditions as those defined in this license,0,0,0,0,0,0,0,0,0,0,0,0
+11,incorporation of the work incorporating this work into a larger work that is not subject to the free art license shall not challenge the rights granted by this license,0,0,0,0,0,0,0,0,0,0,0,0
+12,if the work can no longer be accessed apart from the larger work in which it is incorporated then incorporation shall only be allowed under the condition that the larger work is subject either to the free art license or a compatible license,0,0,0,0,0,0,0,0,0,0,0,0
+13,compatibility a license is compatible with the free art license provided it gives the right to copy distribute and modify copies of the work including for commercial purposes and without any other restrictions than those required by the respect of the other compatibility criteria it ensures proper attribution of the work to its authors and access to previous versions of the work when possible it recognizes the free art license as compatible reciprocity it requires that changes made to the work be subject to the same license or to a license which also meets these compatibility criteria,0,1,1,1,0,0,0,0,0,0,0,0
+14,your intellectual rights this license does not aim at denying your authors rights in your contribution or any related right,0,0,0,0,0,0,0,0,0,0,0,0
+15,by choosing to contribute to the development of this common work you only agree to grant others the same rights with regard to your contribution as those you were granted by this license,0,0,0,0,0,0,0,0,0,0,0,0
+16,conferring these rights does not mean you have to give up your intellectual rights,0,0,0,0,0,0,0,0,0,0,0,0
+17,your responsibilities the freedom to use the work as defined by the free art license right to copy distribute modify implies that everyone is responsible for their own actions,0,1,1,1,0,0,0,0,0,0,0,0
+18,duration of the license this license takes effect as of your acceptance of its terms,0,0,0,0,0,0,0,0,0,0,0,0
+19,the act of copying distributing or modifying the work constitutes a tacit agreement,0,0,0,0,0,0,0,0,0,0,0,0
+20,this license will remain in effect for as long as the copyright which is attached to the work,0,0,0,0,0,0,0,0,0,0,0,0
+21,if you do not respect the terms of this license you automatically lose the rights that it confers,0,0,0,0,0,0,0,0,0,0,0,0
+22,if the legal status or legislation to which you are subject makes it impossible for you to respect the terms of this license you may not make use of the rights which it confers,0,0,0,0,0,0,0,0,0,0,0,0
+23,various versions of the license this license may undergo periodic modifications to incorporate improvements by its authors instigators of the copyleft attitude movement by way of new numbered versions,0,0,0,0,0,0,0,0,1,1,0,0
+24,you will always have the choice of accepting the terms contained in the version under which the copy of the work was distributed to you or alternatively to use the provisions of one of the subsequent versions,0,0,0,0,0,0,0,0,0,0,0,0
+25,sub licensing sub licenses are not authorized by this license,0,0,0,0,0,0,0,0,0,0,0,0
+26,any person wishing to make use of the rights that it confers will be directly bound to the authors of the common work,0,0,0,0,0,0,0,0,0,0,0,0
+27,legal framework this license is written with respect to both french law and the berne convention for the protection of literary and artistic works,0,0,0,0,0,0,0,0,0,0,0,0
+28,user guide   how to use the free art license?,0,0,0,0,0,0,0,0,0,0,0,0
+29,to benefit from the free art license you only need to mention the following elements on your work [name of the author title date of the work,0,0,0,0,0,0,0,0,0,0,0,0
+30,when applicable names of authors of the common work and if possible where to find the originals],0,0,0,0,0,0,0,0,0,0,0,0
+31,copyleft this is a free work you can copy distribute and modify it under the terms of the free art license http  artlibreorg licence lal en    why to use the free art license?,0,1,1,1,0,0,0,0,0,0,0,0
+32,1to give the greatest number of people access to your work,0,0,0,0,0,0,0,0,0,0,0,0
+33,3to allow it to evolve by allowing its copy distribution and transformation by others,0,1,0,0,0,0,0,0,0,0,0,0
+34,4so that you benefit from the resources of a work when it is under the free art license to be able to copy distribute or transform it freely,0,1,0,0,0,0,0,0,0,0,0,0
+35,5but also because the free art license offers a legal framework to disallow any misappropriation,0,0,0,0,0,0,0,0,0,0,0,0
+36,it is forbidden to take hold of your work and bypass the creative process for ones exclusive possession,0,0,0,0,0,0,0,0,0,0,0,0
+37,any time you want to benefit and make others benefit from the right to copy distribute and transform creative works without any exclusive appropriation you should use the free art license,0,1,0,1,0,0,0,0,0,0,0,0
+38,you can for example use it for scientific artistic or educational projects,0,0,0,0,0,0,0,0,0,0,1,0
+39,  what kinds of works can be subject to the free art license?,0,0,0,0,0,0,0,0,0,0,0,0
+40,the free art license can be applied to digital as well as physical works,0,0,0,0,0,0,0,0,0,0,0,0
+41,you can choose to apply the free art license on any text picture sound gesture or whatever sort of stuff on which you have sufficient authors rights,0,0,0,0,0,0,0,0,0,0,0,0
+42,  historical background of this license it is the result of observing using and creating digital technologies free software the internet and art,0,1,0,0,0,0,0,0,0,0,0,0
+43,it arose from the copyleft attitude meetings which took place in paris in 2000,0,0,0,0,0,0,0,0,0,0,0,0
+44,for the first time these meetings brought together members of the free software community artists and members of the art world,0,0,0,0,0,0,0,0,0,0,0,0
+45,the goal was to adapt the principles of copyleft and free software to all sorts of creations,0,0,0,0,0,0,0,0,0,0,0,0

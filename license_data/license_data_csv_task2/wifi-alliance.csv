@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,license is granted only to wi fi alliance members and designated wi fi contractors and unless otherwise expressly authorized in writing by the wi fi alliance is limited for use solely in testing wi fi equipment in conjunction with a wi fi certification program,0,0,0,1,0,0,0,0,0,0,0,1,0
+2,this license is not transferable or sublicensable and it does not extend to and may not be used with non wi fi applications,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,commercial derivative works or applications that use this software are not authorized without specific prior written permission from wi fi alliance,0,0,0,1,0,0,0,0,0,0,0,0,1
+4,non commercial derivative works for your own internal use are authorized and are limited by the same restrictions,0,1,0,1,0,0,0,0,0,0,0,0,1
+5,neither the name of the author nor wi fi alliance may be used to endorse or promote products that are derived from or that use this software without specific prior written permission from wi fi alliance,0,0,0,0,0,1,0,0,0,0,0,0,0
+6,this software is provided by wifi alliance as is and any expressed or implied warranties including but not limited to the implied warranties of merchantability non infringement and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0

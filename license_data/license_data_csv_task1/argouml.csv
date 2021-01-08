@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,permission to use copy modify and distribute this software and its documentation without fee and without a written agreement is hereby granted provided that the above copyright notice and this paragraph appear in all copies,0,1,1,1,0,0,0,1,0,0,0,0
+2,the software program and documentation are supplied as is without any accompanying services from the regents,0,0,0,0,0,0,0,0,0,0,0,1
+3,the regents does not warrant that the operation of the program will be uninterrupted or error free,0,0,0,0,0,0,0,0,0,0,0,1
+4,the end user understands that the program was developed for research purposes and is advised not to rely exclusively on the program for any reason,0,0,0,0,0,0,0,0,0,0,0,0
+5,in no event shall the university of california be liable to any party for direct indirect special incidental or consequential damages including lost profits arising out of the use of this software and its documentation even if the university of california has been advised of the possibility of such damage,0,0,0,0,0,0,0,0,0,0,1,0
+6,the university of california specifically disclaims any warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1

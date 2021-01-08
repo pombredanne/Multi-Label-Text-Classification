@@ -1,0 +1,5 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,development of this software was funded in part by cray research inc uunet communications services inc sun microsystems inc and scriptics corporation none of whom are responsible for the results,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,redistribution and use in source and binary forms   with or without modification   are permitted for any purpose provided that redistributions in source form retain this entire copyright notice and indicate the origin and nature of any modifications,1,1,1,1,0,0,0,1,0,0,0,0,1
+3,id appreciate being given credit for this package in the documentation of software which uses it but that is not a requirement,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,this software is provided ``as is and any express or implied warranties including but not limited to the implied warranties of merchantability and fitness for a particular purpose are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0

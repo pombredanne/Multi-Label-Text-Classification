@@ -1,0 +1,42 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,copying conditions for tex live to the best of our knowledge all software in the tex live distribution is freely redistributable libre that is not necessarily gratis within the free software foundations definition and the debian free software guidelines,0,1,0,0,0,0,0,0,0,0,0,0,1
+2,where the two conflict we generally follow the fsf see [] below,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,if you find any non free files included please contact us references given at the end,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,that said tex live has neither a single copyright holder nor a single license covering its entire contents since it is a collection of many disparate packages,0,0,0,0,0,0,0,1,0,0,0,0,1
+5,therefore you may copy modify and or redistribute software from tex live only if you comply with the requirements placed thereon by the owners of the respective packages,0,1,1,0,0,0,0,0,0,0,0,0,1
+6,to most easily learn these requirements we suggest checking the tex catalogue at http  wwwctanorg tex archive help catalogue  or any ctan mirror,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,the catalogue is also included in tex live in  texmf doc html catalogue  but the online version will have updates,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,of course the legal statements within the packages themselves are the final authority,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,in some cases tex live is distributed with a snapshot of the ctan archive which is entirely independent of and separable from tex live itself,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,the live dvd in the tex collection is one example of this,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,please be aware that the ctan snapshot contains many files which are not freely redistributable see licensectan for more information,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,guidelines for redistribution in general you may redistribute tex live with or without modification for profit or not according to the usual free software tenets,0,1,1,0,0,0,0,0,0,0,0,0,1
+13,here are some general guidelines for doing this   if you make any changes to the tex live distribution or any package it contains besides complying with any licensing requirements you must prominently mention such changes in your modified distribution so that users do not take your work for ours and know to contact you not us in case of questions or problems,0,0,0,0,0,0,0,0,1,1,0,0,1
+14,a new top level readme<yourwork> file is a good place to describe the general situation,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,  especially but not necessarily if changes or additions are made we recommend a clearly different title such as <your work> dvd based on tex live yyyy with updates where yyyy is the year of tex live you are using,0,0,0,0,0,0,0,0,0,1,0,0,1
+16,  you absolutely may not place your own copyright on the entire distribution since it is not your work as stated above tex live is not created by any single person or entity,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,statements such as all rights reserved and may not be reproduced are especially reprehensible since they are antithetical to the free software principles under which tex live is produced,0,1,0,1,0,0,0,0,0,0,0,0,0
+18,  you may use any cover or media label designs that you wish,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,such packaging and marketing details are not covered by any tex live license,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,  finally we make the following requests not legal requirements a acknowledging that tex live is developed as a joint effort by all tex user groups and encouraging the user reader to join their user group of choice,0,0,0,0,0,0,0,0,0,0,0,0,1
+21,the web page http  wwwtugorg usergroupshtml may be referenced as a list of tex user groups,0,0,0,0,0,0,1,0,0,0,0,0,1
+22,b referencing the tex live home page http  wwwtugorg texlive  such information may be placed on the label of your media your cover and or in accompanying text for instance in the acknowledgements section of a book,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,finally although it is again not at all a requirement wed like to invite any redistributors to make a donation to the project whether cash or in kind for example via https  wwwtugorg donate devhtml,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,if you have any questions or comments please contact us,0,0,0,0,0,0,0,0,0,0,0,0,1
+25,in general we appreciate being given the chance to review any tex live related material in advance of publication simply to avoid mistakes,0,0,0,0,0,0,0,0,0,0,0,0,1
+26,it is much better to correct text on a cd label or in a book before thousands of copies are made!,0,0,0,0,0,0,0,0,0,0,0,0,1
+27,we are also happy to keep anyone planning a publication informed as to our deadlines and progress,0,0,0,0,0,0,0,0,0,0,0,0,1
+28,however be aware that tex live is produced entirely by volunteers and no dates can be guaranteed,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,licensing for new packages finally we are often asked what license to use for new work,0,0,0,0,0,0,0,0,0,0,0,0,1
+30,to be considered for inclusion on tex live a package must use a free software license such as the latex project public license the gnu general public license the x window system license the modified bsd license etc,0,0,0,0,0,0,0,0,1,0,0,0,1
+31,furthermore all sources must be available including for documentation files,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,  karl berry editor for the tex live team                                                              [] conflicts between fsf and debian,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,the most notable instance of legal conflict between the fsf definition of free software and the debian free software guidelines is in regard to the gnu free documentation license when invariant sections eg front cover texts back cover texts or invariant sections are included,0,1,0,0,0,0,0,0,0,0,0,0,1
+34,fsf considers it free of course and debian doesnt,0,0,0,0,0,0,0,0,0,0,0,0,1
+35,the most common instance of such a license is in documentation for official gnu packages    such as gnu texinfo which is included in tex live,0,0,0,0,0,0,0,0,0,0,0,0,1
+36,there may be other gfdld files with invariant sections as well we have not exhaustively checked,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,for tex live we decided to follow the fsf rather than debian,0,0,0,0,0,0,0,0,0,0,0,0,1
+38,so such documentation is included in the original tex live distribution,0,0,0,0,0,0,0,0,0,0,0,0,1
+39,in repackagings of tl according to debian rules it is removed,0,0,0,0,0,0,0,0,0,0,0,0,1
+40,we surely wish these two major organizations in the free software world could cooperate on a documentation license acceptable to both,0,0,0,0,0,0,0,0,0,0,0,0,1
+41,if other specific conflicts are brought to our attention we will note them here,0,0,0,0,0,0,0,0,0,0,0,0,0

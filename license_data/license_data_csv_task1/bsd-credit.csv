@@ -1,0 +1,4 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,permission to use copy modify and distribute this software for any purpose with or without fee is hereby granted provided that the above copyright notice and this permission notice appear in all copies,1,1,1,1,0,0,0,1,0,0,0,0
+2,modification and redistribution in source and binary forms is permitted provided that due credit is given to the author and the openbsd project for instance by leaving this copyright notice intact,0,1,0,1,0,0,0,1,0,0,0,0
+3,the software is provided as is and the author disclaims all warranties with regard to this software including all implied warranties of merchantability and fitness,0,0,0,0,0,0,0,0,0,0,0,1

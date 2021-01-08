@@ -1,0 +1,6 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,red hatÃÂ¢ÃÂ® red hat enterprise linux and the shadowman logo either separately or in combination are hereinafter referred to as red hat trademarks and are trademarks of red hat inc registered in the united states and other countries,0,0,0,0,0,1,0,0,0,0,0,0,0
+2,the redhat logos package package contains images that are or include the red hat trademarks and red hat trade dress,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,you are granted the right to use the package only during the normal operation of software programs that call upon the package,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,no other copyright or trademark license is granted herein,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,this package is provided as is and any express or implied warranties including but not limited to the implied warranties of merchantability fitness for a particular purpose and intellectual property noninfringement are disclaimed,0,0,0,0,0,0,0,0,0,0,0,1,0

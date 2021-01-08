@@ -1,0 +1,18 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,terms and conditions for copying distribution and modification 1,0,1,0,0,0,0,0,0,0,0,0,0,1
+2,this license applies to any program or other work which contains a notice placed by the copyright holder saying it may be distributed under the terms of this concursive public license,0,0,0,0,0,0,0,1,0,0,0,0,1
+3,the program below refers to any such program or work and a work based on the program means either the program or any derivative work under copyright law that is to say a work containing the program or a portion of it either verbatim or with modifications and or translated into another language,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,hereinafter translation is included without limitation in the term modification,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,by using the software you agree to abide by these terms,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,you may modify your copy or copies of the program or any portion of it thus forming a work based on the program for internal use and the use of your customers only pursuant to a current resale agreement with concursive corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,if the distribution and or use of the program is restricted in certain countries either by patents or by copyrighted interfaces concursive corporation may add an explicit geographical distribution limitation excluding those countries so that distribution is permitted only in or among countries not thus excluded,0,1,0,0,0,0,0,0,0,0,0,0,1
+8,in such case this license incorporates the limitation as if written in the body of this license,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,concursive corporation may publish revised and or new versions of the concursive public license from time to time,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,such new versions will be similar in spirit to the present version but may differ in detail to address new problems or concerns,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,if the program specifies a version number of this license which applies to it and any later version you have the option of following the terms and conditions either of that version or of any later version published by concursive corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,if the program does not specify a version number of this license you may choose any version ever published by concursive corporation,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,if any portion of this license is held invalid or unenforceable under any particular circumstance the balance of the license is intended to apply and the license as a whole is intended to apply in other circumstances,0,0,0,0,0,0,0,0,1,0,0,1,0
+14,no warranty there is no warranty for the program to the extent permitted by applicable law,0,0,0,0,0,0,0,0,0,0,0,1,0
+15,except when otherwise stated in writing the copyright holders and or other parties provide the program as is without warranty of any kind either expressed or implied including but not limited to the implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+16,the entire risk as to the quality and performance of the program is with you,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,should the program prove defective you assume the cost of all necessary servicing repair or correction,0,0,0,0,0,0,0,0,0,0,0,1,0

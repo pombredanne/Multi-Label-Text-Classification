@@ -1,0 +1,27 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,the jetty package is copyright c mort bay consulting pty,0,0,0,0,0,0,0,0,0,0,0,0
+2,individual files in this package may contain additional copyright notices,0,0,0,0,0,0,0,1,0,0,0,0
+3,the javaxservlet packages are copyright sun microsystems inc 1,0,0,0,0,0,0,0,0,0,0,0,0
+4,the standard version of the jetty package is available from http  jettymortbayorg,0,0,0,0,0,0,0,0,0,0,0,0
+5,you may make and distribute verbatim copies of the source form of the standard version of this package without restriction provided that you include this license and all of the original copyright notices and associated disclaimers,0,1,0,1,0,0,0,1,0,0,0,0
+6,you may make and distribute verbatim copies of the compiled form of the standard version of this package without restriction provided that you include this license,0,0,0,1,0,0,0,0,0,0,0,0
+7,you may apply bug fixes portability fixes and other modifications derived from the public domain or from the copyright holder,0,0,0,0,0,0,0,0,0,0,0,0
+8,a package modified in such a way shall still be considered the standard version,0,0,0,0,0,0,0,0,0,1,0,0
+9,you may otherwise modify your copy of this package in any way provided that you insert a prominent notice in each changed file stating how and when you changed that file and provided that you do at least one of the following a place your modifications in the public domain or otherwise make them freely available such as by posting said modifications to usenet or an equivalent medium or placing the modifications on a major archive site such as ftpuunet or by allowing the copyright holder to include your modifications in the standard version of the package,0,1,1,0,0,0,0,1,0,1,0,0
+10,b use the modified package only within your corporation or organization,0,0,0,0,0,0,0,0,0,0,0,0
+11,c rename any non standard classes so the names do not conflict with standard classes which must also be provided and provide a separate manual page for each non standard class that clearly documents how it differs from the standard version,0,0,0,0,0,0,0,0,0,0,0,0
+12,you may distribute modifications or subsets of this package in source code or compiled form provided that you do at least one of the following a distribute this license and all original copyright messages together with instructions in the about dialog manual page or equivalent on where to get the complete standard version,0,1,0,0,0,0,0,1,0,0,0,0
+13,b accompany the distribution with the machine readable source of the package with your modifications,0,0,0,0,0,0,1,0,0,0,0,0
+14,the modified package must include this license and all of the original copyright notices and associated disclaimers together with instructions on where to get the complete standard version,0,0,0,0,0,0,0,1,0,0,0,0
+15,you may charge a reasonable copying fee for any distribution of this package,1,0,0,0,0,0,0,0,0,0,0,0
+16,you may charge any fee you choose for support of this package,0,0,0,0,0,0,0,0,0,0,0,0
+17,you may not charge a fee for this package itself,0,0,0,0,0,0,0,0,0,0,0,0
+18,however you may distribute this package in aggregate with other possibly commercial programs as part of a larger possibly commercial software distribution provided that you meet the other distribution requirements of this license,1,1,0,0,0,0,0,0,1,0,0,0
+19,input to or the output produced from the programs of this package do not automatically fall under the copyright of this package but belong to whomever generated them and may be sold commercially and may be aggregated with this package,0,1,0,0,0,0,0,0,0,0,0,0
+20,any program subroutines supplied by you and linked into this package shall not be considered part of this package,0,0,0,0,0,0,0,0,0,0,0,0
+21,the name of the copyright holder may not be used to endorse or promote products derived from this software without specific prior written permission,0,0,0,0,0,1,0,0,0,0,0,0
+22,this license may change with each release of a standard version of the package,0,0,0,0,0,0,0,0,0,0,0,0
+23,you may choose to use the license associated with version you are using or the license of the latest standard version,0,0,0,0,0,0,0,0,0,0,0,0
+24,this package is provided as is and without any express or implied warranties including without limitation the implied warranties of merchantability and fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1
+25,if any superior law implies a warranty the sole remedy under such shall be at the copyright holders option either a return of any price paid or b use or reasonable endeavours to repair or replace the software,0,0,0,0,0,0,0,0,0,0,0,1
+26,this license shall be read under the laws of australia,0,0,0,0,0,0,0,0,0,0,0,0

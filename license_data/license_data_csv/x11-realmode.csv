@@ -1,0 +1,10 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,permission to use copy modify distribute and sell this software and its documentation for any purpose is hereby granted without fee provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation and that the name of the authors not be used in advertising or publicity pertaining to distribution of the software without specific written prior permission,,,,,,,,,,,,
+2,the authors makes no representations about the suitability of this software for any purpose,,,,,,,,,,,,
+3,it is provided as is without express or implied warranty,,,,,,,,,,,,
+4,the authors disclaims all warranties with regard to this software including all implied warranties of merchantability and fitness in no event shall the authors be liable for any special indirect or consequential damages or any damages whatsoever resulting from loss of use data or profits whether in an action of contract negligence or other tortious action arising out of or in connection with the use or performance of this software,,,,,,,,,,,,
+5,license information the x86emu library is under a bsd style license compatible with the xfree86 10 and x licenses used by xfree86,,,,,,,,,,,,
+6,the original x86emu libraries were under the gnu general public license,,,,,,,,,,,,
+7,due to license incompatibilities between the gpl and the xfree86 10 license the original authors of the code decided to allow a license change,,,,,,,,,,,,
+8,if you have submitted code to the original x86emu project and you dont agree with the license change please contact us and let you know,,,,,,,,,,,,
+9,your code will be removed to comply with your wishes,,,,,,,,,,,,

@@ -1,0 +1,33 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,i there are no restrictions on distributing unmodified copies of vim except that they must include this license text,0,1,0,0,0,0,0,1,0,0,0,0
+2,you can also distribute unmodified parts of vim likewise unrestricted except that they must include this license text,0,1,0,0,0,0,0,0,0,0,0,0
+3,you are also allowed to include executables that you made from the unmodified vim sources plus your own usage examples and vim scripts,0,0,0,0,0,0,0,0,0,0,0,0
+4,ii it is allowed to distribute a modified or extended version of vim including executables and or source code when the following four conditions are met 1 this license text must be included unmodified,0,1,0,0,0,0,0,0,1,0,0,0
+5,2 the modified vim must be distributed in one of the following five ways a if you make changes to vim yourself you must clearly describe in 	 the distribution how to contact you,0,0,0,0,0,0,0,0,0,1,0,0
+6,when the maintainer asks you 	 in any way for a copy of the modified vim you distributed you 	 must make your changes including source code available to the 	 maintainer without fee,0,0,0,0,0,0,1,0,0,0,0,0
+7,the maintainer reserves the right to 	 include your changes in the official version of vim,0,0,0,0,0,0,0,0,0,0,0,0
+8,what the 	 maintainer will do with your changes and under what license they 	 will be distributed is negotiable,0,1,0,0,0,0,0,0,0,0,0,0
+9,if there has been no negotiation 	 then this license or a later version also applies to your changes,0,0,0,0,0,0,0,0,1,0,0,0
+10,the current maintainer is bram moolenaar <bram@vimorg>,0,0,0,0,0,0,0,0,0,0,0,1
+11,if this 	 changes it will be announced in appropriate places most likely 	 vimsfnet wwwvimorg and or compeditors,0,0,0,0,0,0,0,0,0,0,0,0
+12,when it is completely 	 impossible to contact the maintainer the obligation to send him 	 your changes ceases,0,0,0,0,0,0,0,0,0,0,0,0
+13,once the maintainer has confirmed that he has 	 received your changes they will not have to be sent again,0,0,0,0,0,0,0,0,0,1,1,0
+14,b if you have received a modified vim that was distributed as 	 mentioned under a you are allowed to further distribute it 	 unmodified as mentioned at i,0,0,0,0,0,0,0,0,0,0,0,0
+15,if you make additional changes the 	 text under a applies to those changes,0,0,0,0,0,0,0,0,0,0,0,0
+16,c provide all the changes including source code with every copy of 	 the modified vim you distribute,0,0,0,0,0,0,1,0,0,0,0,0
+17,this may be done in the form of a 	 context diff,0,0,0,0,0,0,0,0,0,0,0,0
+18,you can choose what license to use for new code you 	 add,0,0,0,0,0,0,0,0,0,0,0,0
+19,the changes and their license must not restrict others from 	 making their own changes to the official version of vim,0,0,0,0,0,0,0,0,0,0,0,0
+20,d when you have a modified vim which includes changes as mentioned 	 under c you can distribute it without the source code for the 	 changes if the following three conditions are met 	   the license that applies to the changes permits you to distribute 	 the changes to the vim maintainer without fee or restriction and 	 permits the vim maintainer to include the changes in the official 	 version of vim without fee or restriction,0,1,1,0,0,0,0,0,1,1,0,0
+21,  you keep the changes for at least three years after last 	 distributing the corresponding modified vim,0,0,0,0,0,0,0,0,0,0,0,0
+22,when the maintainer 	 or someone who you distributed the modified vim to asks you in 	 any way for the changes within this period you must make them 	 available to him,0,0,0,0,0,0,0,0,0,0,0,0
+23,  you clearly describe in the distribution how to contact you,0,0,0,0,0,0,0,0,0,0,0,0
+24,this 	 contact information must remain valid for at least three years 	 after last distributing the corresponding modified vim or as long 	 as possible,0,0,0,0,0,0,0,0,0,0,0,0
+25,e when the gnu general public license gpl applies to the changes 	 you can distribute the modified vim under the gnu gpl version 2 or 	 any later version,0,1,1,0,0,0,0,0,1,0,0,0
+26,3 a message must be added at least in the output of the version command and in the intro screen such that the user of the modified vim is able to see that it was modified,0,0,0,0,0,0,0,0,0,0,0,0
+27,when distributing as mentioned under 2e adding the message is only required for as far as this does not conflict with the license used for the changes,0,0,0,0,0,0,0,0,0,0,0,0
+28,4 the contact information as required under 2a and 2d must not be removed or changed except that the person himself can make corrections,0,0,0,0,0,0,0,0,0,0,0,0
+29,iii if you distribute a modified version of vim you are encouraged to use the vim license for your changes and make them available to the maintainer including the source code,0,0,0,0,0,0,0,0,0,0,0,0
+30,the preferred way to do this is by e mail or by uploading the files to a server and e mailing the url,0,0,0,0,0,0,0,0,0,0,0,0
+31,if the number of changes is small eg a modified makefile e mailing a context diff will do,0,0,0,0,0,0,0,0,0,0,0,0
+32,the e mail address to be used is <maintainer@vimorg> iv it is not allowed to remove this license from the distribution of the vim sources parts of it or from a modified version,0,1,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this application may solely be used for demonstration and educational purposes,0,0,0,1,0,0,0,0,0,0,0,0
+2,any other use may be prohibited by law in some coutries,0,0,0,1,0,0,0,0,0,0,0,0
+3,the author has no liability regarding this application whatsoever,0,0,0,0,0,0,0,0,0,0,1,0
+4,this application may be distributed freely unless prohibited by law,0,1,0,0,0,0,0,0,0,0,0,0
+5,this product distributed in hope it may be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose and compliance with any standards,0,0,0,0,0,0,0,0,0,0,0,1
+6,i do not guarantee any support bug correction repair of lost data i am not responsible for broken hardware and lost working time,0,0,0,0,0,0,0,0,0,0,1,0

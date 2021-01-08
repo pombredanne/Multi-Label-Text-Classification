@@ -1,0 +1,7 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty
+1,this is a preliminary version 2006 09 30 barring acceptance from the latex project team and other feedback of the gust font license,,,,,,,,,,,,
+2,gust is the polish tex users group http  wwwgustorgpl for the most recent version of this license see http  wwwgustorgpl fonts licenses gust font licensetxt or http  tugorg fonts licenses gust font licensetxt this work may be distributed and or modified under the conditions of the latex project public license either version 13c of this license or at your option any later version,,,,,,,,,,,,
+3,please also observe the following clause 1 it is requested but not legally required that derived works be distributed only after changing the names of the fonts comprising this work and given in an accompanying manifest and that the files comprising the work as listed in the manifest also be given new names,,,,,,,,,,,,
+4,any exceptions to this request are also given in the manifest,,,,,,,,,,,,
+5,we recommend the manifest be given in a separate file named manifest <fontid>txt where <fontid> is some unique identification of the font family,,,,,,,,,,,,
+6,if a separate readme file accompanies the work we recommend a name of the form readme <fontid>txt,,,,,,,,,,,,

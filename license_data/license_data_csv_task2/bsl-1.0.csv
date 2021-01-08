@@ -1,0 +1,14 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,you are granted limited license to the software under this business source license,0,1,0,0,0,0,0,0,0,0,0,0,1
+2,please read this business source license carefully particularly the use limitation set forth above,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,subject to the use limitation licensor grants you a non exclusive worldwide subject to applicable laws license to copy modify display use create derivative works and redistribute the software until the change date,0,1,1,1,0,0,0,0,0,0,0,0,1
+4,if your use of the software exceeds or will exceed the foregoing limitations you must obtain alternative licensing terms for the software directly from licensor its affiliated entities or authorized resellers,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,for the avoidance of doubt prior to the change date there is no use limitations for non production purposes,0,0,0,1,0,0,0,0,0,0,1,0,1
+6,after the change date this business source license will convert to the change license and your use of the software including modified versions of the software will be governed by such change license,0,0,0,0,0,0,0,0,1,0,0,0,1
+7,all copies of original and modified software and derivative works of the software are subject to this business source license,0,1,1,0,0,0,0,0,0,0,0,0,1
+8,this business source license applies separately for each version of the software and the change date will vary for each version of the software released by licensor,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,you must conspicuously display this business source license on each original or modified copy of the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+10,if you receive the software in original or modified form from a third party the restrictions set forth in this business source license apply to your use of such software,0,1,0,0,0,0,0,0,0,0,0,0,1
+11,any use of the software in violation of this business source license will automatically terminate your rights under this business source license for the current and all future versions of the software,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,you may not use the marks or logos of licensor or its affiliates for commercial purposes without prior written consent from licensor,1,0,0,0,0,1,0,0,0,0,0,0,0
+13,to the extent permitted by applicable law the software and all services provided by licensor or its affiliates under or in connection with with this business source license are provided on an as is and as available basis,0,0,0,0,0,0,0,0,0,0,0,0,0

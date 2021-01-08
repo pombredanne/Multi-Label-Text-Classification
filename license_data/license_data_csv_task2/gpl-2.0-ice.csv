@@ -1,0 +1,11 @@
+id,text,commercial_use,distribution,modification,private_use,patent_use,trademark_use,disclose_source,license_and_copyright_notice,same_license,state_changes,liability,warranty,is_granted
+1,this copy of ice is free software you can redistribute it and or modify it under the terms of the gnu general public license version 2 as published by the free software foundation,0,1,1,0,0,0,0,0,0,0,0,0,1
+2,ice is distributed in the hope that it will be useful but without any warranty without even the implied warranty of merchantability or fitness for a particular purpose,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,see the gnu general public license for more details,0,0,0,0,0,0,0,0,0,0,0,0,1
+4,you should have received a copy of the gnu general public license version 2 along with this program if not see http  wwwgnuorg licenses,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,linking ice statically or dynamically with other software such as a library module or application is making a combined work based on ice,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,thus the terms and conditions of the gnu general public license version 2 cover this combined work,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,if such software can only be used together with ice then not only the combined work but the software itself is a work derived from ice and as such shall be licensed under the terms of the gnu general public license version 2,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,this includes the situation where ice is only being used through an abstraction layer,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,as a special exception to the above zeroc grants to the contributors for the following projects the permission to license their ice based software under the terms of the gnu lesser general public license lgpl version 21 or of the bsd license   orca robotics http  orca roboticssourceforgenet   mumble http  mumblesourceforgenet this exception does not extend to the parts of ice used by these projects or to any other derived work as a whole any work based on ice shall be licensed under the terms and conditions of the gnu general public license version 2,0,0,0,0,0,0,0,0,1,0,0,0,1
+10,you may also combine ice with any software not derived from ice provided the license of such software is compatible with the gnu general public license version 2,0,0,0,0,0,0,0,0,0,0,0,0,1
