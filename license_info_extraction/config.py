@@ -12,7 +12,7 @@ class Config(object):
 
         if self.model == 'LSAN':
             self.label_embedding_path = './cache/label_embeddings.12t.npy'
-            self.max_seq_length = 256
+            self.max_seq_length = 512
             self.embedding_size = 300
             self.label_embedding_size = 768
             self.lstm_hidden_dimension = 768

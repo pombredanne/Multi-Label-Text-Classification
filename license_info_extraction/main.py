@@ -73,10 +73,8 @@ def train():
         # Load Dataset
         train_loader, val_loader, train_size, val_size = load_dataset(config.train_file_path_task, glove_embeddings)
 
-        # Initialize LSAN Model
         word_embedding = glove_embeddings.vectors.float()
-        label_embedding = torch.from_numpy(sbert_embeddings).float()  # self-constructed label embedding
-        # reference to: https://www.sbert.net/
+        label_embedding = torch.from_numpy(sbert_embeddings).float()
         model = StructuredSelfAttention(batch_size=config.batch_size,
                                         lstm_hid_dim=config.lstm_hidden_dimension,
                                         d_a=config.d_a,
@@ -95,6 +93,7 @@ def train():
 
         # Load Dataset
         train_loader, val_loader, train_size, val_size = load_dataset(config.train_file_path_task, bert_tokenizer)
+
         label_encodings = load_label_description(bert_tokenizer)
         model = StructuredSelfAttentionBert(batch_size=config.batch_size,
                                             lstm_hid_dim=config.lstm_hidden_dimension,
@@ -117,6 +116,7 @@ def train():
 
         # Load Dataset
         train_loader, val_loader, train_size, val_size = load_dataset(config.train_file_path_task, bert_tokenizer)
+
         model = BertLinear(hidden_size=config.hidden_size,
                            hidden_dropout_prob=config.hidden_dropout_prob,
                            n_classes=config.num_of_class,
@@ -179,7 +179,7 @@ def train():
             if (batch_idx + 1) % config.gradient_accumulation_steps == 0:
                 optimizer.step()
                 optimizer.zero_grad()
-            # evaluation metrics: hamming loss, accuracy score, precision, recall, f1
+            # evaluation metrics: accuracy score, precision, recall, f1
             labels_cpu = y_true.data.cpu()
             pred_cpu = y_pred.data.cpu()
 
@@ -276,7 +276,7 @@ def val(model, val_loader, criterion):
 
             # calculate loss for model-parameters selection
             loss = criterion(y_pred_val, y_true)
-            # evaluation metrics: hamming loss, accuracy score, precision, recall, f1
+            # evaluation metrics: accuracy score, precision, recall, f1
             labels_cpu = y_true.data.cpu()
             pred_cpu = y_pred_val.data.cpu()
 
@@ -316,10 +316,8 @@ def test(load_path):
         test_dataset = SequenceDataset(config.test_file_path_task, glove_embeddings)
         test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=config.batch_size)
 
-        # Initialize LSAN Model
         word_embedding = glove_embeddings.vectors.float()
-        label_embedding = torch.from_numpy(sbert_embeddings).float()  # self-constructed label embedding
-        # reference to: https://www.sbert.net/
+        label_embedding = torch.from_numpy(sbert_embeddings).float()
         model = StructuredSelfAttention(batch_size=config.batch_size,
                                         lstm_hid_dim=config.lstm_hidden_dimension,
                                         d_a=config.d_a,
@@ -406,7 +404,7 @@ def test(load_path):
 
             # calculate loss for model-parameters selection
             loss = criterion(y_pred_val, y_true)
-            # evaluation metrics: hamming loss, accuracy score, precision, recall, f1
+            # evaluation metrics: accuracy score, precision, recall, f1
             labels_cpu = y_true.data.cpu()
             pred_cpu = y_pred_val.data.cpu()
 
@@ -452,10 +450,8 @@ def predict(load_path, file_path='./data/Task1.predict.csv', save_path='./data/T
         predict_dataset = SequenceDataset(file_path, glove_embeddings)
         predict_loader = torch.utils.data.DataLoader(predict_dataset, batch_size=config.batch_size, shuffle=False)
 
-        # Initialize LSAN Model
         word_embedding = glove_embeddings.vectors.float()
-        label_embedding = torch.from_numpy(sbert_embeddings).float()  # self-constructed label embedding
-        # reference to: https://www.sbert.net/
+        label_embedding = torch.from_numpy(sbert_embeddings).float()
         model = StructuredSelfAttention(batch_size=config.batch_size,
                                         lstm_hid_dim=config.lstm_hidden_dimension,
                                         d_a=config.d_a,
@@ -505,9 +501,6 @@ def predict(load_path, file_path='./data/Task1.predict.csv', save_path='./data/T
 
     if len(predict_dataset) == 0:
         return
-
-    # print(config)
-    # print('Test Set Size {}'.format(len(predict_dataset)))
 
     model.load_model(load_path)
     if config.use_cuda:

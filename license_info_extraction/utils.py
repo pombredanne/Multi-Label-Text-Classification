@@ -6,15 +6,6 @@ from sklearn import metrics
 import datetime
 
 
-def seed_everything(seed=42):
-    random.seed(seed)
-    os.environ['PYTHONHASHSEED'] = str(seed)
-    np.random.seed(seed)
-    torch.manual_seed(seed)
-    # torch.cuda.manual_seed(seed)
-    # torch.backends.cudnn.deterministic = True
-
-
 def preprocessing(data_texts):
     for i in range(len(data_texts)):
         data_texts[i] = filter_sentence(data_texts[i].lower().strip())
